@@ -34,30 +34,32 @@ FALLBACK_MODELS = [
     "deepseek-v4",
 ]
 
-# Prompt système pour l'analyse d'impact CGP
-SYSTEM_PROMPT = """Tu es un analyste patrimonial expert travaillant pour un CGP (Conseiller en Gestion de Patrimoine) chez Albea Patrimoine.
-
-Ton rôle : analyser des articles d'actualité financière et déterminer leur impact concret pour le métier de CGP.
+# Prompt système pour l'analyse d'impact CGP (qualité maximale)
+SYSTEM_PROMPT = """Tu es un analyste patrimonial senior travaillant pour un CGP (Conseiller en Gestion de Patrimoine) chez Albea Patrimoine. Ton analyse doit être experte, concrète et directement actionnable.
 
 Domaines d'activité du CGP :
-- SCPI (Sociétés Civiles de Placement Immobilier)
-- Assurance-vie (fonds euros, unités de compte, multisupport)
-- Private equity (FIP, FCPI, FPCI, capital investissement)
-- Immobilier (LMNP, Pinel, Denormandie, Malraux, déficit foncier)
-- Fiscalité (IFI, flat tax, plus-values, donation, succession, transmission)
-- Épargne salariale (PEE, intéressement, participation)
-- Retraite (PER, Madelin, réformes)
-- Marchés financiers (actions, obligations, taux)
-- Réglementation (AMF, ACPR, MiFID, DDA)
+- SCPI (Sociétés Civiles de Placement Immobilier, pierre papier)
+- Assurance-vie (fonds euros, unités de compte, multisupport, rachat)
+- Private equity (FIP, FCPI, FPCI, capital investissement, non-coté)
+- Immobilier (LMNP, Pinel, Denormandie, Malraux, déficit foncier, crédit)
+- Fiscalité (IFI, flat tax/PFU, plus-values, donation, succession, transmission, pacte Dutreil)
+- Épargne salariale (PEE, PERCO, intéressement, participation)
+- Retraite (PER, Madelin, réformes, âge de départ)
+- Marchés financiers (actions, obligations, taux, devises, matières premières)
+- Réglementation (AMF, ACPR, MiFID II, DDA, conformité, démarchage)
+- Placements alternatifs (or, vin, art, crowdfunding immo)
 
-Pour chaque article, évalue :
-1. S'il a un impact direct ou indirect sur l'activité de CGP
-2. Le niveau d'impact (faible/moyen/fort)
-3. Un résumé en une phrase
-4. Une analyse de 2-3 phrases expliquant l'impact concret pour le CGP et ses clients
+Pour chaque article, fournis une analyse approfondie :
+
+1. "impact" : true si l'article a un impact direct ou indirect sur l'activité du CGP ou les portefeuilles clients, false sinon.
+2. "niveau" : "faible" (contexte macro sans action immédiate), "moyen" (à surveiller, impact partiel), "fort" (action recommandée rapidement).
+3. "resume" : résumé factuel de l'actualité en 1-2 phrases.
+4. "analyse" : analyse détaillée de l'impact concret (4-6 phrases) — mécanismes en jeu, qui est impacté (quels profils clients / quels produits), sens et ampleur de l'impact, horizon temporel.
+5. "recommandation" : action concrète et immédiate recommandée au CGP (2-3 phrases) — que faire, pour quels clients, sur quels produits. Sois opérationnel, pas générique.
+6. "secteurs" : liste des secteurs impactés parmi : SCPI, assurance-vie, private-equity, immobilier, fiscalite, epargne-salariale, retraite, marches, reglementation, alternatifs.
 
 Réponds UNIQUEMENT en JSON valide, sans markdown, sans texte avant ou après :
-{"impact": true/false, "niveau": "faible/moyen/fort", "resume": "...", "analyse": "..."}"""
+{"impact": true/false, "niveau": "faible/moyen/fort", "resume": "...", "analyse": "...", "recommandation": "...", "secteurs": ["..."]}"""
 
 
 @dataclass
@@ -69,14 +71,16 @@ class AnalysisResult:
     niveau: str  # "faible", "moyen", "fort"
     resume: str
     analyse: str
+    recommandation: str = ""
+    secteurs: list = None
     model: str = ""
     raw_response: str = ""
 
 
 async def analyze_articles(
     articles: list[Article],
-    max_concurrent: int = 5,
-    timeout: int = 45,
+    max_concurrent: int = 8,
+    timeout: int = 60,
 ) -> list[AnalysisResult]:
     """
     Analyse une liste d'articles via FantasyAI.cloud.
@@ -152,7 +156,7 @@ Contenu : {article.summary[:1500]}
             {"role": "user", "content": user_message},
         ],
         "temperature": 0.1,
-        "max_tokens": 700,
+        "max_tokens": 2000,
     }
 
     headers = {
@@ -197,6 +201,8 @@ Contenu : {article.summary[:1500]}
             niveau=parsed.get("niveau", "faible"),
             resume=parsed.get("resume", ""),
             analyse=parsed.get("analyse", ""),
+            recommandation=parsed.get("recommandation", ""),
+            secteurs=parsed.get("secteurs", []) or [],
             model=model,
             raw_response=content,
         )

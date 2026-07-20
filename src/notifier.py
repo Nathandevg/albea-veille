@@ -20,7 +20,7 @@ logger = logging.getLogger(__name__)
 BARK_DEVICE_KEY = os.environ.get("BARK_DEVICE_KEY", "")
 BARK_BASE_URL = "https://api.day.app"
 
-MAX_NOTIFICATIONS_PER_RUN = 10  # Pour éviter le spam
+MAX_NOTIFICATIONS_PER_RUN = 20  # Budget illimité : on notifie largement
 
 
 async def send_notifications(results: list[AnalysisResult]) -> int:
@@ -38,7 +38,7 @@ async def send_notifications(results: list[AnalysisResult]) -> int:
         logger.info("No impactful articles to notify.")
         return 0
 
-    # Limiter le nombre de notifs par run
+    # Budget illimité : on notifie tout, avec juste un garde-fou très haut
     to_notify = results[:MAX_NOTIFICATIONS_PER_RUN]
     if len(results) > MAX_NOTIFICATIONS_PER_RUN:
         logger.warning(
@@ -47,7 +47,7 @@ async def send_notifications(results: list[AnalysisResult]) -> int:
         )
 
     sent = 0
-    async with httpx.AsyncClient(timeout=10) as client:
+    async with httpx.AsyncClient(timeout=15) as client:
         for result in to_notify:
             try:
                 success = await _send_one(client, result)
@@ -61,31 +61,51 @@ async def send_notifications(results: list[AnalysisResult]) -> int:
 
 
 async def _send_one(client: httpx.AsyncClient, result: AnalysisResult) -> bool:
-    """Envoie une notification pour un article."""
+    """Envoie une notification riche pour un article à impact."""
     niveau_emoji = {"faible": "ℹ️", "moyen": "⚠️", "fort": "🔴"}
 
+    secteurs_str = ", ".join(result.secteurs) if result.secteurs else "—"
     title = f"{niveau_emoji.get(result.niveau, '📰')} [{result.niveau.upper()}] {result.resume}"
 
-    # Corps : analyse + source
-    body = result.analyse
-    if len(body) > 500:
-        body = body[:497] + "..."
+    # Corps riche : analyse + recommandation + secteurs
+    parts = []
+    if result.analyse:
+        parts.append(result.analyse)
+    if result.recommandation:
+        parts.append(f"➡️ {result.recommandation}")
+    if result.secteurs:
+        parts.append(f"🏷️ {secteurs_str}")
+
+    body = "\n\n".join(parts)
+    # Bark limite la taille ; on tronque proprement
+    if len(body) > 1200:
+        body = body[:1197] + "..."
 
     # URL encodée pour le titre et le corps
     url = f"{BARK_BASE_URL}/{BARK_DEVICE_KEY}/{urllib.parse.quote(title)}/{urllib.parse.quote(body)}"
 
-    # Ajouter l'URL de l'article comme paramètre
+    # Ajouter l'URL de l'article comme paramètre (tap → ouvre l'article)
     if result.article.url:
         url += f"?url={urllib.parse.quote(result.article.url)}"
 
-    # Grouper par catégorie pour éviter le bruit dans les notifs
+    # Grouper + niveau de priorité
     url += "&group=AlbeaVeille"
+    if result.niveau == "fort":
+        url += "&level=timeSensitive"  # notif prioritaire qui perce le mode focus
+    elif result.niveau == "moyen":
+        url += "&level=active"
+
+    # Icône et son selon le niveau
+    if result.niveau == "fort":
+        url += "&sound=alarm"
+    elif result.niveau == "moyen":
+        url += "&sound=bell"
 
     response = await client.get(url)
     if response.status_code == 200:
         data = response.json()
         if data.get("code") == 200:
-            logger.info(f"Notified: {result.article.title[:80]}")
+            logger.info(f"Notified [{result.niveau.upper()}] {result.article.title[:80]}")
             return True
         else:
             logger.warning(f"Bark API error: {data.get('message', 'unknown')}")

@@ -39,7 +39,7 @@ logger = logging.getLogger("albea_veille")
 
 HISTORY_FILE = Path(__file__).parent / "history.json"
 HISTORY_MAX_AGE_DAYS = 3  # Garder l'historique 3 jours
-MAX_ARTICLES_TO_ANALYZE = 30  # Max d'articles envoyés à l'IA par run (maîtrise des coûts)
+MAX_ARTICLES_TO_ANALYZE = 50  # Budget illimité : analyse plus large
 ARTICLE_MAX_AGE_HOURS = 48  # Ne garder que les articles publiés dans les 48 dernières heures
 
 
@@ -144,6 +144,8 @@ async def main() -> None:
 
     for r in impactful:
         logger.info(f"  [{r.niveau.upper()}] {r.resume}")
+        if r.recommandation:
+            logger.info(f"    ➡️ {r.recommandation[:200]}")
 
     # 8. Envoyer les notifications
     if impactful:
