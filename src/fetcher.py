@@ -10,7 +10,7 @@ from __future__ import annotations
 import asyncio
 import logging
 from dataclasses import dataclass, field
-from datetime import datetime
+from datetime import datetime, timezone
 from typing import Optional
 
 import feedparser
@@ -96,12 +96,12 @@ async def _fetch_one(
         published = None
         if hasattr(entry, "published_parsed") and entry.published_parsed:
             try:
-                published = datetime(*entry.published_parsed[:6])
+                published = datetime(*entry.published_parsed[:6], tzinfo=timezone.utc)
             except (TypeError, ValueError):
                 pass
         elif hasattr(entry, "updated_parsed") and entry.updated_parsed:
             try:
-                published = datetime(*entry.updated_parsed[:6])
+                published = datetime(*entry.updated_parsed[:6], tzinfo=timezone.utc)
             except (TypeError, ValueError):
                 pass
 

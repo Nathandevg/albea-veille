@@ -7,6 +7,9 @@ on:
     - cron: '0 6-20/2 * * 6,0'    # Week-end, toutes les 2h
   workflow_dispatch:               # Déclenchement manuel
 
+permissions:
+  contents: write                  # Permet au GITHUB_TOKEN de pousser history.json
+
 jobs:
   check-news:
     runs-on: ubuntu-latest
