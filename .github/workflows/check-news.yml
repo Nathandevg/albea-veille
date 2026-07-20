@@ -1,0 +1,40 @@
+name: Albea Veille
+
+on:
+  schedule:
+    # Toutes les 10 minutes pendant les heures ouvrées (6h-22h heure Paris, UTC+2)
+    - cron: '*/10 4-20 * * 1-5'   # Lun-Ven, 6h-22h Paris
+    - cron: '0 6-20/2 * * 6,0'    # Week-end, toutes les 2h
+  workflow_dispatch:               # Déclenchement manuel
+
+jobs:
+  check-news:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run veille
+        run: python src/main.py
+        env:
+          FANTASYAI_API_KEY: ${{ secrets.FANTASYAI_API_KEY }}
+          BARK_DEVICE_KEY: ${{ secrets.BARK_DEVICE_KEY }}
+
+      - name: Commit history
+        if: always()
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update history.json"
+          file_pattern: 'src/history.json'
+          commit_options: '--no-verify'
+          skip_dirty_check: true
