@@ -19,7 +19,8 @@ from fetcher import Article
 logger = logging.getLogger(__name__)
 
 FANTASYAI_API_KEY = os.environ.get("FANTASYAI_API_KEY", "")
-FANTASYAI_BASE_URL = "https://api.fantasyai.cloud/v1"
+FANTASYAI_BASE_URL = "https://fantasyai.cloud/api/v1"
+FANTASYAI_MODEL = "claude-3-5-sonnet-20241022"
 
 # Prompt système pour l'analyse d'impact CGP
 SYSTEM_PROMPT = """Tu es un analyste patrimonial expert travaillant pour un CGP (Conseiller en Gestion de Patrimoine) chez Albea Patrimoine.
@@ -113,7 +114,7 @@ Contenu : {article.summary[:1500]}
 {article.content[:1500] if article.content else ''}"""
 
     payload = {
-        "model": "claude-opus-4-8",
+        "model": FANTASYAI_MODEL,
         "messages": [
             {"role": "system", "content": SYSTEM_PROMPT},
             {"role": "user", "content": user_message},
@@ -134,11 +135,13 @@ Contenu : {article.summary[:1500]}
                 json=payload,
                 headers=headers,
             )
-            response.raise_for_status()
+            if response.status_code != 200:
+                body = response.text[:300]
+                logger.warning(
+                    f"FantasyAI HTTP {response.status_code} for '{article.title[:60]}': {body}"
+                )
+                return None
             data = response.json()
-        except httpx.HTTPError as e:
-            logger.warning(f"FantasyAI HTTP error for '{article.title[:60]}': {e}")
-            return None
         except Exception as e:
             logger.warning(f"FantasyAI call failed for '{article.title[:60]}': {e}")
             return None
