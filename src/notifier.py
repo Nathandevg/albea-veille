@@ -81,12 +81,17 @@ async def _send_one(client: httpx.AsyncClient, result: AnalysisResult) -> bool:
     if len(body) > 1200:
         body = body[:1197] + "..."
 
-    # URL encodée pour le titre et le corps
-    url = f"{BARK_BASE_URL}/{BARK_DEVICE_KEY}/{urllib.parse.quote(title)}/{urllib.parse.quote(body)}"
+    # URL encodée pour le titre et le corps.
+    # safe='' encode ABSOLUMENT TOUT (y compris les /), sinon le routing Bark casse.
+    url = (
+        f"{BARK_BASE_URL}/{BARK_DEVICE_KEY}"
+        f"/{urllib.parse.quote(title, safe='')}"
+        f"/{urllib.parse.quote(body, safe='')}"
+    )
 
     # Ajouter l'URL de l'article comme paramètre (tap → ouvre l'article)
     if result.article.url:
-        url += f"?url={urllib.parse.quote(result.article.url)}"
+        url += f"?url={urllib.parse.quote(result.article.url, safe='')}"
 
     # Grouper + niveau de priorité
     url += "&group=AlbeaVeille"
