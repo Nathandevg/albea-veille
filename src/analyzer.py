@@ -3,6 +3,9 @@ Analyse IA via FantasyAI.cloud.
 
 Envoie chaque article à l'API FantasyAI.cloud avec un prompt spécialisé
 CGP. Retourne une évaluation d'impact structurée en JSON.
+
+Système de fallback : si un modèle échoue (HTTP error, timeout, JSON cassé),
+on bascule automatiquement sur le modèle suivant de la liste.
 """
 
 from __future__ import annotations
@@ -20,7 +23,16 @@ logger = logging.getLogger(__name__)
 
 FANTASYAI_API_KEY = os.environ.get("FANTASYAI_API_KEY", "")
 FANTASYAI_BASE_URL = "https://fantasyai.cloud/api/v1"
-FANTASYAI_MODEL = "claude-3-5-sonnet-20241022"
+
+# Modèles testés dans l'ordre. Si l'un échoue (erreur/timeout/JSON cassé),
+# on bascule sur le suivant. Opus 4.8 d'abord (meilleure analyse), puis
+# Sonnet 3.5 (rapide/fiable), puis fallbacks OpenAI/DeepSeek.
+FALLBACK_MODELS = [
+    "claude-opus-4-8",
+    "claude-3-5-sonnet-20241022",
+    "gpt-4o",
+    "deepseek-v4",
+]
 
 # Prompt système pour l'analyse d'impact CGP
 SYSTEM_PROMPT = """Tu es un analyste patrimonial expert travaillant pour un CGP (Conseiller en Gestion de Patrimoine) chez Albea Patrimoine.
@@ -57,13 +69,14 @@ class AnalysisResult:
     niveau: str  # "faible", "moyen", "fort"
     resume: str
     analyse: str
+    model: str = ""
     raw_response: str = ""
 
 
 async def analyze_articles(
     articles: list[Article],
     max_concurrent: int = 5,
-    timeout: int = 30,
+    timeout: int = 45,
 ) -> list[AnalysisResult]:
     """
     Analyse une liste d'articles via FantasyAI.cloud.
@@ -87,7 +100,7 @@ async def analyze_articles(
 
     async def _analyze_one(article: Article) -> AnalysisResult | None:
         async with sem:
-            return await _call_fantasyai(article, timeout)
+            return await _analyze_with_fallback(article, timeout)
 
     tasks = [_analyze_one(a) for a in articles]
     raw_results = await asyncio.gather(*tasks, return_exceptions=True)
@@ -102,8 +115,27 @@ async def analyze_articles(
     return results
 
 
-async def _call_fantasyai(article: Article, timeout: int) -> AnalysisResult | None:
-    """Appelle FantasyAI.cloud pour un article."""
+async def _analyze_with_fallback(article: Article, timeout: int) -> AnalysisResult | None:
+    """
+    Essaie chaque modèle de FALLBACK_MODELS jusqu'à obtenir une analyse valide.
+    Bascule au suivant si : HTTP error, timeout, ou JSON cassé.
+    """
+    for model in FALLBACK_MODELS:
+        result = await _call_fantasyai(article, model, timeout)
+        if result is not None:
+            return result
+        # Sinon on essaie le modèle suivant
+    logger.warning(
+        f"All models failed for '{article.title[:60]}' (tried {len(FALLBACK_MODELS)})"
+    )
+    return None
+
+
+async def _call_fantasyai(
+    article: Article, model: str, timeout: int
+) -> AnalysisResult | None:
+    """Appelle FantasyAI.cloud pour un article avec un modèle donné. Retourne
+    None si l'appel ou le parsing échoue (pour déclencher le fallback)."""
     user_message = f"""Article :
 Titre : {article.title}
 Source : {article.source_name}
@@ -114,13 +146,13 @@ Contenu : {article.summary[:1500]}
 {article.content[:1500] if article.content else ''}"""
 
     payload = {
-        "model": FANTASYAI_MODEL,
+        "model": model,
         "messages": [
             {"role": "system", "content": SYSTEM_PROMPT},
             {"role": "user", "content": user_message},
         ],
         "temperature": 0.1,
-        "max_tokens": 300,
+        "max_tokens": 700,
     }
 
     headers = {
@@ -136,14 +168,17 @@ Contenu : {article.summary[:1500]}
                 headers=headers,
             )
             if response.status_code != 200:
-                body = response.text[:300]
+                body = response.text[:200]
                 logger.warning(
-                    f"FantasyAI HTTP {response.status_code} for '{article.title[:60]}': {body}"
+                    f"FantasyAI HTTP {response.status_code} ({model}) "
+                    f"for '{article.title[:60]}': {body}"
                 )
                 return None
             data = response.json()
         except Exception as e:
-            logger.warning(f"FantasyAI call failed for '{article.title[:60]}': {e}")
+            logger.warning(
+                f"FantasyAI call failed ({model}) for '{article.title[:60]}': {e}"
+            )
             return None
 
     try:
@@ -156,17 +191,24 @@ Contenu : {article.summary[:1500]}
             content = content.strip()
 
         parsed = json.loads(content)
-        return AnalysisResult(
+        result = AnalysisResult(
             article=article,
             impact=parsed.get("impact", False),
             niveau=parsed.get("niveau", "faible"),
             resume=parsed.get("resume", ""),
             analyse=parsed.get("analyse", ""),
+            model=model,
             raw_response=content,
         )
+        if model != FALLBACK_MODELS[0]:
+            logger.info(
+                f"Analyzed via fallback model {model}: '{article.title[:60]}'"
+            )
+        return result
     except (json.JSONDecodeError, KeyError, IndexError) as e:
-        logger.warning(f"Failed to parse FantasyAI response for '{article.title[:60]}': {e}")
-        logger.debug(f"Raw response: {data.get('choices', [{}])[0].get('message', {}).get('content', '')[:200]}")
+        logger.warning(
+            f"Failed to parse response ({model}) for '{article.title[:60]}': {e}"
+        )
         return None
 
 
