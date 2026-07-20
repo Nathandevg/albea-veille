@@ -5,6 +5,8 @@ Déduplication des articles.
 (Levenshtein ratio > 90%).
 """
 
+from __future__ import annotations
+
 import logging
 from difflib import SequenceMatcher
 

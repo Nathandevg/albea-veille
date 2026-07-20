@@ -5,6 +5,8 @@ Envoie des push notifications sur iPhone via l'API Bark
 (open source, gratuite, app iOS disponible sur l'App Store).
 """
 
+from __future__ import annotations
+
 import logging
 import os
 import urllib.parse

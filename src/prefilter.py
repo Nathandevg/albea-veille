@@ -6,6 +6,8 @@ avant d'appeler l'IA, en vérifiant la présence d'au moins un
 mot-clé dans le titre ou le résumé.
 """
 
+from __future__ import annotations
+
 import logging
 
 from fetcher import Article

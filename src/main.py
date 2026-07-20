@@ -10,6 +10,8 @@ Main — Orchestration du flux de veille patrimoniale.
 6. Sauvegarde de l'historique
 """
 
+from __future__ import annotations
+
 import asyncio
 import json
 import logging
@@ -30,6 +32,9 @@ logging.basicConfig(
     format="%(asctime)s [%(levelname)s] %(name)s: %(message)s",
     datefmt="%Y-%m-%d %H:%M:%S",
 )
+# Couper le bruit : httpx log chaque requête HTTP en INFO
+logging.getLogger("httpx").setLevel(logging.WARNING)
+logging.getLogger("httpcore").setLevel(logging.WARNING)
 logger = logging.getLogger("albea_veille")
 
 HISTORY_FILE = Path(__file__).parent / "history.json"

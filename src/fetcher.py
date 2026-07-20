@@ -5,6 +5,8 @@ Récupère tous les flux RSS définis dans sources.py en parallèle,
 avec timeout et gestion d'erreur par flux.
 """
 
+from __future__ import annotations
+
 import asyncio
 import logging
 from dataclasses import dataclass, field
@@ -133,10 +135,12 @@ async def fetch_all() -> list[Article]:
 
     async with httpx.AsyncClient(
         headers={
-            "User-Agent": "AlbeaVeille/1.0 (CGP news monitor; +https://albea-patrimoine.fr)",
+            "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
             "Accept": "application/rss+xml, application/atom+xml, application/xml, text/xml, */*",
+            "Accept-Language": "fr-FR,fr;q=0.9,en;q=0.8",
         },
         timeout=TIMEOUT,
+        follow_redirects=True,
     ) as client:
         tasks = [_fetch_one(client, sem, src) for src in SOURCES]
         results = await asyncio.gather(*tasks, return_exceptions=True)

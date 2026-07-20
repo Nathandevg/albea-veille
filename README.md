@@ -10,7 +10,7 @@ Flux d'actualité patrimoniale pour CGP avec filtrage IA et notifications push i
 
 ## Stack
 
-- **Sources** : ~100 flux RSS gratuits (marchés, fiscalité, immobilier, SCPI, assurance-vie, private equity…)
+- **Sources** : ~35 flux RSS gratuits vérifiés fonctionnels (marchés, fiscalité, immobilier, SCPI, assurance-vie, private equity…) — voir `src/sources.py`. Les sites qui bloquent les scripts (Les Échos, Figaro, Boursorama, BFM…) sont exclus car leurs RSS renvoient 403/404.
 - **Orchestration** : GitHub Actions (cron toutes les 10 min)
 - **Analyse IA** : FantasyAI.cloud (Claude Opus 4.8)
 - **Push** : [Bark](https://github.com/Finb/Bark) (open source, gratuit, app iOS)

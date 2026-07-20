@@ -5,6 +5,8 @@ Envoie chaque article à l'API FantasyAI.cloud avec un prompt spécialisé
 CGP. Retourne une évaluation d'impact structurée en JSON.
 """
 
+from __future__ import annotations
+
 import json
 import logging
 import os
