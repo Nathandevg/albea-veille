@@ -10,7 +10,7 @@ on:
 jobs:
   check-news:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 12
 
     steps:
       - name: Checkout
@@ -23,6 +23,9 @@ jobs:
 
       - name: Install dependencies
         run: pip install -r requirements.txt
+
+      - name: Ensure history.json exists
+        run: touch src/history.json && [ -s src/history.json ] || echo '{}' > src/history.json
 
       - name: Run veille
         run: python src/main.py
@@ -38,3 +41,4 @@ jobs:
           file_pattern: 'src/history.json'
           commit_options: '--no-verify'
           skip_dirty_check: true
+          disable_globbing: true

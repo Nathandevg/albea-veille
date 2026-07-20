@@ -40,6 +40,7 @@ logger = logging.getLogger("albea_veille")
 HISTORY_FILE = Path(__file__).parent / "history.json"
 HISTORY_MAX_AGE_DAYS = 3  # Garder l'historique 3 jours
 MAX_ARTICLES_TO_ANALYZE = 30  # Max d'articles envoyés à l'IA par run (maîtrise des coûts)
+ARTICLE_MAX_AGE_HOURS = 48  # Ne garder que les articles publiés dans les 48 dernières heures
 
 
 def load_history() -> set[str]:
@@ -85,17 +86,30 @@ async def main() -> None:
     history = load_history()
     logger.info(f"Historique chargé : {len(history)} articles récents")
 
+    # S'assurer que history.json existe (sinon le step commit plantera)
+    if not HISTORY_FILE.exists():
+        save_history(set())
+
     # 2. Fetch
     logger.info("Fetching RSS feeds...")
     articles = await fetch_all()
     logger.info(f"Articles bruts : {len(articles)}")
 
+    # 2b. Filtrer par date : ne garder que les articles récents (cron 10 min)
+    cutoff = datetime.now(timezone.utc) - timedelta(hours=ARTICLE_MAX_AGE_HOURS)
+    recent = [a for a in articles if a.published is None or a.published >= cutoff]
+    logger.info(f"Articles récents (< {ARTICLE_MAX_AGE_HOURS}h) : {len(recent)}")
+
     # 3. Filtrer les articles déjà vus
-    new_articles = [a for a in articles if a.identifier not in history]
+    new_articles = [a for a in recent if a.identifier not in history]
     logger.info(f"Nouveaux articles (après historique) : {len(new_articles)}")
 
     if not new_articles:
         logger.info("Aucun nouvel article. Fin.")
+        # Mettre à jour l'historique même si rien à analyser
+        for a in recent:
+            history.add(a.identifier)
+        save_history(history)
         return
 
     # 4. Déduplication
