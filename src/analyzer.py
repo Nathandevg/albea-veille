@@ -23,6 +23,7 @@ logger = logging.getLogger(__name__)
 
 FANTASYAI_API_KEY = os.environ.get("FANTASYAI_API_KEY", "")
 FANTASYAI_BASE_URL = "https://fantasyai.cloud/api/v1"
+MAX_TOKENS = 100000  # Budget illimité : laisse le modèle développer une analyse complète
 
 # Modèles testés dans l'ordre. Si l'un échoue (erreur/timeout/JSON cassé),
 # on bascule sur le suivant. Opus 4.8 d'abord (meilleure analyse), puis
@@ -156,7 +157,7 @@ Contenu : {article.summary[:1500]}
             {"role": "user", "content": user_message},
         ],
         "temperature": 0.1,
-        "max_tokens": 2000,
+        "max_tokens": MAX_TOKENS,
     }
 
     headers = {
