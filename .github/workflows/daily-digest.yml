@@ -50,10 +50,22 @@ jobs:
         run: |
           # 0x0.st = paste HTML anonyme, public, permanent (1 an).
           # Retourne l'URL sur stdout, ex: https://0x0.st/abcd.html
-          set -e
-          URL=$(curl -fsSL -F "file=@docs/index.html" -F "expires=86400" \
-                -A "AlbeaVeille/1.0" \
-                https://0x0.st)
+          # Retry x5 avec backoff (0x0.st peut etre surcharge / 503)
+          URL=""
+          for i in 1 2 3 4 5; do
+            URL=$(curl -fsSL -F "file=@docs/index.html" -F "expires=86400" \
+                  -A "AlbeaVeille/1.0" \
+                  https://0x0.st 2>&1) || true
+            if [ -n "$URL" ] && [[ "$URL" == https://* ]]; then
+              break
+            fi
+            echo "0x0.st tentative $i echouee: $URL"
+            sleep $((i * 5))
+          done
+          if [ -z "$URL" ] || [[ "$URL" != https://* ]]; then
+            echo "0x0.st: toutes les tentatives ont echoue" >&2
+            exit 1
+          fi
           echo "URL=${URL}" >> "$GITHUB_OUTPUT"
           echo "Digest upload: ${URL}"
 

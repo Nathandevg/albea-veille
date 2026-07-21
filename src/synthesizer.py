@@ -24,6 +24,13 @@ logger = logging.getLogger(__name__)
 FANTASYAI_API_KEY = os.environ.get("FANTASYAI_API_KEY", "")
 FANTASYAI_BASE_URL = "https://fantasyai.cloud/api/v1"
 DIGEST_MODEL = "claude-opus-4-8"
+# Fallback en cascade si Opus est surcharge (HTTP 503 "at capacity")
+DIGEST_FALLBACK_MODELS = [
+    "claude-opus-4-8",
+    "claude-3-5-sonnet-20241022",
+    "gpt-4o",
+    "deepseek-v4",
+]
 MAX_TOKENS_DIGEST = 100000
 MAX_INPUT_ARTICLES = 250  # Cap pour éviter des inputs trop longs
 REQUEST_TIMEOUT = 120  # secondes — synthèse = appel long
@@ -65,58 +72,83 @@ async def synthesize_digest(
 
     user_message = _build_user_message(articles, date_paris)
 
-    payload = {
-        "model": DIGEST_MODEL,
-        "messages": [
-            {"role": "system", "content": DIGEST_SYSTEM_PROMPT},
-            {"role": "user", "content": user_message},
-        ],
-        "temperature": 0.1,
-        "max_tokens": MAX_TOKENS_DIGEST,
-    }
-
     headers = {
         "Authorization": f"Bearer {FANTASYAI_API_KEY}",
         "Content-Type": "application/json",
     }
 
-    last_error: Exception | None = None
-    for attempt in range(1, max_retries + 1):
-        try:
-            async with httpx.AsyncClient(timeout=REQUEST_TIMEOUT) as client:
-                response = await client.post(
-                    f"{FANTASYAI_BASE_URL}/chat/completions",
-                    json=payload,
-                    headers=headers,
-                )
-                if response.status_code != 200:
+    # Essaie chaque modele de la liste. Pour chaque modele, on retente
+    # `max_retries` fois avant de basculer au suivant. Gere le cas Opus 4.8
+    # surcharge (HTTP 503 "temporarily at capacity").
+    for model in DIGEST_FALLBACK_MODELS:
+        for attempt in range(1, max_retries + 1):
+            payload = {
+                "model": model,
+                "messages": [
+                    {"role": "system", "content": DIGEST_SYSTEM_PROMPT},
+                    {"role": "user", "content": user_message},
+                ],
+                "temperature": 0.1,
+                "max_tokens": MAX_TOKENS_DIGEST,
+            }
+            try:
+                async with httpx.AsyncClient(timeout=REQUEST_TIMEOUT) as client:
+                    response = await client.post(
+                        f"{FANTASYAI_BASE_URL}/chat/completions",
+                        json=payload,
+                        headers=headers,
+                    )
+                    if response.status_code == 200:
+                        data = response.json()
+                        content = data["choices"][0]["message"]["content"].strip()
+                        if content.startswith("```"):
+                            content = content.split("\n", 1)[1]
+                            if content.endswith("```"):
+                                content = content[:-3]
+                            content = content.strip()
+                        parsed = json.loads(content)
+                        if model != DIGEST_MODEL:
+                            logger.info(
+                                f"Digest synthese OK via fallback {model} "
+                                f"(tentative {attempt})"
+                            )
+                        else:
+                            logger.info(
+                                f"Digest synthese OK ({model}, "
+                                f"tentative {attempt}, "
+                                f"{len(parsed.get('sections', []))} sections)"
+                            )
+                        return parsed
+                    # 503 = surcharge : retente
+                    if response.status_code == 503:
+                        body = response.text[:200]
+                        logger.warning(
+                            f"Digest IA {model} 503 surcharge "
+                            f"(tentative {attempt}/{max_retries}): {body}"
+                        )
+                        await asyncio.sleep(3 * attempt)
+                        continue
+                    # Autre erreur : pas la peine de retenter, on bascule
                     body = response.text[:200]
                     logger.warning(
-                        f"Digest IA HTTP {response.status_code} (tentative {attempt}): {body}"
+                        f"Digest IA {model} HTTP {response.status_code} "
+                        f"-> bascule au modele suivant: {body}"
                     )
-                    last_error = RuntimeError(f"HTTP {response.status_code}")
-                    continue
-                data = response.json()
-                content = data["choices"][0]["message"]["content"].strip()
-                # Nettoie le markdown éventuel
-                if content.startswith("```"):
-                    content = content.split("\n", 1)[1]
-                    if content.endswith("```"):
-                        content = content[:-3]
-                    content = content.strip()
-                parsed = json.loads(content)
-                logger.info(
-                    f"Digest synthese OK: {len(parsed.get('sections', []))} sections"
+                    break
+            except Exception as e:
+                logger.warning(
+                    f"Digest IA {model} echec "
+                    f"(tentative {attempt}/{max_retries}): {e}"
                 )
-                return parsed
-        except Exception as e:
-            logger.warning(
-                f"Digest IA echec (tentative {attempt}/{max_retries}): {e}"
-            )
-            last_error = e
-            await asyncio.sleep(2 * attempt)
+                await asyncio.sleep(2 * attempt)
+        else:
+            # Toutes les tentatives sur ce modele ont echoue, on bascule
+            continue
 
-    logger.error(f"Digest IA: {max_retries} tentatives echouees: {last_error}")
+    logger.error(
+        f"Digest IA: tous les modeles ont echoue "
+        f"(tried {DIGEST_FALLBACK_MODELS})"
+    )
     return _minimal_fallback_digest(articles, date_paris)
 
 
