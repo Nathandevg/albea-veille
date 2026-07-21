@@ -37,6 +37,9 @@ jobs:
 
       - name: Generate digest HTML
         id: digest
+        env:
+          FANTASYAI_API_KEY: ${{ secrets.FANTASYAI_API_KEY }}
+          BARK_DEVICE_KEY: ${{ secrets.BARK_DEVICE_KEY }}
         run: |
           # Genere l'HTML avec un placeholder PUBLIC_URL (l'URL reelle sera
           # injectee apres l'upload 0x0.st)
