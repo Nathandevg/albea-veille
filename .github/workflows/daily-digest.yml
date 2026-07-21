@@ -1,0 +1,66 @@
+name: Albea Daily Digest
+
+on:
+  schedule:
+    # 7h UTC = 8h Paris hiver / 9h Paris ete. Compromis acceptable pour ne pas
+    # deriver selon DST. Si on veut strictement 8h, on peut ajouter un second
+    # cron et adapter via une variable d'environnement, mais 7h UTC couvre les
+    # deux saisons sans depasser 9h heure d'ete.
+    - cron: '0 7 * * *'
+  workflow_dispatch:               # Declenchement manuel
+
+permissions:
+  contents: write
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Prepare dirs
+        run: |
+          mkdir -p docs/resumes docs/assets
+          touch src/history.json
+          [ -s src/history.json ] || echo '{}' > src/history.json
+
+      - name: Run daily digest
+        run: python src/daily.py
+        env:
+          FANTASYAI_API_KEY: ${{ secrets.FANTASYAI_API_KEY }}
+          BARK_DEVICE_KEY: ${{ secrets.BARK_DEVICE_KEY }}
+
+      - name: Commit & push digest
+        if: always()
+        continue-on-error: true
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/ src/history.json
+          git commit -m "chore: daily digest $(date -u +%Y-%m-%d)" --no-verify || true
+
+          # Robuste aux divergences (force-push, runs paralleles)
+          for i in 1 2 3; do
+            git fetch origin main
+            if ! git rebase origin/main; then
+              git checkout --theirs src/history.json docs/index.html 2>/dev/null || true
+              git add src/history.json docs/index.html
+              git rebase --continue --no-verify || { git rebase --abort; }
+            fi
+            if git push origin main; then
+              echo "Push digest OK (tentative $i)"
+              exit 0
+            fi
+          done
+          echo "Push digest echoue apres 3 tentatives (non bloquant)"
