@@ -44,7 +44,9 @@ ASSETS_DIR = DOCS_DIR / "assets"
 
 LOOKBACK_HOURS = 24
 MAX_ARCHIVE_DAYS = 30
-GITHUB_PAGES_BASE = "https://Nathandevg.github.io/albea-veille"
+# URL publique du digest. Definie par le workflow (0x0.st), peut etre vide
+# en local (la notif Bark ne sera pas envoyee dans ce cas).
+PUBLIC_URL = os.environ.get("PUBLIC_URL", "").strip()
 
 
 def get_date_paris() -> datetime:
@@ -99,7 +101,9 @@ async def main() -> int:
 
     # 5. Rendu HTML
     archive_filename = f"{date_str}.html"
-    page_url = f"{GITHUB_PAGES_BASE}/{archive_filename}"
+    # L'URL publique est injectee par le workflow (apres upload 0x0.st).
+    # Si vide (test local), on met un placeholder pour le rendu HTML.
+    page_url = PUBLIC_URL or f"https://0x0.st/local-{date_str}.html"
     html_content = render_digest(digest, page_url)
 
     # 6. Sauvegarde
@@ -116,8 +120,13 @@ async def main() -> int:
     _rotate_archives(RESUMES_DIR, MAX_ARCHIVE_DAYS)
 
     # 8. Notification Bark
-    if relevant or digest.get("marches_calmes"):
-        sent = await send_digest_notification(digest, page_url)
+    if not PUBLIC_URL:
+        logger.warning(
+            "PUBLIC_URL non defini (workflow n'a pas uploade le HTML) "
+            "-> notif non envoyee"
+        )
+    elif relevant or digest.get("marches_calmes"):
+        sent = await send_digest_notification(digest, PUBLIC_URL)
         logger.info(f"Notif digest envoyee : {sent}")
     else:
         logger.info("Pas de notif (rien a signaler)")

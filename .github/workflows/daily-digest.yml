@@ -35,32 +35,32 @@ jobs:
           touch src/history.json
           [ -s src/history.json ] || echo '{}' > src/history.json
 
-      - name: Run daily digest
-        run: python src/daily.py
+      - name: Generate digest HTML
+        id: digest
+        run: |
+          # Genere l'HTML avec un placeholder PUBLIC_URL (l'URL reelle sera
+          # injectee apres l'upload 0x0.st)
+          python src/daily.py
+
+      - name: Upload digest to 0x0.st
+        id: upload
+        run: |
+          # 0x0.st = paste HTML anonyme, public, permanent (1 an).
+          # Retourne l'URL sur stdout, ex: https://0x0.st/abcd.html
+          set -e
+          URL=$(curl -fsSL -F "file=@docs/index.html" -F "expires=86400" \
+                -A "AlbeaVeille/1.0" \
+                https://0x0.st)
+          echo "URL=${URL}" >> "$GITHUB_OUTPUT"
+          echo "Digest upload: ${URL}"
+
+      - name: Re-render with real public URL & send Bark notification
+        if: steps.upload.outputs.URL
         env:
+          PUBLIC_URL: ${{ steps.upload.outputs.URL }}
           FANTASYAI_API_KEY: ${{ secrets.FANTASYAI_API_KEY }}
           BARK_DEVICE_KEY: ${{ secrets.BARK_DEVICE_KEY }}
-
-      - name: Commit & push digest
-        if: always()
-        continue-on-error: true
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add docs/ src/history.json
-          git commit -m "chore: daily digest $(date -u +%Y-%m-%d)" --no-verify || true
-
-          # Robuste aux divergences (force-push, runs paralleles)
-          for i in 1 2 3; do
-            git fetch origin main
-            if ! git rebase origin/main; then
-              git checkout --theirs src/history.json docs/index.html 2>/dev/null || true
-              git add src/history.json docs/index.html
-              git rebase --continue --no-verify || { git rebase --abort; }
-            fi
-            if git push origin main; then
-              echo "Push digest OK (tentative $i)"
-              exit 0
-            fi
-          done
-          echo "Push digest echoue apres 3 tentatives (non bloquant)"
+          # On regenere l'HTML avec la vraie URL publique et on re-envoie
+          # la notif. Cote IA c'est gratuit (pas d'appel), donc no-cout.
+          python src/daily.py
