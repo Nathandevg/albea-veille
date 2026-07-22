@@ -93,10 +93,10 @@ def run_ta_analysis(tickers: list[str] | None = None) -> dict:
     try:
         from tradingagents.graph.trading_graph import TradingAgentsGraph
         from tradingagents.default_config import DEFAULT_CONFIG
-    except ImportError:
+        logger.info("TradingAgents importe avec succes")
+    except ImportError as e:
         logger.warning(
-            "tradingagents non installe — simulation d'analyse. "
-            "Pour activer: pip install tradingagents"
+            f"tradingagents non installe ({e}) — simulation d'analyse."
         )
         return _simulate_analysis(tickers)
 
