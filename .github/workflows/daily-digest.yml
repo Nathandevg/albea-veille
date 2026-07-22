@@ -45,25 +45,25 @@ jobs:
           # injectee apres l'upload 0x0.st)
           python src/daily.py
 
-      - name: Upload digest to 0x0.st
+      - name: Upload digest to paste.rs
         id: upload
         run: |
-          # 0x0.st = paste HTML anonyme, public, permanent (1 an).
-          # Retourne l'URL sur stdout, ex: https://0x0.st/abcd.html
-          # Retry x5 avec backoff (0x0.st peut etre surcharge / 503)
+          # paste.rs = paste HTML anonyme, public, permanent.
+          # Alternative a 0x0.st (qui est souvent en panne).
+          # Retry x5 avec backoff.
           URL=""
           for i in 1 2 3 4 5; do
-            URL=$(curl -fsSL -F "file=@docs/index.html" -F "expires=86400" \
+            URL=$(curl -fsSL -F "content=@docs/index.html" \
                   -A "AlbeaVeille/1.0" \
-                  https://0x0.st 2>&1) || true
+                  https://paste.rs 2>&1) || true
             if [ -n "$URL" ] && [[ "$URL" == https://* ]]; then
               break
             fi
-            echo "0x0.st tentative $i echouee: $URL"
+            echo "paste.rs tentative $i echouee: $URL"
             sleep $((i * 5))
           done
           if [ -z "$URL" ] || [[ "$URL" != https://* ]]; then
-            echo "0x0.st: toutes les tentatives ont echoue" >&2
+            echo "paste.rs: toutes les tentatives ont echoue" >&2
             exit 1
           fi
           echo "URL=${URL}" >> "$GITHUB_OUTPUT"
