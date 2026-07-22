@@ -80,7 +80,7 @@ class AnalysisResult:
 
 async def analyze_articles(
     articles: list[Article],
-    max_concurrent: int = 8,
+    max_concurrent: int = 15,
     timeout: int = 60,
 ) -> list[AnalysisResult]:
     """
