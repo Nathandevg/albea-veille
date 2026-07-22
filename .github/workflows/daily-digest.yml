@@ -48,8 +48,7 @@ jobs:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY || '' }}
           ALPHA_VANTAGE_API_KEY: ${{ secrets.ALPHA_VANTAGE_API_KEY || '' }}
         run: |
-          python daily_ta_analysis.py \
-            --tickers "^FCHI,^GSPC,^FTSE,^N225,BTC-USD,OR.PA,MC.PA,AI.PA"
+          python daily_ta_analysis.py
 
       - name: Generate digest HTML
         id: digest

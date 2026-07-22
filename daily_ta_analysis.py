@@ -30,8 +30,45 @@ from pathlib import Path
 
 logger = logging.getLogger("albea_ta")
 
-# Tickers par défaut (CAC 40 = ^FCHI, S&P 500 = ^GSPC, etc.)
-DEFAULT_TICKERS = ["^FCHI", "^GSPC", "BTC-USD"]
+# Tickers par défaut — grandes capitalisations et ETF suivis par un CGP français.
+# Les tickers ETF sont listes (code ISIN ou code bourse selon le marche).
+# Les ETF "symbol" peut varier selon le broker ; on utilise les codes Yahoo Finance
+# (ce que TradingAgents supporte nativement).
+DEFAULT_TICKERS = [
+    # === Indices ===
+    "^FCHI",  # CAC 40
+    "^GSPC",  # S&P 500
+    "^FTSE",  # FTSE 100
+    "^N225",  # Nikkei 225
+    "^STOXX50E",  # Euro Stoxx 50
+
+    # === Grandes capitalisations françaises (CAC 40) ===
+    "MC.PA",  # LVMH
+    "OR.PA",  # L'Oréal
+    "AI.PA",  # Air Liquide
+    "BNP.PA",  # BNP Paribas
+    "SAN.PA",  # Sanofi
+    "TTE.PA",  # TotalEnergies
+
+    # === ETF Actions Monde / US / Europe (Euronext Paris) ===
+    "CW8.PA",  # Amundi MSCI World (capitalisation)
+    "EWLD.PA",  # Amundi MSCI World (accumulation)
+    "SP5.PA",  # Amundi S&P 500
+    "ESE.PA",  # Amundi MSCI Emerging Markets
+    "500.PA",  # iShares Core MSCI World (IE00B4L5Y983)
+    "EUNL.PA",  # iShares Core MSCI World (IE00B0M62Q58)
+
+    # === ETF Thématiques / Obligations (Euronext Paris) ===
+    "IB01.PA",  # iShares $ Treasury Bond 1-3yr
+    "IEAC.PA",  # iShares € Govt Bond 1-3yr
+    "IEAG.PA",  # iShares € Govt Bond 7-10yr
+    "SX3E.PA",  # Amundi Stoxx Europe 600
+    "IQQH.PA",  # iShares MSCI World Quality Dividend
+
+    # === Crypto ===
+    "BTC-USD",  # Bitcoin
+    "ETH-USD",  # Ethereum
+]
 
 # Fichier de sortie : le digest le lira
 OUTPUT_FILE = Path(__file__).parent.parent / "docs" / "trading_agents.json"
