@@ -1,0 +1,154 @@
+{
+  "date_fr": "mercredi 22 juillet 2026",
+  "synthese_jour": "Les tensions budgétaires et géopolitiques dominent l'actualité, avec des alertes macroéconomiques sur la croissance mondiale et des risques climatiques pesant sur l'immobilier. Les marchés actions restent portés par des résultats solides, tandis que les SCPI et l'assurance-vie bénéficient de la réallocation de l'épargne.",
+  "chiffres_cles": [
+    "CAC 40: +0.8%",
+    "OAT 10 ans: 3.2%",
+    "Livret A: -6 mois de décollecte",
+    "Croissance mondiale 2026: 1.3% (prévision)",
+    "Déficit public France 2026: 5%"
+  ],
+  "a_surveiller": [
+    "Évolution des tensions géopolitiques au Moyen-Orient et leur impact sur les marchés émergents.",
+    "Application des règles Bâle IV et leurs conséquences sur le crédit immobilier.",
+    "Réformes budgétaires françaises et possibles ajustements fiscaux.",
+    "Tendances des SCPI ISR et des fonds durables.",
+    "Hausse des taux longs américains et impact sur les portefeuilles obligataires."
+  ],
+  "sections": [
+    {
+      "titre": "Marchés financiers",
+      "icone": "📈",
+      "niveau_global": "moyen",
+      "items": [
+        {
+          "titre": "Alerte Banque mondiale : croissance mondiale menacée par le conflit au Moyen-Orient",
+          "analyse": "La Banque mondiale prévoit une croissance mondiale limitée à 1,3% en 2026 en cas d'escalade, avec un risque de crise de la dette pour les pays vulnérables. Les CGP doivent surveiller l'exposition de leurs clients aux actifs des marchés émergents et aux obligations souveraines fragiles.",
+          "source": "La Tribune",
+          "url": "https://www.latribune.fr",
+          "niveau": "fort"
+        },
+        {
+          "titre": "Le rendement du 30 ans américain approche un seuil critique vu en 2007",
+          "analyse": "La remontée des taux longs américains au-dessus de 5% signale des tensions inflationnistes et un risque de correction obligataire. Cela justifie une gestion active de la duration dans les portefeuilles obligataires.",
+          "source": "MarketWatch",
+          "url": "",
+          "niveau": "fort"
+        },
+        {
+          "titre": "Dollar en hausse, yen au plus bas depuis 40 ans, livre sous pression",
+          "analyse": "Le yen à son plus bas historique et la livre fragilisée par les inquiétudes budgétaires créent des opportunités de diversification et de couverture de change pour les portefeuilles internationaux.",
+          "source": "Forex News",
+          "url": "",
+          "niveau": "fort"
+        }
+      ]
+    },
+    {
+      "titre": "Fiscalité",
+      "icone": "💰",
+      "niveau_global": "moyen",
+      "items": [
+        {
+          "titre": "Budget 2027 : Lecornu juge la dette et le déficit français 'graves'",
+          "analyse": "Le déficit public français reste élevé à 5,1% en 2025 et 5% prévu en 2026, avec un Premier ministre pessimiste sur les objectifs. Cette situation pèse sur la confiance des investisseurs et peut justifier une prudence accrue sur les obligations souveraines françaises dans les portefeuilles obligataires.",
+          "source": "Le Monde",
+          "url": "https://www.lemonde.fr",
+          "niveau": "fort"
+        },
+        {
+          "titre": "Remboursement d'impôt : 12 millions de foyers concernés dès le 24 juillet",
+          "analyse": "L'administration fiscale va reverser en moyenne 1 057 euros à 12 millions de foyers. Ce flux de trésorerie exceptionnel peut être une opportunité pour conseiller des placements ou un désendettement, selon la situation de chaque client.",
+          "source": "La Tribune",
+          "url": "https://www.latribune.fr",
+          "niveau": "faible"
+        }
+      ]
+    },
+    {
+      "titre": "SCPI & Immobilier",
+      "icone": "🏠",
+      "niveau_global": "fort",
+      "items": [
+        {
+          "titre": "Maisons fissurées : le retrait-gonflement des argiles pourrait coûter 500 Mds€",
+          "analyse": "La Caisse centrale de réassurance alerte sur un coût climatique massif pour l'assurance habitation en France. Les CGP doivent anticiper une hausse des primes d'assurance et des risques de sinistralité pour les biens immobiliers de leurs clients, notamment dans les zones argileuses.",
+          "source": "La Tribune",
+          "url": "https://www.latribune.fr",
+          "niveau": "fort"
+        },
+        {
+          "titre": "Crédit immobilier : la FBF alerte sur Bâle IV et le modèle français",
+          "analyse": "L'application stricte des règles prudentielles européennes pourrait renchérir et raréfier le crédit immobilier, menaçant l'accès à la propriété des clients modestes. Le CGP doit anticiper des dossiers de financement plus contraints et intégrer cette dimension dans les projets patrimoniaux (davantage d'apport, allongement de durée, montage SCI).",
+          "source": "Le Revenu",
+          "url": "https://www.lerevenu.com/actualites/finance/credit-immobilier-pourquoi-le-modele-francais-est-menace-par-la-reglementation-europeenne",
+          "niveau": "fort"
+        },
+        {
+          "titre": "Iroko Atlas rejoint les SCPI labellisées ISR",
+          "analyse": "L'obtention du label ISR renforce l'attractivité de cette SCPI internationale auprès des investisseurs sensibles à la durabilité. Le CGP peut l'intégrer dans une allocation responsable sans sacrifier le rendement.",
+          "source": "MeilleureSCPI.com",
+          "url": "",
+          "niveau": "moyen"
+        }
+      ]
+    },
+    {
+      "titre": "Assurance-vie",
+      "icone": "📜",
+      "niveau_global": "moyen",
+      "items": [
+        {
+          "titre": "Livret A, LDDS, LEP : 6ᵉ mois consécutif de décollecte",
+          "analyse": "Encours cumulé en repli : arbitrage confirmé des ménages vers des supports rémunérateurs (assurance-vie en UC, fonds euros dynamiques). Opportunité pour le CGP de proposer des solutions défiscalisées ou des contrats structurés, la rémunération réglementée n'étant plus suffisante face à l'inflation.",
+          "source": "Le Revenu",
+          "url": "https://www.lerevenu.com/actualites/finance/livret-a-ldds-lep-la-decollecte-se-poursuit-en-juin-2026",
+          "niveau": "fort"
+        }
+      ]
+    },
+    {
+      "titre": "Private equity",
+      "icone": "💼",
+      "niveau_global": "moyen",
+      "items": [
+        {
+          "titre": "EODev renforce son offre dans les piles à combustible",
+          "analyse": "Le développement de l'hydrogène reste un axe fort de la transition énergétique. Cette dynamique confirme l'intérêt des fonds de Private Equity et thématiques ESG pour les cleantechs innovantes.",
+          "source": "GreenUnivers",
+          "url": "",
+          "niveau": "moyen"
+        }
+      ]
+    },
+    {
+      "titre": "Réglementation",
+      "icone": "⚖️",
+      "niveau_global": "moyen",
+      "items": [
+        {
+          "titre": "MiCA : fin de transition, nouvelles obligations CASP",
+          "analyse": "La régulation crypto européenne est désormais pleine. Les CGP doivent informer les clients détenant des crypto-actifs des nouvelles obligations déclaratives et de conformité.",
+          "source": "Finyear",
+          "url": "",
+          "niveau": "moyen"
+        }
+      ]
+    },
+    {
+      "titre": "ESG",
+      "icone": "🌱",
+      "niveau_global": "moyen",
+      "items": [
+        {
+          "titre": "Projet électrique en Camargue : l'État passe en force",
+          "analyse": "L'exemption d'autorisation environnementale illustre la volonté de l'État d'accélérer les infrastructures vertes malgré les oppositions. Un signal positif pour les fonds d'infrastructures liés à la transition énergétique.",
+          "source": "GreenUnivers",
+          "url": "",
+          "niveau": "faible"
+        }
+      ]
+    }
+  ],
+  "compte_articles": 250
+}
