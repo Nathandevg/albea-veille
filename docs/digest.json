@@ -1,67 +1,74 @@
 {
   "date_fr": "mercredi 22 juillet 2026",
-  "synthese_jour": "Les tensions budgétaires et géopolitiques dominent l'actualité, avec des alertes macroéconomiques sur la croissance mondiale et des risques climatiques pesant sur l'immobilier. Les marchés actions restent portés par des résultats solides, tandis que les SCPI et l'assurance-vie bénéficient de la réallocation de l'épargne.",
+  "synthese_jour": "La journée est marquée par des tensions macroéconomiques croissantes, notamment sur la dette française et les perspectives de croissance mondiale. Les marchés financiers restent volatils, tandis que l'épargne réglementée continue de subir une décollecte historique. Les CGP doivent rester vigilants sur les arbitrages d'actifs et les opportunités sectorielles.",
   "chiffres_cles": [
     "CAC 40: +0.8%",
     "OAT 10 ans: 3.2%",
-    "Livret A: -6 mois de décollecte",
-    "Croissance mondiale 2026: 1.3% (prévision)",
-    "Déficit public France 2026: 5%"
+    "Pétrole Brent: 95.3 $",
+    "Bitcoin: 66 000 $",
+    "Décollecte Livret A S1 2026: -5.93 Md€"
   ],
   "a_surveiller": [
-    "Évolution des tensions géopolitiques au Moyen-Orient et leur impact sur les marchés émergents.",
-    "Application des règles Bâle IV et leurs conséquences sur le crédit immobilier.",
-    "Réformes budgétaires françaises et possibles ajustements fiscaux.",
-    "Tendances des SCPI ISR et des fonds durables.",
-    "Hausse des taux longs américains et impact sur les portefeuilles obligataires."
+    "Évolution des tensions géopolitiques au Moyen-Orient et leur impact sur le pétrole.",
+    "Réformes budgétaires françaises et leurs implications fiscales.",
+    "Persistance de la décollecte sur les livrets réglementés.",
+    "Impact des nouvelles règles européennes sur le crédit immobilier.",
+    "Entrée en vigueur des obligations MiCA pour les prestataires crypto."
   ],
   "sections": [
     {
-      "titre": "Marchés financiers",
+      "titre": "Marches financiers",
       "icone": "📈",
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "Alerte Banque mondiale : croissance mondiale menacée par le conflit au Moyen-Orient",
-          "analyse": "La Banque mondiale prévoit une croissance mondiale limitée à 1,3% en 2026 en cas d'escalade, avec un risque de crise de la dette pour les pays vulnérables. Les CGP doivent surveiller l'exposition de leurs clients aux actifs des marchés émergents et aux obligations souveraines fragiles.",
-          "source": "La Tribune",
-          "url": "https://www.latribune.fr",
-          "niveau": "fort"
-        },
-        {
-          "titre": "Le rendement du 30 ans américain approche un seuil critique vu en 2007",
-          "analyse": "La remontée des taux longs américains au-dessus de 5% signale des tensions inflationnistes et un risque de correction obligataire. Cela justifie une gestion active de la duration dans les portefeuilles obligataires.",
-          "source": "MarketWatch",
-          "url": "",
-          "niveau": "fort"
-        },
-        {
-          "titre": "Dollar en hausse, yen au plus bas depuis 40 ans, livre sous pression",
-          "analyse": "Le yen à son plus bas historique et la livre fragilisée par les inquiétudes budgétaires créent des opportunités de diversification et de couverture de change pour les portefeuilles internationaux.",
-          "source": "Forex News",
-          "url": "",
-          "niveau": "fort"
-        }
-      ]
-    },
-    {
-      "titre": "Fiscalité",
-      "icone": "💰",
-      "niveau_global": "moyen",
-      "items": [
-        {
-          "titre": "Budget 2027 : Lecornu juge la dette et le déficit français 'graves'",
-          "analyse": "Le déficit public français reste élevé à 5,1% en 2025 et 5% prévu en 2026, avec un Premier ministre pessimiste sur les objectifs. Cette situation pèse sur la confiance des investisseurs et peut justifier une prudence accrue sur les obligations souveraines françaises dans les portefeuilles obligataires.",
-          "source": "Le Monde",
+          "titre": "Budget 2027 : Lecornu juge la dette française « grave »",
+          "analyse": "Le Premier ministre affiche un pessimisme sur la trajectoire budgétaire, avec un déficit prévu à 5% du PIB en 2026. Cela renforce les tensions sur les taux souverains français et appelle à une prudence accrue sur la dette domestique.",
+          "source": "Le Monde.fr",
           "url": "https://www.lemonde.fr",
           "niveau": "fort"
         },
         {
-          "titre": "Remboursement d'impôt : 12 millions de foyers concernés dès le 24 juillet",
-          "analyse": "L'administration fiscale va reverser en moyenne 1 057 euros à 12 millions de foyers. Ce flux de trésorerie exceptionnel peut être une opportunité pour conseiller des placements ou un désendettement, selon la situation de chaque client.",
+          "titre": "Banque mondiale : « désastre » sur l'économie globale",
+          "analyse": "La croissance mondiale pourrait chuter à 1,3% en 2026 si les tensions géopolitiques persistent. Cela défavorise les actifs risqués et renforce l'intérêt pour les valeurs refuges.",
           "source": "La Tribune",
           "url": "https://www.latribune.fr",
-          "niveau": "faible"
+          "niveau": "fort"
+        },
+        {
+          "titre": "Pétrole au-dessus de 95 dollars : les espoirs de désescalade avec l'Iran s'amenuisent",
+          "analyse": "La hausse du baril alimente les pressions inflationnistes et pèse sur les anticipations de baisse de taux. Cela justifie une surpondération temporaire du secteur énergétique.",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "",
+          "niveau": "fort"
+        },
+        {
+          "titre": "Bitcoin remonte à 66 000 dollars, les actions IA perdent de l'élan",
+          "analyse": "Le Bitcoin atteint un sommet récent, tandis que les valeurs IA s'essoufflent. Les CGP doivent surveiller cette divergence pour ajuster les expositions technologiques et numériques.",
+          "source": "Le Revenu",
+          "url": "https://www.lerevenu.com/actualites-financieres/bitcoin-66000-actions-ia",
+          "niveau": "moyen"
+        }
+      ]
+    },
+    {
+      "titre": "Fiscalite",
+      "icone": "💰",
+      "niveau_global": "moyen",
+      "items": [
+        {
+          "titre": "Impôt sur le revenu : 12 millions de ménages vont recevoir un virement",
+          "analyse": "Restitution moyenne de 1 057 € pour 12 millions de foyers. Cela offre une opportunité pour les CGP de conseiller sur l'affectation de cette trésorerie, notamment vers l'assurance-vie ou le PER.",
+          "source": "La Tribune",
+          "url": "https://www.latribune.fr/actualites/impot-revenu-remboursement-2026",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Budget 2027 : Sébastien Lecornu esquisse des pistes face au déficit",
+          "analyse": "Le contexte de rigueur budgétaire pourrait affecter la fiscalité de l'épargne et des revenus du capital. Les CGP doivent anticiper d'éventuels changements fiscaux.",
+          "source": "Challenges",
+          "url": "https://www.challenges.fr/budget-2027-lecornu-deficit",
+          "niveau": "fort"
         }
       ]
     },
@@ -71,25 +78,25 @@
       "niveau_global": "fort",
       "items": [
         {
-          "titre": "Maisons fissurées : le retrait-gonflement des argiles pourrait coûter 500 Mds€",
-          "analyse": "La Caisse centrale de réassurance alerte sur un coût climatique massif pour l'assurance habitation en France. Les CGP doivent anticiper une hausse des primes d'assurance et des risques de sinistralité pour les biens immobiliers de leurs clients, notamment dans les zones argileuses.",
+          "titre": "Maisons fissurées : bombe climatique à 500 Mds €",
+          "analyse": "Le coût du retrait-gonflement des argiles est estimé à 500 Mds €. Les CGP doivent intégrer ce risque dans les conseils immobiliers et vérifier les couvertures d'assurance.",
           "source": "La Tribune",
           "url": "https://www.latribune.fr",
           "niveau": "fort"
         },
         {
-          "titre": "Crédit immobilier : la FBF alerte sur Bâle IV et le modèle français",
-          "analyse": "L'application stricte des règles prudentielles européennes pourrait renchérir et raréfier le crédit immobilier, menaçant l'accès à la propriété des clients modestes. Le CGP doit anticiper des dossiers de financement plus contraints et intégrer cette dimension dans les projets patrimoniaux (davantage d'apport, allongement de durée, montage SCI).",
-          "source": "Le Revenu",
-          "url": "https://www.lerevenu.com/actualites/finance/credit-immobilier-pourquoi-le-modele-francais-est-menace-par-la-reglementation-europeenne",
+          "titre": "Crédit immobilier : le modèle français menacé par les règles européennes",
+          "analyse": "L'application des règles de Bâle pourrait durcir l'accès au crédit immobilier. Les CGP doivent conseiller leurs clients sur la sécurisation de leurs projets immobiliers.",
+          "source": "Le Revenu - Actualités financières",
+          "url": "",
           "niveau": "fort"
         },
         {
-          "titre": "Iroko Atlas rejoint les SCPI labellisées ISR",
-          "analyse": "L'obtention du label ISR renforce l'attractivité de cette SCPI internationale auprès des investisseurs sensibles à la durabilité. Le CGP peut l'intégrer dans une allocation responsable sans sacrifier le rendement.",
-          "source": "MeilleureSCPI.com",
+          "titre": "Dispositif Jeanbrun : un amortissement fiscal pour relancer l'investissement locatif",
+          "analyse": "Le remplacement du Pinel par un mécanisme d'amortissement fiscal ouvre de nouvelles opportunités pour les investisseurs. Les CGP doivent évaluer les conditions pour intégrer ce dispositif.",
+          "source": "Le Revenu - Actualités financières",
           "url": "",
-          "niveau": "moyen"
+          "niveau": "fort"
         }
       ]
     },
@@ -99,53 +106,25 @@
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "Livret A, LDDS, LEP : 6ᵉ mois consécutif de décollecte",
-          "analyse": "Encours cumulé en repli : arbitrage confirmé des ménages vers des supports rémunérateurs (assurance-vie en UC, fonds euros dynamiques). Opportunité pour le CGP de proposer des solutions défiscalisées ou des contrats structurés, la rémunération réglementée n'étant plus suffisante face à l'inflation.",
+          "titre": "Le Livret A enregistre son pire premier semestre depuis près de vingt ans",
+          "analyse": "La décollecte nette de 5,93 Md€ interroge sur l'affectation de l'épargne. Les CGP doivent proposer des alternatives comme l'assurance-vie ou les fonds euros.",
           "source": "Le Revenu",
-          "url": "https://www.lerevenu.com/actualites/finance/livret-a-ldds-lep-la-decollecte-se-poursuit-en-juin-2026",
+          "url": "https://www.lerevenu.com/actualites-financieres/livret-a-pire-premier-semestre",
           "niveau": "fort"
         }
       ]
     },
     {
-      "titre": "Private equity",
-      "icone": "💼",
-      "niveau_global": "moyen",
-      "items": [
-        {
-          "titre": "EODev renforce son offre dans les piles à combustible",
-          "analyse": "Le développement de l'hydrogène reste un axe fort de la transition énergétique. Cette dynamique confirme l'intérêt des fonds de Private Equity et thématiques ESG pour les cleantechs innovantes.",
-          "source": "GreenUnivers",
-          "url": "",
-          "niveau": "moyen"
-        }
-      ]
-    },
-    {
-      "titre": "Réglementation",
+      "titre": "Reglementation",
       "icone": "⚖️",
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "MiCA : fin de transition, nouvelles obligations CASP",
-          "analyse": "La régulation crypto européenne est désormais pleine. Les CGP doivent informer les clients détenant des crypto-actifs des nouvelles obligations déclaratives et de conformité.",
+          "titre": "MiCA : fin de transition et nouvelles obligations CASP",
+          "analyse": "L'entrée en vigueur du règlement MiCA impose des obligations strictes aux prestataires crypto. Cela sécurise l'écosystème pour les investisseurs mais réduit l'offre non conforme.",
           "source": "Finyear",
           "url": "",
-          "niveau": "moyen"
-        }
-      ]
-    },
-    {
-      "titre": "ESG",
-      "icone": "🌱",
-      "niveau_global": "moyen",
-      "items": [
-        {
-          "titre": "Projet électrique en Camargue : l'État passe en force",
-          "analyse": "L'exemption d'autorisation environnementale illustre la volonté de l'État d'accélérer les infrastructures vertes malgré les oppositions. Un signal positif pour les fonds d'infrastructures liés à la transition énergétique.",
-          "source": "GreenUnivers",
-          "url": "",
-          "niveau": "faible"
+          "niveau": "fort"
         }
       ]
     }
