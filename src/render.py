@@ -42,6 +42,7 @@ def render_digest(digest: dict, page_url: str = "", embed_css: bool = True) -> s
         _bandeau_marches_calmes() if marches_calmes else "",
         _bandeau_fallback() if fallback else "",
         _synthese(synthese) if synthese else "",
+        _trading_agents_section(digest),
         _chiffres_cles(chiffres) if chiffres else "",
         '<main class="sections">',
     ]
@@ -98,6 +99,58 @@ def _synthese(synthese: str) -> str:
     return f"""<section class="synthese">
 <h2>Synthese du jour</h2>
 <p>{html.escape(synthese)}</p>
+</section>"""
+
+
+def _trading_agents_section(digest: dict) -> str:
+    """Section TradingAgents Intelligence de Marché.
+    Affichée dans le digest, donne au CGP une vue marché multi-agent
+    générée par l'IA en complément des actualités patrimoniales.
+    """
+    ta = digest.get("trading_agents", {})
+    if not ta:
+        # Si pas de donnée TradingAgents, on affiche un lien vers le projet
+        return """<section class="section trading-agents">
+<h2>🤖 TradingAgents Intelligence de Marché</h2>
+<div class="items"><a href="https://github.com/Nathandevg/albea-veille/blob/main/daily_ta_analysis.py" class="item" target="_blank" rel="noopener">
+<div class="item-header"><span class="item-title">Activer l'analyse marché multi-agents</span></div>
+<p class="analyse">Analyse multi-agents (TradingAgents) : débat entre analystes fondamentaux, techniques, sentiment et risque pour les marchés suivis. Configuration dans daily_ta_analysis.py</p>
+<div class="item-source">— <a href="https://github.com/TauricResearch/TradingAgents">TauricResearch/TradingAgents</a></div>
+</a></div>
+</section>"""
+
+    tickers = ta.get("tickers", ["CAC40", "S&P500", "BTC-USD"])
+    sections_html = ""
+
+    for ticker_data in ta.get("analyses", []):
+        ticker = ticker_data.get("ticker", "—")
+        decision = ticker_data.get("decision", "HOLD")
+        confidence = ticker_data.get("confidence", "N/A")
+        reasoning = ticker_data.get("reasoning", "")
+        sentiment = ticker_data.get("sentiment", "")
+        risk = ticker_data.get("risk", "")
+
+        decision_badge = {"BUY": "🟢", "SELL": "🔴", "HOLD": "⚪"}.get(decision.upper(), "⚪")
+
+        items_html = f"""<a href="#" class="item {sentiment.lower() if sentiment in ('FORT','MOYEN','FAIBLE') else ''}" onclick="return false">
+  <div class="item-header">
+    <span class="item-title"><b>{ticker}</b> {decision_badge} {decision} (confiance: {confidence})</span>
+  </div>
+  <p class="analyse"><b>Raisonnement :</b> {html.escape(reasoning[:300])}</p>
+  <p class="analyse"><b>Sentiment :</b> {html.escape(sentiment)} &nbsp;|&nbsp; <b>Risque :</b> {html.escape(risk)}</p>
+  <div class="item-source">Analyse multi-agents TradingAgents</div>
+</a>"""
+
+        sections_html += f"""<div class="items">{items_html}</div>"""
+
+    return f"""<section class="section trading-agents">
+<h2>🤖 TradingAgents — Intelligence de Marché</h2>
+{sections_html}
+<div class="item-source" style="padding: 8px 20px; font-size: 12px;">
+Analyse générée par <a href="https://github.com/TauricResearch/TradingAgents" target="_blank" rel="noopener">TradingAgents</a> —
+débat multi-agents (fondamental, technique, sentiment, risque)
+| <a href="https://github.com/Nathandevg/albea-veille/blob/main/daily_ta_analysis.py" target="_blank">Configurer les tickers</a>
+</div>
 </section>"""
 
 

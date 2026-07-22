@@ -27,6 +27,13 @@ from synthesizer import synthesize_digest
 from render import render_digest
 from notify_digest import send_digest_notification
 
+# TradingAgents — analyse marché multi-agents
+try:
+    from daily_ta_analysis import load_analysis as load_ta_analysis
+    TA_AVAILABLE = True
+except ImportError:
+    TA_AVAILABLE = False
+
 # Configuration du logging
 logging.basicConfig(
     level=logging.INFO,
@@ -97,6 +104,15 @@ async def main() -> int:
     # 4. Synthèse IA
     logger.info("Synthese IA en cours...")
     digest = await synthesize_digest(relevant, date_paris)
+
+    # 4b. Injecte l'analyse TradingAgents si disponible
+    if TA_AVAILABLE:
+        ta_data = load_ta_analysis()
+        if ta_data:
+            ta_date = ta_data.get("trading_agents_date", "")
+            logger.info(f"Analyse TradingAgents chargee ({ta_date})")
+            digest["trading_agents"] = ta_data.get("trading_agents", {})
+
     logger.info(
         f"Digest: {digest.get('compte_articles', 0)} articles, "
         f"{digest.get('compte_forts', 0)} forts, "
