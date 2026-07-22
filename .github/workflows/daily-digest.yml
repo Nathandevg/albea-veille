@@ -29,13 +29,6 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Install TradingAgents (analyse multi-agents)
-        run: |
-          pip install tradingagents 2>&1 | tail -5
-          python -c "from tradingagents.graph.trading_graph import TradingAgentsGraph; print('TradingAgents ready')" 2>&1 || {
-            echo "TradingAgents echec -> fallback simulation"
-          }
-
       - name: Prepare dirs
         run: |
           mkdir -p docs/resumes docs/assets
@@ -49,9 +42,7 @@ jobs:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY || '' }}
           ALPHA_VANTAGE_API_KEY: ${{ secrets.ALPHA_VANTAGE_API_KEY || '' }}
         run: |
-          # S'assurer que tradingagents est accessible depuis le meme python
-          python -c "from tradingagents.graph.trading_graph import TradingAgentsGraph; print('TA ready')" 2>&1 || pip install tradingagents
-
+          pip install tradingagents 2>&1 | tail -3
           python daily_ta_analysis.py
 
       - name: Generate digest HTML
