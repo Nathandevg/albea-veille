@@ -15,7 +15,7 @@ permissions:
 jobs:
   digest:
     runs-on: ubuntu-latest
-    timeout-minutes: 8
+    timeout-minutes: 20
 
     steps:
       - name: Checkout
@@ -25,6 +25,7 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: '3.12'
+          cache: 'pip'
 
       - name: Install dependencies
         run: pip install -r requirements.txt
@@ -42,7 +43,7 @@ jobs:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY || '' }}
           ALPHA_VANTAGE_API_KEY: ${{ secrets.ALPHA_VANTAGE_API_KEY || '' }}
         run: |
-          pip install tradingagents 2>&1 | tail -3
+          pip install --quiet tradingagents 2>&1 | tail -1
           python daily_ta_analysis.py
 
       - name: Generate digest HTML
