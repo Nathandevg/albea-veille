@@ -38,3 +38,24 @@ Champs additionnels au top level :
 - "a_surveiller" : liste de 0 à 5 sujets à surveiller dans les jours qui viennent (1 phrase chacun)
 
 Réponds UNIQUEMENT en JSON valide, sans markdown, sans texte avant ou après."""
+
+
+DIGEST_BATCH_PROMPT = """Tu es un analyste financier qui prépare la matière première pour un briefing quotidien CGP.
+
+Analyse les articles ci-dessous et produis un JSON structuré avec les items les plus pertinents pour un CGP.
+
+Format de réponse attendu :
+{
+  "synthese_lot": "1-2 phrases sur la tendance macro de ces articles",
+  "items": [
+    {
+      "titre": "titre factuel (≤ 80 caractères)",
+      "analyse": "analyse CGP en 2-3 phrases",
+      "source": "nom du média",
+      "url": "URL de l'article",
+      "niveau": "fort/moyen/faible"
+    }
+  ]
+}
+
+Limite-toi aux 8 items les plus importants. Réponds UNIQUEMENT en JSON valide, sans markdown."""
