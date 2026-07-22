@@ -15,7 +15,7 @@ permissions:
 jobs:
   digest:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 15
 
     steps:
       - name: Checkout
@@ -29,11 +29,27 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
+      - name: Install TradingAgents (analyse multi-agents)
+        run: |
+          pip install tradingagents 2>&1 | tail -3
+          # Verifie que les clés API pour TradingAgents sont definies
+          # (les clés standard FANTASYAI_API_KEY / ANTHROPIC_API_KEY suffisent)
+
       - name: Prepare dirs
         run: |
           mkdir -p docs/resumes docs/assets
           touch src/history.json
           [ -s src/history.json ] || echo '{}' > src/history.json
+
+      - name: Run TradingAgents market analysis
+        env:
+          FANTASYAI_API_KEY: ${{ secrets.FANTASYAI_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.FANTASYAI_API_KEY }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY || '' }}
+          ALPHA_VANTAGE_API_KEY: ${{ secrets.ALPHA_VANTAGE_API_KEY || '' }}
+        run: |
+          python daily_ta_analysis.py \
+            --tickers "^FCHI,^GSPC,^FTSE,^N225,BTC-USD,OR.PA,MC.PA,AI.PA"
 
       - name: Generate digest HTML
         id: digest
@@ -41,42 +57,27 @@ jobs:
           FANTASYAI_API_KEY: ${{ secrets.FANTASYAI_API_KEY }}
           BARK_DEVICE_KEY: ${{ secrets.BARK_DEVICE_KEY }}
         run: |
-          # Genere l'HTML avec un placeholder PUBLIC_URL (l'URL reelle sera
-          # injectee apres l'upload 0x0.st)
           python src/daily.py
 
       - name: Commit & push digest to repo (GitHub Pages)
         id: upload
         run: |
-          # On commit le HTML dans le repo. GitHub Pages le sert avec le
-          # bon Content-Type (text/html) et le bon rendu.
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add docs/index.html docs/digest.json docs/resumes/
-          git commit -m "chore: daily digest $(date -u +%Y-%m-%d)" --no-verify || true
+          git add docs/index.html docs/digest.json docs/resumes/ docs/trading_agents.json
+          git commit -m "chore: daily digest + TA $(date -u +%Y-%m-%d)" --no-verify || true
 
           for i in 1 2 3; do
             git fetch origin main
             if ! git rebase origin/main; then
               git checkout --theirs docs/index.html src/history.json 2>/dev/null || true
-              git add docs/index.html src/history.json
+              git add docs/index.html src/history.json docs/trading_agents.json
               git rebase --continue --no-verify || { git rebase --abort; }
             fi
             if git push origin main; then
-              # Le fichier est commité. GitHub Pages sert le dernier commit.
               echo "URL=https://Nathandevg.github.io/albea-veille/" >> "$GITHUB_OUTPUT"
               echo "Push + Pages OK (tentative $i)"
               exit 0
             fi
           done
           echo "Push echoue (non bloquant)" >&2
-
-      - name: Re-render with real public URL & send Bark notification
-        if: steps.upload.outputs.URL
-        env:
-          PUBLIC_URL: ${{ steps.upload.outputs.URL }}
-          BARK_DEVICE_KEY: ${{ secrets.BARK_DEVICE_KEY }}
-        run: |
-          # Mode --notify : re-render l'HTML avec la vraie URL + envoi notif.
-          # Pas d'appel IA (le digest.json est deja genere).
-          python src/daily.py --notify
