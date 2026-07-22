@@ -12,13 +12,16 @@ import html
 from datetime import datetime
 
 
-def render_digest(digest: dict, page_url: str = "") -> str:
+def render_digest(digest: dict, page_url: str = "", embed_css: bool = True) -> str:
     """
     Rend le digest en HTML5 complet.
 
     Args:
         digest: Dict produit par synthesizer.synthesize_digest().
         page_url: URL canonique de la page (pour les balises meta).
+        embed_css: Si True, incorpore le CSS dans une balise <style>.
+                   Permet au fichier d'etre autonome et correctement rendu
+                   meme heberge sur paste.rs ou autre serveur de fichiers bruts.
     """
     date_fr = digest.get("date_fr", datetime.now().strftime("%A %d %B %Y"))
     compte_articles = digest.get("compte_articles", 0)
@@ -62,7 +65,8 @@ def render_digest(digest: dict, page_url: str = "") -> str:
 <meta property="og:description" content="{html.escape(desc)}">
 <meta property="og:type" content="article">
 <meta property="og:url" content="{html.escape(page_url)}">
-<link rel="stylesheet" href="assets/digest.css">
+	<link rel="stylesheet" href="assets/digest.css">
+{_embedded_css() if embed_css else ''}
 </head>
 <body>
 {body}
@@ -171,5 +175,84 @@ def _footer(date_fr: str, fallback: bool) -> str:
         else "Mode degrade (IA indisponible)"
     )
     return f"""<footer>
-<p>{html.escape(note)} • <a href="https://github.com/Nathandevg/albea-veille">Albea Veille</a> • Briefing du {html.escape(date_fr)}</p>
+	<p>{html.escape(note)} • <a href="https://github.com/Nathandevg/albea-veille">Albea Veille</a> • Briefing du {html.escape(date_fr)}</p>
 </footer>"""
+
+
+def _embedded_css() -> str:
+    """Renvoie le CSS inline dans une balise <style>.
+    Le fichier HTML devient autonome : rendu correct meme heberge
+    sur paste.rs ou autre serveur de fichiers bruts.
+    """
+    return """<style>
+:root {
+  --bg: #f8f9fb;
+  --surface: #ffffff;
+  --text: #1a1f2e;
+  --text-soft: #5a6175;
+  --border: #e3e7ef;
+  --brand: #1c3a5e;
+  --brand-soft: #e8eef7;
+  --fort: #c0392b;
+  --fort-bg: #fde9e7;
+  --moyen: #d68910;
+  --moyen-bg: #fdf2dd;
+  --faible: #7f8c8d;
+  --faible-bg: #f0f1f3;
+  --link: #2c5282;
+  --shadow: 0 1px 3px rgba(0,0,0,0.06);
+  --radius: 8px;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #0f1419; --surface: #1a2129; --text: #e6eaf0;
+    --text-soft: #9aa3b2; --border: #2a3441; --brand: #6b9bd6;
+    --brand-soft: #1e2a3a; --fort: #ff6b5b; --fort-bg: #3a1f1c;
+    --moyen: #f4b740; --moyen-bg: #3a2f1a; --faible: #7a8693;
+    --faible-bg: #2a2f36; --link: #7ab3e0;
+    --shadow: 0 1px 3px rgba(0,0,0,0.3);
+  }
+}
+*{box-sizing:border-box}
+body{margin:0;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;background:var(--bg);color:var(--text);line-height:1.5;font-size:16px;-webkit-font-smoothing:antialiased}
+a{color:var(--link);text-decoration:none}
+a:hover{text-decoration:underline}
+header{background:var(--brand);color:#fff;padding:24px 20px 28px;text-align:center}
+.brand{font-size:13px;letter-spacing:0.18em;font-weight:600;opacity:0.85;margin-bottom:8px}
+header h1{font-size:22px;font-weight:600;margin:0 0 16px;line-height:1.3}
+.counters{display:flex;justify-content:center;gap:8px;flex-wrap:wrap}
+.counter{background:rgba(255,255,255,0.15);padding:4px 12px;border-radius:999px;font-size:13px}
+.counter b{font-size:16px}
+.counter.fort{background:rgba(192,57,43,0.85)}
+.counter.moyen{background:rgba(214,137,16,0.85)}
+.banner{margin:16px 20px;padding:12px 16px;border-radius:var(--radius);text-align:center;font-size:14px}
+.banner.calme{background:var(--faible-bg);color:var(--text-soft)}
+.banner.fallback{background:var(--moyen-bg);color:var(--moyen)}
+section{margin:24px 20px;background:var(--surface);border-radius:var(--radius);padding:20px;box-shadow:var(--shadow)}
+section h2{font-size:18px;font-weight:600;margin:0 0 14px;color:var(--brand)}
+.synthese p{margin:0;font-size:16px;color:var(--text);font-style:italic}
+.chiffres ul{list-style:none;padding:0;margin:0;display:flex;flex-wrap:wrap;gap:8px}
+.chiffres li{background:var(--brand-soft);color:var(--brand);padding:6px 12px;border-radius:var(--radius);font-size:14px;font-weight:500}
+.section{padding:0;overflow:hidden}
+.section h2{padding:16px 20px;margin:0;background:var(--brand-soft);border-bottom:1px solid var(--border);display:flex;align-items:center;gap:8px;font-size:16px}
+.items{display:grid;gap:1px;background:var(--border)}
+.item{display:block;background:var(--surface);padding:14px 20px;color:var(--text);border-left:3px solid transparent;transition:background 0.1s}
+.item:hover{background:var(--brand-soft);text-decoration:none}
+.item-header{display:flex;justify-content:space-between;align-items:flex-start;gap:8px;margin-bottom:6px}
+.item-title{font-weight:600;font-size:15px;line-height:1.4;flex:1}
+.analyse{margin:6px 0;font-size:14px;color:var(--text-soft);line-height:1.5}
+.item-source{font-size:12px;color:var(--text-soft);opacity:0.8;margin-top:4px}
+.badge{display:inline-block;padding:2px 8px;border-radius:4px;font-size:10px;font-weight:700;letter-spacing:0.05em;flex-shrink:0}
+.badge.fort{background:var(--fort-bg);color:var(--fort)}
+.badge.moyen{background:var(--moyen-bg);color:var(--moyen)}
+.badge.faible{background:var(--faible-bg);color:var(--faible)}
+.a-surveiller ol{margin:0;padding-left:20px}
+.a-surveiller li{margin:8px 0;font-size:15px;color:var(--text)}
+footer{text-align:center;padding:30px 20px 40px;font-size:12px;color:var(--text-soft)}
+footer a{color:var(--text-soft);text-decoration:underline}
+@media(min-width:768px){
+.sections{display:grid;grid-template-columns:1fr 1fr;gap:16px;margin:0 20px}
+.sections .section{margin:0}
+header h1{font-size:26px}
+}
+</style>"""
