@@ -31,9 +31,10 @@ jobs:
 
       - name: Install TradingAgents (analyse multi-agents)
         run: |
-          pip install tradingagents 2>&1 | tail -3
-          # Verifie que les clés API pour TradingAgents sont definies
-          # (les clés standard FANTASYAI_API_KEY / ANTHROPIC_API_KEY suffisent)
+          pip install tradingagents 2>&1 | tail -5
+          python -c "from tradingagents.graph.trading_graph import TradingAgentsGraph; print('TradingAgents ready')" 2>&1 || {
+            echo "TradingAgents echec -> fallback simulation"
+          }
 
       - name: Prepare dirs
         run: |
@@ -63,7 +64,9 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add docs/index.html docs/digest.json docs/resumes/ docs/trading_agents.json
+          git add docs/index.html docs/digest.json docs/resumes/
+          # trading_agents.json existe seulement si l'analyse reelle a tourne
+          [ -f docs/trading_agents.json ] && git add docs/trading_agents.json || true
           git commit -m "chore: daily digest + TA $(date -u +%Y-%m-%d)" --no-verify || true
 
           for i in 1 2 3; do
