@@ -105,7 +105,11 @@ def _chiffres_cles(chiffres: list[str]) -> str:
 </section>"""
 
 
-def _section(section: dict) -> str:
+def _section(section) -> str:
+    # Tolérant : les modèles IA peuvent renvoyer une section sous forme
+    # de string au lieu d'un dict (variations entre modèles).
+    if isinstance(section, str):
+        return ""
     titre = section.get("titre", "Section")
     icone = section.get("icone", "📰")
     niveau_global = section.get("niveau_global", "")
@@ -123,7 +127,9 @@ def _section(section: dict) -> str:
 </section>"""
 
 
-def _item(item: dict) -> str:
+def _item(item) -> str:
+    if isinstance(item, str):
+        return ""
     titre = html.escape(item.get("titre", ""))
     analyse = html.escape(item.get("analyse", ""))
     source = html.escape(item.get("source", ""))
