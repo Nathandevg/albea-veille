@@ -93,14 +93,10 @@ async def _send_one(client: httpx.AsyncClient, result: AnalysisResult) -> bool:
     if result.article.url:
         url += f"?url={urllib.parse.quote(result.article.url, safe='')}"
 
-    # Grouper + niveau de priorité
+    # Grouper (niveau de priorité standard, ne perce pas le mode Focus)
     url += "&group=AlbeaVeille"
-    if result.niveau == "fort":
-        url += "&level=timeSensitive"  # notif prioritaire qui perce le mode focus
-    elif result.niveau == "moyen":
-        url += "&level=active"
 
-    # Icône et son selon le niveau
+    # Son selon le niveau
     if result.niveau == "fort":
         url += "&sound=alarm"
     elif result.niveau == "moyen":

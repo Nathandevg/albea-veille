@@ -91,9 +91,7 @@ async def send_digest_notification(
         f"&sound=bell"
     )
 
-    # Priorité timeSensitive si au moins 1 impact fort
-    if compte_forts > 0:
-        url += "&level=timeSensitive"
+    # Niveau de priorité standard (ne perce pas le mode Focus)
 
     return await _send(url, "digest")
 
