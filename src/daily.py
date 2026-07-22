@@ -61,6 +61,10 @@ def get_date_paris() -> datetime:
 
 async def main() -> int:
     """Point d'entrée principal. Retourne 0 si OK, 1 si erreur."""
+    # Mode --notify : re-render avec PUBLIC_URL + envoi notif (pas d'appel IA)
+    if "--notify" in sys.argv:
+        return await _notify_only()
+
     logger.info("=== Demarrage briefing quotidien Albea ===")
 
     if not os.environ.get("FANTASYAI_API_KEY"):
@@ -110,6 +114,11 @@ async def main() -> int:
     DOCS_DIR.mkdir(parents=True, exist_ok=True)
     RESUMES_DIR.mkdir(parents=True, exist_ok=True)
 
+    # Sauvegarde le digest JSON (pour le step notif du workflow, evite un 2e appel IA)
+    (DOCS_DIR / "digest.json").write_text(
+        json.dumps(digest, ensure_ascii=False, indent=2), encoding="utf-8"
+    )
+
     # Index = la page du jour
     (DOCS_DIR / "index.html").write_text(html_content, encoding="utf-8")
     # Archive datée
@@ -145,6 +154,33 @@ async def main() -> int:
 
     logger.info("=== Fin briefing quotidien ===")
     return 0
+
+
+async def _notify_only() -> int:
+    """Mode --notify : re-render avec PUBLIC_URL + envoi notif. Pas d'appel IA."""
+    if not PUBLIC_URL:
+        logger.error("--notify: PUBLIC_URL non defini")
+        return 1
+
+    digest_file = DOCS_DIR / "digest.json"
+    if not digest_file.exists():
+        logger.error("--notify: digest.json introuvable (le step IA a echoue ?)")
+        return 1
+
+    digest = json.loads(digest_file.read_text(encoding="utf-8"))
+    html_content = render_digest(digest, PUBLIC_URL)
+
+    # Re-ecrit index.html avec la vraie URL
+    (DOCS_DIR / "index.html").write_text(html_content, encoding="utf-8")
+
+    # Notif Bark
+    if digest.get("marches_calmes"):
+        sent = await send_digest_notification(digest, PUBLIC_URL)
+    else:
+        sent = await send_digest_notification(digest, PUBLIC_URL)
+
+    logger.info(f"Notif digest envoyee : {sent}")
+    return 0 if sent else 1
 
 
 def _rotate_archives(resumes_dir: Path, keep: int) -> None:

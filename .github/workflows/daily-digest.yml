@@ -73,9 +73,8 @@ jobs:
         if: steps.upload.outputs.URL
         env:
           PUBLIC_URL: ${{ steps.upload.outputs.URL }}
-          FANTASYAI_API_KEY: ${{ secrets.FANTASYAI_API_KEY }}
           BARK_DEVICE_KEY: ${{ secrets.BARK_DEVICE_KEY }}
         run: |
-          # On regenere l'HTML avec la vraie URL publique et on re-envoie
-          # la notif. Cote IA c'est gratuit (pas d'appel), donc no-cout.
-          python src/daily.py
+          # Mode --notify : re-render l'HTML avec la vraie URL + envoi notif.
+          # Pas d'appel IA (le digest.json est deja genere).
+          python src/daily.py --notify

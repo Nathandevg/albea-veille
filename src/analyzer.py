@@ -220,5 +220,5 @@ Contenu : {article.summary[:1500]}
 
 
 def filter_impactful(results: list[AnalysisResult]) -> list[AnalysisResult]:
-    """Ne garde que les articles avec impact moyen ou fort."""
-    return [r for r in results if r.impact and r.niveau in ("moyen", "fort")]
+    """Ne garde que les articles avec impact fort."""
+    return [r for r in results if r.impact and r.niveau == "fort"]
