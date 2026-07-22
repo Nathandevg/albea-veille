@@ -103,12 +103,19 @@ def run_ta_analysis(tickers: list[str] | None = None) -> dict:
     date_str = datetime.now(timezone.utc).strftime("%Y-%m-%d")
     results = {"analyses": [], "tickers": tickers, "date": date_str}
 
-    for ticker in tickers:
+    # Lancement parallèle des analyses via ThreadPoolExecutor.
+    # Chaque ticker est indépendant, donc on peut les lancer simultanément.
+    # 25 tickers × 30s = ~30s au lieu de ~12 min.
+    from concurrent.futures import ThreadPoolExecutor, as_completed
+
+    def analyze_one(ticker: str) -> dict:
+        """Analyse un ticker avec TradingAgents."""
         try:
             config = DEFAULT_CONFIG.copy()
             config["deep_think_llm"] = "claude-opus-4-8"
             config["quick_think_llm"] = "claude-3-5-sonnet-20241022"
             config["max_debate_rounds"] = 2
+            config["stream"] = False  # Pas de streaming en parallèle
 
             ta = TradingAgentsGraph(debug=False, config=config)
             _, decision = ta.propagate(ticker, date_str)
@@ -122,18 +129,27 @@ def run_ta_analysis(tickers: list[str] | None = None) -> dict:
                 "risk": decision.get("risk_level", "MEDIUM"),
             }
             logger.info(f"  {ticker}: {analysis['decision']} (confiance: {analysis['confidence']})")
-            results["analyses"].append(analysis)
+            return analysis
 
         except Exception as e:
             logger.error(f"  {ticker}: echec — {e}")
-            results["analyses"].append({
+            return {
                 "ticker": ticker,
                 "decision": "ERROR",
                 "confidence": "N/A",
                 "reasoning": f"Erreur: {e}",
                 "sentiment": "NEUTRAL",
                 "risk": "N/A",
-            })
+            }
+
+    max_workers = min(len(tickers), 10)  # 10 workers max pour ne pas surcharger l'API
+    logger.info(f"Lancement parallele de {len(tickers)} analyses ({max_workers} workers)...")
+
+    with ThreadPoolExecutor(max_workers=max_workers) as executor:
+        futures = {executor.submit(analyze_one, t): t for t in tickers}
+        for future in as_completed(futures):
+            analysis = future.result()
+            results["analyses"].append(analysis)
 
     return {"trading_agents": results, "trading_agents_date": date_str}
 
