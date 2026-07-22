@@ -289,9 +289,37 @@ Syntheses des lots : {syntheses}
 Items extraits par lots :
 {items_json}
 
-Structure le briefing quotidien CGP complet a partir de ces items. Trie par section
-thematique, deduplique, et classe par niveau d'impact. Ajoute les chiffres cles et
-la synthese de jour. N'invente pas de sources/urls qui ne sont pas dans les items."""
+CLASSE ces items par section thematique, deduplique les doublons, trie par niveau d'impact.
+N'invente pas de sources/urls qui ne sont pas dans les items.
+
+Reponds EXACTEMENT au format JSON suivant (remplis les sections vides) :
+{{
+  "date_fr": "mercredi 22 juillet 2026",
+  "synthese_jour": "2-3 phrases de contexte macro",
+  "chiffres_cles": ["CAC 40: +0.8%", "OAT 10 ans: 3.2%"],
+  "a_surveiller": ["Sujet a surveiller 1 phrase chacun"],
+  "sections": [
+    {{
+      "titre": "Marches financiers",
+      "icone": "📈",
+      "niveau_global": "moyen",
+      "items": [
+        {{
+          "titre": "Titre article",
+          "analyse": "Analyse CGP en 2-3 phrases",
+          "source": "Nom source",
+          "url": "URL",
+          "niveau": "fort/moyen/faible"
+        }}
+      ]
+    }}
+  ]
+}}
+
+Chaque section doit etre un objet avec titre, icone, niveau_global, items.
+Les sections possibles : Marches financiers, Fiscalite, SCPI & Immobilier, Assurance-vie, Private equity, Retraite & Epargne salariale, Reglementation, ESG.
+NE RENVOIE PAS de sections vides. Si une section n'a pas d'article, ne l'inclus pas.
+Assure-toi que "sections" est toujours un tableau d'objets (jamais de strings)."""
 
 
 def _item_list_digest(

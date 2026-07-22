@@ -97,8 +97,10 @@ def _synthese(synthese: str) -> str:
 </section>"""
 
 
-def _chiffres_cles(chiffres: list[str]) -> str:
-    items = "".join(f'<li>{html.escape(c)}</li>' for c in chiffres)
+def _chiffres_cles(chiffres: list) -> str:
+    items = "".join(
+        f"<li>{html.escape(str(c))}</li>" for c in chiffres
+    )
     return f"""<section class="chiffres">
 <h2>📈 Chiffres cles</h2>
 <ul>{items}</ul>
