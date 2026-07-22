@@ -45,29 +45,31 @@ jobs:
           # injectee apres l'upload 0x0.st)
           python src/daily.py
 
-      - name: Upload digest to paste.rs
+      - name: Commit & push digest to repo (GitHub Pages)
         id: upload
         run: |
-          # paste.rs = paste HTML anonyme, public, permanent.
-          # Alternative a 0x0.st (qui est souvent en panne).
-          # Retry x5 avec backoff.
-          URL=""
-          for i in 1 2 3 4 5; do
-            URL=$(curl -fsSL -F "content=@docs/index.html" \
-                  -A "AlbeaVeille/1.0" \
-                  https://paste.rs 2>&1) || true
-            if [ -n "$URL" ] && [[ "$URL" == https://* ]]; then
-              break
+          # On commit le HTML dans le repo. GitHub Pages le sert avec le
+          # bon Content-Type (text/html) et le bon rendu.
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/index.html docs/digest.json docs/resumes/
+          git commit -m "chore: daily digest $(date -u +%Y-%m-%d)" --no-verify || true
+
+          for i in 1 2 3; do
+            git fetch origin main
+            if ! git rebase origin/main; then
+              git checkout --theirs docs/index.html src/history.json 2>/dev/null || true
+              git add docs/index.html src/history.json
+              git rebase --continue --no-verify || { git rebase --abort; }
             fi
-            echo "paste.rs tentative $i echouee: $URL"
-            sleep $((i * 5))
+            if git push origin main; then
+              # Le fichier est commité. GitHub Pages sert le dernier commit.
+              echo "URL=https://Nathandevg.github.io/albea-veille/" >> "$GITHUB_OUTPUT"
+              echo "Push + Pages OK (tentative $i)"
+              exit 0
+            fi
           done
-          if [ -z "$URL" ] || [[ "$URL" != https://* ]]; then
-            echo "paste.rs: toutes les tentatives ont echoue" >&2
-            exit 1
-          fi
-          echo "URL=${URL}" >> "$GITHUB_OUTPUT"
-          echo "Digest upload: ${URL}"
+          echo "Push echoue (non bloquant)" >&2
 
       - name: Re-render with real public URL & send Bark notification
         if: steps.upload.outputs.URL
