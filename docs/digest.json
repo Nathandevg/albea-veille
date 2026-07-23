@@ -1,73 +1,66 @@
 {
-  "date_fr": "mercredi 22 juillet 2026",
-  "synthese_jour": "La journée est marquée par des tensions macroéconomiques croissantes, notamment sur la dette française et les perspectives de croissance mondiale. Les marchés financiers restent volatils, tandis que l'épargne réglementée continue de subir une décollecte historique. Les CGP doivent rester vigilants sur les arbitrages d'actifs et les opportunités sectorielles.",
+  "date_fr": "jeudi 23 juillet 2026",
+  "synthese_jour": "Les tensions géopolitiques au Moyen-Orient et en Europe continuent de peser sur les marchés, avec des impacts directs sur les matières premières et les valeurs refuges. En parallèle, la décollecte record sur le Livret A et la hausse des taux d'intérêt en zone euro marquent un tournant pour les stratégies d'épargne et d'investissement.",
   "chiffres_cles": [
-    "CAC 40: +0.8%",
-    "OAT 10 ans: 3.2%",
-    "Pétrole Brent: 95.3 $",
-    "Bitcoin: 66 000 $",
-    "Décollecte Livret A S1 2026: -5.93 Md€"
+    "CAC 40: -0.5%",
+    "OAT 10 ans: 4.0%",
+    "Brent: 98 $/baril",
+    "Or: 2 050 $/once",
+    "Bitcoin: 66 000 $"
   ],
   "a_surveiller": [
-    "Évolution des tensions géopolitiques au Moyen-Orient et leur impact sur le pétrole.",
-    "Réformes budgétaires françaises et leurs implications fiscales.",
-    "Persistance de la décollecte sur les livrets réglementés.",
-    "Impact des nouvelles règles européennes sur le crédit immobilier.",
-    "Entrée en vigueur des obligations MiCA pour les prestataires crypto."
+    "Décision de la BCE sur les taux et ses impacts sur les marchés obligataires.",
+    "Évolution des tensions au Moyen-Orient, notamment autour du détroit d'Ormuz.",
+    "Réactions des marchés aux résultats d'Alphabet et Tesla.",
+    "Poursuite de la décollecte sur les produits d'épargne réglementée.",
+    "Impacts des réformes budgétaires françaises sur la fiscalité patrimoniale."
   ],
   "sections": [
     {
-      "titre": "Marches financiers",
+      "titre": "Marchés financiers",
       "icone": "📈",
-      "niveau_global": "moyen",
+      "niveau_global": "fort",
       "items": [
         {
-          "titre": "Budget 2027 : Lecornu juge la dette française « grave »",
-          "analyse": "Le Premier ministre affiche un pessimisme sur la trajectoire budgétaire, avec un déficit prévu à 5% du PIB en 2026. Cela renforce les tensions sur les taux souverains français et appelle à une prudence accrue sur la dette domestique.",
-          "source": "Le Monde.fr",
-          "url": "https://www.lemonde.fr",
-          "niveau": "fort"
-        },
-        {
-          "titre": "Banque mondiale : « désastre » sur l'économie globale",
-          "analyse": "La croissance mondiale pourrait chuter à 1,3% en 2026 si les tensions géopolitiques persistent. Cela défavorise les actifs risqués et renforce l'intérêt pour les valeurs refuges.",
-          "source": "La Tribune",
-          "url": "https://www.latribune.fr",
-          "niveau": "fort"
-        },
-        {
-          "titre": "Pétrole au-dessus de 95 dollars : les espoirs de désescalade avec l'Iran s'amenuisent",
-          "analyse": "La hausse du baril alimente les pressions inflationnistes et pèse sur les anticipations de baisse de taux. Cela justifie une surpondération temporaire du secteur énergétique.",
-          "source": "MarketWatch.com - Top Stories",
-          "url": "",
-          "niveau": "fort"
-        },
-        {
-          "titre": "Bitcoin remonte à 66 000 dollars, les actions IA perdent de l'élan",
-          "analyse": "Le Bitcoin atteint un sommet récent, tandis que les valeurs IA s'essoufflent. Les CGP doivent surveiller cette divergence pour ajuster les expositions technologiques et numériques.",
+          "titre": "Taux français à 10 ans à 4% : un record depuis 2009",
+          "analyse": "Le franchissement des 4% sur l'OAT 10 ans signale une défiance accrue des investisseurs face à la trajectoire budgétaire française. Les CGP doivent réévaluer les allocations obligataires et surveiller le coût du crédit pour les emprunteurs.",
           "source": "Le Revenu",
-          "url": "https://www.lerevenu.com/actualites-financieres/bitcoin-66000-actions-ia",
+          "url": "https://www.lerevenu.com",
+          "niveau": "fort"
+        },
+        {
+          "titre": "Le bull market face à un risque accru de hausse de la Fed (crise iranienne)",
+          "analyse": "La remontée des rendements obligataires et du pétrole sous tension géopolitique menace la dynamique haussière des marchés actions. Les CGP doivent durcir la sensibilité obligataire et sécuriser les gains sur les valeurs volatiles.",
+          "source": "MarketWatch.com",
+          "url": "https://www.marketwatch.com",
+          "niveau": "fort"
+        },
+        {
+          "titre": "Le Bitcoin remonte à 66 000 dollars, l'IA perd de son élan",
+          "analyse": "Le retour du Bitcoin à 66 k$ s'inscrit dans une rotation sectorielle au détriment des valeurs IA. Les CGP doivent surveiller les positions sur les actifs numériques et rappeler les risques de volatilité.",
+          "source": "Le Revenu",
+          "url": "https://www.lerevenu.com",
           "niveau": "moyen"
         }
       ]
     },
     {
-      "titre": "Fiscalite",
+      "titre": "Fiscalité",
       "icone": "💰",
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "Impôt sur le revenu : 12 millions de ménages vont recevoir un virement",
-          "analyse": "Restitution moyenne de 1 057 € pour 12 millions de foyers. Cela offre une opportunité pour les CGP de conseiller sur l'affectation de cette trésorerie, notamment vers l'assurance-vie ou le PER.",
-          "source": "La Tribune",
-          "url": "https://www.latribune.fr/actualites/impot-revenu-remboursement-2026",
-          "niveau": "moyen"
+          "titre": "Compte courant d'associé : fiscalité et remboursement",
+          "analyse": "Le compte courant d'associé reste un levier de financement souple, mais les règles de rémunération et d'imposition évoluent régulièrement. Les CGP doivent intégrer ce point dans les bilans patrimoniaux des dirigeants.",
+          "source": "JDN",
+          "url": "https://www.jdn.fr/compte-courant-associe",
+          "niveau": "fort"
         },
         {
-          "titre": "Budget 2027 : Sébastien Lecornu esquisse des pistes face au déficit",
-          "analyse": "Le contexte de rigueur budgétaire pourrait affecter la fiscalité de l'épargne et des revenus du capital. Les CGP doivent anticiper d'éventuels changements fiscaux.",
-          "source": "Challenges",
-          "url": "https://www.challenges.fr/budget-2027-lecornu-deficit",
+          "titre": "SCI familiale : choisir entre IR et IS",
+          "analyse": "Le choix entre IR et IS conditionne le rendement net des investissements immobiliers familiaux. Les CGP doivent accompagner leurs clients dans cette décision stratégique, notamment en vue de transmissions.",
+          "source": "JDN",
+          "url": "https://www.jdn.fr/sci-familiale-ir-ou-is",
           "niveau": "fort"
         }
       ]
@@ -78,24 +71,24 @@
       "niveau_global": "fort",
       "items": [
         {
-          "titre": "Maisons fissurées : bombe climatique à 500 Mds €",
-          "analyse": "Le coût du retrait-gonflement des argiles est estimé à 500 Mds €. Les CGP doivent intégrer ce risque dans les conseils immobiliers et vérifier les couvertures d'assurance.",
-          "source": "La Tribune",
-          "url": "https://www.latribune.fr",
+          "titre": "Le Livret A enregistre son pire premier semestre depuis près de vingt ans",
+          "analyse": "La décollecte nette de 5,93 Md€ au S1 2026 reflète une perte d'attractivité de l'épargne réglementée. Les CGP doivent proposer des alternatives comme les SCPI de rendement ou les fonds euros dynamiques.",
+          "source": "Le Revenu",
+          "url": "https://www.lerevenu.com",
           "niveau": "fort"
         },
         {
-          "titre": "Crédit immobilier : le modèle français menacé par les règles européennes",
-          "analyse": "L'application des règles de Bâle pourrait durcir l'accès au crédit immobilier. Les CGP doivent conseiller leurs clients sur la sécurisation de leurs projets immobiliers.",
-          "source": "Le Revenu - Actualités financières",
-          "url": "",
+          "titre": "Crédit immobilier : 4 solutions pour éviter un refus à cause du taux d'usure",
+          "analyse": "Le blocage du taux d'usure complique le financement de certains profils. Les CGP doivent anticiper des solutions comme le lissage ou l'optimisation de l'assurance emprunteur pour sécuriser les projets.",
+          "source": "Le Revenu",
+          "url": "https://www.lerevenu.com",
           "niveau": "fort"
         },
         {
-          "titre": "Dispositif Jeanbrun : un amortissement fiscal pour relancer l'investissement locatif",
-          "analyse": "Le remplacement du Pinel par un mécanisme d'amortissement fiscal ouvre de nouvelles opportunités pour les investisseurs. Les CGP doivent évaluer les conditions pour intégrer ce dispositif.",
-          "source": "Le Revenu - Actualités financières",
-          "url": "",
+          "titre": "Retrait-gonflement des argiles : un risque évalué à 500 Mds€",
+          "analyse": "Le coût du risque argile, estimé à 500 Mds€, pose des enjeux majeurs d'assurance et de valorisation immobilière. Les CGP doivent vérifier la couverture sinistres des biens immobiliers de leurs clients.",
+          "source": "notretemps.com",
+          "url": "https://notretemps.com",
           "niveau": "fort"
         }
       ]
@@ -103,26 +96,44 @@
     {
       "titre": "Assurance-vie",
       "icone": "📜",
+      "niveau_global": "faible",
+      "items": []
+    },
+    {
+      "titre": "Private equity",
+      "icone": "💼",
+      "niveau_global": "faible",
+      "items": []
+    },
+    {
+      "titre": "Retraite & Épargne salariale",
+      "icone": "🏦",
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "Le Livret A enregistre son pire premier semestre depuis près de vingt ans",
-          "analyse": "La décollecte nette de 5,93 Md€ interroge sur l'affectation de l'épargne. Les CGP doivent proposer des alternatives comme l'assurance-vie ou les fonds euros.",
-          "source": "Le Revenu",
-          "url": "https://www.lerevenu.com/actualites-financieres/livret-a-pire-premier-semestre",
+          "titre": "Revalorisation des retraites : le CSR propose de réduire les pensions",
+          "analyse": "Le Comité de suivi des retraites suggère de limiter la revalorisation des pensions jusqu'en 2030. Les CGP doivent renforcer les stratégies d'épargne retraite pour compenser la perte de pouvoir d'achat.",
+          "source": "notretemps.com",
+          "url": "https://notretemps.com",
           "niveau": "fort"
         }
       ]
     },
     {
-      "titre": "Reglementation",
+      "titre": "Réglementation",
       "icone": "⚖️",
+      "niveau_global": "moyen",
+      "items": []
+    },
+    {
+      "titre": "ESG",
+      "icone": "🌱",
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "MiCA : fin de transition et nouvelles obligations CASP",
-          "analyse": "L'entrée en vigueur du règlement MiCA impose des obligations strictes aux prestataires crypto. Cela sécurise l'écosystème pour les investisseurs mais réduit l'offre non conforme.",
-          "source": "Finyear",
+          "titre": "Iroko Atlas obtient le label ISR pour sa SCPI",
+          "analyse": "L'obtention du label ISR renforce le positionnement ESG de cette SCPI. Les CGP doivent vérifier l'impact sur le rendement net et la composition du patrimoine sous-jacent.",
+          "source": "MeilleureSCPI.com",
           "url": "",
           "niveau": "fort"
         }
