@@ -1,19 +1,19 @@
 {
-  "date_fr": "jeudi 23 juillet 2026",
-  "synthese_jour": "Les tensions géopolitiques au Moyen-Orient et en Europe continuent de peser sur les marchés, avec des impacts directs sur les matières premières et les valeurs refuges. En parallèle, la décollecte record sur le Livret A et la hausse des taux d'intérêt en zone euro marquent un tournant pour les stratégies d'épargne et d'investissement.",
+  "date_fr": "vendredi 24 juillet 2026",
+  "synthese_jour": "Les marchés digèrent des tensions géopolitiques croissantes (Ukraine, Moyen-Orient) et un pétrole à 100$, alimentant les craintes inflationnistes. Les taux français atteignent 4%, impactant les crédits et les portefeuilles obligataires. L'immobilier et les SCPI montrent des signes de résilience malgré un contexte tendu.",
   "chiffres_cles": [
     "CAC 40: -0.5%",
-    "OAT 10 ans: 4.0%",
-    "Brent: 98 $/baril",
-    "Or: 2 050 $/once",
-    "Bitcoin: 66 000 $"
+    "Brent: 100 USD",
+    "OAT 10 ans: 4%",
+    "PMI Zone Euro: 51.9",
+    "Taux BCE: 2.25%"
   ],
   "a_surveiller": [
-    "Décision de la BCE sur les taux et ses impacts sur les marchés obligataires.",
-    "Évolution des tensions au Moyen-Orient, notamment autour du détroit d'Ormuz.",
-    "Réactions des marchés aux résultats d'Alphabet et Tesla.",
-    "Poursuite de la décollecte sur les produits d'épargne réglementée.",
-    "Impacts des réformes budgétaires françaises sur la fiscalité patrimoniale."
+    "Évolution des tensions géopolitiques en Ukraine et au Moyen-Orient.",
+    "Impact du pétrole à 100$ sur l'inflation et les politiques monétaires.",
+    "Résultats des entreprises technologiques et leur impact sur les marchés.",
+    "Tendances des taux immobiliers et leur effet sur le marché du neuf.",
+    "Réactions politiques face aux superprofits des entreprises énergétiques."
   ],
   "sections": [
     {
@@ -22,22 +22,29 @@
       "niveau_global": "fort",
       "items": [
         {
-          "titre": "Taux français à 10 ans à 4% : un record depuis 2009",
-          "analyse": "Le franchissement des 4% sur l'OAT 10 ans signale une défiance accrue des investisseurs face à la trajectoire budgétaire française. Les CGP doivent réévaluer les allocations obligataires et surveiller le coût du crédit pour les emprunteurs.",
-          "source": "Le Revenu",
-          "url": "https://www.lerevenu.com",
+          "titre": "Trump impose une nouvelle salve de droits de douane à 60 économies, la Chine visée",
+          "analyse": "Cette escalade protectionniste accroît l'incertitude sur les chaînes d'approvisionnement mondiales, soutient le dollar mais pèse sur les actions émergentes et européennes. Une diversification accrue est recommandée.",
+          "source": "La Tribune",
+          "url": "https://www.latribune.fr/economie/international/trump-lance-une-nouvelle-salve-de-droits-de-douane-la-chine-tres-mecontente-l-europe-soulagee-1011507.html",
           "niveau": "fort"
         },
         {
-          "titre": "Le bull market face à un risque accru de hausse de la Fed (crise iranienne)",
-          "analyse": "La remontée des rendements obligataires et du pétrole sous tension géopolitique menace la dynamique haussière des marchés actions. Les CGP doivent durcir la sensibilité obligataire et sécuriser les gains sur les valeurs volatiles.",
-          "source": "MarketWatch.com",
-          "url": "https://www.marketwatch.com",
+          "titre": "Taux d'emprunt de la France à 10 ans au plus haut depuis 2009",
+          "analyse": "Le taux obligataire français franchit les 4%, soulevant des questions sur le coût de la dette publique et l'impact sur les portefeuilles à duration longue.",
+          "source": "La Tribune",
+          "url": "https://www.latribune.fr",
           "niveau": "fort"
         },
         {
-          "titre": "Le Bitcoin remonte à 66 000 dollars, l'IA perd de son élan",
-          "analyse": "Le retour du Bitcoin à 66 k$ s'inscrit dans une rotation sectorielle au détriment des valeurs IA. Les CGP doivent surveiller les positions sur les actifs numériques et rappeler les risques de volatilité.",
+          "titre": "Brent à 100 dollars : le conflit en mer Rouge relance les cours",
+          "analyse": "Le baril dépasse les 100 dollars, alimentant les craintes inflationnistes. Cela renforce l'intérêt pour les valeurs pétrolières mais impose une vigilance sur les portefeuilles cycliques.",
+          "source": "La Tribune",
+          "url": "https://www.latribune.fr",
+          "niveau": "fort"
+        },
+        {
+          "titre": "Zone euro : l'activité retrouve le chemin de la croissance en juillet",
+          "analyse": "Le PMI composite à 51,9 points est un signal positif pour les actions européennes, mais les tensions géopolitiques et monétaires restent des freins.",
           "source": "Le Revenu",
           "url": "https://www.lerevenu.com",
           "niveau": "moyen"
@@ -47,20 +54,20 @@
     {
       "titre": "Fiscalité",
       "icone": "💰",
-      "niveau_global": "moyen",
+      "niveau_global": "fort",
       "items": [
         {
-          "titre": "Compte courant d'associé : fiscalité et remboursement",
-          "analyse": "Le compte courant d'associé reste un levier de financement souple, mais les règles de rémunération et d'imposition évoluent régulièrement. Les CGP doivent intégrer ce point dans les bilans patrimoniaux des dirigeants.",
-          "source": "JDN",
-          "url": "https://www.jdn.fr/compte-courant-associe",
+          "titre": "Fiscalité : comment 133 000 riches entrepreneurs échappent à l'impôt sur le revenu",
+          "analyse": "Les stratégies d'optimisation fiscale (holding, pacte Dutreil) sont au cœur des arbitrages patrimoniaux. Les CGP doivent surveiller les évolutions législatives potentielles.",
+          "source": "Alternatives économiques",
+          "url": "https://www.alternatives-economiques.fr/inegalite-fiscale-133-000-riches-echappent-a-limpot",
           "niveau": "fort"
         },
         {
-          "titre": "SCI familiale : choisir entre IR et IS",
-          "analyse": "Le choix entre IR et IS conditionne le rendement net des investissements immobiliers familiaux. Les CGP doivent accompagner leurs clients dans cette décision stratégique, notamment en vue de transmissions.",
-          "source": "JDN",
-          "url": "https://www.jdn.fr/sci-familiale-ir-ou-is",
+          "titre": "Impôt sur le revenu : remboursement ou solde à payer",
+          "analyse": "L'administration fiscale établit les montants définitifs après la déclaration. C'est un moment clé pour optimiser la gestion de trésorerie des clients.",
+          "source": "La finance pour tous",
+          "url": "https://lafinancepourtous.com",
           "niveau": "fort"
         }
       ]
@@ -71,24 +78,24 @@
       "niveau_global": "fort",
       "items": [
         {
-          "titre": "Le Livret A enregistre son pire premier semestre depuis près de vingt ans",
-          "analyse": "La décollecte nette de 5,93 Md€ au S1 2026 reflète une perte d'attractivité de l'épargne réglementée. Les CGP doivent proposer des alternatives comme les SCPI de rendement ou les fonds euros dynamiques.",
-          "source": "Le Revenu",
-          "url": "https://www.lerevenu.com",
+          "titre": "SCPI Elialys : 25e acquisition avec une salle de sport à Porto sous bail ferme de 15 ans",
+          "analyse": "Cette acquisition renforce la visibilité des revenus locatifs et la diversification européenne, un atout pour les clients en quête de rendement régulier.",
+          "source": "MeilleureSCPI.com",
+          "url": "",
           "niveau": "fort"
         },
         {
-          "titre": "Crédit immobilier : 4 solutions pour éviter un refus à cause du taux d'usure",
-          "analyse": "Le blocage du taux d'usure complique le financement de certains profils. Les CGP doivent anticiper des solutions comme le lissage ou l'optimisation de l'assurance emprunteur pour sécuriser les projets.",
-          "source": "Le Revenu",
-          "url": "https://www.lerevenu.com",
+          "titre": "SCPI Principal Inside : acquisition d'un retail park à Charlotte (USA) avec couverture du risque de change",
+          "analyse": "Cette opération illustre la capacité des SCPI à offrir une exposition au marché américain tout en maîtrisant les risques, un argument de diversification pour les clients prudents.",
+          "source": "MeilleureSCPI.com",
+          "url": "",
           "niveau": "fort"
         },
         {
-          "titre": "Retrait-gonflement des argiles : un risque évalué à 500 Mds€",
-          "analyse": "Le coût du risque argile, estimé à 500 Mds€, pose des enjeux majeurs d'assurance et de valorisation immobilière. Les CGP doivent vérifier la couverture sinistres des biens immobiliers de leurs clients.",
-          "source": "notretemps.com",
-          "url": "https://notretemps.com",
+          "titre": "Nexity : réservations de logements en recul de 10% au S1",
+          "analyse": "Le promoteur subit l'attentisme des primo-accédants, illustrant la fragilité du neuf français. Cela impacte les SCPI et les stratégies d'investissement locatif.",
+          "source": "Le Revenu",
+          "url": "https://www.lerevenu.com",
           "niveau": "fort"
         }
       ]
@@ -96,25 +103,13 @@
     {
       "titre": "Assurance-vie",
       "icone": "📜",
-      "niveau_global": "faible",
-      "items": []
-    },
-    {
-      "titre": "Private equity",
-      "icone": "💼",
-      "niveau_global": "faible",
-      "items": []
-    },
-    {
-      "titre": "Retraite & Épargne salariale",
-      "icone": "🏦",
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "Revalorisation des retraites : le CSR propose de réduire les pensions",
-          "analyse": "Le Comité de suivi des retraites suggère de limiter la revalorisation des pensions jusqu'en 2030. Les CGP doivent renforcer les stratégies d'épargne retraite pour compenser la perte de pouvoir d'achat.",
+          "titre": "Livret A : hausse limitée à 1,7% en août, alternatives à envisager",
+          "analyse": "La revalorisation reste insuffisante face à l'inflation. Les CGP doivent orienter les clients vers des placements plus rémunérateurs.",
           "source": "notretemps.com",
-          "url": "https://notretemps.com",
+          "url": "https://notretemps.com/article-livret-a-augmentation-aout-placement-alternatif",
           "niveau": "fort"
         }
       ]
@@ -123,19 +118,13 @@
       "titre": "Réglementation",
       "icone": "⚖️",
       "niveau_global": "moyen",
-      "items": []
-    },
-    {
-      "titre": "ESG",
-      "icone": "🌱",
-      "niveau_global": "moyen",
       "items": [
         {
-          "titre": "Iroko Atlas obtient le label ISR pour sa SCPI",
-          "analyse": "L'obtention du label ISR renforce le positionnement ESG de cette SCPI. Les CGP doivent vérifier l'impact sur le rendement net et la composition du patrimoine sous-jacent.",
-          "source": "MeilleureSCPI.com",
-          "url": "",
-          "niveau": "fort"
+          "titre": "Facturation électronique obligatoire : Pennylane lève 75 M€",
+          "analyse": "L'obligation de facturation électronique dès 2026 pousse les entreprises à s'équiper. Les CGP doivent préparer leurs clients entrepreneurs à cette transition.",
+          "source": "Finyear",
+          "url": "https://finyear.com",
+          "niveau": "moyen"
         }
       ]
     }
