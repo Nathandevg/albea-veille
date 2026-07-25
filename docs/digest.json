@@ -1,19 +1,18 @@
 {
-  "date_fr": "vendredi 24 juillet 2026",
-  "synthese_jour": "Les marchés digèrent des tensions géopolitiques croissantes (Ukraine, Moyen-Orient) et un pétrole à 100$, alimentant les craintes inflationnistes. Les taux français atteignent 4%, impactant les crédits et les portefeuilles obligataires. L'immobilier et les SCPI montrent des signes de résilience malgré un contexte tendu.",
+  "date_fr": "samedi 25 juillet 2026",
+  "synthese_jour": "Les marchés financiers sont sous tension, tiraillés entre des risques géopolitiques croissants (Moyen-Orient, Chine) et une politique monétaire européenne en pause. L'immobilier et les retraites restent des sujets clés, tandis que les évolutions réglementaires sur les stablecoins et la DSP3 modifient les pratiques des CGP.",
   "chiffres_cles": [
     "CAC 40: -0.5%",
-    "Brent: 100 USD",
-    "OAT 10 ans: 4%",
-    "PMI Zone Euro: 51.9",
-    "Taux BCE: 2.25%"
+    "Pétrole Brent: 100.2$",
+    "OAT 10 ans: 3.2%",
+    "Inflation zone euro: 5.4%"
   ],
   "a_surveiller": [
-    "Évolution des tensions géopolitiques en Ukraine et au Moyen-Orient.",
-    "Impact du pétrole à 100$ sur l'inflation et les politiques monétaires.",
-    "Résultats des entreprises technologiques et leur impact sur les marchés.",
-    "Tendances des taux immobiliers et leur effet sur le marché du neuf.",
-    "Réactions politiques face aux superprofits des entreprises énergétiques."
+    "Évolution des tensions au Moyen-Orient et leur impact sur les prix du pétrole.",
+    "Décisions de la BCE en septembre sur les taux directeurs.",
+    "Répercussions des nouvelles franchises médicales sur les complémentaires santé.",
+    "Impact de la réglementation MiCA sur les portefeuilles crypto.",
+    "Segmentation croissante du marché immobilier français."
   ],
   "sections": [
     {
@@ -22,53 +21,46 @@
       "niveau_global": "fort",
       "items": [
         {
-          "titre": "Trump impose une nouvelle salve de droits de douane à 60 économies, la Chine visée",
-          "analyse": "Cette escalade protectionniste accroît l'incertitude sur les chaînes d'approvisionnement mondiales, soutient le dollar mais pèse sur les actions émergentes et européennes. Une diversification accrue est recommandée.",
-          "source": "La Tribune",
-          "url": "https://www.latribune.fr/economie/international/trump-lance-une-nouvelle-salve-de-droits-de-douane-la-chine-tres-mecontente-l-europe-soulagee-1011507.html",
-          "niveau": "fort"
-        },
-        {
-          "titre": "Taux d'emprunt de la France à 10 ans au plus haut depuis 2009",
-          "analyse": "Le taux obligataire français franchit les 4%, soulevant des questions sur le coût de la dette publique et l'impact sur les portefeuilles à duration longue.",
+          "titre": "Guerre technologique : la Chine frappe 14 entreprises européennes dont 3 françaises",
+          "analyse": "La liste noire chinoise cible des entreprises européennes, créant un risque pour les valeurs industrielles et technologiques exposées à la Chine. Les CGP doivent surveiller ces secteurs dans les portefeuilles.",
           "source": "La Tribune",
           "url": "https://www.latribune.fr",
           "niveau": "fort"
         },
         {
-          "titre": "Brent à 100 dollars : le conflit en mer Rouge relance les cours",
-          "analyse": "Le baril dépasse les 100 dollars, alimentant les craintes inflationnistes. Cela renforce l'intérêt pour les valeurs pétrolières mais impose une vigilance sur les portefeuilles cycliques.",
-          "source": "La Tribune",
-          "url": "https://www.latribune.fr",
+          "titre": "Pétrole à 100$ : tensions au Moyen-Orient et risque inflationniste",
+          "analyse": "Le retour du baril au-dessus de 100$ ravive le risque inflationniste. Les valeurs énergétiques bénéficient à court terme, mais la volatilité impose un hedging renforcé.",
+          "source": "Challenges",
+          "url": "",
           "niveau": "fort"
         },
         {
-          "titre": "Zone euro : l'activité retrouve le chemin de la croissance en juillet",
-          "analyse": "Le PMI composite à 51,9 points est un signal positif pour les actions européennes, mais les tensions géopolitiques et monétaires restent des freins.",
+          "titre": "BCE : maintien des taux directeurs, ouverture vers septembre",
+          "analyse": "La pause monétaire de la BCE maintient la pression sur les taux obligataires. Les CGP doivent privilégier des enveloppes flexibles à horizon court.",
           "source": "Le Revenu",
-          "url": "https://www.lerevenu.com",
-          "niveau": "moyen"
+          "url": "",
+          "niveau": "fort"
+        },
+        {
+          "titre": "Le marché actions peu préparé à un rendement 6% sur le Treasury 30 ans",
+          "analyse": "Un rendement obligataire long à 6% écraserait les valorisations actions et aggraverait les moins-values sur fonds obligataires. Point de vigilance majeur pour les allocations.",
+          "source": "MarketWatch",
+          "url": "https://www.marketwatch.com",
+          "niveau": "fort"
         }
       ]
     },
     {
       "titre": "Fiscalité",
       "icone": "💰",
-      "niveau_global": "fort",
+      "niveau_global": "moyen",
       "items": [
         {
-          "titre": "Fiscalité : comment 133 000 riches entrepreneurs échappent à l'impôt sur le revenu",
-          "analyse": "Les stratégies d'optimisation fiscale (holding, pacte Dutreil) sont au cœur des arbitrages patrimoniaux. Les CGP doivent surveiller les évolutions législatives potentielles.",
-          "source": "Alternatives économiques",
-          "url": "https://www.alternatives-economiques.fr/inegalite-fiscale-133-000-riches-echappent-a-limpot",
-          "niveau": "fort"
-        },
-        {
-          "titre": "Impôt sur le revenu : remboursement ou solde à payer",
-          "analyse": "L'administration fiscale établit les montants définitifs après la déclaration. C'est un moment clé pour optimiser la gestion de trésorerie des clients.",
-          "source": "La finance pour tous",
-          "url": "https://lafinancepourtous.com",
-          "niveau": "fort"
+          "titre": "Succession d'un mineur : retour des frais bancaires",
+          "analyse": "La suppression de la gratuité obligatoire sur les successions de mineurs alourdit les frais. Les CGP doivent intégrer ce coût dans les stratégies de transmission.",
+          "source": "Le Revenu",
+          "url": "",
+          "niveau": "moyen"
         }
       ]
     },
@@ -78,38 +70,38 @@
       "niveau_global": "fort",
       "items": [
         {
-          "titre": "SCPI Elialys : 25e acquisition avec une salle de sport à Porto sous bail ferme de 15 ans",
-          "analyse": "Cette acquisition renforce la visibilité des revenus locatifs et la diversification européenne, un atout pour les clients en quête de rendement régulier.",
-          "source": "MeilleureSCPI.com",
-          "url": "",
+          "titre": "Immobilier 1er semestre 2026 : les écarts de prix n'ont jamais été aussi marqués",
+          "analyse": "Le marché immobilier se segmente fortement selon la performance énergétique et la localisation. Les CGP doivent intégrer ce clivage dans leurs conseils d'investissement locatif.",
+          "source": "MySweetimmo",
+          "url": "https://www.mysweetimmo.com",
           "niveau": "fort"
         },
         {
-          "titre": "SCPI Principal Inside : acquisition d'un retail park à Charlotte (USA) avec couverture du risque de change",
-          "analyse": "Cette opération illustre la capacité des SCPI à offrir une exposition au marché américain tout en maîtrisant les risques, un argument de diversification pour les clients prudents.",
-          "source": "MeilleureSCPI.com",
-          "url": "",
+          "titre": "Sud-Ouest : 140 000 évacués, flammes vers Bordeaux",
+          "analyse": "Les incendies menacent le parc immobilier et les assurances habitation. Les CGP doivent vérifier la couverture sinistre des clients propriétaires dans les zones touchées.",
+          "source": "notretemps.com",
+          "url": "https://notretemps.com/sud-ouest-evacuations-bordeaux",
           "niveau": "fort"
         },
         {
-          "titre": "Nexity : réservations de logements en recul de 10% au S1",
-          "analyse": "Le promoteur subit l'attentisme des primo-accédants, illustrant la fragilité du neuf français. Cela impacte les SCPI et les stratégies d'investissement locatif.",
-          "source": "Le Revenu",
-          "url": "https://www.lerevenu.com",
-          "niveau": "fort"
+          "titre": "Euryale investit 25 M€ dans l'immobilier de santé en Europe",
+          "analyse": "La SCPI Euryale renforce son exposition au secteur santé, un positionnement défensif pertinent pour les clients cherchant du rendement régulier.",
+          "source": "MeilleureSCPI.com",
+          "url": "https://www.meilleurescpi.com",
+          "niveau": "moyen"
         }
       ]
     },
     {
-      "titre": "Assurance-vie",
-      "icone": "📜",
-      "niveau_global": "moyen",
+      "titre": "Retraite & Épargne salariale",
+      "icone": "🛡️",
+      "niveau_global": "fort",
       "items": [
         {
-          "titre": "Livret A : hausse limitée à 1,7% en août, alternatives à envisager",
-          "analyse": "La revalorisation reste insuffisante face à l'inflation. Les CGP doivent orienter les clients vers des placements plus rémunérateurs.",
+          "titre": "Retraite progressive : les bénéficiaires doublent en un an",
+          "analyse": "L'assouplissement des conditions de la retraite progressive dope son attractivité. Opportunité pour les CGP d'optimiser la transition activité-retraite des clients.",
           "source": "notretemps.com",
-          "url": "https://notretemps.com/article-livret-a-augmentation-aout-placement-alternatif",
+          "url": "https://notretemps.com/retraite-progressive",
           "niveau": "fort"
         }
       ]
@@ -117,17 +109,38 @@
     {
       "titre": "Réglementation",
       "icone": "⚖️",
+      "niveau_global": "fort",
+      "items": [
+        {
+          "titre": "MiCA : le tri des stablecoins européens est achevé",
+          "analyse": "La fin de la période de transition MiCA exclut l'USDT des plateformes européennes. Les CGP doivent vérifier la conformité des expositions crypto de leurs clients.",
+          "source": "Finyear",
+          "url": "https://finyear.com/mica-usdt-eurcv-stablecoins",
+          "niveau": "fort"
+        },
+        {
+          "titre": "Fraude APP : DSP3 et PSR inversent la charge de responsabilité",
+          "analyse": "La DSP3 transfère la responsabilité de la fraude par virement manipulé vers les prestataires. Les CGP doivent alerter leurs clients sur les nouveaux recours.",
+          "source": "Finyear",
+          "url": "https://finyear.com/fraude-app-dsp3-psr-responsabilite",
+          "niveau": "moyen"
+        }
+      ]
+    },
+    {
+      "titre": "ESG",
+      "icone": "🌱",
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "Facturation électronique obligatoire : Pennylane lève 75 M€",
-          "analyse": "L'obligation de facturation électronique dès 2026 pousse les entreprises à s'équiper. Les CGP doivent préparer leurs clients entrepreneurs à cette transition.",
-          "source": "Finyear",
-          "url": "https://finyear.com",
+          "titre": "Data centers : Meta renonce à son engagement pour des énergies propres",
+          "analyse": "Meta revient sur sa promesse d'énergies propres, impactant les notations ESG des GAFAM. Les CGP doivent intégrer ce signal dans la sélection de fonds ISR.",
+          "source": "Challenges",
+          "url": "https://www.challenges.fr",
           "niveau": "moyen"
         }
       ]
     }
   ],
-  "compte_articles": 250
+  "compte_articles": 200
 }
