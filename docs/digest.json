@@ -1,18 +1,19 @@
 {
-  "date_fr": "samedi 25 juillet 2026",
-  "synthese_jour": "Les marchés financiers sont sous tension, tiraillés entre des risques géopolitiques croissants (Moyen-Orient, Chine) et une politique monétaire européenne en pause. L'immobilier et les retraites restent des sujets clés, tandis que les évolutions réglementaires sur les stablecoins et la DSP3 modifient les pratiques des CGP.",
+  "date_fr": "dimanche 26 juillet 2026",
+  "compte_articles": 139,
+  "compte_forts": 10,
+  "compte_moyens": 10,
+  "synthese_jour": "En ce dimanche 26 juillet 2026, la séance reste dominée par les tensions géopolitiques globales et l'incertitude monétaire entourant la Réserve fédérale, pesant sur la visibilité macroéconomique. Dans le même temps, le marché immobilier et le Private Equity connaissent des mouvements stratégiques majeurs, allant du durcissement des normes environnementales aux transactions institutionnelles de premier plan.",
   "chiffres_cles": [
-    "CAC 40: -0.5%",
-    "Pétrole Brent: 100.2$",
-    "OAT 10 ans: 3.2%",
-    "Inflation zone euro: 5.4%"
+    "CAC 40 : 7 520 pts (-0.4%)",
+    "Yen : Plus bas historique / 40 ans",
+    "Transaction Paris Prime : 800 M€",
+    "Corgi InsurTech : Valo 4 Md$"
   ],
   "a_surveiller": [
-    "Évolution des tensions au Moyen-Orient et leur impact sur les prix du pétrole.",
-    "Décisions de la BCE en septembre sur les taux directeurs.",
-    "Répercussions des nouvelles franchises médicales sur les complémentaires santé.",
-    "Impact de la réglementation MiCA sur les portefeuilles crypto.",
-    "Segmentation croissante du marché immobilier français."
+    "Premières décisions et déclarations de la Fed sous la présidence de Kevin Warsh sur la trajectoire des taux.",
+    "Évolution des risques sanitaires et d'assurabilité des biens immobiliers face à l'amplification des incendies en Gironde.",
+    "Projet d'Euronext d'ouvrir un marché réglementé dédié aux titres non cotés pour les investisseurs individuels."
   ],
   "sections": [
     {
@@ -21,108 +22,206 @@
       "niveau_global": "fort",
       "items": [
         {
-          "titre": "Guerre technologique : la Chine frappe 14 entreprises européennes dont 3 françaises",
-          "analyse": "La liste noire chinoise cible des entreprises européennes, créant un risque pour les valeurs industrielles et technologiques exposées à la Chine. Les CGP doivent surveiller ces secteurs dans les portefeuilles.",
+          "titre": "Fed : Kevin Warsh face à son premier grand test sur les taux",
+          "analyse": "L'arbitrage entre pressions inflationnistes récurrentes et exigences de baisse de taux par la Maison Blanche place la Fed dans une position délicate. Pour les CGP, ce contexte maintient l'incertitude sur les rendements obligataires et justifie de privilégier la flexibilité dans l'allocation d'actifs.",
           "source": "La Tribune",
-          "url": "https://www.latribune.fr",
-          "niveau": "fort"
-        },
-        {
-          "titre": "Pétrole à 100$ : tensions au Moyen-Orient et risque inflationniste",
-          "analyse": "Le retour du baril au-dessus de 100$ ravive le risque inflationniste. Les valeurs énergétiques bénéficient à court terme, mais la volatilité impose un hedging renforcé.",
-          "source": "Challenges",
           "url": "",
           "niveau": "fort"
         },
         {
-          "titre": "BCE : maintien des taux directeurs, ouverture vers septembre",
-          "analyse": "La pause monétaire de la BCE maintient la pression sur les taux obligataires. Les CGP doivent privilégier des enveloppes flexibles à horizon court.",
-          "source": "Le Revenu",
+          "titre": "Japon : la Banque centrale a sauvé la Bourse et sacrifié le yen",
+          "analyse": "Le yen à son plus bas depuis quarante ans et des obligations en déroute traduisent un choix politique assumé de soutenir les actifs au détriment de la monnaie. Les expositions aux marchés japonais doivent intégrer ce risque de change structurel, et les investisseurs en devises asiatiques doivent reconsidérer leurs couvertures.",
+          "source": "La Tribune",
           "url": "",
           "niveau": "fort"
         },
         {
-          "titre": "Le marché actions peu préparé à un rendement 6% sur le Treasury 30 ans",
-          "analyse": "Un rendement obligataire long à 6% écraserait les valorisations actions et aggraverait les moins-values sur fonds obligataires. Point de vigilance majeur pour les allocations.",
-          "source": "MarketWatch",
-          "url": "https://www.marketwatch.com",
+          "titre": "Iran menace d'extension géographique de la guerre au Moyen-Orient",
+          "analyse": "L'escalade verbale iranienne, couplée aux tensions en mer Rouge et sur le front israélo-libanais, maintient une prime de risque élevée sur les hydrocarbures et les marchés émergents de la région. Un élargissement du conflit impacterait directement les cours du pétrole et les stratégies de diversification géographique.",
+          "source": "Le Monde",
+          "url": "",
           "niveau": "fort"
+        },
+        {
+          "titre": "Menaces de surtaxes douanières américaines en réplique aux amendes tech de l'UE",
+          "analyse": "La recrudescence des tensions commerciales entre Washington et Bruxelles fait peser un risque de volatilité sur les actions européennes exposées à l'export. Une vigilance particulière s'impose sur l'allocation géographique des portefeuilles financiers.",
+          "source": "Challenges en temps réel : accueil",
+          "url": "[https://www.challenges.fr/monde/amende-a-google-l-ue-va-payer-un-tres-lourd-prix-menace-trump_890123](https://www.challenges.fr/monde/amende-a-google-l-ue-va-payer-un-tres-lourd-prix-menace-trump_890123)",
+          "niveau": "fort"
+        },
+        {
+          "titre": "Strategy lance un consortium sécurité Bitcoin avec BlackRock et Coinbase",
+          "analyse": "La coalition d'institutions traditionnelles et crypto autour de la sécurité Bitcoin marque une étape clé d'institutionnalisation. Les CGP doivent anticiper une crédibilisation accrue de l'exposition crypto dans les allocations patrimoniales.",
+          "source": "Finyear",
+          "url": "[https://finyear.com](https://finyear.com)",
+          "niveau": "fort"
+        },
+        {
+          "titre": "Corée du Nord : 30 000 soldats supplémentaires pour la Russie",
+          "analyse": "L'intensification de l'engagement nord-coréen en Ukraine accroît le risque d'escalade globale et renforce les tensions sur les chaînes d'approvisionnement. Ce facteur géopolitique pèse sur le sentiment des marchés européens et justifie le maintien de couvertures sur les expositions actions zone euro.",
+          "source": "Le Monde",
+          "url": "",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Accord nucléaire saoudien : Trump dans l'impasse au Moyen-Orient",
+          "analyse": "Les discussions sur le programme nucléaire saoudien avec Washington, dans un contexte de tensions houthis en mer Rouge, complexifient la géopolitique énergétique. Les investisseurs sur les actifs pétroliers et les marchés du Golfe doivent intégrer cette instabilité structurelle dans leurs analyses.",
+          "source": "La Tribune",
+          "url": "",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Risque d'allocation indicielle lié à la concentration du secteur technologique et IA",
+          "analyse": "Certains ETF indiciels mondiaux ou émergents intègrent une exposition très concentrée sur les thématiques liées à l'IA sans information explicite pour l'épargnant. Les CGP doivent auditer la composition réelle des fonds sous-jacents pour éviter la surexposition sectorielle.",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "[https://www.marketwatch.com/story/is-your-index-fund-an-accidental-bet-on-ai-these-two-massive-etfs-show-why-it-might-be-116892341](https://www.marketwatch.com/story/is-your-index-fund-an-accidental-bet-on-ai-these-two-massive-etfs-show-why-it-might-be-116892341)",
+          "niveau": "moyen"
         }
       ]
     },
     {
       "titre": "Fiscalité",
-      "icone": "💰",
-      "niveau_global": "moyen",
+      "icone": "🏛️",
+      "niveau_global": "fort",
       "items": [
         {
-          "titre": "Succession d'un mineur : retour des frais bancaires",
-          "analyse": "La suppression de la gratuité obligatoire sur les successions de mineurs alourdit les frais. Les CGP doivent intégrer ce coût dans les stratégies de transmission.",
-          "source": "Le Revenu",
+          "titre": "Outils d'optimisation et stratégies de transmission successorale progressive",
+          "analyse": "L'anticipation de la succession nécessite un arbitrage précis entre conservation de jouissance et transmission anticipée. L'utilisation de démembrements de propriété avec réserve d'usufruit ou de clauses d'inaliénabilité permet de sécuriser le transmetteur tout en optimisant la fiscalité des gratifications.",
+          "source": "notretemps.com",
+          "url": "[https://www.notretemps.com/patrimoine/succession-quelles-sont-les-solutions-adaptees-a-vos-besoins-89512](https://www.notretemps.com/patrimoine/succession-quelles-sont-les-solutions-adaptees-a-vos-besoins-89512)",
+          "niveau": "fort"
+        },
+        {
+          "titre": "Dispositions fiscales relatives au fait générateur du paiement des dividendes",
+          "analyse": "Le traitement opérationnel de la date d'ex-dividend exige une rigueur stricte lors des arbitrages de fin de période pour éviter les décalages de trésorerie. Une sensibilisation des clients sur le calendrier de détention effective des titres est recommandée.",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "[https://www.marketwatch.com/story/im-still-confused-i-sold-80000-in-shares-on-june-30-so-why-didnt-i-receive-my-dividend-116892343](https://www.marketwatch.com/story/im-still-confused-i-sold-80000-in-shares-on-june-30-so-why-didnt-i-receive-my-dividend-116892343)",
+          "niveau": "faible"
+        },
+        {
+          "titre": "Présidentielle 2027 : LFI à la conquête des abstentionnistes",
+          "analyse": "La mobilisation précoce de La France insoumise pour 2027 introduit un facteur de risque politique à horizon moyen terme. Les propositions fiscales du mouvement pourraient, si elles gagnent en crédibilité électorale, peser sur les anticipations de pression fiscale et influencer les stratégies d'optimisation patrimoniale.",
+          "source": "Le Monde",
           "url": "",
-          "niveau": "moyen"
+          "niveau": "faible"
         }
       ]
     },
     {
       "titre": "SCPI & Immobilier",
-      "icone": "🏠",
+      "icone": "🏢",
       "niveau_global": "fort",
       "items": [
         {
-          "titre": "Immobilier 1er semestre 2026 : les écarts de prix n'ont jamais été aussi marqués",
-          "analyse": "Le marché immobilier se segmente fortement selon la performance énergétique et la localisation. Les CGP doivent intégrer ce clivage dans leurs conseils d'investissement locatif.",
-          "source": "MySweetimmo",
-          "url": "https://www.mysweetimmo.com",
+          "titre": "Amancio Ortega rachète un immeuble bureaux Paris pour 800 M€",
+          "analyse": "Pontegadea confirme l'appétit des grands family offices pour l'immobilier de rendement parisien prime. Ce transaction size rappelle aux CGP que l'immobilier physique de qualité reste un refuge privilégié face à la volatilité des marchés financiers.",
+          "source": "Finyear",
+          "url": "[https://finyear.com](https://finyear.com)",
           "niveau": "fort"
         },
         {
-          "titre": "Sud-Ouest : 140 000 évacués, flammes vers Bordeaux",
-          "analyse": "Les incendies menacent le parc immobilier et les assurances habitation. Les CGP doivent vérifier la couverture sinistre des clients propriétaires dans les zones touchées.",
-          "source": "notretemps.com",
-          "url": "https://notretemps.com/sud-ouest-evacuations-bordeaux",
+          "titre": "Gironde : 220 000 personnes évacuées, incendies hors de contrôle",
+          "analyse": "L'ampleur inédite de cette catastrophe climatique — 42 000 hectares détruits, infrastructures paralysées — interroge directement la sinistralité future des assurances habitation et les valorisations immobilières en zones à risque. Les CGP doivent anticiper des révisions de primes et réexaminer les couvertures IARD de leurs clients.",
+          "source": "La Tribune",
+          "url": "",
           "niveau": "fort"
         },
         {
-          "titre": "Euryale investit 25 M€ dans l'immobilier de santé en Europe",
-          "analyse": "La SCPI Euryale renforce son exposition au secteur santé, un positionnement défensif pertinent pour les clients cherchant du rendement régulier.",
-          "source": "MeilleureSCPI.com",
-          "url": "https://www.meilleurescpi.com",
+          "titre": "Passoires thermiques : 90% des logements mal adaptés aux fortes chaleurs",
+          "analyse": "Les critères DPE s'étendent désormais aux risques climatiques et à la maîtrise des températures estivales, impactant directement la valeur verte des biens. Les CGP doivent intégrer ces coûts d'adaptation thermique dans l'évaluation des rendements locatifs et des travaux à prévoir.",
+          "source": "Le Revenu - Actualités financières",
+          "url": "[https://www.lerevenu.com/immobilier/canicule-9-logements-francais-sur-10-seraient-mal-adaptes-aux-fortes-chaleurs/](https://www.lerevenu.com/immobilier/canicule-9-logements-francais-sur-10-seraient-mal-adaptes-aux-fortes-chaleurs/)",
+          "niveau": "fort"
+        },
+        {
+          "titre": "Évolution des aides au logement : conditions et impact sur l'investissement locatif",
+          "analyse": "La maîtrise des barèmes APL, ALF et ALS constitue un levier clé pour évaluer la solvabilité des locataires et sécuriser les revenus fonciers. Les bailleurs doivent anticiper les plafonds de ressources pour maximiser le taux d'occupation de leurs investissements.",
+          "source": "Le Revenu - Actualités financières",
+          "url": "[https://www.lerevenu.com/immobilier/apl-alf-als-qui-peut-beneficier-des-aides-au-logement-et-sous-quelles-conditions/](https://www.lerevenu.com/immobilier/apl-alf-als-qui-peut-beneficier-des-aides-au-logement-et-sous-quelles-conditions/)",
           "niveau": "moyen"
+        },
+        {
+          "titre": "Tendances immobilières à Bezons : opportunités et dynamique des prix au m²",
+          "analyse": "La surperformance relative des prix des appartements par rapport aux maisons indique une forte demande pour le collectif accessible en petite couronne. Un indicateur utile pour orienter les investisseurs en quête de rendement locatif ou de plus-value à moyen terme.",
+          "source": "Le Revenu - Actualités financières",
+          "url": "[https://www.lerevenu.com/immobilier/prix-immobilier-bezons-2026/](https://www.lerevenu.com/immobilier/prix-immobilier-bezons-2026/)",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "La haie du voisin déborde: que pouvez-vous faire?",
+          "analyse": "Contentieux voisinage et règles légales de plantation : utile pour les clients propriétaires confrontés à des conflits de limites, pouvant affecter la jouissance ou la valeur d'un bien immobilier.",
+          "source": "notretemps.com",
+          "url": "",
+          "niveau": "faible"
         }
       ]
     },
     {
-      "titre": "Retraite & Épargne salariale",
-      "icone": "🛡️",
+      "titre": "Private equity",
+      "icone": "💼",
       "niveau_global": "fort",
       "items": [
         {
-          "titre": "Retraite progressive : les bénéficiaires doublent en un an",
-          "analyse": "L'assouplissement des conditions de la retraite progressive dope son attractivité. Opportunité pour les CGP d'optimiser la transition activité-retraite des clients.",
-          "source": "notretemps.com",
-          "url": "https://notretemps.com/retraite-progressive",
+          "titre": "Euronext étudie un marché de titres privés",
+          "analyse": "L'entrée d'Euronext sur le segment naissant des titres non cotés intensifie la concurrence avec le LSE. Pour les CGP, cela préfigure un élargissement de l'accès retail au private equity via des places réglementées, à surveiller pour l'évolution des mandats diversifiés.",
+          "source": "Finyear",
+          "url": "[https://finyear.com](https://finyear.com)",
           "niveau": "fort"
+        },
+        {
+          "titre": "Corgi : InsurTech IA lève à 4 Md$ en huit semaines",
+          "analyse": "Trois tours en huit semaines propulsant la valorisation à 4 Md$ illustrent l'appétit des investisseurs pour l'IA appliquée à l'assurance. Les CGP suivront l'émergence de produits d'assurance personnalisés par IA, source potentielle de disruption tarifaire.",
+          "source": "Finyear",
+          "url": "[https://finyear.com](https://finyear.com)",
+          "niveau": "fort"
+        },
+        {
+          "titre": "Ant International boucle une levée fintech de 1,2 Md$",
+          "analyse": "La branche internationale d'Ant Group sécurise 1,2 Md$ en série A, confirmant le redéploiement stratégique hors Chine. Pour les CGP, cela signale une dynamique de valorisation soutenue dans le cross-border payments, secteur clé de la diversification.",
+          "source": "Finyear",
+          "url": "[https://finyear.com](https://finyear.com)",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Bain Capital rachète Vitabiotics pour 1,2 Md$",
+          "analyse": "La fin de 55 ans de propriété familiale au profit d'un PE majeur illustre le cycle de transmission des ETI familiales. Les CGP accompagnant des dirigeants de PME/ETI y verront un cas d'école en matière de sortie capitalistique.",
+          "source": "Finyear",
+          "url": "[https://finyear.com](https://finyear.com)",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Allocation d'actifs non cotés : règles de souscription sur les opérations de Private Equity",
+          "analyse": "L'accès aux allocations d'introductions en bourse ou de Private Equity de grande envergure reste fortement rationné pour les investisseurs particuliers. L'accompagnement par un conseiller spécialisé demeure indispensable pour obtenir un accès prioritaire à ces véhicules d'exception.",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "[https://www.marketwatch.com/story/time-will-tell-whether-that-was-a-good-bet-my-adviser-got-me-a-full-spacex-ipo-allocation-was-i-lucky-116892342](https://www.marketwatch.com/story/time-will-tell-whether-that-was-a-good-bet-my-adviser-got-me-a-full-spacex-ipo-allocation-was-i-lucky-116892342)",
+          "niveau": "faible"
         }
       ]
     },
     {
       "titre": "Réglementation",
-      "icone": "⚖️",
-      "niveau_global": "fort",
+      "icone": "📜",
+      "niveau_global": "moyen",
       "items": [
         {
-          "titre": "MiCA : le tri des stablecoins européens est achevé",
-          "analyse": "La fin de la période de transition MiCA exclut l'USDT des plateformes européennes. Les CGP doivent vérifier la conformité des expositions crypto de leurs clients.",
+          "titre": "L'OCC refuse la charte bancaire américaine de Wise",
+          "analyse": "Le rejet par l'OCC cite des préoccupations de conformité et de gouvernance. Ce revers réglementaire rappelle aux CGP que les fintechs de transfert restent exposées au risque réglementaire, un facteur à intégrer dans l'analyse des solutions de change proposées aux clients.",
           "source": "Finyear",
-          "url": "https://finyear.com/mica-usdt-eurcv-stablecoins",
-          "niveau": "fort"
+          "url": "[https://finyear.com](https://finyear.com)",
+          "niveau": "moyen"
         },
         {
-          "titre": "Fraude APP : DSP3 et PSR inversent la charge de responsabilité",
-          "analyse": "La DSP3 transfère la responsabilité de la fraude par virement manipulé vers les prestataires. Les CGP doivent alerter leurs clients sur les nouveaux recours.",
+          "titre": "Nubank rachète une banque brésilienne pour sa licence",
+          "analyse": "L'acquisition d'un établissement de crédit minimal pour son agrément montre la stratégie d'acquisition de licences par les néobanques. Les CGP observent une convergence accrue entre fintechs et banques traditionnelles sur le plan réglementaire.",
           "source": "Finyear",
-          "url": "https://finyear.com/fraude-app-dsp3-psr-responsabilite",
+          "url": "[https://finyear.com](https://finyear.com)",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Médicament toxique: l'anxiété subie mieux reconnue",
+          "analyse": "Jurisprudence intéressante sur la reconnaissance du préjudice d'anxiété lié à l'exposition in utero au Distilbène. Utile pour les dossiers de responsabilité civile et d'indemnisation que peut suivre un CGP.",
+          "source": "notretemps.com",
+          "url": "",
           "niveau": "moyen"
         }
       ]
@@ -130,17 +229,16 @@
     {
       "titre": "ESG",
       "icone": "🌱",
-      "niveau_global": "moyen",
+      "niveau_global": "faible",
       "items": [
         {
-          "titre": "Data centers : Meta renonce à son engagement pour des énergies propres",
-          "analyse": "Meta revient sur sa promesse d'énergies propres, impactant les notations ESG des GAFAM. Les CGP doivent intégrer ce signal dans la sélection de fonds ISR.",
-          "source": "Challenges",
-          "url": "https://www.challenges.fr",
-          "niveau": "moyen"
+          "titre": "Feux de forêts: quel impact des fumées sur la santé?",
+          "analyse": "Les risques sanitaires liés aux fumées d'incendies rappellent l'importance des garanties santé et prévoyance. Peut nourrir un dialogue client sur la couverture des risques environnementaux.",
+          "source": "notretemps.com",
+          "url": "",
+          "niveau": "faible"
         }
       ]
     }
-  ],
-  "compte_articles": 200
+  ]
 }
