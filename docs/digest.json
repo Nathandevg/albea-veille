@@ -1,117 +1,108 @@
 {
-  "date_fr": "lundi 27 juillet 2026",
-  "synthese_jour": "Les marchés financiers sont marqués par une accalmie géopolitique au Moyen-Orient, entraînant un repli des prix du pétrole et un rebond des indices européens. Cependant, les tensions sur la dette française et les risques climatiques continuent de peser sur les perspectives économiques.",
+  "date_fr": "mardi 28 juillet 2026",
+  "synthese_jour": "Les marchés financiers évoluent dans un contexte de tensions géopolitiques et de pressions inflationnistes persistantes, avec un pétrole au-dessus de 120 dollars. En France, les débats sur la fiscalité des hauts patrimoines et les ajustements budgétaires à venir dominent l'actualité. Les investisseurs doivent rester prudents face à la volatilité accrue et aux risques sectoriels.",
   "chiffres_cles": [
     "CAC 40: +0.8%",
-    "Brent: 90 USD",
+    "Baril de pétrole: 120.5 USD",
     "OAT 10 ans: 3.2%",
-    "Inflation zone euro: 5.3%"
+    "Inflation France: +5.1% (juin)",
+    "Nikkei: -4%"
   ],
   "a_surveiller": [
-    "Évolution des tensions géopolitiques en Iran et en mer Noire.",
-    "Décisions de la Fed et de la BoJ sur les taux directeurs.",
-    "Résultats semestriels de LVMH et TotalEnergies.",
-    "Stabilisation des taux immobiliers en France.",
-    "Impact des incendies sur les assureurs et les primes."
+    "Décisions de la Fed et de la Banque d'Angleterre sur les taux cette semaine.",
+    "Évolution des tensions au Moyen-Orient et impact sur les prix du pétrole.",
+    "Discussions sur la fiscalité des hauts patrimoines en France pour le budget 2027.",
+    "Résultats des GAFAM et leur impact sur les valeurs technologiques.",
+    "Tendances des prix immobiliers et leur soutenabilité face aux revenus des ménages."
   ],
   "sections": [
     {
       "titre": "Marchés financiers",
       "icone": "📈",
-      "niveau_global": "fort",
+      "niveau_global": "moyen",
       "items": [
         {
-          "titre": "Inflation : le boom de l'IA, futur casse-tête du budget 2027",
-          "analyse": "La BCE maintient ses taux malgré les tensions au Moyen-Orient. L'essor de l'IA génère des pressions inflationnistes structurelles que les CGP doivent intégrer dans leurs allocations à long terme, entre opportunités tech et risque de resserrement monétaire prolongé.",
-          "source": "L'Express.fr",
-          "url": "https://www.lexpress.fr",
+          "titre": "Baril au-dessus de 120$ : scénario noir pour la fin d'été",
+          "analyse": "La réduction du trafic du détroit d'Ormuz alimente une pression inflationniste persistante, pénalisant le pouvoir d'achat et les valeurs consommatrices d'énergie. Les CGP doivent anticiper un impact sur les OPCVM émergents et la couverture inflation des portefeuilles.",
+          "source": "Challenges en temps réel",
+          "url": "https://www.challenges.fr",
           "niveau": "fort"
         },
         {
-          "titre": "Bourses européennes en forte hausse sur l'accalmie au Moyen-Orient",
-          "analyse": "La détente géopolitique et le repli du pétrole sous 90 USD soutiennent un rebond large des marchés européens. Opportunité de rééquilibrage pour les clients ayant réduit leur exposition actions, mais prudence face à la volatilité résiduelle.",
-          "source": "Le Revenu",
-          "url": "",
-          "niveau": "fort"
-        },
-        {
-          "titre": "CAC 40 : faut-il alléger les actions françaises ?",
-          "analyse": "Le CAC 40 flirte avec ses records mais la sélectivité s'impose face aux tensions sur les taux et le pétrole. Les résultats de TotalEnergies et Airbus soutiennent le marché, mais un allègement partiel sur les valeurs défensives peut se justifier.",
-          "source": "Le Revenu",
-          "url": "",
-          "niveau": "fort"
-        },
-        {
-          "titre": "Rendements allemands en repli avant Fed et BoJ, craintes inflation en baisse",
-          "analyse": "Le reflux des rendements bunds, lié à la baisse du brut, modère le scénario de hausse des taux longs en zone euro. Utile pour le positionnement obligataire et la lecture des banques centrales.",
+          "titre": "Rendements obligataires européens proches de leurs plus hauts pluriannuels",
+          "analyse": "Les taux souverains européens se maintiennent à des niveaux élevés, les marchés intégrant des politiques monétaires restrictives durables. Pour les CGP, cela renforce l'attrait des obligations à rendement élevé et invite à la prudence sur les durations longues.",
           "source": "Forex News",
-          "url": "https://www.forexlive.com",
+          "url": "non fournie",
           "niveau": "fort"
+        },
+        {
+          "titre": "Nikkei : chute de 4%, correction confirmée sous 64 000 pts",
+          "analyse": "La cassure d'un seuil technique majeur signale un risque de volatilité accrue sur le marché japonais. À surveiller pour les allocations internationales et les fonds exposés à l'Asie.",
+          "source": "Le Revenu - Actualités financières",
+          "url": "https://www.lerevenu.com",
+          "niveau": "moyen"
         }
       ]
     },
     {
       "titre": "Fiscalité",
       "icone": "💰",
-      "niveau_global": "faible",
-      "items": []
-    },
-    {
-      "titre": "SCPI & Immobilier",
-      "icone": "🏠",
-      "niveau_global": "moyen",
+      "niveau_global": "fort",
       "items": [
         {
-          "titre": "Immobilier français : stabilisation des taux autour de 3,2 % redonne de la visibilité",
-          "analyse": "La stabilisation des taux de crédit améliore la lisibilité pour les acheteurs et soutient une reprise progressive des transactions. Pertinent pour le conseil en investissement locatif et le financement.",
-          "source": "Le Revenu - Actualités financières",
-          "url": "https://www.lerevenu.com",
-          "niveau": "fort"
-        },
-        {
-          "titre": "Héritier interdit de récupérer un logement loué",
-          "analyse": "Rappel jurisprudentiel important pour le conseil patrimonial : les droits des locataires survivent au décès du bailleur. À intégrer dans les discussions sur transmission immobilière et stratégies de récupération de bien.",
-          "source": "JDN : Derniers contenus",
+          "titre": "Taxation des hauts patrimoines : le projet resurgira au budget 2027",
+          "analyse": "Le projet de taxation des hauts patrimoines, écarté en commission, reviendra lors des discussions budgétaires de l'automne 2027. Les CGP doivent anticiper d'éventuels alourdissements de la fiscalité patrimoniale et préparer des stratégies d'optimisation.",
+          "source": "Le Monde",
           "url": "",
           "niveau": "fort"
         },
         {
-          "titre": "Xerfi : reprise du bâtiment d'ici 2030 mais sans rebond réel",
-          "analyse": "Perspective de sortie de crise progressive mais sans retour aux niveaux d'avant 2022, avec des divergences entre logement, rénovation et tertiaire. Éclairage sectoriel utile pour les positions immobilières et construction.",
-          "source": "MySweetimmo",
-          "url": "https://www.mysweetimmo.com",
-          "niveau": "moyen"
+          "titre": "TotalEnergies : superprofits relancent le débat fiscal",
+          "analyse": "Avec un résultat net en hausse de 70 %, TotalEnergies ravive le risque de taxation exceptionnelle sur les superprofits. Pour les portefeuilles clients, le secteur énergétique offre un rendement attractif mais porte un risque réglementaire croissant.",
+          "source": "Alternatives économiques",
+          "url": "https://www.alternatives-economiques.fr",
+          "niveau": "fort"
         }
       ]
     },
     {
-      "titre": "Assurance-vie",
-      "icone": "📜",
-      "niveau_global": "faible",
-      "items": []
+      "titre": "SCPI & Immobilier",
+      "icone": "🏠",
+      "niveau_global": "fort",
+      "items": [
+        {
+          "titre": "Prix de l'immobilier : le grand décrochage avec les revenus des ménages",
+          "analyse": "L'écart entre les prix immobiliers et les revenus des ménages continue de se creuser, posant la question de la soutenabilité des valorisations actuelles. Les CGP doivent privilégier les actifs à rendement locatif solide et les SCPI diversifiées.",
+          "source": "MeilleureSCPI.com",
+          "url": "non fournie",
+          "niveau": "fort"
+        },
+        {
+          "titre": "Immobilier : la canicule devient un critère d'achat décisif",
+          "analyse": "Le confort d'été, l'isolation et les espaces verts influencent désormais les valorisations immobilières. Pour les clients investisseurs, intégrer le risque climatique dans la sélection de biens est devenu un facteur clé.",
+          "source": "Le Revenu",
+          "url": "https://www.lerevenu.com",
+          "niveau": "fort"
+        },
+        {
+          "titre": "Crédit immobilier : taux stables en août, fenêtre pour les emprunteurs",
+          "analyse": "La stabilité des taux sur deux mois consécutifs sécurise les projets d'acquisition et de renégociation. Les CGP peuvent recommander de concrétiser les opérations immobilières sans attendre une baisse supplémentaire.",
+          "source": "Le Revenu - Actualités financières",
+          "url": "https://www.lerevenu.com",
+          "niveau": "fort"
+        }
+      ]
     },
     {
       "titre": "Private equity",
       "icone": "📊",
-      "niveau_global": "faible",
-      "items": []
-    },
-    {
-      "titre": "Retraite & Épargne salariale",
-      "icone": "🏦",
-      "niveau_global": "faible",
-      "items": []
-    },
-    {
-      "titre": "Réglementation",
-      "icone": "⚖️",
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "Démarchage téléphonique : nouvelle interdiction dès le 11 août",
-          "analyse": "L'interdiction du démarchage sans consentement explicite bouleverse les modèles commerciaux de la distribution financière. Les CGP doivent anticiper l'adaptation de leurs pratiques de prospection et les risques de nullité contractuelle.",
-          "source": "La Tribune",
-          "url": "https://www.latribune.fr",
+          "titre": "Revolut ouvre l'accès aux marchés privés pour ses clients",
+          "analyse": "La fintech démocratise le capital-investissement, jusqu'ici réservé aux institutionnels. Cette évolution signale une tendance vers la désintermédiation du private equity, mais aussi un risque de dilution de l'expertise.",
+          "source": "Le Revenu",
+          "url": "https://www.lerevenu.com",
           "niveau": "moyen"
         }
       ]
@@ -119,24 +110,24 @@
     {
       "titre": "ESG",
       "icone": "🌱",
-      "niveau_global": "moyen",
+      "niveau_global": "fort",
       "items": [
         {
-          "titre": "TotalEnergies conteste l'obligation d'intégrer les émissions CO2 clients",
-          "analyse": "TotalEnergies fait appel du jugement sur le devoir de vigilance. Ce contentieux ESG majeur peut impacter la valorisation du titre et soulève des questions de risque juridique pour l'ensemble du secteur énergétique en portefeuille.",
-          "source": "La Tribune",
-          "url": "https://www.latribune.fr",
+          "titre": "La France, cible numéro un des cybercriminels en Europe",
+          "analyse": "Avec un doublement des comptes compromis en six mois, le risque cyber devient systémique. Les CGP doivent intégrer ce facteur dans l'évaluation des entreprises exposées et considérer les opportunités d'investissement dans la cybersécurité.",
+          "source": "Siècle Digital",
+          "url": "",
           "niveau": "fort"
         },
         {
-          "titre": "Centrale solaire de Neoen à Cestas sauvée des flammes",
-          "analyse": "La plus puissante centrale photovoltaïque de France a échappé à l'incendie mais reste à l'arrêt, illustrant le risque physique sur les infrastructures énergétiques. Point à considérer dans l'analyse des actifs ISR/énergie renouvelable pour les clients.",
+          "titre": "Prix de l'électricité : risque de maintien à un niveau élevé pour 2027",
+          "analyse": "Les perspectives de prix de l'électricité restent orientées à la hausse pour 2027, pesant sur le pouvoir d'achat et les valeurs des secteurs énergivores. Cela justifie un positionnement sur les actifs de production renouvelable.",
           "source": "GreenUnivers",
-          "url": "",
-          "niveau": "moyen"
+          "url": "https://www.greenunivers.com",
+          "niveau": "fort"
         }
       ]
     }
   ],
-  "compte_articles": 173
+  "compte_articles": 249
 }
