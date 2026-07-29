@@ -1,19 +1,20 @@
 {
-  "date_fr": "mardi 28 juillet 2026",
-  "synthese_jour": "Les marchés financiers évoluent dans un contexte de tensions géopolitiques et de pressions inflationnistes persistantes, avec un pétrole au-dessus de 120 dollars. En France, les débats sur la fiscalité des hauts patrimoines et les ajustements budgétaires à venir dominent l'actualité. Les investisseurs doivent rester prudents face à la volatilité accrue et aux risques sectoriels.",
+  "date_fr": "mercredi 29 juillet 2026",
+  "synthese_jour": "Les marchés financiers sont marqués par des tensions géopolitiques au Moyen-Orient, impactant les prix du pétrole et les taux d'emprunt. En France, le secteur immobilier montre des signes de fragilité, tandis que les SCPI et les dispositifs fiscaux restent des leviers à surveiller. Les avancées technologiques, notamment dans l'IA et les semi-conducteurs, suscitent des opportunités mais aussi des risques concurrentiels.",
   "chiffres_cles": [
     "CAC 40: +0.8%",
-    "Baril de pétrole: 120.5 USD",
-    "OAT 10 ans: 3.2%",
-    "Inflation France: +5.1% (juin)",
-    "Nikkei: -4%"
+    "OAT 10 ans: 4.0%",
+    "Brent: 92.5$/baril (+3.2%)",
+    "Dollar/Euro: 1.08",
+    "Inflation France: 4.5% (juin)",
+    "Taux immobilier moyen: 4.2%"
   ],
   "a_surveiller": [
-    "Décisions de la Fed et de la Banque d'Angleterre sur les taux cette semaine.",
+    "Décision de la Fed sur les taux d'intérêt cette semaine.",
     "Évolution des tensions au Moyen-Orient et impact sur les prix du pétrole.",
-    "Discussions sur la fiscalité des hauts patrimoines en France pour le budget 2027.",
-    "Résultats des GAFAM et leur impact sur les valeurs technologiques.",
-    "Tendances des prix immobiliers et leur soutenabilité face aux revenus des ménages."
+    "Prolongation de l'encadrement des loyers en France jusqu'en 2027.",
+    "Avancées chinoises dans les semi-conducteurs et impact sur les valeurs européennes.",
+    "Hausse des primes d'assurance habitation face aux incendies estivaux."
   ],
   "sections": [
     {
@@ -22,24 +23,31 @@
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "Baril au-dessus de 120$ : scénario noir pour la fin d'été",
-          "analyse": "La réduction du trafic du détroit d'Ormuz alimente une pression inflationniste persistante, pénalisant le pouvoir d'achat et les valeurs consommatrices d'énergie. Les CGP doivent anticiper un impact sur les OPCVM émergents et la couverture inflation des portefeuilles.",
-          "source": "Challenges en temps réel",
-          "url": "https://www.challenges.fr",
+          "titre": "Moyen-Orient : escalade militaire, le pétrole repart à la hausse",
+          "analyse": "Les tensions géopolitiques au Moyen-Orient entraînent une hausse des prix du pétrole, avec des répercussions sur l'inflation et les taux d'intérêt. Les portefeuilles exposés aux matières premières ou à l'énergie doivent être ajustés.",
+          "source": "Le Revenu",
+          "url": "",
           "niveau": "fort"
         },
         {
-          "titre": "Rendements obligataires européens proches de leurs plus hauts pluriannuels",
-          "analyse": "Les taux souverains européens se maintiennent à des niveaux élevés, les marchés intégrant des politiques monétaires restrictives durables. Pour les CGP, cela renforce l'attrait des obligations à rendement élevé et invite à la prudence sur les durations longues.",
+          "titre": "Eurozone borrowing costs rise as Middle East escalation weighs",
+          "analyse": "La hausse des coûts d'emprunt dans la zone euro reflète les tensions géopolitiques et les anticipations de politique monétaire restrictive. Impact direct sur les crédits immobiliers et les obligations.",
           "source": "Forex News",
-          "url": "non fournie",
+          "url": "https://www.forexnews.com",
           "niveau": "fort"
         },
         {
-          "titre": "Nikkei : chute de 4%, correction confirmée sous 64 000 pts",
-          "analyse": "La cassure d'un seuil technique majeur signale un risque de volatilité accrue sur le marché japonais. À surveiller pour les allocations internationales et les fonds exposés à l'Asie.",
-          "source": "Le Revenu - Actualités financières",
-          "url": "https://www.lerevenu.com",
+          "titre": "Dollar holds firm as Fed rate-hike risks alive",
+          "analyse": "Le dollar reste solide face à l'euro et au yen, soutenu par les anticipations de hausse des taux de la Fed. Les portefeuilles avec exposition devises doivent être ajustés en conséquence.",
+          "source": "Forex News",
+          "url": "https://www.forexnews.com",
+          "niveau": "fort"
+        },
+        {
+          "titre": "U.S. yields ease off multi-month peaks before Fed call",
+          "analyse": "Les rendements obligataires américains reculent légèrement avant la décision de la Fed, mais restent élevés. Les investisseurs doivent surveiller les impacts sur les fonds obligataires.",
+          "source": "Forex News",
+          "url": "https://www.forexnews.com",
           "niveau": "moyen"
         }
       ]
@@ -47,21 +55,21 @@
     {
       "titre": "Fiscalité",
       "icone": "💰",
-      "niveau_global": "fort",
+      "niveau_global": "moyen",
       "items": [
         {
-          "titre": "Taxation des hauts patrimoines : le projet resurgira au budget 2027",
-          "analyse": "Le projet de taxation des hauts patrimoines, écarté en commission, reviendra lors des discussions budgétaires de l'automne 2027. Les CGP doivent anticiper d'éventuels alourdissements de la fiscalité patrimoniale et préparer des stratégies d'optimisation.",
-          "source": "Le Monde",
+          "titre": "Dispositif « Relance logement » : levier fiscal à activer avant fin 2026",
+          "analyse": "Le dispositif reste un outil fiscal intéressant pour les investisseurs immobiliers en zone tendue. Les CGP doivent intégrer cette opportunité dans leurs recommandations avant la fin de la fenêtre fiscale.",
+          "source": "Le Revenu",
           "url": "",
           "niveau": "fort"
         },
         {
-          "titre": "TotalEnergies : superprofits relancent le débat fiscal",
-          "analyse": "Avec un résultat net en hausse de 70 %, TotalEnergies ravive le risque de taxation exceptionnelle sur les superprofits. Pour les portefeuilles clients, le secteur énergétique offre un rendement attractif mais porte un risque réglementaire croissant.",
+          "titre": "TotalEnergies : superprofits et débat sur leur taxation",
+          "analyse": "Les résultats exceptionnels de TotalEnergies relancent le débat sur la taxation des superprofits. Les investisseurs doivent surveiller les impacts fiscaux potentiels sur leurs portefeuilles.",
           "source": "Alternatives économiques",
-          "url": "https://www.alternatives-economiques.fr",
-          "niveau": "fort"
+          "url": "",
+          "niveau": "moyen"
         }
       ]
     },
@@ -71,25 +79,25 @@
       "niveau_global": "fort",
       "items": [
         {
-          "titre": "Prix de l'immobilier : le grand décrochage avec les revenus des ménages",
-          "analyse": "L'écart entre les prix immobiliers et les revenus des ménages continue de se creuser, posant la question de la soutenabilité des valorisations actuelles. Les CGP doivent privilégier les actifs à rendement locatif solide et les SCPI diversifiées.",
-          "source": "MeilleureSCPI.com",
-          "url": "non fournie",
+          "titre": "Logement neuf : baisse de 4,8% des permis de construire en juin",
+          "analyse": "La baisse des permis de construire reflète une fragilité du marché immobilier neuf. Les SCPI et les investissements locatifs pourraient être impactés.",
+          "source": "notretemps.com",
+          "url": "https://www.notretemps.com",
           "niveau": "fort"
         },
         {
-          "titre": "Immobilier : la canicule devient un critère d'achat décisif",
-          "analyse": "Le confort d'été, l'isolation et les espaces verts influencent désormais les valorisations immobilières. Pour les clients investisseurs, intégrer le risque climatique dans la sélection de biens est devenu un facteur clé.",
+          "titre": "Encadrement des loyers prolongé jusqu'en juillet 2027",
+          "analyse": "La prolongation de l'encadrement des loyers limite la rentabilité des investissements locatifs. Les CGP doivent ajuster leurs projections de rendement pour les dispositifs Pinel et LMNP.",
           "source": "Le Revenu",
-          "url": "https://www.lerevenu.com",
-          "niveau": "fort"
+          "url": "",
+          "niveau": "moyen"
         },
         {
-          "titre": "Crédit immobilier : taux stables en août, fenêtre pour les emprunteurs",
-          "analyse": "La stabilité des taux sur deux mois consécutifs sécurise les projets d'acquisition et de renégociation. Les CGP peuvent recommander de concrétiser les opérations immobilières sans attendre une baisse supplémentaire.",
-          "source": "Le Revenu - Actualités financières",
-          "url": "https://www.lerevenu.com",
-          "niveau": "fort"
+          "titre": "Stations balnéaires : les prix entament un recul net",
+          "analyse": "Le marché des résidences secondaires enregistre une correction significative. Les CGP doivent surveiller les valorisations dans ce segment.",
+          "source": "Le Revenu",
+          "url": "",
+          "niveau": "moyen"
         }
       ]
     },
@@ -99,35 +107,28 @@
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "Revolut ouvre l'accès aux marchés privés pour ses clients",
-          "analyse": "La fintech démocratise le capital-investissement, jusqu'ici réservé aux institutionnels. Cette évolution signale une tendance vers la désintermédiation du private equity, mais aussi un risque de dilution de l'expertise.",
-          "source": "Le Revenu",
-          "url": "https://www.lerevenu.com",
-          "niveau": "moyen"
+          "titre": "Succession d'entreprise familiale : le guide Goldman Sachs 2026",
+          "analyse": "Ce guide fournit des outils pratiques pour optimiser la transmission des entreprises familiales. Les CGP doivent l'utiliser pour accompagner leurs clients entrepreneurs.",
+          "source": "Finyear",
+          "url": "https://www.finyear.com/",
+          "niveau": "fort"
         }
       ]
     },
     {
-      "titre": "ESG",
-      "icone": "🌱",
-      "niveau_global": "fort",
+      "titre": "Réglementation",
+      "icone": "⚖️",
+      "niveau_global": "moyen",
       "items": [
         {
-          "titre": "La France, cible numéro un des cybercriminels en Europe",
-          "analyse": "Avec un doublement des comptes compromis en six mois, le risque cyber devient systémique. Les CGP doivent intégrer ce facteur dans l'évaluation des entreprises exposées et considérer les opportunités d'investissement dans la cybersécurité.",
-          "source": "Siècle Digital",
-          "url": "",
-          "niveau": "fort"
-        },
-        {
-          "titre": "Prix de l'électricité : risque de maintien à un niveau élevé pour 2027",
-          "analyse": "Les perspectives de prix de l'électricité restent orientées à la hausse pour 2027, pesant sur le pouvoir d'achat et les valeurs des secteurs énergivores. Cela justifie un positionnement sur les actifs de production renouvelable.",
-          "source": "GreenUnivers",
-          "url": "https://www.greenunivers.com",
-          "niveau": "fort"
+          "titre": "IA : une ONG accuse Hugging Face d'héberger des modèles de nudification",
+          "analyse": "Cette accusation pourrait accélérer le durcissement du cadre réglementaire européen sur l'IA. Les CGP doivent surveiller les impacts sur les entreprises technologiques.",
+          "source": "notretemps.com",
+          "url": "https://www.notretemps.com",
+          "niveau": "moyen"
         }
       ]
     }
   ],
-  "compte_articles": 249
+  "compte_articles": 236
 }
