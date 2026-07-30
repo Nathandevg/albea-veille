@@ -1,74 +1,249 @@
 {
-  "date_fr": "mercredi 29 juillet 2026",
-  "synthese_jour": "Les marchés financiers sont marqués par des tensions géopolitiques au Moyen-Orient, impactant les prix du pétrole et les taux d'emprunt. En France, le secteur immobilier montre des signes de fragilité, tandis que les SCPI et les dispositifs fiscaux restent des leviers à surveiller. Les avancées technologiques, notamment dans l'IA et les semi-conducteurs, suscitent des opportunités mais aussi des risques concurrentiels.",
+  "date_fr": "jeudi 30 juillet 2026",
+  "synthese_jour": "L'économie française évite de justesse la récession au T2 avec une croissance de 0,2 %, tandis que la Fed maintient ses taux face à une inflation persistante liée aux tensions géopolitiques. Les marchés digèrent des résultats semestriels contrastés, avec des signaux forts sur le luxe (Kering rebondit, Hermès recule) et l'IA (Microsoft en hausse, Meta sous pression). Côté patrimonial, l'immobilier ancien ralentit, offrant des opportunités aux acheteurs, et la réglementation assurance-vie est sous surveillance de l'ACPR.",
   "chiffres_cles": [
-    "CAC 40: +0.8%",
-    "OAT 10 ans: 4.0%",
-    "Brent: 92.5$/baril (+3.2%)",
-    "Dollar/Euro: 1.08",
-    "Inflation France: 4.5% (juin)",
-    "Taux immobilier moyen: 4.2%"
+    "PIB France T2 : +0,2 %",
+    "Fed : taux maintenus à 3,50 %-3,75 %",
+    "Kering : +14 % en Bourse",
+    "Hermès : -10 % en Bourse",
+    "Shell : bénéfice en hausse de 130 %",
+    "Bitcoin : progression prudente avant la Fed"
   ],
   "a_surveiller": [
-    "Décision de la Fed sur les taux d'intérêt cette semaine.",
-    "Évolution des tensions au Moyen-Orient et impact sur les prix du pétrole.",
-    "Prolongation de l'encadrement des loyers en France jusqu'en 2027.",
-    "Avancées chinoises dans les semi-conducteurs et impact sur les valeurs européennes.",
-    "Hausse des primes d'assurance habitation face aux incendies estivaux."
+    "Décision de la Fed et impact sur les taux longs et le dollar.",
+    "Évolution des tensions géopolitiques au Moyen-Orient et effet sur les prix de l'énergie.",
+    "Ralentissement de l'immobilier ancien en France et opportunités d'achat à prix décoté.",
+    "Résultats semestriels des valeurs technologiques et IA (Microsoft, Meta) pour l'allocation sectorielle.",
+    "Pratiques de résiliation et délais d'indemnisation des assureurs pointés par l'ACPR."
   ],
   "sections": [
     {
       "titre": "Marchés financiers",
       "icone": "📈",
-      "niveau_global": "moyen",
+      "niveau_global": "fort",
       "items": [
         {
-          "titre": "Moyen-Orient : escalade militaire, le pétrole repart à la hausse",
-          "analyse": "Les tensions géopolitiques au Moyen-Orient entraînent une hausse des prix du pétrole, avec des répercussions sur l'inflation et les taux d'intérêt. Les portefeuilles exposés aux matières premières ou à l'énergie doivent être ajustés.",
+          "titre": "L'économie française évite la récession au T2 (+0,2 %)",
+          "analyse": "Le PIB français accélère légèrement à 0,2 % au T2 après -0,1 %, mais en deçà des anticipations de l'Insee. La canicule et les incendies menacent les perspectives, justifiant une allocation prudente sur les valeurs domestiques.",
+          "source": "La Tribune",
+          "url": "https://www.latribune.fr",
+          "niveau": "fort"
+        },
+        {
+          "titre": "Fed : statu quo sur les taux malgré la flambée du pétrole",
+          "analyse": "La Fed maintient ses taux à 3,50 %-3,75 % pour la cinquième fois consécutive face au risque inflationniste lié à l'énergie. La fracture interne prépare un débat plus dur, à surveiller pour le pilotage des obligations et des actifs risqués.",
+          "source": "La Tribune",
+          "url": "https://www.latribune.fr",
+          "niveau": "fort"
+        },
+        {
+          "titre": "Microsoft encaisse le jackpot de l'IA, Meta paye la facture",
+          "analyse": "Azure franchit 100 Mds$ de revenus annuels et conforte Microsoft comme bénéficiaire majeur de l'IA, tandis que Meta voit sa rentabilité érodée par les coûts d'infrastructure. Contraste à exploiter dans l'allocation technologique.",
+          "source": "La Tribune",
+          "url": "https://www.latribune.fr",
+          "niveau": "fort"
+        },
+        {
+          "titre": "Wall Street plonge après une Fed jugée trop restrictive",
+          "analyse": "Le ton restrictif de la Fed ravive les inquiétudes sur les taux et l'inflation, entraînant une chute des indices américains. À surveiller pour l'allocation d'actifs et la rotation sectorielle des portefeuilles clients.",
           "source": "Le Revenu",
+          "url": "https://www.lerevenu.com/actualites-financieres/wall-street-fed-douche-indices",
+          "niveau": "fort"
+        },
+        {
+          "titre": "Kering : l'action bondit de 14 % après un retour à la croissance",
+          "analyse": "Le retour à la croissance après douze trimestres de repli rassure, même si le bénéfice net plonge de 60 %. Le rebond boursier de 14 % traduit un effet de surprise et un renforcement du bilan, à surveiller pour les positions luxe.",
+          "source": "Le Revenu - Actualités financières",
           "url": "",
           "niveau": "fort"
         },
         {
-          "titre": "Eurozone borrowing costs rise as Middle East escalation weighs",
-          "analyse": "La hausse des coûts d'emprunt dans la zone euro reflète les tensions géopolitiques et les anticipations de politique monétaire restrictive. Impact direct sur les crédits immobiliers et les obligations.",
-          "source": "Forex News",
-          "url": "https://www.forexnews.com",
+          "titre": "Hermès : le titre plonge de 10 % malgré une rentabilité préservée",
+          "analyse": "Rentabilité opérationnelle de 41 % et cash-flow en hausse de 18 %, mais l'action recule fortement. Illustration du décalage entre fondamentaux solides et attentes élevées sur le luxe, point clé pour arbitrer les lignes premium.",
+          "source": "Le Revenu - Actualités financières",
+          "url": "",
           "niveau": "fort"
         },
         {
-          "titre": "Dollar holds firm as Fed rate-hike risks alive",
-          "analyse": "Le dollar reste solide face à l'euro et au yen, soutenu par les anticipations de hausse des taux de la Fed. Les portefeuilles avec exposition devises doivent être ajustés en conséquence.",
-          "source": "Forex News",
-          "url": "https://www.forexnews.com",
+          "titre": "Legrand : premier semestre au-delà des attentes, objectifs 2026 relevés",
+          "analyse": "Croissance organique de 9,8 % portée par la demande des centres de données liée à l'IA. Thématique structurelle pertinente pour exposition indirecte à l'IA via des valeurs industrielles françaises plus défensives.",
+          "source": "Le Revenu - Actualités financières",
+          "url": "",
           "niveau": "fort"
         },
         {
-          "titre": "U.S. yields ease off multi-month peaks before Fed call",
-          "analyse": "Les rendements obligataires américains reculent légèrement avant la décision de la Fed, mais restent élevés. Les investisseurs doivent surveiller les impacts sur les fonds obligataires.",
+          "titre": "Eramet ciblé par un consortium américano-émirati",
+          "analyse": "Fragilisé par des pertes nettes, Eramet prépare une augmentation de capital de 500 M€ et fait l'objet d'une approche d'Orion Critical Mineral soutenu par Washington et Abou Dhabi. Point d'attention sur les minéraux critiques et la gouvernance.",
+          "source": "La Tribune",
+          "url": "https://www.latribune.fr",
+          "niveau": "fort"
+        },
+        {
+          "titre": "Euro yields firm as Middle East war and Fed ambiguity stoke inflation fears",
+          "analyse": "La hausse des taux souverains européens, alimentée par les tensions au Moyen-Orient et l'ambiguïté de la Fed, pèse sur les actifs obligataires. À surveiller pour l'allocation des portefeuilles à profil modéré.",
           "source": "Forex News",
-          "url": "https://www.forexnews.com",
+          "url": "",
+          "niveau": "fort"
+        },
+        {
+          "titre": "U.S. Treasuries pressured as Middle East escalation and hawkish Fed bets weigh",
+          "analyse": "La pression sur les Treasuries traduit un durcissement des anticipations Fed et un flight-to-safety dégradé. Impact direct sur la valorisation des fonds dollars et la couverture de risque.",
+          "source": "Forex News",
+          "url": "",
+          "niveau": "fort"
+        },
+        {
+          "titre": "Renault repasse dans le vert au 1er semestre 2026, CA +9,5%",
+          "analyse": "Le retour à la rentabilité de Renault, porté par l'électrique et les partenariats, est un signal positif pour le secteur automobile européen. Cela peut justifier un réexamen de l'allocation sur les valeurs automobiles et les fournisseurs de composants électriques.",
+          "source": "JDN : Derniers contenus",
+          "url": "",
+          "niveau": "fort"
+        },
+        {
+          "titre": "Automobile : Renault progresse, Stellantis se redresse, BMW restructure",
+          "analyse": "Les profits des constructeurs européens se contractent sous l'effet de la pression chinoise et des coûts réglementaires, malgré des ventes records d'électriques. Sélectivité accrue requise sur le secteur auto européen.",
+          "source": "La Tribune",
+          "url": "https://www.latribune.fr",
           "niveau": "moyen"
+        },
+        {
+          "titre": "Boeing se redresse et relance le match avec Airbus",
+          "analyse": "Boeing augmente fortement ses livraisons et réduit l'écart avec Airbus, qui conserve une avance en commandes. Un signal de normalisation industrielle à suivre pour les expositions aéronautiques.",
+          "source": "La Tribune",
+          "url": "https://www.latribune.fr",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "TAP Air Portugal : Air France-KLM et Lufthansa en lice",
+          "analyse": "La privatisation de TAP entre en phase décisive, avec des offres d'Air France-KLM (44,9-49,9 %) et Lufthansa pour le hub stratégique de Lisbonne. Enjeu de consolidation majeur pour le secteur aérien européen.",
+          "source": "La Tribune",
+          "url": "https://www.latribune.fr",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Face aux routes maritimes bloquées, le fret aérien s'envole",
+          "analyse": "Le fret aérien progresse de 4,9 % au S1 2026, porté par les détours des porte-conteneurs et la guerre au Moyen-Orient, bien au-delà des anticipations Iata. Un effet de report à intégrer dans l'analyse des valeurs transport et logistique.",
+          "source": "La Tribune",
+          "url": "https://www.latribune.fr",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Stellantis : CA en baisse de 13% et bénéfice sous pression",
+          "analyse": "Résultats semestriels contrastés malgré une progression des livraisons mondiales au T2. La pression sur la rentabilité illustre les défis du secteur automobile européen pour les investisseurs en actions.",
+          "source": "Le Revenu",
+          "url": "https://www.lerevenu.com/actualites-financieres/stellantis-ca-baisse-13-pourcent",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Meta recule en Bourse : les dépenses IA inquiètent les marchés",
+          "analyse": "Malgré des revenus solides, l'explosion des dépenses d'investissement en IA pèse sur le titre. Point de vigilance sur la valorisation des Gafam et l'équilibre croissance/investissement dans les portefeuilles tech.",
+          "source": "Le Revenu",
+          "url": "https://www.lerevenu.com/actualites-financieres/meta-recule-bourse-investissements-ia",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Microsoft s'envole grâce au cloud et à l'IA",
+          "analyse": "Résultats trimestriels supérieurs aux attentes portés par Azure et les revenus IA, avec une stratégie d'investissement rassurante. Renforce le scénario de rotation vers les valeurs cloud au sein des exposures tech.",
+          "source": "Le Revenu",
+          "url": "https://www.lerevenu.com/actualites-financieres/microsoft-s-envole-bourse-cloud",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Shell : bénéfices en hausse de 130% portés par la tension énergétique",
+          "analyse": "La flambée des prix de l'énergie liée aux tensions géopolitiques offre un trimestre exceptionnel à Shell. À prendre en compte pour l'allocation sur les valeurs énergétiques et la couverture inflation des portefeuilles.",
+          "source": "Le Revenu",
+          "url": "https://www.lerevenu.com/actualites-financieres/shell-benefices-progression-130-pourcent",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Airbus : résultats trimestriels supérieurs aux attentes",
+          "analyse": "Accélération des livraisons commerciales et forte croissance de la branche Défense et Espace. Confirme le momentum sur l'aéronautique européen et le thème défense, à intégrer dans les allocations sectorielles.",
+          "source": "Le Revenu - Actualités financières",
+          "url": "",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Bitcoin : progression prudente avant la décision de la Fed",
+          "analyse": "Le Bitcoin évolue en légère hausse dans l'attente de la décision monétaire américaine, avec des marchés prudents. Contexte macro déterminant pour les actifs risqués et cryptos à surveiller pour les profils diversifiés.",
+          "source": "Le Revenu - Actualités financières",
+          "url": "",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "TotalEnergies : superprofits relancent le débat sur leur taxation",
+          "analyse": "Résultat net semestriel supérieur à 10 milliards de dollars, en hausse de 70 %. Relance le débat fiscal sur les superprofits, élément à intégrer dans l'analyse des valeurs énergétiques et du risque réglementaire.",
+          "source": "Alternatives économiques",
+          "url": "",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Samsung : bénéfices records mais scepticisme persistant sur l'IA",
+          "analyse": "Résultats records tirés par les puces mémoire, mais les investisseurs doutent de la durée du cycle d'investissement IA et de la concurrence chinoise. Rappel des risques de valorisation sur le thème IA pour les expositions tech.",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Capgemini : bénéfice net en recul au S1 mais prévision de croissance relevée",
+          "analyse": "Recul du résultat lié aux coûts de restructuration, mais guidance relevée. Signal positif pour les lignes tech dans les portefeuilles actions européennes.",
+          "source": "notretemps.com",
+          "url": "",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Air France-KLM: chute du bénéfice, hausse des recettes/passager",
+          "analyse": "Bénéfice net en chute de 71% au T2 sous l'effet du coût carburant, malgré des recettes unitaires en hausse. Tension sur les coûts d'exploitation du transport aérien à intégrer dans l'analyse sectorielle.",
+          "source": "notretemps.com",
+          "url": "https://notretemps.com",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Russian rouble falls past 80 per dollar for first time since April",
+          "analyse": "La chute du rouble au-delà de 80 USD reflète des pressions structurelles sur la devise russe. Peu d'impact direct pour la clientèle CGP française, mais signal de risque géopolitique émergent.",
+          "source": "Forex News",
+          "url": "",
+          "niveau": "faible"
+        },
+        {
+          "titre": "Fibre Excellence: liquidation de l'usine de Tarascon, 270 emplois",
+          "analyse": "Liquidation judiciaire impactant l'industrie papetière française et 270 emplois. Élément de contexte sur les difficultés industrielles locales, à mentionner si des clients ont des expositions sectorielles.",
+          "source": "notretemps.com",
+          "url": "https://notretemps.com",
+          "niveau": "faible"
+        },
+        {
+          "titre": "Cybersécurité: les entreprises face aux progrès de l'IA",
+          "analyse": "Risque émergent pour les portefeuilles entreprise : l'IA accroît les failles et les cyberattaques autonomes. Thème à intégrer dans les recommandations de protection des données clients et d'assurance cyber.",
+          "source": "notretemps.com",
+          "url": "https://notretemps.com",
+          "niveau": "faible"
         }
       ]
     },
     {
       "titre": "Fiscalité",
       "icone": "💰",
-      "niveau_global": "moyen",
+      "niveau_global": "fort",
       "items": [
         {
-          "titre": "Dispositif « Relance logement » : levier fiscal à activer avant fin 2026",
-          "analyse": "Le dispositif reste un outil fiscal intéressant pour les investisseurs immobiliers en zone tendue. Les CGP doivent intégrer cette opportunité dans leurs recommandations avant la fin de la fenêtre fiscale.",
-          "source": "Le Revenu",
+          "titre": "Succession : donation frauduleusement révoquée et recel successoral",
+          "analyse": "Jurisprudence de la Cour de cassation assimilant une donation frauduleusement révoquée à un recel successoral. Point juridique essentiel pour le conseil en transmission patrimoniale et la sécurisation des donations.",
+          "source": "Le Revenu - Actualités financières",
           "url": "",
           "niveau": "fort"
         },
         {
-          "titre": "TotalEnergies : superprofits et débat sur leur taxation",
-          "analyse": "Les résultats exceptionnels de TotalEnergies relancent le débat sur la taxation des superprofits. Les investisseurs doivent surveiller les impacts fiscaux potentiels sur leurs portefeuilles.",
-          "source": "Alternatives économiques",
-          "url": "",
+          "titre": "Impôts 2026: comment corriger votre déclaration de revenus",
+          "analyse": "Information fiscale pratique pour les clients particuliers : le service de correction est ouvert depuis le 29 juillet. Point de vigilance pour accompagner les contribuables ayant repéré des erreurs sur leur avis d'imposition.",
+          "source": "notretemps.com",
+          "url": "https://notretemps.com",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Impôt : toutes les échéances fiscales d'août 2026",
+          "analyse": "Avis d'imposition, taxe foncière et prélèvements mensuels se concentrent en août. C'est un point de contact clé pour anticiper la trésorerie des clients et les éventuelles demandes de délais.",
+          "source": "Merci pour l'info",
+          "url": "https://www.mercipourlinfo.fr/impot-echeances-fiscales-aout-2026",
           "niveau": "moyen"
         }
       ]
@@ -79,56 +254,112 @@
       "niveau_global": "fort",
       "items": [
         {
-          "titre": "Logement neuf : baisse de 4,8% des permis de construire en juin",
-          "analyse": "La baisse des permis de construire reflète une fragilité du marché immobilier neuf. Les SCPI et les investissements locatifs pourraient être impactés.",
-          "source": "notretemps.com",
-          "url": "https://www.notretemps.com",
+          "titre": "Immobilier ancien : ralentissement et retour du pouvoir d'achat aux acheteurs",
+          "analyse": "Les transactions ralentissent et les délais de vente s'allongent en France, redonnant du pouvoir de négociation aux acheteurs. Opportunité à souligner aux clients pour des acquisitions patrimoniales à prix décoté.",
+          "source": "Le Revenu",
+          "url": "https://www.lerevenu.com/actualites-financieres/immobilier-ancien-ralentissement-marche",
           "niveau": "fort"
         },
         {
-          "titre": "Encadrement des loyers prolongé jusqu'en juillet 2027",
-          "analyse": "La prolongation de l'encadrement des loyers limite la rentabilité des investissements locatifs. Les CGP doivent ajuster leurs projections de rendement pour les dispositifs Pinel et LMNP.",
+          "titre": "Crédit immobilier : les taux résistent malgré un environnement moins favorable",
+          "analyse": "Les banques maintiennent des conditions attractives pour capter les emprunteurs, mais plusieurs indicateurs suggèrent un retournement prochain. Fenêtre de tir à anticiper pour les projets de financement des clients.",
           "source": "Le Revenu",
+          "url": "https://www.lerevenu.com/actualites-financieres/credit-immobilier-taux-resistent",
+          "niveau": "fort"
+        },
+        {
+          "titre": "« La SCPI est un produit illiquide : il faut l'assumer dès le départ »",
+          "analyse": "Rappel important de la discipline de liquidité et de l'horizon long requis en SCPI. Élément clé de conseil pour cadrer les attentes des clients avant souscription.",
+          "source": "Pierrepapier.fr",
+          "url": "",
+          "niveau": "fort"
+        },
+        {
+          "titre": "Immobilier et collectivités locales en Chine : d'où viendra la prochaine crise",
+          "analyse": "Un dossier macro qui rappelle les risques systémiques liés à l'immobilier chinois et aux collectivités locales. Utile pour calibrer l'exposition des clients aux marchés émergents et aux actifs corrélés.",
+          "source": "La finance pour tous",
+          "url": "https://www.lafinancepourtous.com/immobilier-collectivites-chine-crise",
+          "niveau": "fort"
+        },
+        {
+          "titre": "Altarea : reprise des réservations de logements neufs (+3,4%)",
+          "analyse": "Premiers signes de reprise pour le promoteur après plusieurs années de crise sur le neuf. Signal positif pour le secteur du logement neuf et les dispositifs d'investissement défiscalisant.",
+          "source": "Le Revenu",
+          "url": "https://www.lerevenu.com/actualites-financieres/altarea-renoue-croissance-reservations",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "SCPI Remake Live : acquisition d'un actif industriel à Saragosse",
+          "analyse": "Acquisition ciblée sur le segment logistique/industriel espagnol avec rendement annoncé de 7 % net. Illustration d'une stratégie de diversification géographique et sectorielle dans l'immobilier pierre-papier.",
+          "source": "MeilleureSCPI.com",
           "url": "",
           "niveau": "moyen"
         },
         {
-          "titre": "Stations balnéaires : les prix entament un recul net",
-          "analyse": "Le marché des résidences secondaires enregistre une correction significative. Les CGP doivent surveiller les valorisations dans ce segment.",
-          "source": "Le Revenu",
+          "titre": "NCap Continent franchit le cap des 80 M€ de capitalisation",
+          "analyse": "Croissance significative d'une SCPI à stratégie européenne, signal de collecte dynamique. À positionner comme option de diversification pour clients cherchant une exposition immobilière européenne.",
+          "source": "MeilleureSCPI.com",
           "url": "",
           "niveau": "moyen"
+        },
+        {
+          "titre": "Immobilier de luxe : la Côte d'Azur résiste au ralentissement",
+          "analyse": "Le segment premium azuréen bénéficie d'une demande internationale et d'une rareté de l'offre. Opportunité pour clients fortunés cherchant une valeur refuge dans l'immobilier physique.",
+          "source": "MySweetimmo",
+          "url": "",
+          "niveau": "moyen"
+        }
+      ]
+    },
+    {
+      "titre": "Assurance-vie",
+      "icone": "🛡️",
+      "niveau_global": "fort",
+      "items": [
+        {
+          "titre": "L'ACPR s'interroge sur résiliations et délais d'indemnisation",
+          "analyse": "Sujet réglementaire direct pour les mandats assurance : l'ACPR pointe des pratiques de résiliation et des délais d'indemnisation excessifs. Rappel utile pour la sélection des partenaires assureurs et la qualité de service client.",
+          "source": "notretemps.com",
+          "url": "https://notretemps.com",
+          "niveau": "fort"
         }
       ]
     },
     {
       "titre": "Private equity",
-      "icone": "📊",
+      "icone": "💼",
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "Succession d'entreprise familiale : le guide Goldman Sachs 2026",
-          "analyse": "Ce guide fournit des outils pratiques pour optimiser la transmission des entreprises familiales. Les CGP doivent l'utiliser pour accompagner leurs clients entrepreneurs.",
-          "source": "Finyear",
-          "url": "https://www.finyear.com/",
-          "niveau": "fort"
+          "titre": "Arche MC2 démarre son LBO secondaire avec fonds de continuation",
+          "analyse": "Opération mêlant LGT Capital Partners, Access Capital Partners et AG2R La Mondiale dans un LBO secondaire. Signal de liquidité persistante sur le private equity européen, pertinent pour les mandats de gestion en actifs non cotés.",
+          "source": "PE Magazine",
+          "url": "https://www.pemagazine.com/arche-mc2-lbo-secondaire-fonds-continuation",
+          "niveau": "moyen"
         }
       ]
     },
     {
-      "titre": "Réglementation",
-      "icone": "⚖️",
+      "titre": "ESG",
+      "icone": "🌱",
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "IA : une ONG accuse Hugging Face d'héberger des modèles de nudification",
-          "analyse": "Cette accusation pourrait accélérer le durcissement du cadre réglementaire européen sur l'IA. Les CGP doivent surveiller les impacts sur les entreprises technologiques.",
+          "titre": "La France débloque 260M€ pour l'éolien flottant dans cinq ports",
+          "analyse": "Soutien public majeur à la filière éolien flottant, signal d'orientation de la politique énergétique française. Pertinent pour les thématiques ISR/transition énergétique dans les mandats responsables.",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com",
+          "url": "https://notretemps.com",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Investisseurs contre-attaquent face à la SEC sur les résolutions d'actionnaires",
+          "analyse": "La coalition d'investisseurs défend l'exercice des droits de vote et l'ESG face à la SEC. À suivre pour l'orientation des politiques d'engagement des fonds américains détenus par les clients.",
+          "source": "Novethic",
+          "url": "https://www.novethic.com/sec-investisseurs-resolutions-actionnaires",
           "niveau": "moyen"
         }
       ]
     }
   ],
-  "compte_articles": 236
+  "compte_articles": 250
 }
