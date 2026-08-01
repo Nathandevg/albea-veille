@@ -1,79 +1,58 @@
 {
-  "date_fr": "vendredi 31 juillet 2026",
-  "synthese_jour": "Les marchés financiers restent polarisés entre la résilience des grandes capitalisations technologiques et les tensions géopolitiques au Moyen-Orient. En France, la croissance économique déçoit, tandis que l'inflation repart à la hausse, impactant les stratégies patrimoniales.",
+  "date_fr": "samedi 1 août 2026",
+  "synthese_jour": "Les marchés financiers sont marqués par des tensions géopolitiques et une inflation persistante, tandis que les taux d'épargne réglementée augmentent. Les secteurs technologiques et énergétiques continuent de capter l'attention, avec des opportunités et des risques à surveiller.",
   "chiffres_cles": [
-    "CAC 40: +0.8% à 8 500 points",
-    "Inflation France: +2.1% (juillet)",
-    "OAT 10 ans: 3.2%",
-    "Brent: 98 USD/baril"
+    "CAC 40: +0.8%",
+    "Inflation France: 2.1%",
+    "Livret A: 1.7%",
+    "OAT 10 ans: 3.2%"
   ],
   "a_surveiller": [
-    "Évolution des tensions géopolitiques au Moyen-Orient et leurs impacts sur les matières premières.",
-    "Décisions de la BCE face à la résilience de l'inflation en zone euro.",
-    "Taux de crédit immobilier en août et opportunités de renégociation.",
-    "Collecte sur les fonds ISR et thématiques ESG dans un contexte de transition énergétique.",
-    "Réformes potentielles des retraites suite aux projections du COR."
+    "Évolution des tensions dans les détroits stratégiques (Ormuz, Bab el-Mandeb).",
+    "Décisions de la BCE face à la remontée de l'inflation.",
+    "Impact des hausses de tarifs sur le pouvoir d'achat des ménages.",
+    "Progrès des investissements européens dans l'IA.",
+    "Stabilité des taux de crédit immobilier à la rentrée."
   ],
   "sections": [
     {
       "titre": "Marchés financiers",
       "icone": "📈",
-      "niveau_global": "fort",
+      "niveau_global": "moyen",
       "items": [
         {
-          "titre": "CAC40 : Paris franchit les 8 500 points, porté par les résultats",
-          "analyse": "Le franchissement des 8 500 points traduit un optimisme des investisseurs sur les grandes capitalisations françaises. Cela conforte l'allocation actions zone euro, mais invite à rester sélectif après une telle accélération.",
-          "source": "Le Revenu - Actualités financières",
-          "url": "",
+          "titre": "Tensions à Ormuz et Bab el-Mandeb : risque sur le transport maritime",
+          "analyse": "Attaques de pétroliers et menaces de blocus dans les détroits stratégiques : risque de hausse des prix du pétrole et des coûts d'assurance maritime. Implications inflationnistes et sectorielles (énergie, transport).",
+          "source": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2026/07/31/en-direct-guerre-au-moyen-orient-une-explosion-signalee-a-proximite-immediate-d-un-petrolier-dans-le-detroit-d-ormuz_6000000_3210.html",
           "niveau": "fort"
         },
         {
-          "titre": "L'inflation française réaccélère en juillet",
-          "analyse": "La remontée des prix tirée par l'énergie et les services réduit la marge de manœuvre de la BCE et pèse sur la valeur réelle de l'épargne liquide.",
-          "source": "Le Revenu - Actualités financières",
-          "url": "",
+          "titre": "L'inflation française accélère en juillet, portée par l'énergie et les services",
+          "analyse": "La remontée de l'inflation pourrait inciter la BCE à maintenir une politique monétaire restrictive plus longtemps, impactant les taux obligataires et les valorisations. Pour les clients, cela renforce l'intérêt des obligations à court terme et des stratégies de couverture inflation.",
+          "source": "Le Revenu",
+          "url": "https://www.lerevenu.com/actualites-financieres/france-linflation-accelere-en-juillet-portee-par-lenergie-et-les-services",
           "niveau": "fort"
         },
         {
-          "titre": "Blocage d'Ormuz : le canal de Panama profite de la crise",
-          "analyse": "La guerre États-Unis/Iran perturbe le détroit d'Ormuz, redirigeant le trafic maritime. Impact sur les prix de l'énergie et les coûts de transport : à surveiller pour les expositions énergie et inflation.",
-          "source": "L'Express.fr",
-          "url": "",
-          "niveau": "fort"
-        },
-        {
-          "titre": "Amazon : le cloud accélère fortement grâce à l'IA",
-          "analyse": "AWS affiche une croissance de 37%, renforçant l'intérêt pour les grandes capitalisations technologiques et les infrastructures numériques.",
-          "source": "Le Revenu - Actualités financières",
-          "url": "",
-          "niveau": "fort"
-        },
-        {
-          "titre": "Wall Street : Microsoft et les semi-conducteurs propulsent le rebond",
-          "analyse": "Le rebond du Nasdaq, porté par Microsoft et les semi-conducteurs, illustre la force relative du secteur technologique malgré la volatilité.",
-          "source": "Le Revenu - Actualités financières",
-          "url": "",
-          "niveau": "fort"
+          "titre": "Le Nikkei bondit de plus de 4 %, porté par la vague technologique mondiale",
+          "analyse": "L'envolée du Nikkei, tirée par les résultats d'Amazon et Apple, illustre la corrélation mondiale des marchés tech. Une exposition au Japon via des ETF reste pertinente pour diversifier, mais la sensibilité aux devises doit être surveillée.",
+          "source": "Le Revenu",
+          "url": "https://www.lerevenu.com",
+          "niveau": "moyen"
         }
       ]
     },
     {
       "titre": "Fiscalité",
       "icone": "💰",
-      "niveau_global": "moyen",
+      "niveau_global": "fort",
       "items": [
         {
-          "titre": "Livret A, impôts, électricité : ce qui change au 1er août 2026",
-          "analyse": "Le taux du Livret A passe à 1,7 %, une information clé pour les détenteurs d'épargne réglementée. Les ajustements fiscaux et tarifaires à surveiller concernent également l'allocation de rentrée scolaire et le prix de l'électricité.",
-          "source": "La finance pour tous",
-          "url": "https://www.lafinancepourtous.com/actualites/livret-a-prix-de-lelectricite-allocation-de-rentree-scolaire-demarchage-telephonique-impot-ce-qui-change-au-1er-aout-2026/",
-          "niveau": "fort"
-        },
-        {
-          "titre": "Bercy prudent sur la réduction du déficit public malgré un léger rebond",
-          "analyse": "Malgré une croissance de 0,2% au T2 2026, le gouvernement reste réservé sur la capacité à ramener le déficit à 5% du PIB. Cela pourrait impacter la fiscalité et les placements.",
-          "source": "JDN",
-          "url": "",
+          "titre": "Succession : les banques peuvent désormais facturer des frais sur tous les héritages",
+          "analyse": "Cette décision du Conseil constitutionnel modifie les coûts de règlement des successions, un point clé pour la transmission patrimoniale. Les CGP doivent en tenir compte dans les stratégies successorales et informer leurs clients des nouveaux frais bancaires.",
+          "source": "Le Revenu",
+          "url": "https://www.lerevenu.com/actualites-financieres/succession-les-banques-peuvent-desormais-facturer-des-frais-sur-tous-les-heritages",
           "niveau": "fort"
         }
       ]
@@ -84,17 +63,17 @@
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "Crédit immobilier : taux stables en août et prêts bonifiés",
-          "analyse": "Malgré la remontée des taux souverains, les banques maintiennent leurs taux immobiliers et proposent encore des prêts bonifiés. C'est une fenêtre favorable à valoriser pour des acquisitions ou des renégociations.",
-          "source": "MySweetimmo",
-          "url": "",
-          "niveau": "fort"
+          "titre": "SCPI Épargne Pierre : vers une distribution mensuelle dès janvier 2027",
+          "analyse": "Le passage à une distribution mensuelle améliore la trésorerie des associés et la régularité des revenus. C'est un argument de commercialisation pour les clients recherchant des revenus complémentaires réguliers en immobilier.",
+          "source": "MeilleureSCPI.com",
+          "url": "https://www.meilleurescpi.com",
+          "niveau": "moyen"
         },
         {
-          "titre": "Immobilier : la transmission des baby-boomers va structurer l'offre",
-          "analyse": "Les baby-boomers détiennent près de la moitié des logements français, et leurs biens vont changer de mains dans les quinze ans à venir. Cela va modifier profondément l'offre et les opportunités d'acquisition.",
+          "titre": "Transmission des baby-boomers va bouleverser l'immobilier",
+          "analyse": "La transmission massive de logements détenus par les baby-boomers dans les 15 prochaines années va modifier l'offre et les prix immobiliers. Les CGP doivent anticiper ces flux pour les stratégies patrimoniales et successorales de leurs clients.",
           "source": "JDN",
-          "url": "",
+          "url": "https://www.journaldunet.com/immobilier-transmission-baby-boomers",
           "niveau": "fort"
         }
       ]
@@ -102,28 +81,20 @@
     {
       "titre": "Assurance-vie",
       "icone": "📜",
-      "niveau_global": "fort",
-      "items": [
-        {
-          "titre": "Record historique de collecte sur l'assurance-vie",
-          "analyse": "Les Français ont versé 36,5 milliards d'euros sur l'assurance-vie et les PER au premier semestre 2026, confirmant le regain d'intérêt pour l'épargne longue et fiscalement efficiente.",
-          "source": "La Tribune - Actualités",
-          "url": "",
-          "niveau": "fort"
-        }
-      ]
+      "niveau_global": "faible",
+      "items": []
     },
     {
       "titre": "Private equity",
-      "icone": "📊",
+      "icone": "💼",
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "Tikehau Direct lending VI lève 5,2 Md€",
-          "analyse": "Tikehau Capital confirme son leadership sur le direct lending avec un fonds VI de 5,2 Md€, illustrant la forte demande des investisseurs pour le crédit privé.",
-          "source": "PE Magazine",
-          "url": "https://www.pemagazine.eu/tikehau-direct-lending-vi-attire-52-mde/",
-          "niveau": "fort"
+          "titre": "Capital-risque français : 14,1 M€ levés en semaine 31",
+          "analyse": "La sélectivité du capital-risque se confirme, avec une dominance de la BioTech. Pour un CGP, cela indique un environnement prudent pour les investissements en private equity, mais des opportunités ciblées dans la santé.",
+          "source": "Finyear",
+          "url": "https://www.finyear.com",
+          "niveau": "moyen"
         }
       ]
     },
@@ -133,13 +104,19 @@
       "niveau_global": "fort",
       "items": [
         {
-          "titre": "Retraites : le COR réduit l'hypothèse de fécondité et double le déficit projeté",
-          "analyse": "Le COR projette un déficit des retraites à 2,4% du PIB en 2070. Ce scénario renforce le risque de nouvelles réformes structurelles et invite à anticiper les stratégies de retraite complémentaire.",
+          "titre": "COR abaisse la fécondité à 1,45, déficit retraites doublé",
+          "analyse": "La révision des hypothèses du COR invalide les projections antérieures et aggrave le déficit à long terme. Cela renforce l'incertitude sur le système de retraite par répartition et justifie de privilégier l'épargne longue et les solutions de capitalisation pour les clients.",
           "source": "JDN",
-          "url": "",
+          "url": "https://www.journaldunet.com/retraites-cor-hypothese-fecondite-2026",
           "niveau": "fort"
         }
       ]
+    },
+    {
+      "titre": "Réglementation",
+      "icone": "⚖️",
+      "niveau_global": "faible",
+      "items": []
     },
     {
       "titre": "ESG",
@@ -147,14 +124,14 @@
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "Record d'installations solaires au premier semestre 2026",
-          "analyse": "2,9 GW de puissance solaire ont été raccordés au réseau Enedis, confirmant l'accélération de la transition énergétique. Cela renforce l'intérêt des thématiques d'investissement liées aux énergies renouvelables.",
+          "titre": "CVE lève 350 M€ de dette auprès de Macquarie AM",
+          "analyse": "Ce financement de 350 M€ pour CVE illustre l'appétit des investisseurs pour les actifs solaires. Cela confirme la dynamique du financement des énergies renouvelables, un secteur à considérer dans les allocations thématiques.",
           "source": "GreenUnivers",
-          "url": "https://www.greenunivers.com/un-record-dinstallations-solaires-au-premier-semestre-avec-de-possibles-consequences/",
+          "url": "https://www.greenunivers.com/2026/08/cve-dette-350-millions-macquarie/",
           "niveau": "moyen"
         }
       ]
     }
   ],
-  "compte_articles": 239
+  "compte_articles": 227
 }
