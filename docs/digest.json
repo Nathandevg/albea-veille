@@ -1,122 +1,208 @@
 {
-  "date_fr": "samedi 1 août 2026",
-  "synthese_jour": "Les marchés financiers sont marqués par des tensions géopolitiques et une inflation persistante, tandis que les taux d'épargne réglementée augmentent. Les secteurs technologiques et énergétiques continuent de capter l'attention, avec des opportunités et des risques à surveiller.",
+  "date_fr": "dimanche 2 août 2026",
+  "synthese_jour": "L'actualité est dominée par les tensions géopolitiques (accord Trump-Iran) et les risques climatiques (mégafeu en Gironde, canicule, Super El Niño) qui pèsent sur l'économie et les marchés. Parallèlement, la semaine IA a été contrastée avec un Microsoft triomphant et un Google en difficulté, tandis que la dette française et la valorisation de SpaceX suscitent des interrogations. Les impacts locaux des incendies (tourisme, immobilier, assurances) nécessitent une attention particulière pour les clients exposés.",
   "chiffres_cles": [
-    "CAC 40: +0.8%",
-    "Inflation France: 2.1%",
-    "Livret A: 1.7%",
-    "OAT 10 ans: 3.2%"
+    "Bitcoin: 63 477 $",
+    "Record de température en Corée du Sud: 42,5 °C",
+    "Mégafeu en Gironde: 42 000 hectares brûlés",
+    "Chute de valorisation de SpaceX: 1,5 trillion"
   ],
   "a_surveiller": [
-    "Évolution des tensions dans les détroits stratégiques (Ormuz, Bab el-Mandeb).",
-    "Décisions de la BCE face à la remontée de l'inflation.",
-    "Impact des hausses de tarifs sur le pouvoir d'achat des ménages.",
-    "Progrès des investissements européens dans l'IA.",
-    "Stabilité des taux de crédit immobilier à la rentrée."
+    "Évolution de l'accord Trump-Iran et son impact sur les prix du pétrole et la volatilité des marchés.",
+    "Trajectoire de la dette française et l'écart de taux avec l'Allemagne (spread OAT/Bund).",
+    "Répercussions économiques du mégafeu en Gironde sur le tourisme, l'immobilier et les assurances locales.",
+    "Durabilité de la performance des valeurs tech liées à l'IA, notamment après les résultats contrastés de Microsoft et Google.",
+    "Mise en œuvre de la réglementation européenne sur la mention « généré par IA » et ses coûts de conformité."
   ],
   "sections": [
     {
       "titre": "Marchés financiers",
       "icone": "📈",
-      "niveau_global": "moyen",
+      "niveau_global": "fort",
       "items": [
         {
-          "titre": "Tensions à Ormuz et Bab el-Mandeb : risque sur le transport maritime",
-          "analyse": "Attaques de pétroliers et menaces de blocus dans les détroits stratégiques : risque de hausse des prix du pétrole et des coûts d'assurance maritime. Implications inflationnistes et sectorielles (énergie, transport).",
-          "source": "Le Monde",
-          "url": "https://www.lemonde.fr/international/article/2026/07/31/en-direct-guerre-au-moyen-orient-une-explosion-signalee-a-proximite-immediate-d-un-petrolier-dans-le-detroit-d-ormuz_6000000_3210.html",
+          "titre": "Trump suspend les frappes contre l'Iran en échange d'un accord",
+          "analyse": "Une accalmie géopolitique pourrait réduire la volatilité des marchés pétroliers et apaiser les actifs risqués. Pour un CGP, c'est un signal à surveiller pour les allocations en énergie et en actions, mais l'incertitude demeure tant que l'accord n'est pas signé.",
+          "source": "Le Monde.fr",
+          "url": "https://www.lemonde.fr",
           "niveau": "fort"
         },
         {
-          "titre": "L'inflation française accélère en juillet, portée par l'énergie et les services",
-          "analyse": "La remontée de l'inflation pourrait inciter la BCE à maintenir une politique monétaire restrictive plus longtemps, impactant les taux obligataires et les valorisations. Pour les clients, cela renforce l'intérêt des obligations à court terme et des stratégies de couverture inflation.",
-          "source": "Le Revenu",
-          "url": "https://www.lerevenu.com/actualites-financieres/france-linflation-accelere-en-juillet-portee-par-lenergie-et-les-services",
+          "titre": "Dette française : entre Matthieu Pigasse et le FMI, qui faut-il croire ?",
+          "analyse": "Les divergences sur la trajectoire des finances publiques françaises créent de l'incertitude sur les taux souverains. Un CGP doit suivre l'évolution des spreads et la crédibilité budgétaire, surtout pour les portefeuilles obligataires.",
+          "source": "L'Express.fr",
+          "url": "https://www.lexpress.fr",
           "niveau": "fort"
         },
         {
-          "titre": "Le Nikkei bondit de plus de 4 %, porté par la vague technologique mondiale",
-          "analyse": "L'envolée du Nikkei, tirée par les résultats d'Amazon et Apple, illustre la corrélation mondiale des marchés tech. Une exposition au Japon via des ETF reste pertinente pour diversifier, mais la sensibilité aux devises doit être surveillée.",
+          "titre": "Un scénario d'hypersiège : comment le Super El Niño pourrait bouleverser l'économie mondiale",
+          "analyse": "Un choc climatique majeur combiné aux tensions géopolitiques pourrait faire flamber les prix agricoles et alimenter l'inflation. Cela renforce l'intérêt pour les actifs réels et les stratégies de couverture inflationniste.",
+          "source": "L'Express.fr",
+          "url": "https://www.lexpress.fr",
+          "niveau": "fort"
+        },
+        {
+          "titre": "Semaine historique IA : Microsoft triomphe, Google échoue",
+          "analyse": "Les résultats des géants tech montrent que les dépenses IA ne sont pas toutes justifiées. Pour les portefeuilles actions, privilégier les entreprises avec un retour sur investissement IA clair, comme Microsoft, et surveiller les valorisations fragiles.",
           "source": "Le Revenu",
           "url": "https://www.lerevenu.com",
+          "niveau": "fort"
+        },
+        {
+          "titre": "États-Unis-Japon : Washington aurait épaulé Tokyo pour soutenir le yen",
+          "analyse": "Une intervention coordonnée sur le yen signale une préoccupation sur les changes et pourrait influencer les politiques monétaires. Pour les clients exposés au Japon ou aux devises, c'est un élément à intégrer dans les prévisions de change.",
+          "source": "La Tribune",
+          "url": "https://www.latribune.fr",
           "niveau": "moyen"
+        },
+        {
+          "titre": "Faut-il taxer les superprofits de l'IA ? Les États-Unis cherchent la formule",
+          "analyse": "Le débat sur la taxation des superprofits de l'IA pourrait affecter les valorisations tech et les stratégies fiscales des entreprises. Les investisseurs doivent anticiper d'éventuelles hausses d'impôts sur les bénéfices exceptionnels.",
+          "source": "Challenges",
+          "url": "https://www.challenges.com",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Bitcoin consolide à 63 477 $ sous résistance clé",
+          "analyse": "La consolidation du Bitcoin sous résistance indique une volatilité persistante. Pour les clients avec une allocation crypto, rappeler les risques et l'importance d'une position limitée et diversifiée.",
+          "source": "All News",
+          "url": "https://www.allnews.com",
+          "niveau": "faible"
         }
       ]
     },
     {
       "titre": "Fiscalité",
-      "icone": "💰",
-      "niveau_global": "fort",
+      "icone": "🏛️",
+      "niveau_global": "moyen",
       "items": [
         {
-          "titre": "Succession : les banques peuvent désormais facturer des frais sur tous les héritages",
-          "analyse": "Cette décision du Conseil constitutionnel modifie les coûts de règlement des successions, un point clé pour la transmission patrimoniale. Les CGP doivent en tenir compte dans les stratégies successorales et informer leurs clients des nouveaux frais bancaires.",
+          "titre": "1er août 2026 : ce qui change pour votre argent",
+          "analyse": "Les nouvelles mesures (épargne, énergie, allocations) ont un impact direct sur le pouvoir d'achat et la planification financière des clients. À intégrer dans les revues patrimoniales et les prévisions de trésorerie.",
           "source": "Le Revenu",
-          "url": "https://www.lerevenu.com/actualites-financieres/succession-les-banques-peuvent-desormais-facturer-des-frais-sur-tous-les-heritages",
+          "url": "https://www.lerevenu.com",
           "niveau": "fort"
+        },
+        {
+          "titre": "Taxe foncière 2026 : ces grandes villes où la facture reste lourde",
+          "analyse": "La taxe foncière continue de peser dans certaines villes, un critère clé pour les investissements locatifs et la détention immobilière. Conseiller aux propriétaires de vérifier leur imposition locale et d'anticiper les hausses.",
+          "source": "MySweetimmo",
+          "url": "https://www.mysweetimmo.com",
+          "niveau": "moyen"
         }
       ]
     },
     {
       "titre": "SCPI & Immobilier",
-      "icone": "🏠",
+      "icone": "🏢",
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "SCPI Épargne Pierre : vers une distribution mensuelle dès janvier 2027",
-          "analyse": "Le passage à une distribution mensuelle améliore la trésorerie des associés et la régularité des revenus. C'est un argument de commercialisation pour les clients recherchant des revenus complémentaires réguliers en immobilier.",
-          "source": "MeilleureSCPI.com",
-          "url": "https://www.meilleurescpi.com",
+          "titre": "Mégafeu en Gironde: le chantier de l'après",
+          "analyse": "L'ampleur des dégâts (42 000 hectares) implique des coûts de reconstruction et de replantation importants. Pour les clients CGP, cela peut générer des opportunités d'investissement dans des secteurs liés à la reconstruction, mais aussi des risques pour les actifs immobiliers et touristiques locaux.",
+          "source": "notretemps.com",
+          "url": "https://www.notretemps.com",
+          "niveau": "fort"
+        },
+        {
+          "titre": "Canicule et incendies: l'été touristique français bouleversé",
+          "analyse": "Les changements de comportement des vacanciers (préférence pour des régions plus fraîches) affectent les revenus des zones touristiques traditionnelles. Les CGP doivent conseiller leurs clients exposés au secteur touristique sur la diversification et la gestion des risques climatiques.",
+          "source": "notretemps.com",
+          "url": "https://www.notretemps.com",
+          "niveau": "fort"
+        },
+        {
+          "titre": "L'étrange été du tourisme en France",
+          "analyse": "La canicule et les incendies modifient les flux touristiques, au détriment de certaines régions et au profit d'autres. Cela impacte les entreprises locales, l'hôtellerie-restauration et les loisirs, avec des répercussions sur les revenus et l'emploi saisonnier.",
+          "source": "notretemps.com",
+          "url": "https://www.notretemps.com",
+          "niveau": "fort"
+        },
+        {
+          "titre": "Incendies : la situation s'améliore en Gironde et dans le Var, l'heure est à la sécurisation",
+          "analyse": "Les dégâts matériels et économiques locaux (tourisme, commerces) peuvent avoir un impact régional sur les assurances et l'immobilier. Un CGP avec des clients dans ces zones doit anticiper les indemnisations et les risques de souscription.",
+          "source": "La Tribune",
+          "url": "https://www.latribune.fr",
           "niveau": "moyen"
         },
         {
-          "titre": "Transmission des baby-boomers va bouleverser l'immobilier",
-          "analyse": "La transmission massive de logements détenus par les baby-boomers dans les 15 prochaines années va modifier l'offre et les prix immobiliers. Les CGP doivent anticiper ces flux pour les stratégies patrimoniales et successorales de leurs clients.",
-          "source": "JDN",
-          "url": "https://www.journaldunet.com/immobilier-transmission-baby-boomers",
-          "niveau": "fort"
+          "titre": "En Gironde, l'angoisse d'une saison perdue malgré la réouverture",
+          "analyse": "La réouverture progressive des commerces et campings ne compense pas la perte de la saison estivale. Les CGP doivent anticiper des demandes de reports d'échéances ou de financement pour les entreprises locales, et évaluer l'impact sur les revenus des clients.",
+          "source": "notretemps.com",
+          "url": "https://www.notretemps.com",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Après la canicule, la France rénove ses ponts",
+          "analyse": "Le déblocage de fonds pour la rénovation des ponts représente un investissement public significatif. Cela peut créer des opportunités dans les secteurs du BTP et des infrastructures, à suivre pour les portefeuilles actions.",
+          "source": "notretemps.com",
+          "url": "https://www.notretemps.com",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Canicule et incendies : impact sur les habitudes touristiques",
+          "analyse": "Les vacanciers privilégient des régions plus fraîches, ce qui pourrait bénéficier à certaines zones géographiques (montagne, littoral nord) et pénaliser d'autres. Les investissements dans l'immobilier de loisirs ou les infrastructures touristiques doivent être réévalués en fonction de ces tendances climatiques.",
+          "source": "notretemps.com",
+          "url": "https://www.notretemps.com",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Incendie en Gironde: situation stable, mais points chauds persistants",
+          "analyse": "La stabilisation du feu réduit l'incertitude immédiate, mais les risques de reprise restent. Les CGP doivent suivre l'évolution pour ajuster les couvertures d'assurance et les évaluations de risques de leurs clients dans la région.",
+          "source": "notretemps.com",
+          "url": "https://www.notretemps.com",
+          "niveau": "faible"
         }
       ]
     },
     {
-      "titre": "Assurance-vie",
-      "icone": "📜",
-      "niveau_global": "faible",
-      "items": []
-    },
-    {
       "titre": "Private equity",
       "icone": "💼",
-      "niveau_global": "moyen",
+      "niveau_global": "fort",
       "items": [
         {
-          "titre": "Capital-risque français : 14,1 M€ levés en semaine 31",
-          "analyse": "La sélectivité du capital-risque se confirme, avec une dominance de la BioTech. Pour un CGP, cela indique un environnement prudent pour les investissements en private equity, mais des opportunités ciblées dans la santé.",
-          "source": "Finyear",
-          "url": "https://www.finyear.com",
-          "niveau": "moyen"
+          "titre": "SpaceX : chute de valorisation de 1,5 trillion, avertissement sur la monétisation",
+          "analyse": "La déconfiture de SpaceX illustre les risques des investissements non monétisés, même pour les valeurs vedettes. Pour les clients exposés à des actifs privés ou à forte croissance, c'est un signal de prudence et de diversification.",
+          "source": "Le Revenu",
+          "url": "https://www.lerevenu.com",
+          "niveau": "fort"
         }
       ]
     },
     {
       "titre": "Retraite & Épargne salariale",
-      "icone": "🏦",
-      "niveau_global": "fort",
+      "icone": "📊",
+      "niveau_global": "moyen",
       "items": [
         {
-          "titre": "COR abaisse la fécondité à 1,45, déficit retraites doublé",
-          "analyse": "La révision des hypothèses du COR invalide les projections antérieures et aggrave le déficit à long terme. Cela renforce l'incertitude sur le système de retraite par répartition et justifie de privilégier l'épargne longue et les solutions de capitalisation pour les clients.",
-          "source": "JDN",
-          "url": "https://www.journaldunet.com/retraites-cor-hypothese-fecondite-2026",
-          "niveau": "fort"
+          "titre": "PER en couple: l'astuce fiscale pour réduire vos impôts",
+          "analyse": "Cet article rappelle l'intérêt de l'optimisation fiscale du PER pour les couples mariés ou pacsés. Les CGP peuvent aider leurs clients à maximiser la déduction fiscale en répartissant les versements entre conjoints, selon leurs tranches marginales d'imposition.",
+          "source": "notretemps.com",
+          "url": "https://www.notretemps.com",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Rising Medicare Part D premiums could drive more people into Medicare Advantage",
+          "analyse": "Pour les clients américains ou binationaux, la hausse des primes Medicare Part D peut les pousser vers Medicare Advantage. À considérer dans la planification de la retraite et les choix de couverture santé.",
+          "source": "MarketWatch",
+          "url": "https://www.marketwatch.com",
+          "niveau": "faible"
         }
       ]
     },
     {
       "titre": "Réglementation",
       "icone": "⚖️",
-      "niveau_global": "faible",
-      "items": []
+      "niveau_global": "moyen",
+      "items": [
+        {
+          "titre": "La mention « généré par IA » devient obligatoire dans l'UE",
+          "analyse": "Cette réglementation impacte les entreprises technologiques et les utilisateurs professionnels d'IA, avec des coûts de mise en conformité. Pour un CGP, cela peut affecter les valorisations du secteur tech et créer des opportunités dans les services de conformité.",
+          "source": "Le Monde.fr",
+          "url": "https://www.lemonde.fr",
+          "niveau": "moyen"
+        }
+      ]
     },
     {
       "titre": "ESG",
@@ -124,14 +210,28 @@
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "CVE lève 350 M€ de dette auprès de Macquarie AM",
-          "analyse": "Ce financement de 350 M€ pour CVE illustre l'appétit des investisseurs pour les actifs solaires. Cela confirme la dynamique du financement des énergies renouvelables, un secteur à considérer dans les allocations thématiques.",
-          "source": "GreenUnivers",
-          "url": "https://www.greenunivers.com/2026/08/cve-dette-350-millions-macquarie/",
+          "titre": "L'Europe exposée au réchauffement climatique, mais pas préparée",
+          "analyse": "Le changement climatique accroît les risques assurantiels et les coûts pour les entreprises et les collectivités. Pour les clients, cela renforce l'intérêt des actifs résilients et des couvertures contre les catastrophes naturelles.",
+          "source": "Alternatives économiques",
+          "url": "https://www.alternatives-economiques.fr",
           "niveau": "moyen"
+        },
+        {
+          "titre": "En Bourgogne, les éleveurs d'escargots victimes du climat",
+          "analyse": "Les pertes agricoles liées à la canicule illustrent les risques climatiques pour les exploitations. Pour les investisseurs, cela souligne l'importance de considérer les facteurs ESG et la résilience climatique dans les portefeuilles agricoles et agroalimentaires.",
+          "source": "notretemps.com",
+          "url": "https://www.notretemps.com",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "La Corée du Sud enregistre un nouveau record de température, à 42,5 °C",
+          "analyse": "Les records de chaleur récurrents renforcent les risques climatiques à long terme, influençant les secteurs de l'énergie, de l'agriculture et de l'assurance. Cela justifie une attention accrue aux critères ESG dans les allocations.",
+          "source": "Le Monde.fr",
+          "url": "https://www.lemonde.fr",
+          "niveau": "faible"
         }
       ]
     }
   ],
-  "compte_articles": 227
+  "compte_articles": 126
 }
