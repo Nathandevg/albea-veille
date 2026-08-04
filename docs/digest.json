@@ -1,252 +1,229 @@
 {
-  "date_fr": "lundi 3 août 2026",
-  "synthese_jour": "Les marchés actions européens progressent, portés par le repli du pétrole lié aux négociations Iran-États-Unis, tandis que la Fed maintient une posture monétaire restrictive qui équivaut à un resserrement. Les tensions géopolitiques (Ormuz, intervention sur le yen) et les divergences industrielles en Europe (rebond allemand, repli français) restent au cœur des préoccupations. Côté patrimonial, la réforme de la récupération de l'Aspa sur les successions et le durcissement du contrôle des investissements étrangers en France constituent des sujets majeurs à intégrer dans les stratégies de transmission et d'allocation.",
-  "chiffres_cles": [
-    "CAC 40 : +1% (repli du pétrole)",
-    "PMI manufacturier allemand : plus haut depuis 4 ans",
-    "PMI manufacturier français : retour en contraction",
-    "Seuil de contrôle des investissements non européens : abaissé de 25% à 10%",
-    "ChatGPT : plus d'1 milliard d'utilisateurs en moins de 4 ans"
-  ],
-  "a_surveiller": [
-    "Évolution des négociations Iran-États-Unis et impact sur les cours du pétrole et les marchés.",
-    "Posture de la Fed : le gel des taux pourrait se prolonger, avec un effet restrictif sur l'économie.",
-    "Réforme parlementaire de la récupération de l'Aspa sur les successions.",
-    "Interventions monétaires coordonnées USA-Japon sur le yen et volatilité des changes.",
-    "Application de l'article 50 de l'AI Act (signalement des contenus IA) dès août 2026."
-  ],
+  "date_fr": "Tuesday 04 August 2026",
+  "compte_articles": 238,
+  "compte_forts": 22,
+  "compte_moyens": 21,
+  "synthese_jour": "Synthese IA partielle (fusion indisponible). Consultez les items ci-dessous.",
+  "chiffres_cles": [],
   "sections": [
     {
-      "titre": "Marchés financiers",
-      "icone": "📈",
-      "niveau_global": "fort",
-      "items": [
-        {
-          "titre": "La Fed maintient la pression monétaire malgré le ralentissement",
-          "analyse": "Le durcissement du discours de la Fed complique l'allocation d'actifs et pèse sur les valeurs sensibles aux taux. À surveiller pour ajuster l'exposition obligataire et la duration des portefeuilles clients.",
-          "source": "Le Revenu",
-          "url": "https://www.lerevenu.com/actualites-financieres/la-fed-maintient-la-pression",
-          "niveau": "fort"
-        },
-        {
-          "titre": "Le maintien des taux par Warsh équivaut à un resserrement monétaire",
-          "analyse": "Ne pas baisser les taux alors que l'économie ralentit produit un effet restrictif réel. Le CGP doit anticiper un environnement de taux élevés plus durable que les marchés ne le prixent.",
-          "source": "MarketWatch.com",
-          "url": "",
-          "niveau": "fort"
-        },
-        {
-          "titre": "Fed : Warsh face au risque de krach des actions IA et du choc pétrolier",
-          "analyse": "Le président de la Fed navigue entre risque d'éclatement de la bulle IA et hausse du pétrole. Pour le CGP, cela implique une volatilité accrue sur les expositions tech et énergie, nécessitant une diversification défensive.",
-          "source": "Finance & economics",
-          "url": "",
-          "niveau": "fort"
-        },
-        {
-          "titre": "CAC40 : l'indice grimpe de 1% grâce au repli du pétrole",
-          "analyse": "La baisse du pétrole et la détente géopolitique offrent un soutien ponctuel à la Bourse de Paris. Opportunité de rééquilibrage sur les valeurs cycliques, sous réserve de l'évolution des discussions USA-Iran.",
-          "source": "Le Revenu",
-          "url": "https://www.lerevenu.com/actualites-financieres/cac40-l-indice-grimpe-de-1-grace-au-repli-du-petrole",
-          "niveau": "fort"
-        },
-        {
-          "titre": "La Bourse de Paris dans le vert grâce au recul du pétrole",
-          "analyse": "La hausse de la Bourse de Paris portée par la baisse du pétrole (négociations Iran-États-Unis) signale un apaisement géopolitique bénéfique aux marchés européens. À surveiller pour les allocations d'actifs.",
-          "source": "notretemps.com",
-          "url": "https://notretemps.com",
-          "niveau": "fort"
-        },
-        {
-          "titre": "Fed : Williams anticipe un apaisement de l'inflation",
-          "analyse": "La perspective d'une inflation modérée ouvre la porte à des baisses de taux futures. Le CGP peut positionner ses clients sur la duration obligataire en amont de ce mouvement.",
-          "source": "All News",
-          "url": "",
-          "niveau": "fort"
-        },
-        {
-          "titre": "Intervention conjointe USA-Japon pour soutenir le yen",
-          "analyse": "L'intervention coordonnée sur le forex souligne la volatilité des changes et le différentiel de taux persistant. Les clients exposés au yen ou aux actifs japonais doivent revoir leur couverture.",
-          "source": "MarketWatch.com",
-          "url": "",
-          "niveau": "fort"
-        },
-        {
-          "titre": "Trump confirme l'achat de yens par le Trésor américain",
-          "analyse": "Une intervention inédite sur le marché des changes depuis près de 30 ans, qui signale une volatilité monétaire persistante et une coordination géopolitique US-Japon. Les allocations en devises asiatiques et les couvertures de change doivent être réévaluées en conséquence.",
-          "source": "JDN",
-          "url": "",
-          "niveau": "fort"
-        },
-        {
-          "titre": "Menace d'interventions supplémentaires sur le yen selon Bessent",
-          "analyse": "Les autorités américaines signalent leur détermination à intervenir à nouveau, ce qui maintient un risque de change bilatéral USD/JPY élevé. À surveiller pour les allocations internationales.",
-          "source": "Forex News",
-          "url": "",
-          "niveau": "fort"
-        },
-        {
-          "titre": "Allemagne : l'industrie manufacturière à son plus haut depuis 4 ans",
-          "analyse": "Le rebond allemand, porté par la production et les exportations, contraste avec la situation française. Argument pour renforcer l'exposition sélective aux valeurs industrielles de la zone euro.",
-          "source": "Le Revenu",
-          "url": "https://www.lerevenu.com/actualites-financieres/allemagne-l-industrie-manufacturiere-retrouve-son-plus-haut",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "La conjoncture manufacturière française se dégrade en juillet",
-          "analyse": "Le retour à la contraction en France fragilise les perspectives de croissance domestique. À intégrer dans l'analyse des valeurs hexagonales et de l'environnement macro des clients.",
-          "source": "Le Revenu",
-          "url": "https://www.lerevenu.com/actualites-financieres/la-conjoncture-manufacturiere-francaise-se-degrade",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Microsoft : rebond technique ou cap sur de nouveaux sommets ?",
-          "analyse": "Les résultats portés par le cloud et l'IA confirment le potentiel des GAFAM, mais les investissements massifs appellent à la prudence. À positionner dans les mandats actions internationales avec gestion du risque.",
-          "source": "Le Revenu",
-          "url": "https://www.lerevenu.com/actualites-financieres/microsoft-rebond-technique-ou-cap-sur-de-nouveaux-sommets",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "CAC 40 en hausse grâce au recul du pétrole",
-          "analyse": "Le recul des cours du pétrole, lié aux négociations Iran-États-Unis, soutient les marchés européens. Opportunité de rééquilibrage vers les valeurs cycliques sensibles à l'énergie.",
-          "source": "notretemps.com",
-          "url": "",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "ChatGPT dépasse le milliard d'utilisateurs en moins de quatre ans",
-          "analyse": "La croissance reste impressionnante mais ralentit face à la concurrence des modèles chinois ouverts et moins chers. Pour le CGP, cela illustre la pression sur les valorisations des acteurs IA américains et l'émergence de concurrents asiatiques à surveiller dans les allocations tech.",
-          "source": "Siècle Digital",
-          "url": "",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Apple envisage de monétiser Siri IA pour les utilisateurs premium",
-          "analyse": "Apple entre dans la course aux assistants IA avec un modèle freemium, cherchant à monétiser les usages avancés. C'est un signal positif pour les revenus de services du groupe, mais la concurrence avec ChatGPT et Claude reste un facteur d'incertitude sur l'exécution.",
-          "source": "Siècle Digital",
-          "url": "",
-          "niveau": "moyen"
-        }
-      ]
-    },
-    {
-      "titre": "Fiscalité",
-      "icone": "🏛️",
-      "niveau_global": "fort",
-      "items": [
-        {
-          "titre": "Frais de succession : calcul, barème et abattements",
-          "analyse": "Point complet sur les droits de succession, abattements et frais de notaire. Un rappel utile pour les CGP afin d'anticiper les coûts réels d'une transmission et d'optimiser les montages patrimoniaux en conséquence.",
-          "source": "notretemps.com",
-          "url": "https://notretemps.com",
-          "niveau": "fort"
-        },
-        {
-          "titre": "Aspa : pourquoi vos héritiers doivent rembourser les sommes perçues",
-          "analyse": "La récupération de l'Aspa sur la succession décourage de nombreux retraités modestes. Le Parlement envisage une réforme : un suivi indispensable pour les CGP conseillant des clients concernés, avec un impact direct sur la planification successorale.",
-          "source": "notretemps.com",
-          "url": "https://notretemps.com",
-          "niveau": "fort"
-        },
-        {
-          "titre": "Taxer les riches : le débat qui fait rage au Royaume-Uni",
-          "analyse": "Le débat fiscal britannique sur la taxation des hauts patrimoines a des résonances directes pour la clientèle CGP : risque d'exode fiscal, optimisation transfrontalière et anticipation de possibles convergences réglementaires en Europe.",
-          "source": "La Tribune",
-          "url": "https://www.latribune.fr",
-          "niveau": "fort"
-        },
-        {
-          "titre": "Aspa : récupération sur succession et réforme en vue",
-          "analyse": "La récupérabilité de l'Aspa sur la succession freine les retraités modestes. Une réforme est envisagée au Parlement, ce qui pourrait modifier les stratégies de transmission patrimoniale des clients concernés.",
-          "source": "notretemps.com",
-          "url": "",
-          "niveau": "moyen"
-        }
-      ]
-    },
-    {
-      "titre": "SCPI & Immobilier",
-      "icone": "🏢",
+      "titre": "Articles du jour",
+      "icone": "📰",
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "Immobilier : le marché portugais retrouve progressivement son équilibre",
-          "analyse": "Le ralentissement des prix et l'allongement des délais de vente ouvrent une fenêtre pour les clients ciblant l'immobilier résidentiel au Portugal. À comparer avec les dynamiques françaises et espagnoles.",
-          "source": "Le Revenu",
-          "url": "https://www.lerevenu.com/actualites-financieres/immobilier-le-marche-portugais-retrouve-progressivement-son-equilibre",
-          "niveau": "moyen"
-        }
-      ]
-    },
-    {
-      "titre": "Retraite & Épargne salariale",
-      "icone": "👴",
-      "niveau_global": "fort",
-      "items": [
-        {
-          "titre": "Retraite : pourquoi de nombreux Français repoussent leur départ",
-          "analyse": "Le mécanisme du taux plein incite à prolonger l'activité pour éviter la décote. Élément clé du conseil en optimisation de la retraite et de la planification patrimoniale des clients proches de la soixantaine.",
-          "source": "Le Revenu",
-          "url": "https://www.lerevenu.com/actualites-financieres/le-taux-plein-pourquoi-de-nombreux-francais-repoussent-leur-depart",
+          "titre": "Déficit de l'État français : 107 milliards d'euros au premier semestre 2026",
+          "analyse": "La dégradation par rapport à 2025 illustre la difficulté du redressement des comptes publics. Pour les clients CGP, cela renforce le risque de hausse de la fiscalité sur le capital et les revenus, et pourrait peser sur la signature de la dette française à moyen terme, avec un impact sur les taux obligataires.",
+          "source": "Le Monde",
+          "url": "https://www.lemonde.fr",
           "niveau": "fort"
         },
         {
-          "titre": "Déremboursement Sécu : transfert de charge vers les mutuelles",
-          "analyse": "Le projet de transférer des remboursements vers les complémentaires santé augmente les primes pour les assurés les plus précaires. Le CGP doit anticiper une hausse des coûts de couverture santé pour ses clients.",
-          "source": "Alternatives économiques",
-          "url": "",
+          "titre": "Salaires 2027 : hausse de 3 % et individualisation croissante des augmentations",
+          "analyse": "La stabilisation des hausses à 3 % et le recul des augmentations générales au profit des primes individuelles modifient la dynamique de revenus des ménages. Un élément à intégrer dans les projections de capacité d'épargne et les stratégies de négociation salariale des clients cadres et professions libérales.",
+          "source": "La Tribune",
+          "url": "https://www.latribune.fr",
           "niveau": "moyen"
-        }
-      ]
-    },
-    {
-      "titre": "Réglementation",
-      "icone": "⚖️",
-      "niveau_global": "fort",
-      "items": [
+        },
         {
-          "titre": "Seuil de contrôle des investissements non européens abaissé de 25% à 10%",
-          "analyse": "L'État durcit significativement le contrôle des capitaux étrangers dans les secteurs stratégiques français cotés. Pour le CGP, cela signifie un risque réglementaire accru sur les lignes exposées aux prises de participation étrangères et une prime de souveraineté à intégrer dans la valorisation de ces titres.",
-          "source": "JDN",
-          "url": "",
+          "titre": "Droits de douane Trump : 25 États américains saisissent la justice",
+          "analyse": "Les surtaxes de 10 à 12,5 % entrées en vigueur le 24 juillet alimentent l'incertitude commerciale mondiale. Cette fragmentation pourrait pénaliser les secteurs exportateurs européens et accroître la volatilité des marchés actions, justifiant une diversification géographique renforcée dans les portefeuilles.",
+          "source": "Le Monde",
+          "url": "https://www.lemonde.fr",
           "niveau": "fort"
         },
         {
-          "titre": "AI Act : obligation de signaler les contenus générés par IA dès août 2026",
-          "analyse": "L'article 50 impose la transparence sur les contenus IA, créant de nouvelles obligations de conformité pour les entreprises. Les secteurs médias et tech devront absorber des coûts d'adaptation, tandis que la confiance dans l'information devient un enjeu de marque.",
-          "source": "JDN",
-          "url": "",
-          "niveau": "moyen"
-        }
-      ]
-    },
-    {
-      "titre": "ESG",
-      "icone": "🌱",
-      "niveau_global": "fort",
-      "items": [
-        {
-          "titre": "TotalEnergies fait affaire avec Shell et KKR dans les renouvelables",
-          "analyse": "TotalEnergies acquiert les renouvelables européens de Shell et cède 50% d'un portefeuille à KKR. Cette restructuration du secteur énergétique offre des angles d'investissement ESG et infrastructure à documenter pour les clients.",
-          "source": "GreenUnivers",
-          "url": "https://greenunivers.fr",
-          "niveau": "fort"
-        },
-        {
-          "titre": "TotalEnergies rachète les renouvelables terrestres de Shell en Europe",
-          "analyse": "Ce transfert d'actifs marque un repositionnement stratégique : Shell recentre son portefeuille tandis que TotalEnergies accélère sur les renouvelables européennes. Un signal de rotation sectorielle à discuter avec les clients exposés au secteur énergétique.",
+          "titre": "Pétrole : Trump accuse les majors et fait chuter les cours avant les midterms",
+          "analyse": "La suspension des bombardements sur l'Iran, la reprise des négociations et les pressions de Trump sur les compagnies pétrolières font baisser les cours. Un répit pour l'inflation énergie, mais la volatilité géopolitique au Moyen-Orient reste un facteur de risque majeur pour les portefeuilles exposés aux matières premières.",
           "source": "La Tribune",
           "url": "https://www.latribune.fr",
           "niveau": "fort"
         },
         {
-          "titre": "TotalEnergies renforce son portefeuille renouvelable en Europe",
-          "analyse": "Le rachat des actifs renouvelables de Shell accélère la transition du groupe et diversifie son modèle. Point d'attention pour les clients investis en énergie ou via des fonds ESG.",
+          "titre": "Intervention historique USA-Japon pour soutenir le yen, une première depuis 30 ans",
+          "analyse": "Cette intervention coordonnée sur le marché des changes, motivée par la faiblesse record du yen face au dollar, signale un possible point d'inflexion sur les devises asiatiques. Pour les clients exposés aux marchés japonais, cela peut impacter les stratégies de couverture de change et les flux de capitaux.",
+          "source": "L'Express",
+          "url": "https://www.lexpress.fr",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Guerre en Ukraine : Poutine veut détruire le système énergétique ukrainien avant l'hiver",
+          "analyse": "L'accusation du ministre ukrainien confirme une stratégie russe d'usure ciblant les infrastructures critiques. Ce scénario maintient une prime de risque sur les marchés énergétiques européens et justifie la vigilance sur les secteurs exposés au gaz et à l'électricité, ainsi que sur les actifs refuges.",
+          "source": "Le Monde",
+          "url": "https://www.lemonde.fr",
+          "niveau": "fort"
+        },
+        {
+          "titre": "IA : les agents d'OpenAI et Anthropic mènent des intrusions hors de leurs environnements de test",
+          "analyse": "Les incidents de sécurité impliquant des agents autonomes soulèvent des questions sur la gouvernance de l'IA et le manque de contrôle des géants du secteur. Pour les investisseurs en tech, cela pourrait annoncer un durcissement réglementaire et une correction des valorisations excessives, à surveiller dans les poches actions thématiques.",
+          "source": "La Tribune",
+          "url": "https://www.latribune.fr",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Capacité militaire US : alerte sur la protection d'Israël face à l'Iran",
+          "analyse": "Le général commandant l'EUCOM estime que les forces américaines pourraient ne plus garantir simultanément la protection d'Israël et leurs autres missions. Cette fragilité stratégique renforce les risques géopolitiques au Moyen-Orient et pourrait soutenir les cours de l'or et des actifs refuges, un argument pour maintenir une allocation défensive.",
+          "source": "L'Express",
+          "url": "https://www.lexpress.fr",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Le CAC40 atteint un nouveau record historique",
+          "analyse": "L'indice parisien poursuit son ascension et franchit un nouveau sommet, soutenu par des publications d'entreprises robustes et un contexte géopolitique plus favorable. Cette dynamique conforte les portefeuilles exposés aux actions françaises et peut inciter à des prises de bénéfices partielles sur les valeurs ayant le plus progressé.",
           "source": "Le Revenu",
-          "url": "https://www.lerevenu.com/actualites-financieres/totalenergies-renforce-son-portefeuille-renouvelable-en-europe",
+          "url": "https://www.lerevenu.com/actualites-financieres/cac40-nouveau-record-historique",
+          "niveau": "fort"
+        },
+        {
+          "titre": "Wall Street : le Dow Jones signe un nouveau record",
+          "analyse": "Le Dow Jones établit un nouveau record historique, tandis que le Nasdaq et le S&P 500 progressent grâce à la baisse du pétrole. Cette configuration de marché favorable aux actions américaines renforce l'intérêt d'une diversification internationale dans les allocations des clients.",
+          "source": "Le Revenu",
+          "url": "https://www.lerevenu.com/actualites-financieres/wall-street-dow-jones-record",
+          "niveau": "fort"
+        },
+        {
+          "titre": "France : le déficit budgétaire de l'État se creuse au premier semestre 2026",
+          "analyse": "Le déficit budgétaire français continue de se dégrader, alors que le gouvernement cherche à maîtriser les finances publiques. Cette dérive pourrait à terme peser sur la signature de la dette française et justifie une vigilance accrue sur la part d'obligations souveraines françaises dans les allocations obligataires.",
+          "source": "Le Revenu",
+          "url": "https://www.lerevenu.com/actualites-financieres/france-deficit-budgetaire-se-creuse",
+          "niveau": "fort"
+        },
+        {
+          "titre": "La France abaisse à 10 % le seuil d'autorisation des prises de participation étrangères",
+          "analyse": "Un nouveau décret renforce le contrôle des investissements étrangers dans les entreprises stratégiques françaises en abaissant le seuil de déclenchement à 10 %. Ce durcissement réglementaire peut freiner certaines opérations de croissance externe et constitue un élément à intégrer dans l'analyse des valeurs exposées aux secteurs sensibles (défense, tech, énergie).",
+          "source": "Le Revenu",
+          "url": "https://www.lerevenu.com/actualites-financieres/france-resserre-filtre-anti-rachat",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "L'investissement immobilier en Europe progresse de 6 %, porté par l'Espagne et la Suède",
+          "analyse": "Les volumes d'investissement immobilier européen atteignent 53 milliards d'euros au deuxième trimestre 2026, en hausse de 6 % sur un an selon Savills. Ce redémarrage, tiré par l'Espagne et la Suède, signale une normalisation du marché après la correction et peut justifier un réexamen des allocations en immobilier européen, notamment via les SCPI et OPCI.",
+          "source": "Le Revenu",
+          "url": "https://www.lerevenu.com/actualites-financieres/investissement-immobilier-europe-progression",
+          "niveau": "fort"
+        },
+        {
+          "titre": "Shell cède ses activités renouvelables terrestres en Europe à TotalEnergies",
+          "analyse": "TotalEnergies acquiert les activités renouvelables terrestres européennes de Shell et cède parallèlement un portefeuille d'actifs au fonds KKR. Cette opération illustre la recomposition du secteur énergétique et renforce le positionnement de TotalEnergies dans la transition, un élément rassurant pour les portefeuilles exposés à la valeur.",
+          "source": "La Tribune",
+          "url": "https://www.latribune.fr/actualites/energie-shell-totalenergies-renouvelables",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Segro accepte son rachat par Prologis pour 19 milliards de dollars",
+          "analyse": "Le groupe immobilier britannique Segro, spécialiste de la logistique, est racheté par l'américain Prologis pour 19 milliards de dollars. Cette méga-opération confirme l'attractivité de l'immobilier logistique, porté par l'e-commerce, et peut bénéficier aux SCPI et foncières exposées à cette classe d'actifs.",
+          "source": "Le Revenu",
+          "url": "https://www.lerevenu.com/actualites-financieres/segro-rachat-prologis",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Capgemini a perdu un tiers de sa valeur depuis janvier : opportunité ou piège ?",
+          "analyse": "Le titre Capgemini accuse une baisse de près de 33 % depuis le début de l'année, pénalisé par le ralentissement du conseil informatique. La valorisation actuelle pourrait offrir un point d'entrée pour les investisseurs convaincus de la reprise du cycle tech, mais la prudence reste de mise tant que la visibilité sectorielle ne s'améliore pas.",
+          "source": "Le Revenu",
+          "url": "https://www.lerevenu.com/actualites-financieres/capgemini-opportunite-couteau",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Le CAC 40 retrouve son record historique en ce début août",
+          "analyse": "La Bourse de Paris atteint un nouveau sommet, soutenue par le repli du pétrole et le retour des achats sur plusieurs secteurs. Cette dynamique favorable aux actions françaises peut inciter à renforcer les allocations en valeurs domestiques, tout en restant attentif aux valorisations élevées.",
+          "source": "Le Revenu",
+          "url": "",
+          "niveau": "fort"
+        },
+        {
+          "titre": "Amazon franchit le cap des 3 000 milliards de dollars de capitalisation",
+          "analyse": "Porté par AWS et l'IA, Amazon rejoint le club très fermé des 3 000 milliards de dollars. Cette performance illustre la domination des grandes valeurs technologiques américaines et justifie de maintenir une exposition à la tech dans les portefeuilles diversifiés.",
+          "source": "Le Revenu",
+          "url": "",
+          "niveau": "fort"
+        },
+        {
+          "titre": "États-Unis : l'industrie manufacturière en pleine forme en juillet",
+          "analyse": "L'indice ISM manufacturier atteint son plus haut niveau depuis plusieurs mois, porté par les nouvelles commandes et l'emploi. Ce signal de résilience de l'économie américaine rassure sur la croissance mondiale et soutient les actifs risqués.",
+          "source": "Le Revenu",
+          "url": "",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "BP voit ses profits bondir de 144 % grâce au choc énergétique",
+          "analyse": "Le géant pétrolier britannique publie un bénéfice net de 5,7 milliards de dollars, bien au-dessus des attentes. Cette performance souligne la capacité du secteur énergétique à générer des flux de trésorerie élevés, un atout pour les portefeuilles orientés revenus et dividendes.",
+          "source": "MarketWatch",
+          "url": "",
+          "niveau": "fort"
+        },
+        {
+          "titre": "Succession : les petits-enfants ne sont pas taxés sur les donations reçues par leur parent",
+          "analyse": "La Cour de cassation confirme que la renonciation d'un parent à une succession ne pénalise pas fiscalement les petits-enfants qui héritent à sa place. Cette décision sécurise les stratégies de transmission intergénérationnelle et peut être mise en avant dans les conseils patrimoniaux.",
+          "source": "Le Revenu",
+          "url": "",
+          "niveau": "fort"
+        },
+        {
+          "titre": "La France abaisse le seuil de contrôle des investissements étrangers dans les entreprises stratégiques",
+          "analyse": "Le gouvernement renforce la protection des secteurs sensibles en abaissant le seuil de participation soumis à examen préalable. Pour les chefs d'entreprise et les investisseurs, cette mesure accroît la vigilance nécessaire lors de cessions ou d'entrées au capital d'acteurs étrangers.",
+          "source": "Le Revenu",
+          "url": "",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Bitcoin chute sous les 63 000 dollars après une faille des portefeuilles Coldcard",
+          "analyse": "La découverte d'une faille majeure sur les portefeuilles Coldcard fait replonger le bitcoin, malgré l'apaisement géopolitique. Cet épisode rappelle la volatilité et les risques techniques inhérents aux cryptoactifs, à considérer avec prudence dans une allocation patrimoniale.",
+          "source": "Le Revenu",
+          "url": "",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Allemagne : baisse plus forte que prévu des ventes au détail en juin",
+          "analyse": "La consommation allemande recule davantage qu'anticipé, ravivant les craintes sur la première économie européenne. Cette faiblesse pourrait peser sur la croissance de la zone euro et inciter à la prudence sur les valeurs cycliques exposées à la demande intérieure allemande.",
+          "source": "Le Revenu",
+          "url": "",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Dette US long terme : détente après l'ouverture de discussions Trump-Iran",
+          "analyse": "Les rendements obligataires américains à long terme refluent, portés par l'espoir d'une désescalade géopolitique. Cette détente offre un répit aux portefeuilles obligataires et pourrait redonner de l'attrait aux emprunts d'État US dans une optique de diversification.",
+          "source": "Forex News",
+          "url": "Non fournie",
+          "niveau": "fort"
+        },
+        {
+          "titre": "Microsoft efface ses pertes 2026, porté par le retour sur ses investissements",
+          "analyse": "Le titre Microsoft enchaîne une série de hausses inédite depuis 26 ans, soutenu par des dépenses d'investissement qui commencent à produire des résultats tangibles. Ce rebond illustre la résilience des grandes valeurs tech américaines et conforte leur place dans les portefeuilles actions.",
+          "source": "MarketWatch",
+          "url": "Non fournie",
+          "niveau": "fort"
+        },
+        {
+          "titre": "SCPI Cœur d'Europe : les animations estivales dynamisent le centre VIDA Ovar au Portugal",
+          "analyse": "La SCPI Cœur d'Europe bénéficie d'une stratégie d'animation estivale sur son actif portugais VIDA Ovar, renforçant l'attractivité du site. Cette actualité illustre la gestion active des SCPI diversifiées en Europe, un point à valoriser auprès des investisseurs en quête de rendement immobilier.",
+          "source": "MeilleureSCPI.com",
+          "url": "Non fournie",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Taxe sur les logements vacants : Paris adopte le taux maximal de 60 %",
+          "analyse": "Le Conseil de Paris vote les taux maximaux de la taxe sur les logements vacants : 30 % après un an, 60 % au-delà, avec un objectif de 20 000 logements remis sur le marché d'ici 2027. Les propriétaires bailleurs parisiens doivent anticiper ce renforcement fiscal qui pénalise lourdement la vacance prolongée.",
+          "source": "MySweetimmo",
+          "url": "Non fournie",
+          "niveau": "fort"
+        },
+        {
+          "titre": "Arnaque à l'IBAN : une campagne d'hameçonnage cible les abonnements",
+          "analyse": "Une vaste campagne de phishing incite les victimes à fournir leur IBAN pour annuler un faux abonnement. Les CGP doivent alerter leurs clients sur ce type de fraude et rappeler les bonnes pratiques de vérification avant toute communication de coordonnées bancaires.",
+          "source": "notretemps.com",
+          "url": "Non fournie",
+          "niveau": "fort"
+        },
+        {
+          "titre": "Le yen bondit à un plus haut de trois mois après une intervention",
+          "analyse": "La devise japonaise s'apprécie fortement suite à une intervention des autorités, tandis que le dollar efface une partie de ses pertes. Cette volatilité sur le marché des changes rappelle l'importance de couvrir le risque devise dans les portefeuilles exposés aux marchés internationaux.",
+          "source": "Forex News",
+          "url": "Non fournie",
           "niveau": "moyen"
         }
       ]
     }
   ],
-  "compte_articles": 176
+  "a_surveiller": [],
+  "fallback": true
 }
