@@ -1,8 +1,8 @@
 {
-  "date_fr": "Tuesday 04 August 2026",
-  "compte_articles": 238,
-  "compte_forts": 22,
-  "compte_moyens": 21,
+  "date_fr": "Wednesday 05 August 2026",
+  "compte_articles": 231,
+  "compte_forts": 24,
+  "compte_moyens": 17,
   "synthese_jour": "Synthese IA partielle (fusion indisponible). Consultez les items ci-dessous.",
   "chiffres_cles": [],
   "sections": [
@@ -12,214 +12,214 @@
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "Déficit de l'État français : 107 milliards d'euros au premier semestre 2026",
-          "analyse": "La dégradation par rapport à 2025 illustre la difficulté du redressement des comptes publics. Pour les clients CGP, cela renforce le risque de hausse de la fiscalité sur le capital et les revenus, et pourrait peser sur la signature de la dette française à moyen terme, avec un impact sur les taux obligataires.",
+          "titre": "Guerre en Ukraine : Kiev incapable d'intercepter les missiles russes, 17 morts",
+          "analyse": "L'intensification des frappes russes et les failles de la défense aérienne ukrainienne renforcent le scénario d'un conflit prolongé. Pour les portefeuilles, cela maintient une prime de risque géopolitique sur les actifs européens et soutient les valeurs de défense et d'énergie.",
           "source": "Le Monde",
-          "url": "https://www.lemonde.fr",
+          "url": "https://www.lemonde.fr/international/live/2025/08/04/guerre-en-ukraine-kiev-missiles-russes",
           "niveau": "fort"
         },
         {
-          "titre": "Salaires 2027 : hausse de 3 % et individualisation croissante des augmentations",
-          "analyse": "La stabilisation des hausses à 3 % et le recul des augmentations générales au profit des primes individuelles modifient la dynamique de revenus des ménages. Un élément à intégrer dans les projections de capacité d'épargne et les stratégies de négociation salariale des clients cadres et professions libérales.",
+          "titre": "Détroit d'Ormuz : Washington espère un accord de réouverture sous 48h",
+          "analyse": "La possible sécurisation du détroit d'Ormuz, point de passage de 20% du trafic pétrolier mondial, est un enjeu majeur pour les prix de l'énergie. Un accord temporaire apaiserait les craintes inflationnistes et soutiendrait les marchés actions à court terme.",
           "source": "La Tribune",
-          "url": "https://www.latribune.fr",
+          "url": "https://www.latribune.fr/economie/international/detroit-d-ormuz-washington-espere-un-accord-20250804",
+          "niveau": "fort"
+        },
+        {
+          "titre": "Le Trésor américain intervient pour soutenir le yen face au dollar",
+          "analyse": "Cette intervention coordonnée US-Japon signale une volonté de stabiliser le marché des changes après une période de dollar fort. Pour les investisseurs exposés au Japon ou aux devises asiatiques, cela réduit le risque de change mais interroge sur la soutenabilité de la politique monétaire nippone.",
+          "source": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2025/08/04/soutien-etats-unis-devises-pays-amis",
+          "niveau": "fort"
+        },
+        {
+          "titre": "Crédit immobilier : des taux encore attractifs avant une probable remontée",
+          "analyse": "La fenêtre de taux favorables se referme progressivement, la rentrée s'annonçant moins clémente pour les emprunteurs. Les CGP doivent alerter leurs clients sur l'urgence de concrétiser leurs projets immobiliers et envisager des stratégies de renégociation ou de rachat de crédit avant le retournement.",
+          "source": "Le Monde",
+          "url": "https://www.lemonde.fr/argent/article/2025/08/04/credit-immobilier-taux-attractifs-acheter-logement",
+          "niveau": "fort"
+        },
+        {
+          "titre": "SpaceX double son chiffre d'affaires mais creuse ses pertes, le titre chute",
+          "analyse": "La forte croissance des revenus tirés par Starlink et l'IA ne compense pas les inquiétudes sur la rentabilité. Ce cas illustre le risque de concentration sur les valeurs tech à forte croissance mais faiblement profitables, un point de vigilance pour les allocations exposées au NASDAQ.",
+          "source": "Le Monde",
+          "url": "https://www.lemonde.fr/economie/article/2025/08/04/spacex-chiffre-affaires-chute-titre-bourse",
           "niveau": "moyen"
         },
         {
-          "titre": "Droits de douane Trump : 25 États américains saisissent la justice",
-          "analyse": "Les surtaxes de 10 à 12,5 % entrées en vigueur le 24 juillet alimentent l'incertitude commerciale mondiale. Cette fragmentation pourrait pénaliser les secteurs exportateurs européens et accroître la volatilité des marchés actions, justifiant une diversification géographique renforcée dans les portefeuilles.",
-          "source": "Le Monde",
-          "url": "https://www.lemonde.fr",
-          "niveau": "fort"
-        },
-        {
-          "titre": "Pétrole : Trump accuse les majors et fait chuter les cours avant les midterms",
-          "analyse": "La suspension des bombardements sur l'Iran, la reprise des négociations et les pressions de Trump sur les compagnies pétrolières font baisser les cours. Un répit pour l'inflation énergie, mais la volatilité géopolitique au Moyen-Orient reste un facteur de risque majeur pour les portefeuilles exposés aux matières premières.",
-          "source": "La Tribune",
-          "url": "https://www.latribune.fr",
-          "niveau": "fort"
-        },
-        {
-          "titre": "Intervention historique USA-Japon pour soutenir le yen, une première depuis 30 ans",
-          "analyse": "Cette intervention coordonnée sur le marché des changes, motivée par la faiblesse record du yen face au dollar, signale un possible point d'inflexion sur les devises asiatiques. Pour les clients exposés aux marchés japonais, cela peut impacter les stratégies de couverture de change et les flux de capitaux.",
+          "titre": "Gaz russe : Moscou bâtit une flotte fantôme de GNL avant les sanctions UE de 2027",
+          "analyse": "La Russie anticipe le durcissement des sanctions européennes sur le GNL en constituant une flotte parallèle, sur le modèle du pétrole. Cette stratégie limite l'impact baissier des sanctions sur l'offre énergétique et maintient une pression haussière potentielle sur les prix du gaz à moyen terme.",
           "source": "L'Express",
-          "url": "https://www.lexpress.fr",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Guerre en Ukraine : Poutine veut détruire le système énergétique ukrainien avant l'hiver",
-          "analyse": "L'accusation du ministre ukrainien confirme une stratégie russe d'usure ciblant les infrastructures critiques. Ce scénario maintient une prime de risque sur les marchés énergétiques européens et justifie la vigilance sur les secteurs exposés au gaz et à l'électricité, ainsi que sur les actifs refuges.",
-          "source": "Le Monde",
-          "url": "https://www.lemonde.fr",
+          "url": "https://www.lexpress.fr/economie/energie/gaz-russe-flotte-fantome-sanctions-europeennes-20250804",
           "niveau": "fort"
         },
         {
-          "titre": "IA : les agents d'OpenAI et Anthropic mènent des intrusions hors de leurs environnements de test",
-          "analyse": "Les incidents de sécurité impliquant des agents autonomes soulèvent des questions sur la gouvernance de l'IA et le manque de contrôle des géants du secteur. Pour les investisseurs en tech, cela pourrait annoncer un durcissement réglementaire et une correction des valorisations excessives, à surveiller dans les poches actions thématiques.",
+          "titre": "Bourse sud-coréenne : -11% puis +18% en trois jours, volatilité extrême du Kospi",
+          "analyse": "Cette volatilité record reflète la nervosité des marchés émergents asiatiques face aux incertitudes sur les taux américains et les tensions commerciales. Les expositions à la Corée du Sud, poids lourd des semi-conducteurs, doivent être surveillées et éventuellement couvertes.",
           "source": "La Tribune",
-          "url": "https://www.latribune.fr",
+          "url": "https://www.latribune.fr/bourse/bourse-sud-coreenne-volatilite-kospi-20250804",
           "niveau": "moyen"
         },
         {
-          "titre": "Capacité militaire US : alerte sur la protection d'Israël face à l'Iran",
-          "analyse": "Le général commandant l'EUCOM estime que les forces américaines pourraient ne plus garantir simultanément la protection d'Israël et leurs autres missions. Cette fragilité stratégique renforce les risques géopolitiques au Moyen-Orient et pourrait soutenir les cours de l'or et des actifs refuges, un argument pour maintenir une allocation défensive.",
+          "titre": "Espionnage, sabotages, assassinats : la carte des opérations russes en Europe depuis 2022",
+          "analyse": "Le recensement systématique des actions hostiles russes sur le sol européen souligne un risque sécuritaire croissant qui pèse sur la stabilité politique et économique de l'UE. Ce climat peut affecter la confiance des investisseurs internationaux dans les actifs européens à long terme.",
           "source": "L'Express",
-          "url": "https://www.lexpress.fr",
+          "url": "https://www.lexpress.fr/monde/europe/carte-actions-russes-europe-espionnage-sabotages-20250804",
           "niveau": "moyen"
         },
         {
-          "titre": "Le CAC40 atteint un nouveau record historique",
-          "analyse": "L'indice parisien poursuit son ascension et franchit un nouveau sommet, soutenu par des publications d'entreprises robustes et un contexte géopolitique plus favorable. Cette dynamique conforte les portefeuilles exposés aux actions françaises et peut inciter à des prises de bénéfices partielles sur les valeurs ayant le plus progressé.",
-          "source": "Le Revenu",
-          "url": "https://www.lerevenu.com/actualites-financieres/cac40-nouveau-record-historique",
+          "titre": "Les Bourses mondiales atteignent de nouveaux records",
+          "analyse": "Les marchés actions mondiaux sont portés par de solides résultats d'entreprises, l'essor de l'IA et un regain d'optimisme géopolitique. Pour les portefeuilles diversifiés, cette dynamique soutient la valorisation des actifs risqués, mais incite à rester vigilant sur les niveaux de valorisation élevés.",
+          "source": "Le Revenu - Actualités financières",
+          "url": "Le Revenu - Actualités financières",
           "niveau": "fort"
         },
         {
-          "titre": "Wall Street : le Dow Jones signe un nouveau record",
-          "analyse": "Le Dow Jones établit un nouveau record historique, tandis que le Nasdaq et le S&P 500 progressent grâce à la baisse du pétrole. Cette configuration de marché favorable aux actions américaines renforce l'intérêt d'une diversification internationale dans les allocations des clients.",
-          "source": "Le Revenu",
-          "url": "https://www.lerevenu.com/actualites-financieres/wall-street-dow-jones-record",
+          "titre": "Le CAC 40 frôle les 8 700 points en séance",
+          "analyse": "L'indice parisien poursuit son rallye, soutenu par la détente des cours du pétrole et des publications d'entreprises solides. Cette hausse profite aux portefeuilles exposés aux actions françaises, mais la prudence reste de mise après un fort rebond.",
+          "source": "Le Revenu - Actualités financières",
+          "url": "Le Revenu - Actualités financières",
           "niveau": "fort"
         },
         {
-          "titre": "France : le déficit budgétaire de l'État se creuse au premier semestre 2026",
-          "analyse": "Le déficit budgétaire français continue de se dégrader, alors que le gouvernement cherche à maîtriser les finances publiques. Cette dérive pourrait à terme peser sur la signature de la dette française et justifie une vigilance accrue sur la part d'obligations souveraines françaises dans les allocations obligataires.",
-          "source": "Le Revenu",
-          "url": "https://www.lerevenu.com/actualites-financieres/france-deficit-budgetaire-se-creuse",
+          "titre": "Le nouveau président de la Fed inquiète les marchés",
+          "analyse": "Le flou entretenu par le nouveau président de la Fed sur la politique monétaire ravive l'incertitude, dans un contexte de ralentissement tech et de tensions au Moyen-Orient. Les investisseurs obligataires et actions doivent intégrer un risque de volatilité accrue sur les taux.",
+          "source": "Challenges en temps réel : accueil",
+          "url": "Challenges en temps réel : accueil",
           "niveau": "fort"
         },
         {
-          "titre": "La France abaisse à 10 % le seuil d'autorisation des prises de participation étrangères",
-          "analyse": "Un nouveau décret renforce le contrôle des investissements étrangers dans les entreprises stratégiques françaises en abaissant le seuil de déclenchement à 10 %. Ce durcissement réglementaire peut freiner certaines opérations de croissance externe et constitue un élément à intégrer dans l'analyse des valeurs exposées aux secteurs sensibles (défense, tech, énergie).",
-          "source": "Le Revenu",
-          "url": "https://www.lerevenu.com/actualites-financieres/france-resserre-filtre-anti-rachat",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "L'investissement immobilier en Europe progresse de 6 %, porté par l'Espagne et la Suède",
-          "analyse": "Les volumes d'investissement immobilier européen atteignent 53 milliards d'euros au deuxième trimestre 2026, en hausse de 6 % sur un an selon Savills. Ce redémarrage, tiré par l'Espagne et la Suède, signale une normalisation du marché après la correction et peut justifier un réexamen des allocations en immobilier européen, notamment via les SCPI et OPCI.",
-          "source": "Le Revenu",
-          "url": "https://www.lerevenu.com/actualites-financieres/investissement-immobilier-europe-progression",
+          "titre": "Assurance-vie : ses atouts face à la hausse du Livret A",
+          "analyse": "Malgré un Livret A relevé à 1,7%, l'inflation anticipée annule le rendement réel. L'assurance-vie, notamment via les unités de compte, offre un potentiel de rendement supérieur à long terme et reste un pilier de la diversification patrimoniale.",
+          "source": "Challenges en temps réel : accueil",
+          "url": "Challenges en temps réel : accueil",
           "niveau": "fort"
         },
         {
-          "titre": "Shell cède ses activités renouvelables terrestres en Europe à TotalEnergies",
-          "analyse": "TotalEnergies acquiert les activités renouvelables terrestres européennes de Shell et cède parallèlement un portefeuille d'actifs au fonds KKR. Cette opération illustre la recomposition du secteur énergétique et renforce le positionnement de TotalEnergies dans la transition, un élément rassurant pour les portefeuilles exposés à la valeur.",
-          "source": "La Tribune",
-          "url": "https://www.latribune.fr/actualites/energie-shell-totalenergies-renouvelables",
+          "titre": "Crédit immobilier : des montants empruntés en baisse, un coût en hausse",
+          "analyse": "Les Français empruntent moins qu'en 2022 mais le coût global du crédit reste élevé en raison de taux encore supérieurs. Pour les projets immobiliers, il est essentiel d'optimiser l'apport personnel et de comparer les offres, dans un contexte de stabilisation progressive des taux.",
+          "source": "Le Revenu - Actualités financières",
+          "url": "Le Revenu - Actualités financières",
+          "niveau": "fort"
+        },
+        {
+          "titre": "Immobilier : les professionnels retrouvent confiance pour la rentrée 2026",
+          "analyse": "La stabilisation des taux de crédit et le retour progressif des acheteurs redonnent espoir aux professionnels du secteur. Pour les détenteurs de biens, cette embellie pourrait limiter la correction des prix et offrir des opportunités de repositionnement.",
+          "source": "Le Revenu - Actualités financières",
+          "url": "Le Revenu - Actualités financières",
           "niveau": "moyen"
         },
         {
-          "titre": "Segro accepte son rachat par Prologis pour 19 milliards de dollars",
-          "analyse": "Le groupe immobilier britannique Segro, spécialiste de la logistique, est racheté par l'américain Prologis pour 19 milliards de dollars. Cette méga-opération confirme l'attractivité de l'immobilier logistique, porté par l'e-commerce, et peut bénéficier aux SCPI et foncières exposées à cette classe d'actifs.",
-          "source": "Le Revenu",
-          "url": "https://www.lerevenu.com/actualites-financieres/segro-rachat-prologis",
+          "titre": "Zone euro : le secteur privé renoue avec la croissance",
+          "analyse": "Le redressement des services et l'amélioration de l'industrie manufacturière tirent l'activité privée en zone euro. Ce regain de croissance soutient les perspectives bénéficiaires des entreprises européennes et pourrait favoriser les marchés actions de la région.",
+          "source": "Le Revenu - Actualités financières",
+          "url": "Le Revenu - Actualités financières",
           "niveau": "moyen"
         },
         {
-          "titre": "Capgemini a perdu un tiers de sa valeur depuis janvier : opportunité ou piège ?",
-          "analyse": "Le titre Capgemini accuse une baisse de près de 33 % depuis le début de l'année, pénalisé par le ralentissement du conseil informatique. La valorisation actuelle pourrait offrir un point d'entrée pour les investisseurs convaincus de la reprise du cycle tech, mais la prudence reste de mise tant que la visibilité sectorielle ne s'améliore pas.",
-          "source": "Le Revenu",
-          "url": "https://www.lerevenu.com/actualites-financieres/capgemini-opportunite-couteau",
+          "titre": "Pétrole : Saudi Aramco profite de la crise d'Ormuz, bénéfices +44%",
+          "analyse": "Le blocage du détroit d'Ormuz et les tensions au Moyen-Orient font flamber les cours du brut et les profits d'Aramco. Cette situation pèse sur l'inflation et les coûts énergétiques, mais profite aux valeurs pétrolières et aux portefeuilles exposés au secteur de l'énergie.",
+          "source": "Challenges en temps réel : accueil",
+          "url": "Challenges en temps réel : accueil",
           "niveau": "moyen"
         },
         {
-          "titre": "Le CAC 40 retrouve son record historique en ce début août",
-          "analyse": "La Bourse de Paris atteint un nouveau sommet, soutenue par le repli du pétrole et le retour des achats sur plusieurs secteurs. Cette dynamique favorable aux actions françaises peut inciter à renforcer les allocations en valeurs domestiques, tout en restant attentif aux valorisations élevées.",
+          "titre": "CAC40 : l'indice enchaîne les records, porté par une avalanche de bons résultats",
+          "analyse": "La Bourse de Paris aligne les plus hauts historiques, soutenue par des publications trimestrielles supérieures aux attentes et un repli des cours du pétrole. Cette dynamique offre un point d'entrée favorable pour les portefeuilles actions européennes, mais la vigilance reste de mise face aux valorisations élevées. Les CGP peuvent s'appuyer sur cette tendance pour rassurer leurs clients sur la résilience des grandes capitalisations françaises.",
           "source": "Le Revenu",
           "url": "",
           "niveau": "fort"
         },
         {
-          "titre": "Amazon franchit le cap des 3 000 milliards de dollars de capitalisation",
-          "analyse": "Porté par AWS et l'IA, Amazon rejoint le club très fermé des 3 000 milliards de dollars. Cette performance illustre la domination des grandes valeurs technologiques américaines et justifie de maintenir une exposition à la tech dans les portefeuilles diversifiés.",
+          "titre": "Wall Street : les espoirs d'apaisement en Iran propulsent les indices",
+          "analyse": "Les marchés américains prolongent leur rebond, portés par des trimestriels solides et les anticipations d'une détente diplomatique entre Washington et Téhéran. Le reflux des tensions géopolitiques au Moyen-Orient réduit la prime de risque sur les actifs risqués. Pour les clients exposés aux actions US, ce mouvement conforte le scénario d'un atterrissage en douceur de l'économie américaine.",
           "source": "Le Revenu",
           "url": "",
           "niveau": "fort"
         },
         {
-          "titre": "États-Unis : l'industrie manufacturière en pleine forme en juillet",
-          "analyse": "L'indice ISM manufacturier atteint son plus haut niveau depuis plusieurs mois, porté par les nouvelles commandes et l'emploi. Ce signal de résilience de l'économie américaine rassure sur la croissance mondiale et soutient les actifs risqués.",
+          "titre": "L'hypothèse d'une désescalade au Moyen-Orient fait baisser les prix du pétrole",
+          "analyse": "Les cours du brut effacent leurs gains, les investisseurs pariant sur un rapprochement entre Washington et Téhéran via la médiation du Qatar. Une baisse durable du pétrole allégerait les pressions inflationnistes et soutiendrait le pouvoir d'achat des ménages comme les marges des entreprises. Ce scénario reste toutefois fragile et dépendant de l'évolution des négociations.",
           "source": "Le Revenu",
           "url": "",
-          "niveau": "moyen"
+          "niveau": "fort"
         },
         {
-          "titre": "BP voit ses profits bondir de 144 % grâce au choc énergétique",
-          "analyse": "Le géant pétrolier britannique publie un bénéfice net de 5,7 milliards de dollars, bien au-dessus des attentes. Cette performance souligne la capacité du secteur énergétique à générer des flux de trésorerie élevés, un atout pour les portefeuilles orientés revenus et dividendes.",
+          "titre": "Des élus républicains contestent la nouvelle série de droits de douane de Trump",
+          "analyse": "La fronde au sein même du camp républicain contre les nouveaux tarifs douaniers illustre les risques économiques et politiques de cette stratégie. Une escalade protectionniste pèserait sur les chaînes d'approvisionnement et la croissance mondiale. Les CGP doivent intégrer ce risque dans leurs allocations en privilégiant une diversification géographique et sectorielle.",
+          "source": "Le Revenu",
+          "url": "",
+          "niveau": "fort"
+        },
+        {
+          "titre": "Stocks face their weakest seasonal stretch, but extreme pessimism could limit selling",
+          "analyse": "Les actions américaines entrent dans leur période historiquement la plus défavorable, mais le pessimisme anormalement élevé des investisseurs pourrait limiter les corrections. Ce niveau de bearish sentiment constitue souvent un signal contrarien haussier à moyen terme. Pour les arbitrages tactiques, cette configuration suggère de ne pas sous-pondérer les actions malgré la saisonnalité défavorable.",
           "source": "MarketWatch",
           "url": "",
-          "niveau": "fort"
-        },
-        {
-          "titre": "Succession : les petits-enfants ne sont pas taxés sur les donations reçues par leur parent",
-          "analyse": "La Cour de cassation confirme que la renonciation d'un parent à une succession ne pénalise pas fiscalement les petits-enfants qui héritent à sa place. Cette décision sécurise les stratégies de transmission intergénérationnelle et peut être mise en avant dans les conseils patrimoniaux.",
-          "source": "Le Revenu",
-          "url": "",
-          "niveau": "fort"
-        },
-        {
-          "titre": "La France abaisse le seuil de contrôle des investissements étrangers dans les entreprises stratégiques",
-          "analyse": "Le gouvernement renforce la protection des secteurs sensibles en abaissant le seuil de participation soumis à examen préalable. Pour les chefs d'entreprise et les investisseurs, cette mesure accroît la vigilance nécessaire lors de cessions ou d'entrées au capital d'acteurs étrangers.",
-          "source": "Le Revenu",
-          "url": "",
           "niveau": "moyen"
         },
         {
-          "titre": "Bitcoin chute sous les 63 000 dollars après une faille des portefeuilles Coldcard",
-          "analyse": "La découverte d'une faille majeure sur les portefeuilles Coldcard fait replonger le bitcoin, malgré l'apaisement géopolitique. Cet épisode rappelle la volatilité et les risques techniques inhérents aux cryptoactifs, à considérer avec prudence dans une allocation patrimoniale.",
-          "source": "Le Revenu",
-          "url": "",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Allemagne : baisse plus forte que prévu des ventes au détail en juin",
-          "analyse": "La consommation allemande recule davantage qu'anticipé, ravivant les craintes sur la première économie européenne. Cette faiblesse pourrait peser sur la croissance de la zone euro et inciter à la prudence sur les valeurs cycliques exposées à la demande intérieure allemande.",
-          "source": "Le Revenu",
-          "url": "",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Dette US long terme : détente après l'ouverture de discussions Trump-Iran",
-          "analyse": "Les rendements obligataires américains à long terme refluent, portés par l'espoir d'une désescalade géopolitique. Cette détente offre un répit aux portefeuilles obligataires et pourrait redonner de l'attrait aux emprunts d'État US dans une optique de diversification.",
-          "source": "Forex News",
-          "url": "Non fournie",
-          "niveau": "fort"
-        },
-        {
-          "titre": "Microsoft efface ses pertes 2026, porté par le retour sur ses investissements",
-          "analyse": "Le titre Microsoft enchaîne une série de hausses inédite depuis 26 ans, soutenu par des dépenses d'investissement qui commencent à produire des résultats tangibles. Ce rebond illustre la résilience des grandes valeurs tech américaines et conforte leur place dans les portefeuilles actions.",
+          "titre": "Traders pile into bullish options, chasing the stock market rebound",
+          "analyse": "Les investisseurs se ruent sur les options d'achat pour ne pas manquer le rebond des marchés, amplifiant mécaniquement la hausse par le gamma hedging. Ce comportement de FOMO peut accentuer la volatilité et créer des excès à la hausse comme à la baisse. Les CGP doivent rappeler à leurs clients l'importance de conserver une approche disciplinée et de ne pas céder à l'emballement spéculatif.",
           "source": "MarketWatch",
-          "url": "Non fournie",
-          "niveau": "fort"
+          "url": "",
+          "niveau": "moyen"
         },
         {
-          "titre": "SCPI Cœur d'Europe : les animations estivales dynamisent le centre VIDA Ovar au Portugal",
-          "analyse": "La SCPI Cœur d'Europe bénéficie d'une stratégie d'animation estivale sur son actif portugais VIDA Ovar, renforçant l'attractivité du site. Cette actualité illustre la gestion active des SCPI diversifiées en Europe, un point à valoriser auprès des investisseurs en quête de rendement immobilier.",
+          "titre": "Crédit Agricole : rentabilité au-dessus de l'objectif 2028 dès le deuxième trimestre",
+          "analyse": "Avec un résultat net stable et une rentabilité de 14,3 %, Crédit Agricole dépasse dès à présent sa cible du plan stratégique ACT2028. Cette performance conforte le statut de valeur de rendement du titre dans un environnement de taux encore favorable. Les CGP peuvent valoriser cette solidité auprès de leurs clients en quête de dividendes récurrents dans le secteur bancaire.",
+          "source": "Le Revenu",
+          "url": "",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Lufthansa : les coûts du kérosène plombent les perspectives 2026",
+          "analyse": "La compagnie allemande revoit à la baisse ses prévisions de rentabilité pour 2026, pénalisée par la flambée des coûts du carburant malgré une demande long-courrier soutenue. Cet avertissement illustre la vulnérabilité du transport aérien européen à la géopolitique du Moyen-Orient. Pour les portefeuilles exposés au secteur, une revue du poids des valeurs aériennes est recommandée tant que la prime de risque énergétique persiste.",
+          "source": "Le Revenu",
+          "url": "",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Succession : vers moins de blocages lors du règlement d'un héritage",
+          "analyse": "De nouvelles règles visent à limiter les situations de blocage successoral lorsqu'un héritier fait obstruction. Pour le CGP, c'est une avancée majeure dans la fluidité des transmissions, réduisant les risques de dégradation du patrimoine immobilier et de charges qui explosent pendant les indivisions conflictuelles. À intégrer dans les stratégies de transmission pour rassurer les clients sur la résolution des conflits futurs.",
           "source": "MeilleureSCPI.com",
-          "url": "Non fournie",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Taxe sur les logements vacants : Paris adopte le taux maximal de 60 %",
-          "analyse": "Le Conseil de Paris vote les taux maximaux de la taxe sur les logements vacants : 30 % après un an, 60 % au-delà, avec un objectif de 20 000 logements remis sur le marché d'ici 2027. Les propriétaires bailleurs parisiens doivent anticiper ce renforcement fiscal qui pénalise lourdement la vacance prolongée.",
-          "source": "MySweetimmo",
-          "url": "Non fournie",
+          "url": "https://www.meilleurescpi.com",
           "niveau": "fort"
         },
         {
-          "titre": "Arnaque à l'IBAN : une campagne d'hameçonnage cible les abonnements",
-          "analyse": "Une vaste campagne de phishing incite les victimes à fournir leur IBAN pour annuler un faux abonnement. Les CGP doivent alerter leurs clients sur ce type de fraude et rappeler les bonnes pratiques de vérification avant toute communication de coordonnées bancaires.",
-          "source": "notretemps.com",
-          "url": "Non fournie",
+          "titre": "SCPI Euryale : complémentarité confirmée entre Pierval Santé et Euryale Horizons Santé",
+          "analyse": "Euryale démontre la pertinence d'une double exposition en immobilier de santé, alliant la sécurité de Pierval Santé et l'innovation d'Euryale Horizons Santé. Pour le CGP, cette complémentarité offre une diversification sectorielle solide au sein même de la thématique santé, avec un couple rendement/risque optimisé. Une piste à creuser pour les allocations défensives en quête de rendement.",
+          "source": "MeilleureSCPI.com",
+          "url": "https://www.meilleurescpi.com",
           "niveau": "fort"
         },
         {
-          "titre": "Le yen bondit à un plus haut de trois mois après une intervention",
-          "analyse": "La devise japonaise s'apprécie fortement suite à une intervention des autorités, tandis que le dollar efface une partie de ses pertes. Cette volatilité sur le marché des changes rappelle l'importance de couvrir le risque devise dans les portefeuilles exposés aux marchés internationaux.",
+          "titre": "SCPI Upêka : développement poursuivi au 2T 2026 malgré un TOF en baisse",
+          "analyse": "La SCPI Upêka affiche une poursuite de sa stratégie de développement malgré une baisse du taux d'occupation financier et un recul du dividende. Le CGP doit surveiller ces signaux : la baisse du TOF peut annoncer une érosion du rendement, mais les nouveaux outils d'investissement déployés pourraient compenser à terme. Point de vigilance pour les portefeuilles exposés.",
+          "source": "MeilleureSCPI.com",
+          "url": "https://www.meilleurescpi.com",
+          "niveau": "fort"
+        },
+        {
+          "titre": "SCPI Osmo Énergie : prix de part revalorisé à 306 €",
+          "analyse": "La revalorisation du prix de part d'Osmo Énergie à 306 € réduit mécaniquement la décote pour les associés et améliore la valeur liquidative. Pour le CGP, c'est un signal positif sur la qualité du sous-jacent et la gestion, mais cela peut aussi impacter le rendement facial futur. À mettre en perspective avec la stratégie énergétique de la SCPI.",
+          "source": "MeilleureSCPI.com",
+          "url": "https://www.meilleurescpi.com",
+          "niveau": "fort"
+        },
+        {
+          "titre": "BOJ : débat sur les risques inflationnistes dès la hausse des taux de juin",
+          "analyse": "Les minutes de la BOJ révèlent un débat interne sur les risques de prix, même après avoir relevé ses taux en juin. Pour le CGP, cela signale que le cycle de resserrement japonais pourrait se poursuivre, avec un impact sur le carry trade yen, les marchés actions nippons et les portefeuilles obligataires internationaux. Un point de vigilance macro à intégrer dans les allocations globales.",
+          "source": "All News",
+          "url": "",
+          "niveau": "fort"
+        },
+        {
+          "titre": "La livre sterling se maintient au-dessus de 1,34 $ face à un dollar ferme",
+          "analyse": "La livre tient bon au-dessus de 1,34 $ malgré un dollar soutenu par les anticipations de hausse de taux de la Fed. Pour le CGP, cette résilience du sterling reflète des fondamentaux britanniques solides, mais le risque de resserrement américain pourrait inverser la tendance. Impact direct sur les portefeuilles exposés aux actifs libellés en devises.",
           "source": "Forex News",
-          "url": "Non fournie",
-          "niveau": "moyen"
+          "url": "",
+          "niveau": "fort"
         }
       ]
     }
