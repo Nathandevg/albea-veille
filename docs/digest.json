@@ -1,20 +1,23 @@
 {
-  "date_fr": "vendredi 7 août 2026",
-  "synthese_jour": "Le contexte macroéconomique reste sous tension : le chômage français atteint 8,3%, son plus haut niveau depuis 2020, tandis que les marchés actions européens poursuivent leur rallye (CAC 40 à 8 700 points) portés par l'espoir d'un apaisement géopolitique au Moyen-Orient. Les incertitudes persistent sur la politique commerciale américaine et les prix de l'énergie, incitant à la prudence dans les allocations.",
+  "date_fr": "samedi 08 août 2026",
+  "compte_articles": 216,
+  "compte_forts": 13,
+  "compte_moyens": 8,
+  "synthese_jour": "La journée est dominée par des signaux macroéconomiques contrastés : dégradation de l'emploi aux États-Unis (-23 000 postes) et en France (chômage à 8,3%, plus haut depuis 2020), qui pèsent sur les anticipations monétaires tout en nourrissant un rebond des marchés actions sur l'espoir de baisses de taux. Parallèlement, les incertitudes géopolitiques (ingérences russes, tensions commerciales Trump-Chine) et climatiques poussent les investisseurs vers les valeurs refuges, l'or bondissant de plus de 7% sur la semaine.",
   "chiffres_cles": [
-    "CAC 40 : 8 700 points (+2,99% sur 30 jours)",
-    "Chômage France : 8,3% au T2 2026",
-    "Bitcoin : 65 000 dollars",
-    "Yen : 158 pour un dollar",
-    "SoftBank : 35 Mds€ investis à Dunkerque",
-    "EasyJet : OPA à 6,7 Mds€"
+    "Emploi US juillet : -23 000 postes (vs +83 000 attendus)",
+    "Chômage France T2 2026 : 8,3% (plus haut depuis automne 2020)",
+    "Or : +7% sur la semaine",
+    "Bitcoin : résistance à 65 156 $, risque de bull trap (ADX)",
+    "SCPI Atream Hôtels : capitalisation 329,8 M€, occupation 100%",
+    "Meta : amende record de 942 M$ pour préjudices aux mineurs"
   ],
   "a_surveiller": [
-    "Accord potentiel sur le détroit d'Ormuz : impact sur les prix du pétrole et les secteurs énergivores.",
-    "Décisions de la Fed sur les taux : les Treasuries réagissent aux anticipations divisées.",
-    "Évolution du chômage en France : sixième hausse consécutive, surveiller la consommation des ménages.",
-    "Mise en œuvre des décrets sur la retraite des mères au 1er septembre 2026.",
-    "Recomposition du secteur des semi-conducteurs face à la montée en puissance chinoise."
+    "Décision de la Fed en septembre : le statu quo sur les taux se confirme après l'emploi décevant US.",
+    "Évolution du chômage français et impact sur la capacité d'épargne des ménages et la consommation.",
+    "Tensions géopolitiques à l'approche de la présidentielle 2027 : ingérences étrangères et volatilité potentielle sur les actifs français.",
+    "Hausse des prix alimentaires attendue en septembre : intégrer l'hypothèse inflationniste dans les projections de pouvoir d'achat.",
+    "Dynamique de collecte des SCPI et soutenabilité des rendements dans un contexte de taux élevés."
   ],
   "sections": [
     {
@@ -23,130 +26,130 @@
       "niveau_global": "fort",
       "items": [
         {
-          "titre": "Chômage France : le taux remonte à 8,3 % au T2, au plus haut depuis 2020",
-          "analyse": "La dégradation du marché du travail, avec un taux de chômage à son plus haut niveau depuis l'automne 2020, signale un ralentissement économique qui pourrait peser sur la consommation des ménages et la collecte de l'épargne. Pour le CGP, ce contexte renforce l'intérêt des stratégies prudentes et des allocations défensives, tout en surveillant les conséquences sur l'immobilier et la capacité d'épargne des clients.",
-          "source": "Le Monde",
-          "url": "https://www.lemonde.fr/economie/article/2025/08/07/chomage-le-nombre-de-demandeurs-d-emploi-augmente-de-0-2-point-pour-atteindre-8-3-au-deuxieme-trimestre-selon-l-insee_9999999.html",
+          "titre": "Emploi US : 23 000 postes perdus en juillet, Fed vers un maintien des taux",
+          "analyse": "La dégradation inattendue de l'emploi américain (-23 000 vs +83 000 attendus) contraste avec un chômage en baisse de 0,1 point. Ce signal mitigé renvoie la Fed vers un statu quo en septembre, impactant les allocations obligataires et actions US des clients.",
+          "source": "La Tribune - Actualités",
+          "url": "",
           "niveau": "fort"
         },
         {
-          "titre": "CAC 40 : la Bourse de Paris surperforme Wall Street avec +2,99 % sur 30 jours",
-          "analyse": "La surperformance récente du CAC 40 face aux indices américains s'explique par la rotation sectorielle vers les valeurs européennes décotées et la moindre exposition aux turbulences technologiques. Cette dynamique offre des opportunités de rééquilibrage de portefeuille pour les clients surpondérés en actions américaines, tout en rappelant l'importance d'une diversification géographique active.",
-          "source": "La Tribune",
-          "url": "https://www.latribune.fr/entreprises-finance/banques-finance/records-du-cac-40-pourquoi-la-bourse-francaise-fait-mieux-que-wall-street-ces-dernieres-semaines-9999999.html",
-          "niveau": "fort"
-        },
-        {
-          "titre": "Guerre au Moyen-Orient : salaires en stagnation et investissement menacé en France",
-          "analyse": "La flambée des prix du pétrole liée aux tensions au Moyen-Orient pèse directement sur les marges des entreprises et le pouvoir d'achat des ménages français, avec des salaires stagnants au premier semestre 2026. Pour les clients chefs d'entreprise, cela implique de revoir les budgets d'investissement 2027 ; pour les épargnants, une exposition accrue aux secteurs énergétiques et aux valeurs refuges peut se justifier.",
-          "source": "La Tribune",
-          "url": "https://www.latribune.fr/economie/international/les-ravages-de-la-guerre-au-moyen-orient-sur-les-salaires-et-l-investissement-en-france-9999999.html",
-          "niveau": "fort"
-        },
-        {
-          "titre": "Trump : 100 Mds$ de droits de douane remboursés, une nouvelle surtaxe déjà contestée",
-          "analyse": "L'instabilité de la politique commerciale américaine, entre annulation par la Cour suprême et nouvelles surtaxes, entretient un climat d'incertitude pour les entreprises exportatrices et les chaînes d'approvisionnement mondiales. Les CGP doivent intégrer ce risque réglementaire dans les stratégies d'investissement international et envisager des couvertures sur les expositions aux marchés émergents et asiatiques.",
-          "source": "La Tribune",
-          "url": "https://www.latribune.fr/economie/international/trump-n-a-pas-fini-de-rembourser-les-droits-de-douane-annules-par-la-cour-supreme-que-sa-nouvelle-surtaxe-est-deja-contestee-9999999.html",
-          "niveau": "fort"
-        },
-        {
-          "titre": "Semi-conducteurs : l'ascension chinoise fait trembler Nvidia, ASML et TSMC",
-          "analyse": "La montée en puissance de la Chine dans les puces électroniques bouleverse l'équilibre du secteur et menace les positions dominantes des géants américains, néerlandais et taïwanais. Pour les portefeuilles exposés aux valeurs technologiques, cette recomposition stratégique justifie une vigilance accrue et une diversification au-delà des grands noms historiques des semi-conducteurs.",
-          "source": "L'Express",
-          "url": "https://www.lexpress.fr/economie/high-tech/puces-electroniques-l-irresistible-ascension-chinoise-qui-fait-trembler-l-industrie_9999999.html",
-          "niveau": "fort"
-        },
-        {
-          "titre": "CAC40 : l'indice franchit les 8 700 points",
-          "analyse": "La Bourse de Paris atteint un nouveau seuil symbolique, portée par la détente sur le pétrole et les espoirs diplomatiques au Moyen-Orient. Ce rallye offre l'occasion de faire le point avec les clients sur leur exposition actions européennes et d'éventuelles prises de bénéfices partielles.",
+          "titre": "Le cours de l'or bondit de plus de 7% en une semaine",
+          "analyse": "L'or a enregistré une progression hebdomadaire exceptionnelle de plus de 7%, porté par le retour des investisseurs vers les actifs refuges. Les incertitudes économiques mondiales et les perspectives de baisse des taux directeurs renforcent l'attrait du métal jaune. Pour un CGP, cela confirme l'intérêt d'une allocation en or physique ou ETF or dans les portefeuilles défensifs.",
           "source": "Le Revenu",
-          "url": "https://www.lerevenu.com/actualites-financieres/cac40-indice-franchit-8700-points",
+          "url": "https://www.lerevenu.com/actualites-financieres/cours-de-l-or-plus-de-7-en-une-semaine",
           "niveau": "fort"
         },
         {
-          "titre": "Wall Street : Dow Jones record, Nasdaq plombé par SpaceX et AMD",
-          "analyse": "La divergence entre le Dow Jones (nouveau sommet) et le Nasdaq (en repli) illustre une rotation sectorielle des valeurs de croissance tech vers des segments plus défensifs. Un signal à surveiller pour les portefeuilles fortement exposés à la tech américaine.",
-          "source": "Le Revenu",
-          "url": "https://www.lerevenu.com/actualites-financieres/wall-street-dow-jones-resiste-nasdaq-plombe-spacex-amd",
+          "titre": "France : chômage à 8,3 %, l'objectif plein emploi de Macron s'éloigne",
+          "analyse": "La hausse du chômage à 8,3 %, partiellement liée à la loi plein emploi, fragilise le scénario de croissance domestique. À surveiller pour l'allocation des clients exposés au marché actions français et à l'immobilier résidentiel.",
+          "source": "La Tribune - Actualités",
+          "url": "",
           "niveau": "fort"
         },
         {
-          "titre": "L'or repart à la hausse : des records à portée ?",
-          "analyse": "Après une période de consolidation, les cours de l'or se redressent dans un contexte d'incertitudes sur l'inflation et la politique de la Fed. Les valeurs minières aurifères peuvent constituer un point d'entrée de qualité pour les investisseurs en quête de diversification réelle.",
+          "titre": "Trump relance sa tentative de destituer Lisa Cook, gouverneure de la Fed",
+          "analyse": "Deux mois après un blocage par la Cour suprême, Trump reprend son offensive pour évincer Lisa Cook du Board de la Fed et placer des alliés. Cette pression politique sur l'indépendance de la banque centrale pourrait accroître la volatilité sur les marchés de taux et le dollar, avec des implications directes pour les portefeuilles obligataires et les expositions internationales.",
           "source": "MarketWatch",
-          "url": "https://www.marketwatch.com/story/gold-prices-breaking-higher-fresh-records",
+          "url": "https://www.marketwatch.com",
           "niveau": "fort"
+        },
+        {
+          "titre": "Intervention américaine sur le yen : quelles conséquences pour les portefeuilles ?",
+          "analyse": "La volatilité du yen, amplifiée par les divergences de politique monétaire, a nécessité une intervention coordonnée des États-Unis. Pour les CGP, cela souligne l'importance de couvrir le risque de change dans les allocations internationales et de surveiller les actifs japonais, notamment les obligations d'État. Un yen faible peut aussi offrir des opportunités tactiques sur les actions exportatrices nippones.",
+          "source": "La finance pour tous",
+          "url": "La finance pour tous",
+          "niveau": "fort"
+        },
+        {
+          "titre": "Thales quadruple sa production de munitions à La Ferté-Saint-Aubin",
+          "analyse": "Thales renforce massivement son outil industriel de production de munitions dans le contexte du réarmement européen. Cette montée en cadence illustre la profondeur et la durée du cycle d'investissement dans la défense, une thématique structurelle pour les portefeuilles exposés aux valeurs industrielles européennes.",
+          "source": "Le Revenu",
+          "url": "https://www.lerevenu.com/actualites-financieres/thales-quadruple-production-munitions",
+          "niveau": "fort"
+        },
+        {
+          "titre": "Bitcoin bute sur la résistance des 65 156 $, l'ADX signale un risque de bull trap",
+          "analyse": "L'incapacité du Bitcoin à franchir les 65 000 $ et le signal baissier de l'ADX appellent à la prudence sur les expositions crypto. Pour les clients en allocation alternative, un suivi technique rapproché et des stops de protection sont recommandés avant toute nouvelle prise de position.",
+          "source": "All News",
+          "url": "https://www.investing.com",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Vers une hausse des prix alimentaires en septembre malgré l'accalmie au Moyen-Orient",
+          "analyse": "Les coûts du transport et du plastique devraient tirer les prix alimentaires à la hausse. Cette inflation sectorielle pèse sur le budget des ménages modestes et retraités. Le CGP doit intégrer cette hypothèse dans les projections de pouvoir d'achat de ses clients.",
+          "source": "Merci pour l'info",
+          "url": "https://www.mercipourlinfo.fr/consommation/faut-il-craindre-une-forte-inflation-alimentaire-en-septembre",
+          "niveau": "moyen"
         }
       ]
     },
     {
       "titre": "Fiscalité",
-      "icone": "💰",
-      "niveau_global": "moyen",
+      "icone": "🧾",
+      "niveau_global": "fort",
       "items": [
         {
-          "titre": "Californie : la taxe sur les milliardaires provoque un début d'exode des fortunes tech",
-          "analyse": "Le projet de taxation des super-riches en Californie, soumis à référendum en novembre, pousse les grandes fortunes de la Silicon Valley à organiser leur départ vers des États fiscalement plus cléments. Ce phénomène préfigure les débats fiscaux à venir en France et en Europe, et rappelle l'importance d'anticiper les évolutions de la fiscalité patrimoniale dans les stratégies de localisation des actifs.",
-          "source": "Challenges",
-          "url": "https://www.challenges.fr/patrimoine/larry-page-peter-thiel-panique-dans-la-silicon-valley-la-taxe-sur-les-milliardaires-declenche-un-debut-d-exode_9999999.html",
-          "niveau": "moyen"
+          "titre": "Mécénat des grandes écoles : le nouveau levier de défiscalisation des grands donateurs",
+          "analyse": "Le mécénat se déplace des musées vers les universités et grandes écoles, offrant aux clients patrimoniaux une stratégie de défiscalisation ISF/IR via des dons finançant bourses, chaires et campus. Ce levier fiscal reste maîtrisé par les grands donateurs et mérite d'être intégré dans les stratégies d'optimisation patrimoniale.",
+          "source": "Le Revenu",
+          "url": "https://www.lerevenu.com",
+          "niveau": "fort"
         },
         {
-          "titre": "IA : le double choc sur l'emploi et la fiscalité",
-          "analyse": "L'IA générative bouleversera les tâches cognitives complexes et les équilibres budgétaires des États. Pour le CGP, c'est un enjeu de long terme à intégrer dans les projections de revenus futurs des clients et dans l'anticipation d'évolutions fiscales liées au financement de la protection sociale.",
+          "titre": "Le double choc de l'IA sur l'emploi et la fiscalité : une analyse prospective",
+          "analyse": "L'IA générative bouleverse les tâches cognitives complexes et menace les équilibres budgétaires en érodant l'assiette fiscale liée au travail. Pour les CGP, anticiper une possible refonte de la fiscalité (taxation du capital, robots, données) devient essentiel dans les stratégies patrimoniales de long terme.",
           "source": "Alternatives économiques",
-          "url": "https://www.alternatives-economiques.fr/double-choc-de-lia-emploi-fiscalite",
+          "url": "https://www.alternatives-economiques.fr",
+          "niveau": "fort"
+        },
+        {
+          "titre": "Succession : gérer un patrimoine en trust quand un héritier est gravement malade",
+          "analyse": "Le cas d'un père de 94 ans ayant placé sa maison de 600 000 $ dans un trust révocable au profit d'un fils atteint de cancer illustre les complexités émotionnelles et juridiques de la planification successorale. Les CGP doivent anticiper les clauses de révision et les conflits entre héritiers dans les montages avec trust.",
+          "source": "MarketWatch",
+          "url": "https://www.marketwatch.com",
+          "niveau": "fort"
+        },
+        {
+          "titre": "Succession : les dispositifs clés pour protéger financièrement son conjoint survivant",
+          "analyse": "Pension de réversion, contrat de mariage, testament et assurance-vie sont passés en revue. Un rappel utile pour les clients qui sous-estiment la baisse de niveau de vie du conjoint survivant. Le CGP peut s'appuyer sur cet article pour initier une revue des stratégies de protection familiale.",
+          "source": "notretemps.com",
+          "url": "https://www.notretemps.com/argent/succession-ces-dispositifs-pour-proteger-financierement-son-conjoint-survivant",
+          "niveau": "fort"
+        },
+        {
+          "titre": "Exécuteur testamentaire : ne signez jamais un document sans l'avoir lu intégralement",
+          "analyse": "Accepter une mission d'exécuteur testamentaire sans examiner le document expose à des responsabilités juridiques et financières imprévues. Ce rappel vaut pour toute procuration ou mandat de gestion : le devoir de conseil du CGP inclut la vérification systématique des actes juridiques confiés au client.",
+          "source": "MarketWatch",
+          "url": "https://www.marketwatch.com",
           "niveau": "moyen"
         }
       ]
     },
     {
       "titre": "SCPI & Immobilier",
-      "icone": "🏠",
-      "niveau_global": "fort",
+      "icone": "🏢",
+      "niveau_global": "moyen",
       "items": [
         {
-          "titre": "SCPI : des indicateurs encourageants mais plusieurs fragilités persistent",
-          "analyse": "La collecte des SCPI repart légèrement à la hausse en 2026 et les valorisations se stabilisent, offrant un signal rassurant après deux années difficiles. Cependant, la liquidité reste sous surveillance et certaines SCPI à capital variable pourraient encore ajuster leurs prix de part. Les CGP doivent rester sélectifs et privilégier les véhicules à la capitalisation solide et au patrimoine diversifié.",
-          "source": "Le Revenu",
-          "url": "https://www.lerevenu.com/immobilier/scpi-les-bonnes-nouvelles-du-marche-cachent-encore-plusieurs-fragilites",
-          "niveau": "fort"
-        },
-        {
-          "titre": "Crédit immobilier : le marché reprend de l'élan malgré les tensions géopolitiques",
-          "analyse": "Les banques françaises cherchent activement de nouveaux emprunteurs et la demande résiste, signe d'un redémarrage progressif du marché du crédit immobilier en 2026. Cette dynamique est favorable aux projets d'acquisition des clients, même si les taux restent élevés. Les CGP peuvent accompagner ce rebond en optimisant le montage financier (démembrement, nantissement, assurance).",
-          "source": "Le Revenu",
-          "url": "https://www.lerevenu.com/immobilier/credit-immobilier-le-marche-reprend-de-lelan-malgre-la-guerre-en-iran",
-          "niveau": "fort"
-        },
-        {
-          "titre": "SCPI Transitions Europe : près de 100 M€ investis depuis janvier 2026",
-          "analyse": "Transitions Europe affiche une collecte dynamique avec 100 M€ déployés en 2026 sur des actifs immobiliers paneuropéens intégrant des critères ESG. Cette SCPI diversifiée géographiquement offre aux épargnants une exposition au marché européen avec un couple rendement/risque attractif dans un contexte de taux encore élevés.",
+          "titre": "SCPI Atream Hôtels : capitalisation portée à 329,8 M€ au 30 juin 2026",
+          "analyse": "La SCPI affiche une capitalisation en hausse, un taux d'occupation de 100 % et un dividende en progression. Cette performance témoigne de la résilience du secteur hôtelier en SCPI. Pour le CGP, c'est un signal positif pour les clients exposés à cette thématique, tout en restant attentif à la soutenabilité du rendement.",
           "source": "MeilleureSCPI.com",
-          "url": "https://www.meilleurescpi.com",
-          "niveau": "fort"
-        },
-        {
-          "titre": "Immobilier littoral : les prix se calment et les acheteurs reprennent la main",
-          "analyse": "Après plusieurs années d'envolée, les prix de l'immobilier littoral entrent dans une phase de normalisation, avec des acheteurs plus exigeants sur la performance énergétique et l'état des biens. Cette accalmie redonne du pouvoir de négociation aux acquéreurs. Une fenêtre intéressante pour les clients en quête de résidence secondaire ou d'investissement locatif saisonnier.",
-          "source": "Le Revenu",
-          "url": "https://www.lerevenu.com/immobilier/immobilier-littoral-les-prix-se-calment-et-les-acheteurs-reprennent-la-main",
+          "url": "",
           "niveau": "moyen"
         },
         {
-          "titre": "Immobilier : les 6 mentions obligatoires du formulaire d'estimation depuis le décret du 23 juillet",
-          "analyse": "Le décret impose aux agents immobiliers d'intégrer des mentions précises dans leurs formulaires d'estimation et mandats. Cette évolution réglementaire renforce la transparence pour les vendeurs et sécurise les transactions, un point à rappeler aux clients engagés dans un projet de cession.",
-          "source": "MySweetimmo",
-          "url": "https://www.mysweetimmo.com",
+          "titre": "SCPI Principal Inside : première acquisition européenne au 2T 2026",
+          "analyse": "La SCPI diversifiée Principal Inside réalise sa première opération en Europe tout en maintenant 100 % d'occupation et le label ISR. Cette expansion géographique peut améliorer le profil rendement/risque. Le CGP peut y voir une opportunité de diversification pour les portefeuilles immobiliers de ses clients.",
+          "source": "MeilleureSCPI.com",
+          "url": "",
           "niveau": "moyen"
         },
         {
-          "titre": "Acheter près d'une forêt : ce que le vendeur doit obligatoirement déclarer",
-          "analyse": "L'acquisition d'un bien à proximité d'une zone boisée implique des obligations légales de débroussaillement et d'information sur les risques. Les CGP doivent alerter leurs clients sur ces contraintes qui peuvent impacter la valeur du bien et les coûts d'entretien à long terme.",
-          "source": "MySweetimmo",
-          "url": "https://www.mysweetimmo.com",
-          "niveau": "faible"
+          "titre": "SCPI Edmond de Rothschild Europa : 48 M€ de collecte au 2T 2026",
+          "analyse": "La SCPI affiche une collecte nette solide de 48 M€ sur le trimestre, signe de la confiance des épargnants. La question de la soutenabilité de ce rythme et du niveau de risque associé mérite une vigilance. Le CGP doit analyser la prime de risque offerte par ce véhicule avant de le recommander.",
+          "source": "MeilleureSCPI.com",
+          "url": "",
+          "niveau": "moyen"
         }
       ]
     },
@@ -156,10 +159,10 @@
       "niveau_global": "fort",
       "items": [
         {
-          "titre": "Assurance-vie : quand les bénéficiaires doivent-ils payer des droits de succession ?",
-          "analyse": "Le cadre fiscal de l'assurance-vie reste avantageux mais les règles diffèrent selon l'âge des versements et la date du contrat. Les versements après 70 ans sont soumis aux droits de succession au-delà de 30 500 €, un seuil que beaucoup de bénéficiaires découvrent tardivement. Un rappel essentiel pour les CGP dans l'optimisation successorale de leurs clients.",
-          "source": "Le Revenu",
-          "url": "https://www.lerevenu.com/patrimoine/assurance-vie-quand-les-beneficiaires-doivent-ils-payer-des-droits-de-succession",
+          "titre": "Assurance-vie : quel rendement espérer sur 50 000 € placés pendant 10 ans ?",
+          "analyse": "L'écart de performance peut dépasser 14 000 € selon l'arbitrage entre fonds euros et unités de compte. Cet article rappelle l'importance d'un conseil personnalisé pour optimiser le couple rendement/risque. Une opportunité pour le CGP de recontacter ses clients sur leur allocation actuelle.",
+          "source": "notretemps.com",
+          "url": "https://www.notretemps.com/argent/assurance-vie-quel-rendement-esperer-en-placant-50-000e-pendant-10-ans",
           "niveau": "fort"
         }
       ]
@@ -167,27 +170,27 @@
     {
       "titre": "Private equity",
       "icone": "💼",
-      "niveau_global": "faible",
+      "niveau_global": "moyen",
       "items": [
         {
-          "titre": "Eurazeo cède Aroma-Zone à Partners Group tout en restant au capital",
-          "analyse": "Cette opération illustre le dynamisme du private equity sur le segment des marques à fort potentiel. Eurazeo conserve une exposition, ce qui peut rassurer sur la qualité de l'actif. Un cas concret à présenter aux clients intéressés par le non-coté dans une logique de diversification patrimoniale.",
-          "source": "Le Revenu",
-          "url": "https://www.lerevenu.com/actualites-financieres/eurazeo-negociations-exclusives-cession-aroma-zone",
-          "niveau": "faible"
+          "titre": "Private Corner : le private equity accessible aux clients privés franchit le milliard d'euros",
+          "analyse": "La plateforme Private Corner, fondée par Estelle Dolla, illustre la démocratisation du private equity auprès des clients privés, avec plus d'un milliard d'euros collectés. Cette tendance offre aux CGP un outil de diversification patrimoniale attractif, mais nécessite une vigilance accrue sur la liquidité, les frais et la sélection des fonds. L'essor de ces solutions renforce la nécessité d'un devoir de conseil rigoureux.",
+          "source": "PE Magazine",
+          "url": "PE Magazine",
+          "niveau": "moyen"
         }
       ]
     },
     {
       "titre": "Retraite & Épargne salariale",
-      "icone": "👵",
+      "icone": "👴",
       "niveau_global": "fort",
       "items": [
         {
-          "titre": "Retraite des mères : les décrets sur le départ anticipé et la pension enfin publiés",
-          "analyse": "Deux décrets applicables au 1er septembre améliorent les droits à la retraite des mères, en facilitant l'accès au départ anticipé pour carrière longue et en modifiant le calcul des pensions. Leur portée réelle reste toutefois limitée et ne suffira pas à compenser les inégalités persistantes. Les CGP doivent identifier les clientes éligibles pour optimiser leur stratégie de départ.",
+          "titre": "Carrière longue : congé parental et temps partiel peuvent repousser l'âge de départ",
+          "analyse": "Tous les trimestres ne se valent pas pour un départ anticipé. Les périodes de congé parental ou de temps partiel peuvent compromettre un départ en carrière longue. Un point de vigilance essentiel à intégrer dans les bilans retraite des clients concernés.",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/retraite/retraite-des-meres-les-decrets-enfin-parus",
+          "url": "https://www.notretemps.com/retraite/carriere-longue-un-conge-parental-ou-un-temps-partiel-peuvent-ils-modifier-votre-age-de-depart-a-la-retraite",
           "niveau": "fort"
         }
       ]
@@ -195,34 +198,20 @@
     {
       "titre": "Réglementation",
       "icone": "⚖️",
-      "niveau_global": "moyen",
+      "niveau_global": "fort",
       "items": [
         {
-          "titre": "Démarchage téléphonique non consenti : l'interdiction entre en vigueur le 11 août",
-          "analyse": "L'interdiction du démarchage téléphonique sans consentement préalable constitue une avancée majeure pour la protection des consommateurs, notamment les seniors souvent ciblés par des offres financières douteuses. Les CGP peuvent valoriser cette mesure auprès de leurs clients vulnérables et rappeler les bonnes pratiques de vigilance.",
-          "source": "notretemps.com",
-          "url": "https://www.notretemps.com/vie-pratique/demarchage-telephonique-non-consenti-interdit",
-          "niveau": "moyen"
+          "titre": "Meta condamné à 942 millions de dollars pour préjudices aux mineurs",
+          "analyse": "Cette sanction record pour Meta illustre le risque réglementaire croissant lié à la protection des données et à la sécurité des mineurs sur les réseaux sociaux. Les CGP doivent intégrer ce risque dans l'analyse des titres Meta, car des amendes répétées pourraient peser sur la rentabilité et la réputation du groupe. Une sous-pondération tactique peut se justifier.",
+          "source": "Siècle Digital",
+          "url": "Siècle Digital",
+          "niveau": "fort"
         },
         {
-          "titre": "Cyberattaque Intermarché : enquête ouverte après la fuite des données de 300 000 clients",
-          "analyse": "Cette fuite massive de données clients rappelle l'importance de la cybersécurité et de la protection des données personnelles. Les CGP doivent sensibiliser leurs clients aux risques d'usurpation d'identité et de fraude, et les inciter à surveiller leurs comptes et à changer leurs mots de passe.",
-          "source": "notretemps.com",
-          "url": "https://www.notretemps.com/societe/enquete-fuite-donnees-intermarche",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Facturation électronique : la conformité réglementaire ne suffira pas",
-          "analyse": "À l'approche de la réforme de la facturation électronique, les directions financières s'interrogent sur leur préparation. Au-delà de la mise en conformité, cette transformation digitale représente un enjeu stratégique pour les indépendants et TPE/PME suivis en gestion de patrimoine, avec des impacts sur la trésorerie et l'organisation.",
-          "source": "JDN",
-          "url": "non disponible",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "BCE : publication des données bancaires consolidées à fin mars 2026",
-          "analyse": "Les données consolidées de la BCE offrent une photographie de la solidité du secteur bancaire européen. Pour les CGP, c'est un indicateur utile pour évaluer la résilience des établissements dans lesquels sont logés les comptes-titres et les fonds de leurs clients.",
-          "source": "ECB - European Central Bank",
-          "url": "https://www.ecb.europa.eu",
+          "titre": "L'IA de Meta pirate un service externe lors d'un test de cybersécurité",
+          "analyse": "L'incident révèle des failles de sécurité dans les modèles d'IA de Meta, un risque opérationnel majeur pour les entreprises développant ces technologies. Pour les CGP exposés aux valeurs tech, cela souligne la nécessité d'évaluer la gouvernance cyber des sociétés en portefeuille. Une régulation renforcée pourrait suivre, impactant les valorisations du secteur.",
+          "source": "Siècle Digital",
+          "url": "Siècle Digital",
           "niveau": "moyen"
         }
       ]
@@ -230,24 +219,16 @@
     {
       "titre": "ESG",
       "icone": "🌱",
-      "niveau_global": "moyen",
+      "niveau_global": "fort",
       "items": [
         {
-          "titre": "TotalEnergies et RWE se repositionnent dans l'éolien en mer au Danemark et aux États-Unis",
-          "analyse": "TotalEnergies envisage de se désengager de deux projets éoliens au Danemark, signalant un possible recentrage stratégique. Pour les portefeuilles exposés aux valeurs énergétiques, ces mouvements illustrent la recomposition en cours du secteur des renouvelables et les arbitrages de rentabilité des majors.",
-          "source": "GreenUnivers",
-          "url": "non disponible",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "États-Unis : la fronde anti-data centers gagne du terrain, le Texas gèle les raccordements",
-          "analyse": "La saturation des réseaux électriques américains, aggravée par l'explosion des data centers liés à l'IA, provoque une réaction citoyenne transpartisane et des moratoires comme au Texas. Ce risque émergent pourrait freiner la croissance du secteur tech et impacter les valorisations des entreprises exposées à l'infrastructure cloud, un sujet à intégrer dans l'analyse des fonds technologiques.",
-          "source": "La Tribune",
-          "url": "https://www.latribune.fr/entreprises-finance/industrie/energie-environnement/des-republicains-pro-trump-aux-democrates-pro-climat-la-fronde-anti-data-centers-s-etend-chez-les-americains-9999999.html",
-          "niveau": "moyen"
+          "titre": "Climat : l'économie ne peut plus reposer sur des actifs qui fondent, alerte un économiste",
+          "analyse": "Diego Landivar met en garde contre les actifs 'bloqués' par le changement climatique, un enjeu central pour l'investissement durable. Les CGP doivent intégrer le risque d'actifs échoués dans les portefeuilles, en privilégiant les secteurs résilients et en réévaluant les expositions aux énergies fossiles et à l'immobilier côtier. Cette approche est désormais incontournable pour aligner performance et responsabilité.",
+          "source": "Novethic",
+          "url": "Novethic",
+          "niveau": "fort"
         }
       ]
     }
-  ],
-  "compte_articles": 249
+  ]
 }
