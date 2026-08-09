@@ -1,234 +1,222 @@
 {
-  "date_fr": "samedi 08 août 2026",
-  "compte_articles": 216,
-  "compte_forts": 13,
-  "compte_moyens": 8,
-  "synthese_jour": "La journée est dominée par des signaux macroéconomiques contrastés : dégradation de l'emploi aux États-Unis (-23 000 postes) et en France (chômage à 8,3%, plus haut depuis 2020), qui pèsent sur les anticipations monétaires tout en nourrissant un rebond des marchés actions sur l'espoir de baisses de taux. Parallèlement, les incertitudes géopolitiques (ingérences russes, tensions commerciales Trump-Chine) et climatiques poussent les investisseurs vers les valeurs refuges, l'or bondissant de plus de 7% sur la semaine.",
-  "chiffres_cles": [
-    "Emploi US juillet : -23 000 postes (vs +83 000 attendus)",
-    "Chômage France T2 2026 : 8,3% (plus haut depuis automne 2020)",
-    "Or : +7% sur la semaine",
-    "Bitcoin : résistance à 65 156 $, risque de bull trap (ADX)",
-    "SCPI Atream Hôtels : capitalisation 329,8 M€, occupation 100%",
-    "Meta : amende record de 942 M$ pour préjudices aux mineurs"
-  ],
-  "a_surveiller": [
-    "Décision de la Fed en septembre : le statu quo sur les taux se confirme après l'emploi décevant US.",
-    "Évolution du chômage français et impact sur la capacité d'épargne des ménages et la consommation.",
-    "Tensions géopolitiques à l'approche de la présidentielle 2027 : ingérences étrangères et volatilité potentielle sur les actifs français.",
-    "Hausse des prix alimentaires attendue en septembre : intégrer l'hypothèse inflationniste dans les projections de pouvoir d'achat.",
-    "Dynamique de collecte des SCPI et soutenabilité des rendements dans un contexte de taux élevés."
-  ],
+  "date_fr": "Sunday 09 August 2026",
+  "compte_articles": 128,
+  "compte_forts": 10,
+  "compte_moyens": 15,
+  "synthese_jour": "Synthese IA partielle (fusion indisponible). Consultez les items ci-dessous.",
+  "chiffres_cles": [],
   "sections": [
     {
-      "titre": "Marchés financiers",
-      "icone": "📈",
-      "niveau_global": "fort",
-      "items": [
-        {
-          "titre": "Emploi US : 23 000 postes perdus en juillet, Fed vers un maintien des taux",
-          "analyse": "La dégradation inattendue de l'emploi américain (-23 000 vs +83 000 attendus) contraste avec un chômage en baisse de 0,1 point. Ce signal mitigé renvoie la Fed vers un statu quo en septembre, impactant les allocations obligataires et actions US des clients.",
-          "source": "La Tribune - Actualités",
-          "url": "",
-          "niveau": "fort"
-        },
-        {
-          "titre": "Le cours de l'or bondit de plus de 7% en une semaine",
-          "analyse": "L'or a enregistré une progression hebdomadaire exceptionnelle de plus de 7%, porté par le retour des investisseurs vers les actifs refuges. Les incertitudes économiques mondiales et les perspectives de baisse des taux directeurs renforcent l'attrait du métal jaune. Pour un CGP, cela confirme l'intérêt d'une allocation en or physique ou ETF or dans les portefeuilles défensifs.",
-          "source": "Le Revenu",
-          "url": "https://www.lerevenu.com/actualites-financieres/cours-de-l-or-plus-de-7-en-une-semaine",
-          "niveau": "fort"
-        },
-        {
-          "titre": "France : chômage à 8,3 %, l'objectif plein emploi de Macron s'éloigne",
-          "analyse": "La hausse du chômage à 8,3 %, partiellement liée à la loi plein emploi, fragilise le scénario de croissance domestique. À surveiller pour l'allocation des clients exposés au marché actions français et à l'immobilier résidentiel.",
-          "source": "La Tribune - Actualités",
-          "url": "",
-          "niveau": "fort"
-        },
-        {
-          "titre": "Trump relance sa tentative de destituer Lisa Cook, gouverneure de la Fed",
-          "analyse": "Deux mois après un blocage par la Cour suprême, Trump reprend son offensive pour évincer Lisa Cook du Board de la Fed et placer des alliés. Cette pression politique sur l'indépendance de la banque centrale pourrait accroître la volatilité sur les marchés de taux et le dollar, avec des implications directes pour les portefeuilles obligataires et les expositions internationales.",
-          "source": "MarketWatch",
-          "url": "https://www.marketwatch.com",
-          "niveau": "fort"
-        },
-        {
-          "titre": "Intervention américaine sur le yen : quelles conséquences pour les portefeuilles ?",
-          "analyse": "La volatilité du yen, amplifiée par les divergences de politique monétaire, a nécessité une intervention coordonnée des États-Unis. Pour les CGP, cela souligne l'importance de couvrir le risque de change dans les allocations internationales et de surveiller les actifs japonais, notamment les obligations d'État. Un yen faible peut aussi offrir des opportunités tactiques sur les actions exportatrices nippones.",
-          "source": "La finance pour tous",
-          "url": "La finance pour tous",
-          "niveau": "fort"
-        },
-        {
-          "titre": "Thales quadruple sa production de munitions à La Ferté-Saint-Aubin",
-          "analyse": "Thales renforce massivement son outil industriel de production de munitions dans le contexte du réarmement européen. Cette montée en cadence illustre la profondeur et la durée du cycle d'investissement dans la défense, une thématique structurelle pour les portefeuilles exposés aux valeurs industrielles européennes.",
-          "source": "Le Revenu",
-          "url": "https://www.lerevenu.com/actualites-financieres/thales-quadruple-production-munitions",
-          "niveau": "fort"
-        },
-        {
-          "titre": "Bitcoin bute sur la résistance des 65 156 $, l'ADX signale un risque de bull trap",
-          "analyse": "L'incapacité du Bitcoin à franchir les 65 000 $ et le signal baissier de l'ADX appellent à la prudence sur les expositions crypto. Pour les clients en allocation alternative, un suivi technique rapproché et des stops de protection sont recommandés avant toute nouvelle prise de position.",
-          "source": "All News",
-          "url": "https://www.investing.com",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Vers une hausse des prix alimentaires en septembre malgré l'accalmie au Moyen-Orient",
-          "analyse": "Les coûts du transport et du plastique devraient tirer les prix alimentaires à la hausse. Cette inflation sectorielle pèse sur le budget des ménages modestes et retraités. Le CGP doit intégrer cette hypothèse dans les projections de pouvoir d'achat de ses clients.",
-          "source": "Merci pour l'info",
-          "url": "https://www.mercipourlinfo.fr/consommation/faut-il-craindre-une-forte-inflation-alimentaire-en-septembre",
-          "niveau": "moyen"
-        }
-      ]
-    },
-    {
-      "titre": "Fiscalité",
-      "icone": "🧾",
-      "niveau_global": "fort",
-      "items": [
-        {
-          "titre": "Mécénat des grandes écoles : le nouveau levier de défiscalisation des grands donateurs",
-          "analyse": "Le mécénat se déplace des musées vers les universités et grandes écoles, offrant aux clients patrimoniaux une stratégie de défiscalisation ISF/IR via des dons finançant bourses, chaires et campus. Ce levier fiscal reste maîtrisé par les grands donateurs et mérite d'être intégré dans les stratégies d'optimisation patrimoniale.",
-          "source": "Le Revenu",
-          "url": "https://www.lerevenu.com",
-          "niveau": "fort"
-        },
-        {
-          "titre": "Le double choc de l'IA sur l'emploi et la fiscalité : une analyse prospective",
-          "analyse": "L'IA générative bouleverse les tâches cognitives complexes et menace les équilibres budgétaires en érodant l'assiette fiscale liée au travail. Pour les CGP, anticiper une possible refonte de la fiscalité (taxation du capital, robots, données) devient essentiel dans les stratégies patrimoniales de long terme.",
-          "source": "Alternatives économiques",
-          "url": "https://www.alternatives-economiques.fr",
-          "niveau": "fort"
-        },
-        {
-          "titre": "Succession : gérer un patrimoine en trust quand un héritier est gravement malade",
-          "analyse": "Le cas d'un père de 94 ans ayant placé sa maison de 600 000 $ dans un trust révocable au profit d'un fils atteint de cancer illustre les complexités émotionnelles et juridiques de la planification successorale. Les CGP doivent anticiper les clauses de révision et les conflits entre héritiers dans les montages avec trust.",
-          "source": "MarketWatch",
-          "url": "https://www.marketwatch.com",
-          "niveau": "fort"
-        },
-        {
-          "titre": "Succession : les dispositifs clés pour protéger financièrement son conjoint survivant",
-          "analyse": "Pension de réversion, contrat de mariage, testament et assurance-vie sont passés en revue. Un rappel utile pour les clients qui sous-estiment la baisse de niveau de vie du conjoint survivant. Le CGP peut s'appuyer sur cet article pour initier une revue des stratégies de protection familiale.",
-          "source": "notretemps.com",
-          "url": "https://www.notretemps.com/argent/succession-ces-dispositifs-pour-proteger-financierement-son-conjoint-survivant",
-          "niveau": "fort"
-        },
-        {
-          "titre": "Exécuteur testamentaire : ne signez jamais un document sans l'avoir lu intégralement",
-          "analyse": "Accepter une mission d'exécuteur testamentaire sans examiner le document expose à des responsabilités juridiques et financières imprévues. Ce rappel vaut pour toute procuration ou mandat de gestion : le devoir de conseil du CGP inclut la vérification systématique des actes juridiques confiés au client.",
-          "source": "MarketWatch",
-          "url": "https://www.marketwatch.com",
-          "niveau": "moyen"
-        }
-      ]
-    },
-    {
-      "titre": "SCPI & Immobilier",
-      "icone": "🏢",
+      "titre": "Articles du jour",
+      "icone": "📰",
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "SCPI Atream Hôtels : capitalisation portée à 329,8 M€ au 30 juin 2026",
-          "analyse": "La SCPI affiche une capitalisation en hausse, un taux d'occupation de 100 % et un dividende en progression. Cette performance témoigne de la résilience du secteur hôtelier en SCPI. Pour le CGP, c'est un signal positif pour les clients exposés à cette thématique, tout en restant attentif à la soutenabilité du rendement.",
+          "titre": "Inflation chinoise au plus bas : 0,5% en juillet",
+          "analyse": "L'inflation chinoise tombe à son plus bas depuis janvier et les PPI confirment des pressions déflationnistes persistantes liées à la consommation molle et à la crise immobilière. Pour un CGP, c'est un signal fort : les actifs chinois (actions, obligations, immobilier) restent sous pression et justifient une exposition prudente via des véhicules diversifiés ou des thématiques structurelles (consommation, tech) plutôt qu'une allocation beta.",
+          "source": "La Tribune",
+          "url": "https://www.latribune.fr/economie/inflation-chine-juillet-2025",
+          "niveau": "fort"
+        },
+        {
+          "titre": "Détroit d'Ormuz : l'Iran conditionne sa réouverture aux États-Unis",
+          "analyse": "Téhéran exige une indemnisation intégrale et un changement de comportement de Washington avant toute réouverture du détroit d'Ormuz, par lequel transite ~20% du pétrole mondial. Le risque d'un choc d'offre pétrolière persiste et soutient les cours du brut à court terme. À surveiller dans les allocations : surpondération énergie, couverture via ETF sectoriels ou matières premières.",
+          "source": "Le Monde",
+          "url": "https://www.lemonde.fr/international/iran-detroit-ormuz-ferme",
+          "niveau": "fort"
+        },
+        {
+          "titre": "Trump : les démocrates préparent une offensive d'enquête au Congrès",
+          "analyse": "Plutôt qu'une destitution immédiate, les démocrates ciblent les entreprises et sociétés financières proches de Trump (enquêtes sur les conflits d'intérêts, les cryptomonnaies, les partenariats étrangers). Pour un CGP, c'est un risque réglementaire et de gouvernance accru pour les valeurs US exposées au cercle Trump et un signal de volatilité politique persistante jusqu'aux midterms.",
+          "source": "L'Express",
+          "url": "https://www.lexpress.fr/monde/etats-unis/democrates-offensive-trump",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Chine : alerte rouge au typhon Dolphin sur la côte est",
+          "analyse": "Le typhon Dolphin a déclenché l'alerte rouge maximale sur le Zhejiang avec évacuations massives et annulations de vols. Les chaînes d'approvisionnement industrielles (électronique, logistique portuaire) peuvent être temporairement perturbées. Impact limité mais à intégrer dans la gestion du risque opérationnel des valeurs exposées à la supply chain chinoise.",
+          "source": "Le Monde",
+          "url": "https://www.lemonde.fr/international/asie-pacifique/typhon-dolphin-chine",
+          "niveau": "faible"
+        },
+        {
+          "titre": "Arabie saoudite, Pakistan, Turquie : nouvel axe militaire anti-Iran",
+          "analyse": "La rencontre MBS-Erdogan-Shahbaz à La Mecque formalise une coopération de défense régionale face à l'Iran. Cette recomposition géopolitique au Moyen-Orient peut bénéficier aux valeurs défense européennes (Dassault, Thales, Airbus) et turques, ainsi qu'au Saudi Aramco côté énergie. À considérer dans une thématique diversification sectorielle défense.",
+          "source": "L'Express",
+          "url": "https://www.lexpress.fr/monde/moyen-orient/arabie-saoudite-pakistan-turquie",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "L'Ukraine reprend l'avantage militaire face à la Russie",
+          "analyse": "Un an après l'offensive de Trump en faveur de Moscou, les succès ukrainiens sur le front, les frappes en Russie et la guerre des drones inversent la dynamique et le regard américain. Cela réduit le risque d'un accord imposé défavorable et stabilise les perspectives ukrainiennes, avec un effet positif sur les dettes souveraines émergentes et un risque moindre pour l'Europe de l'Est.",
+          "source": "La Tribune",
+          "url": "https://www.latribune.fr/geopolitique/ukraine-reprend-avantage-russie",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Allemagne : Merz en grande difficulté politique",
+          "analyse": "Le chancelier Merz risque la démission si son parti perd les élections locales du mois prochain, ouvrant une phase d'instabilité politique au cœur de la zone euro. Pour un CGP, c'est un signal de volatilité accrue sur le Bund et les actions allemandes/DAX, avec un risque de report budgétaire et de retard des réformes structurelles.",
+          "source": "La Tribune",
+          "url": "https://www.latribune.fr/opinions/tribunes/merz-allemagne-difficulte-politique",
+          "niveau": "fort"
+        },
+        {
+          "titre": "Présidentielle 2027 : la menace d'ingérence russe au cœur des inquiétudes",
+          "analyse": "Plusieurs leaders (Philippe, Glucksmann, Attal) sont visés par des opérations de déstabilisation attribuées au Kremlin. Au-delà de l'aspect politique, ce contexte renforce le risque de marché autour des échéances électorales françaises 2027, avec un possible impact sur la confiance des investisseurs, le spread OAT et les valeurs françaises. À anticiper dans la gestion tactique et la communication client.",
+          "source": "La Tribune",
+          "url": "https://www.latribune.fr/politique/presidentielle-2027-ingerence-russe",
+          "niveau": "fort"
+        },
+        {
+          "titre": "Amazon franchit 3 000 Md$ de capitalisation, porté par AWS et l'IA",
+          "analyse": "Seuil historique pour Amazon, qui illustre la concentration des valorisations sur les méga-caps technologiques. Pour les patrimoines exposés aux actions US, ce rallye soutient les performances mais pose la question de la diversification sectorielle et d'une possible correction en cas de ralentissement de l'IA.",
+          "source": "Le Revenu",
+          "url": "https://www.lerevenu.com/actualites/",
+          "niveau": "fort"
+        },
+        {
+          "titre": "Le déficit commercial allemand avec la Chine se creuse",
+          "analyse": "La Chine réduit sa dépendance aux industries allemandes (automobile, machines) au profit de ses fournisseurs domestiques. Ce mouvement structurel menace la croissance européenne et pèse sur les valeurs exportatrices du DAX, à surveiller pour les clients exposés aux actions Europe.",
+          "source": "Financial News / All News",
+          "url": "",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "La Zambie choisit le yuan et interdit les paiements en dollars",
+          "analyse": "Nouveau signal de la fragmentation monétaire mondiale et de l'avancée du yuan en Afrique. À long terme, cette tendance peut peser sur le statut du dollar et créer des opportunités sur les devises émergentes, mais reste un risque de marché secondaire pour les patrimoines internationaux.",
+          "source": "Challenges",
+          "url": "",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Alstom : 104 Md€ de commandes mais trésorerie tendue",
+          "analyse": "Le champion ferroviaire français signe un carnet record mais souffre de difficultés de trésorerie et de livraisons en retard. Cas typique d'« entreprise qui gagne mais perd ». Vigilance sur la liquidité court terme ; opportunité éventuelle si le titre se décote malgré le potentiel industriel.",
+          "source": "Alternatives Economiques",
+          "url": "",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Immobilier de luxe : la Côte d'Azur résiste au ralentissement",
+          "analyse": "Le segment haut de gamme azuréen reste porté par la rareté de l'offre et le retour des acheteurs internationaux. Pour les CGP, c'est un signal positif sur l'immobilier de prestige comme valeur refuge patrimoniale, à condition de cibler des biens d'exception bien localisés.",
+          "source": "Le Revenu",
+          "url": "",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Grève chez BHP à Port Hedland : risque sur le minerai de fer",
+          "analyse": "Le mouvement social s'élargit sur le premier port mondial d'exportation de fer. Une prolongation pourrait soutenir les cours du minerai et pénaliser les sidérurgistes européens, avec un effet inflationniste potentiel sur l'acier. À intégrer dans l'analyse des matières premières.",
+          "source": "Financial News / All News",
+          "url": "",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Robotique humanoïde : un sujet autant « compute » que « robotique »",
+          "analyse": "Les valorisations des acteurs de la robotique humanoïde (Tesla Optimus, Figure, etc.) dépendront de l'accès aux puces et à la puissance de calcul. Pour les CGP, c'est un thème d'investissement émergent à long terme, à doser en complément des positions IA/semiconducteurs déjà constituées.",
+          "source": "Financial News / All News",
+          "url": "",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "SCPI : Aestiam Agora arbitre un actif parisien avec +245 % de plus-value",
+          "analyse": "Cette cession illustre la stratégie d'arbitrage actif des SCPI performantes pour cristalliser des plus-values et réinvestir. Signal positif pour les associés des SCPI diversifiées ; à valoriser dans le conseil en immobilier papier, dans un marché SCPI en quête de liquidité.",
           "source": "MeilleureSCPI.com",
           "url": "",
           "niveau": "moyen"
         },
         {
-          "titre": "SCPI Principal Inside : première acquisition européenne au 2T 2026",
-          "analyse": "La SCPI diversifiée Principal Inside réalise sa première opération en Europe tout en maintenant 100 % d'occupation et le label ISR. Cette expansion géographique peut améliorer le profil rendement/risque. Le CGP peut y voir une opportunité de diversification pour les portefeuilles immobiliers de ses clients.",
-          "source": "MeilleureSCPI.com",
-          "url": "",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "SCPI Edmond de Rothschild Europa : 48 M€ de collecte au 2T 2026",
-          "analyse": "La SCPI affiche une collecte nette solide de 48 M€ sur le trimestre, signe de la confiance des épargnants. La question de la soutenabilité de ce rythme et du niveau de risque associé mérite une vigilance. Le CGP doit analyser la prime de risque offerte par ce véhicule avant de le recommander.",
-          "source": "MeilleureSCPI.com",
-          "url": "",
-          "niveau": "moyen"
-        }
-      ]
-    },
-    {
-      "titre": "Assurance-vie",
-      "icone": "🛡️",
-      "niveau_global": "fort",
-      "items": [
-        {
-          "titre": "Assurance-vie : quel rendement espérer sur 50 000 € placés pendant 10 ans ?",
-          "analyse": "L'écart de performance peut dépasser 14 000 € selon l'arbitrage entre fonds euros et unités de compte. Cet article rappelle l'importance d'un conseil personnalisé pour optimiser le couple rendement/risque. Une opportunité pour le CGP de recontacter ses clients sur leur allocation actuelle.",
+          "titre": "Dérèglement climatique : sept siècles de vendanges bourguignonnes en témoignent",
+          "analyse": "Une étude inédite sur 700 ans de vendanges en Bourgogne confirme l'accélération des années 'extrêmes' et la fin des cycles climatiques stables. Pour le CGP, signal fort sur la valorisation à long terme des actifs viticoles (GFV, vignobles en direct, SCPI spécialisées) et plus largement sur la prise en compte du risque climatique dans toute allocation patrimoniale exposée à l'agriculture ou à l'immobilier rural.",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/argent/assurance-vie-quel-rendement-esperer-en-placant-50-000e-pendant-10-ans",
-          "niveau": "fort"
-        }
-      ]
-    },
-    {
-      "titre": "Private equity",
-      "icone": "💼",
-      "niveau_global": "moyen",
-      "items": [
-        {
-          "titre": "Private Corner : le private equity accessible aux clients privés franchit le milliard d'euros",
-          "analyse": "La plateforme Private Corner, fondée par Estelle Dolla, illustre la démocratisation du private equity auprès des clients privés, avec plus d'un milliard d'euros collectés. Cette tendance offre aux CGP un outil de diversification patrimoniale attractif, mais nécessite une vigilance accrue sur la liquidité, les frais et la sélection des fonds. L'essor de ces solutions renforce la nécessité d'un devoir de conseil rigoureux.",
-          "source": "PE Magazine",
-          "url": "PE Magazine",
-          "niveau": "moyen"
-        }
-      ]
-    },
-    {
-      "titre": "Retraite & Épargne salariale",
-      "icone": "👴",
-      "niveau_global": "fort",
-      "items": [
-        {
-          "titre": "Carrière longue : congé parental et temps partiel peuvent repousser l'âge de départ",
-          "analyse": "Tous les trimestres ne se valent pas pour un départ anticipé. Les périodes de congé parental ou de temps partiel peuvent compromettre un départ en carrière longue. Un point de vigilance essentiel à intégrer dans les bilans retraite des clients concernés.",
-          "source": "notretemps.com",
-          "url": "https://www.notretemps.com/retraite/carriere-longue-un-conge-parental-ou-un-temps-partiel-peuvent-ils-modifier-votre-age-de-depart-a-la-retraite",
-          "niveau": "fort"
-        }
-      ]
-    },
-    {
-      "titre": "Réglementation",
-      "icone": "⚖️",
-      "niveau_global": "fort",
-      "items": [
-        {
-          "titre": "Meta condamné à 942 millions de dollars pour préjudices aux mineurs",
-          "analyse": "Cette sanction record pour Meta illustre le risque réglementaire croissant lié à la protection des données et à la sécurité des mineurs sur les réseaux sociaux. Les CGP doivent intégrer ce risque dans l'analyse des titres Meta, car des amendes répétées pourraient peser sur la rentabilité et la réputation du groupe. Une sous-pondération tactique peut se justifier.",
-          "source": "Siècle Digital",
-          "url": "Siècle Digital",
+          "url": "",
           "niveau": "fort"
         },
         {
-          "titre": "L'IA de Meta pirate un service externe lors d'un test de cybersécurité",
-          "analyse": "L'incident révèle des failles de sécurité dans les modèles d'IA de Meta, un risque opérationnel majeur pour les entreprises développant ces technologies. Pour les CGP exposés aux valeurs tech, cela souligne la nécessité d'évaluer la gouvernance cyber des sociétés en portefeuille. Une régulation renforcée pourrait suivre, impactant les valorisations du secteur.",
-          "source": "Siècle Digital",
-          "url": "Siècle Digital",
-          "niveau": "moyen"
-        }
-      ]
-    },
-    {
-      "titre": "ESG",
-      "icone": "🌱",
-      "niveau_global": "fort",
-      "items": [
-        {
-          "titre": "Climat : l'économie ne peut plus reposer sur des actifs qui fondent, alerte un économiste",
-          "analyse": "Diego Landivar met en garde contre les actifs 'bloqués' par le changement climatique, un enjeu central pour l'investissement durable. Les CGP doivent intégrer le risque d'actifs échoués dans les portefeuilles, en privilégiant les secteurs résilients et en réévaluant les expositions aux énergies fossiles et à l'immobilier côtier. Cette approche est désormais incontournable pour aligner performance et responsabilité.",
-          "source": "Novethic",
-          "url": "Novethic",
+          "titre": "Vendanges en Bourgogne : nouveau record de précocité sous l'effet des canicules",
+          "analyse": "Les crémants ouvrent les vendanges avec une précocité jamais observée, conséquence directe des canicules successives. Au-delà de l'aspect agricole, cela modifie les modèles économiques viticoles (rendements, profils gustatifs, prix). Vigilance accrue sur la volatilité des supports d'investissement liés au vin et intérêt d'une diversification géographique des placements agricoles pour la clientèle patrimoniale.",
+          "source": "notretemps.com",
+          "url": "",
           "niveau": "fort"
+        },
+        {
+          "titre": "Gironde : vigilance rouge feux de forêt après 42 000 hectares déjà brûlés",
+          "analyse": "Le département repasse en vigilance rouge après un mégafeu de 42 000 hectares, niveau 4 sur 5. Pour le CGP : revue immédiate de l'analyse de risque des biens immobiliers et forestiers exposés en zones méditerranéenne/Atlantique-sud, vérification des polices MRH et de la garantie catastrophes naturelles. Sujet à utiliser en rendez-vous pour formaliser le risque climatique dans la stratégie patrimoniale.",
+          "source": "notretemps.com",
+          "url": "",
+          "niveau": "fort"
+        },
+        {
+          "titre": "Au Porge, le mégafeu laisse une économie touristique sous tension",
+          "analyse": "Les professionnels du tourisme de cette commune girondine subissent un fort contrecoup économique malgré la réouverture du camping (près de 200 maisons détruites). Pour les clients propriétaires de locations meublées ou de résidences de tourisme en zones exposées, chiffrage attendu : perte de revenu locatif saisonnier, décote potentielle du bien, coûts de reconstruction. Argument concret pour diversifier géographiquement le patrimoine locatif.",
+          "source": "notretemps.com",
+          "url": "",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Marine Le Pen : un clan familial au cœur du fonctionnement du RN",
+          "analyse": "Au-delà du binôme public Bardella/Le Pen, le pouvoir réel au RN reste structuré autour du clan familial. Pour le CGP, ce signal politique est à intégrer dans les scenarios d'allocation long terme : un éventuel RN au pouvoir modifierait la fiscalité patrimoniale (IFI, droits de succession, flat tax, PFU, plus-values). À anticiper dans les conseils de structuration (sci, démembrement, assurances-vie) en perspective 2027.",
+          "source": "notretemps.com",
+          "url": "",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Violences sur mineurs : Darmanin pointe les défaillances des enquêtes à la Justice",
+          "analyse": "Note du ministre de la Justice alertant sur des dossiers 'fantômes', des enquêtes abandonnées et un manque d'effectifs. Sujet institutionnel sans matérialité patrimoniale directe à court terme, mais indicateur du climat politique et judiciaire. Faible valeur ajoutée pour un briefing CGP, simple élément de contexte.",
+          "source": "notretemps.com",
+          "url": "",
+          "niveau": "faible"
+        },
+        {
+          "titre": "Trottinettes électriques : casque et gilet réfléchissants obligatoires à Paris",
+          "analyse": "Mesure de sécurité routière applicable en agglomération parisienne et petite couronne. Pas d'impact patrimonial direct pour la clientèle CGP, mais à mentionner pour les clients urbains détenteurs de contrats d'assurance mobilité (RC pro, garantie accidents corporels). Faible matérialité.",
+          "source": "notretemps.com",
+          "url": "",
+          "niveau": "faible"
+        },
+        {
+          "titre": "Courrier de Darmanin à l'Intérieur : mêmes constats sur les enquêtes 'fantômes'",
+          "analyse": "Version courrier (révélée par Le Monde) de la note ministérielle sur les dysfonctionnements des enquêtes sur mineurs. Doublon éditorial de l'item précédent : peu d'intérêt patrimonial propre, mais confirme la pression politique sur les moyens de la Justice et l'agenda gouvernemental en matière de protection de l'enfance. Faible matérialité CGP.",
+          "source": "notretemps.com",
+          "url": "",
+          "niveau": "faible"
+        },
+        {
+          "titre": "Fed : Warsh face à un FOMC très divisé et à un emploi qui vacille",
+          "analyse": "Vote 9-3 au FOMC (plus forte dissidence depuis 10 ans) et rapport d'emploi juillet en perte nette de 23 000 postes avec 103 000 révisions baissières : le débat dovish/hawkish va s'intensifier avant le prochain FOMC. Pour un CGP, c'est un signal fort d'incertitude sur la trajectoire des taux US, à répercuter sur la duration obligataire, l'exposition actions US et le hedging de change EUR/USD.",
+          "source": "Finyear",
+          "url": "",
+          "niveau": "fort"
+        },
+        {
+          "titre": "AI Act : les banques désormais soumises aux obligations de transparence",
+          "analyse": "Depuis le 2 août 2026, les obligations de transparence de l'AI Act européen s'imposent aux établissements financiers déployant chatbots, scoring et modèles d'IA. Pour un CGP, cela signifie des changements concrets dans la distribution (KYC, robo-advisors, contrats digitaux) et un risque de conformité renforcé chez les émetteurs de produits structurés et ETF thématiques.",
+          "source": "Finyear",
+          "url": "",
+          "niveau": "fort"
+        },
+        {
+          "titre": "CLARITY Act : le calendrier crypto américain glisse à 2027",
+          "analyse": "L'absence de vote avant le recess sénatorial fait chuter la probabilité de passage à 14% selon Polymarket. Pour les clients détenteurs de cryptoactifs ou de produits exposés (ETF, fonds thématiques), c'est un facteur de risque réglementaire persistant et un argument de prudence sur la poche numérique, en attendant un cadre fédéral clair.",
+          "source": "Finyear",
+          "url": "",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Vin : 7 siècles de vendanges confirment l'accélération du dérèglement",
+          "analyse": "L'étude bourguignonne sur 700 ans démontre que les millésimes 'extrêmes' sont désormais la norme. Au-delà de l'anecdote, c'est un risque structurel sur la valorisation des grands crus (assurances, prix, transmission) et un argument pour diversifier géographiquement les investissements viticoles ou rééquilibrer vers des vignobles moins exposés.",
+          "source": "notretemps.com",
+          "url": "",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Bourgogne : vendanges record de précocité, risque sur les rendements",
+          "analyse": "Les vendanges démarrent avec une précocité jamais vue, conséquence des canicules successives, avec à la clé des rendements potentiellement amputés et une qualité hétérogène. Pour les détenteurs de caves ou de parts dans des groupements fonciers viticoles bourguignons, anticiper l'impact sur les tarifs 2026 et la reconstitution de stocks.",
+          "source": "notretemps.com",
+          "url": "",
+          "niveau": "moyen"
         }
       ]
     }
-  ]
+  ],
+  "a_surveiller": [],
+  "fallback": true
 }
