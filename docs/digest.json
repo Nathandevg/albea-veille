@@ -1,8 +1,8 @@
 {
-  "date_fr": "Monday 10 August 2026",
-  "compte_articles": 122,
-  "compte_forts": 12,
-  "compte_moyens": 10,
+  "date_fr": "Tuesday 11 August 2026",
+  "compte_articles": 237,
+  "compte_forts": 27,
+  "compte_moyens": 19,
   "synthese_jour": "Synthese IA partielle (fusion indisponible). Consultez les items ci-dessous.",
   "chiffres_cles": [],
   "sections": [
@@ -12,186 +12,214 @@
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "Gaz : les réserves européennes au plus bas depuis 2009, l'hiver s'annonce à haut risque",
-          "analyse": "Les stocks de gaz européens ne sont remplis qu'à 57 % contre 74 % en moyenne saisonnière. Cette situation, combinée à une demande accrue pour la reconstitution estivale, exercera une pression haussière sur les prix de l'énergie. Pour les clients CGP, cela signifie un risque d'inflation persistante et une attention renforcée aux secteurs énergétiques et aux obligations indexées.",
-          "source": "L'Express",
-          "url": "",
-          "niveau": "fort"
-        },
-        {
-          "titre": "Détroit d'Ormuz : l'Iran maintient le blocus et exige la satisfaction de toutes ses conditions",
-          "analyse": "Le verrouillage du détroit par lequel transite environ 20 % du pétrole mondial constitue un choc géopolitique majeur. La prolongation du conflit pourrait entraîner une flambée durable du baril, avec des répercussions directes sur l'inflation, les marges des entreprises et les valorisations boursières. Une exposition aux valeurs énergétiques et aux actifs réels est à considérer.",
-          "source": "Challenges",
-          "url": "",
-          "niveau": "fort"
-        },
-        {
-          "titre": "Face au blocage d'Ormuz, les géants pétroliers se lancent dans une course mondiale aux oléoducs",
-          "analyse": "Un nouveau cycle d'investissement dans les infrastructures énergétiques se profile, de l'Amérique du Nord à l'Asie. Cette recomposition des routes d'approvisionnement offre des opportunités dans les secteurs des infrastructures, de l'ingénierie et des matières premières. Les fonds infrastructure et les ETF énergie peuvent capter cette tendance de long terme.",
-          "source": "Challenges",
-          "url": "",
-          "niveau": "fort"
-        },
-        {
-          "titre": "IA : 900 milliards investis par les géants de la tech, mais le retour sur investissement tarde",
-          "analyse": "Les revenus de l'IA progressent mais restent très inférieurs aux capitaux engagés, soulevant la question d'une bulle d'investissement comparable à celle des télécoms en 2000. Pour les portefeuilles fortement exposés aux valeurs tech américaines, une diversification sectorielle et géographique devient prudente, sans pour autant sortir totalement de cette thématique structurelle.",
-          "source": "Challenges",
-          "url": "",
-          "niveau": "fort"
-        },
-        {
-          "titre": "Investissement locatif : la peur de l'impayé et les garanties obsolètes paralysent le marché",
-          "analyse": "Le statut du bailleur, jugé archaïque et insécurisant, freine l'investissement locatif privé et aggrave la crise du logement. Pour les clients CGP détenteurs de biens locatifs, une revue des garanties (GLI, assurance loyers impayés) et une réflexion sur le passage en LMNP ou en SCI sont recommandées. Une modernisation législative pourrait rebattre les cartes.",
-          "source": "Challenges",
-          "url": "",
-          "niveau": "fort"
-        },
-        {
-          "titre": "Gaza : Netanyahu rejette l'accord américain sous la pression de l'extrême droite israélienne",
-          "analyse": "Le blocage des négociations de paix prolonge l'instabilité au Moyen-Orient et alimente la prime de risque géopolitique sur le pétrole. Couplé au blocus d'Ormuz, ce refus israélien renforce le scénario d'une énergie chère et d'une volatilité accrue sur les marchés émergents et les devises exposées à la région.",
-          "source": "Challenges",
-          "url": "",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Crise de l'eau : Gabriel Attal promet un bouclier tarifaire et une lutte massive contre le gaspillage",
-          "analyse": "Le plan Attal, inspiré du modèle espagnol, ouvre la voie à des investissements publics dans les infrastructures hydriques. Les sociétés de gestion de l'eau, de traitement et de technologies hydriques pourraient bénéficier de ce cadre. Pour les clients sensibles aux thématiques ESG, c'est un signal fort en faveur des fonds eau et environnement.",
+          "titre": "Stocks de gaz européens au plus bas depuis 2021 : l'hiver sous tension",
+          "analyse": "Le niveau de remplissage des stockages gaziers européens atteint un point bas inédit depuis la crise de 2021, perturbé par les tensions au Moyen-Orient. Cette situation ravive les craintes d'une flambée des prix de l'énergie pour l'hiver à venir, avec un impact direct sur l'inflation, le pouvoir d'achat des ménages et les marges des entreprises énergivores. Pour les portefeuilles, cela renforce l'attrait des valeurs énergétiques et des obligations indexées sur l'inflation.",
           "source": "La Tribune",
-          "url": "",
-          "niveau": "moyen"
+          "url": "URL non communiquée",
+          "niveau": "fort"
         },
         {
-          "titre": "Sécheresse exceptionnelle en Europe occidentale : des sols plus secs qu'en juillet 2022",
-          "analyse": "Selon Copernicus, l'humidité des sols est inférieure à celle de l'été 2022, année de référence pour la sécheresse européenne. Les conséquences sur les récoltes, le transport fluvial et la production hydroélectrique pourraient raviver les tensions inflationnistes sur l'alimentation et l'énergie. Les matières premières agricoles et les stratégies de couverture inflation sont à surveiller.",
+          "titre": "La Chine, nouvelle OPEP : comment Pékin contient les cours du pétrole malgré la guerre en Iran",
+          "analyse": "En réduisant drastiquement ses importations grâce à ses réserves massives et à son économie dirigée, la Chine s'impose comme le régulateur de fait du marché pétrolier mondial. Cette capacité d'absorption du choc iranien a évité un baril à 150 dollars, mais révèle une dépendance stratégique nouvelle pour les marchés occidentaux. Un élément clé à surveiller pour les allocations en matières premières et valeurs émergentes.",
+          "source": "Challenges",
+          "url": "URL non communiquée",
+          "niveau": "fort"
+        },
+        {
+          "titre": "Incendies en France : 120 000 hectares brûlés, une facture de plusieurs milliards d'euros",
+          "analyse": "L'ampleur des mégafeux cet été engendre des coûts considérables pour les finances publiques : secours immédiats, reconstruction, et pression sur le régime Cat Nat. Cette sinistralité croissante pourrait accélérer la hausse des primes d'assurance habitation et impacter la valorisation des biens immobiliers dans les zones exposées. Un sujet à intégrer dans les bilans patrimoniaux des clients concernés.",
+          "source": "Challenges",
+          "url": "URL non communiquée",
+          "niveau": "fort"
+        },
+        {
+          "titre": "Revolut obtient sa licence bancaire française : un tournant pour la néobanque",
+          "analyse": "Cette deuxième licence européenne permet à Revolut d'accélérer fortement sa conquête du marché français, avec une offre élargie de crédits et de produits d'épargne. La néobanque pourrait dépasser BoursoBank en parts de marché, intensifiant la pression concurrentielle sur les banques traditionnelles. Pour les CGP, cela ouvre de nouvelles solutions bancaires à considérer pour leurs clients, tout en surveillant la solidité de ces acteurs récents.",
+          "source": "La Tribune",
+          "url": "URL non communiquée",
+          "niveau": "fort"
+        },
+        {
+          "titre": "Rheinmetall, le géant allemand de la défense à l'appétit dévorant",
+          "analyse": "Porté par le réarmement européen post-invasion de l'Ukraine, Rheinmetall incarne la montée en puissance du secteur de la défense en Europe. Son positionnement stratégique en fait un bénéficiaire direct des budgets militaires croissants des États membres de l'UE. Une valeur à suivre pour les portefeuilles actions thématiques, dans un contexte où la défense devient structurellement porteuse.",
+          "source": "L'Express",
+          "url": "URL non communiquée",
+          "niveau": "fort"
+        },
+        {
+          "titre": "Guerre en Ukraine : Zelensky accuse la Russie d'utiliser des missiles balistiques nord-coréens",
+          "analyse": "L'implication balistique de la Corée du Nord marque une escalade dans le conflit et élargit le cercle des puissances engagées indirectement. Cette internationalisation accrue du conflit maintient une prime de risque géopolitique élevée sur les marchés européens, pèse sur les valorisations et justifie une diversification internationale renforcée dans les allocations.",
           "source": "Le Monde",
-          "url": "",
+          "url": "URL non communiquée",
+          "niveau": "fort"
+        },
+        {
+          "titre": "Démarchage téléphonique : consentement explicite obligatoire dès le 11 août",
+          "analyse": "Le nouveau cadre réglementaire impose un consentement préalable et explicite du consommateur pour tout démarchage téléphonique. Si son efficacité reste à démontrer, cette mesure renforce la protection des épargnants face aux sollicitations abusives, notamment pour les produits financiers. Les CGP doivent adapter leurs pratiques de prospection et informer leurs clients sur ce bouclier anti-démarchage.",
+          "source": "Le Monde",
+          "url": "URL non communiquée",
           "niveau": "moyen"
         },
         {
-          "titre": "Précompte immobilier wallon : hausse des centimes additionnels en 2026",
-          "analyse": "Plusieurs communes wallonnes augmentent leurs centimes additionnels pour renflouer leurs recettes, alourdissant la facture des propriétaires. Pour les clients CGP détenant un patrimoine immobilier en Wallonie, il est essentiel d'anticiper cette hausse dans les projections de rendement locatif net et d'envisager, le cas échéant, des stratégies d'optimisation via le démembrement ou le recours à des sociétés patrimoniales.",
+          "titre": "Mark Zuckerberg défend l'IA ouverte et rejette le scénario d'une destruction massive d'emplois",
+          "analyse": "Le patron de Meta publie un plaidoyer pour une IA open source, créatrice de valeur et non destructrice d'emplois, tout en annonçant des investissements massifs dans les data centers. Ce positionnement alimente le débat sur l'impact réel de l'IA sur le marché du travail et la productivité. Pour les CGP, cela conforte la thèse d'une transformation progressive plutôt que d'une disruption brutale, tout en validant l'intérêt des valeurs tech américaines.",
+          "source": "La Tribune",
+          "url": "URL non communiquée",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Vaneau, l'immobilier de prestige parisien, en redressement judiciaire",
+          "analyse": "Le placement en redressement judiciaire de Vaneau, acteur emblématique du haut de gamme parisien, témoigne des difficultés du segment prestige. Pour les clients CGP exposés à ce marché, cela peut signaler une correction des prix et des opportunités d'achat à terme, mais aussi un risque accru pour les investissements dans ce secteur.",
           "source": "Le Revenu",
           "url": "",
           "niveau": "fort"
         },
         {
-          "titre": "Immobilier littoral : 7 villes françaises où acheter sans exploser son budget",
-          "analyse": "Malgré la flambée des prix sur le littoral, des opportunités subsistent dans des villes côtières moins médiatisées, offrant un compromis entre qualité de vie et budget maîtrisé. Pour une clientèle en quête de résidence secondaire ou d'investissement locatif saisonnier, ces marchés alternatifs méritent d'être identifiés avant qu'ils ne se tendent à leur tour.",
+          "titre": "Marchand de biens : un métier qui ne fait plus ses marges",
+          "analyse": "Le modèle d'achat-rénovation-revente, longtemps plébiscité par les épargnants, voit ses marges s'éroder. La hausse des coûts de travaux et des taux d'intérêt, combinée à une demande moins dynamique, réduit l'attrait de cette stratégie d'investissement immobilier pour les clients.",
+          "source": "Le Revenu",
+          "url": "",
+          "niveau": "fort"
+        },
+        {
+          "titre": "Immobilier : les travaux de rénovation énergétique valorisent les logements",
+          "analyse": "L'amélioration du DPE devient un levier de valorisation immobilière significatif : un bien classé C peut valoir 5 à 10 % de plus. Pour les clients propriétaires, investir dans des travaux 'green' ciblés peut optimiser la valeur patrimoniale et faciliter la revente.",
           "source": "Le Revenu",
           "url": "",
           "niveau": "moyen"
         },
         {
-          "titre": "Le double choc de l'IA : bouleversement de l'emploi et de la fiscalité",
-          "analyse": "L'IA générative pourrait transformer en profondeur les tâches cognitives complexes et déséquilibrer les finances publiques en érodant l'assiette fiscale liée au travail. Pour le CGP, cette perspective renforce la nécessité de diversifier les sources de revenus des clients, de sécuriser leur employabilité via la formation et d'intégrer ce risque structurel dans les plans de retraite à long terme.",
-          "source": "Alternatives économiques",
+          "titre": "Retraites 2027 : une hausse estimée à 1,6 % pour le régime de base",
+          "analyse": "Les premières projections tablent sur une revalorisation de 1,6 % pour la retraite Carsat et d'environ 1,8 % pour l'Agirc-Arrco en 2027. Ces hausses modérées, inférieures à l'inflation récente, doivent être anticipées dans les plans de revenus des clients retraités.",
+          "source": "Le Revenu",
           "url": "",
           "niveau": "fort"
         },
         {
-          "titre": "Futures US stables avant l'inflation, regain d'incertitude sur l'Iran",
-          "analyse": "Les marchés actions américains ouvrent sans direction claire, partagés entre l'attente des données d'inflation et les tensions autour du détroit d'Ormuz, qui ravivent le risque pétrolier. Cette configuration justifie une vigilance accrue sur les portefeuilles exposés aux valeurs énergétiques et cycliques, et rappelle l'importance d'une diversification géographique et sectorielle.",
+          "titre": "AI Act : jusqu'à 15 millions d'euros d'amende pour les agences immobilières",
+          "analyse": "Depuis août 2026, l'AI Act impose des obligations de transparence aux professionnels utilisant l'IA. Les agences immobilières sont directement concernées, avec des amendes pouvant atteindre 15 millions d'euros. Les clients CGP investis dans ce secteur doivent évaluer le risque de conformité.",
+          "source": "Le Revenu",
+          "url": "",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Bitcoin au-dessus de 65 000 $ : près de 854 millions d'afflux vers les ETF",
+          "analyse": "Le Bitcoin repasse les 65 000 dollars, porté par les anticipations d'une Fed accommodante et un retour massif des capitaux vers les ETF crypto. Pour les clients exposés, cette dynamique confirme l'institutionnalisation de l'actif, mais la volatilité reste élevée.",
+          "source": "Le Revenu",
+          "url": "",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Gaz naturel : les stocks européens au plus bas depuis cinq ans",
+          "analyse": "Les réserves de gaz européennes sont à leur plus bas niveau pour cette période depuis cinq ans, faisant craindre des tensions sur les prix à l'approche de l'hiver. Cela pourrait peser sur le pouvoir d'achat des ménages et relancer l'inflation énergétique.",
+          "source": "Le Revenu",
+          "url": "",
+          "niveau": "fort"
+        },
+        {
+          "titre": "États-Unis : un cadre réglementaire fédéral pour les cryptomonnaies en vue",
+          "analyse": "Le Sénat américain avance vers l'adoption du Clarity Act, qui créerait un cadre fédéral pour les cryptomonnaies. Une régulation claire pourrait sécuriser les investissements en crypto-actifs et favoriser leur intégration dans les portefeuilles patrimoniaux.",
+          "source": "Le Revenu",
+          "url": "",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Marchés mondiaux : les Bourses progressent, le pétrole stable",
+          "analyse": "Les marchés actions mondiaux avancent, soutenus par des résultats d'entreprises solides et le reflux des craintes de hausse des taux américains. Le pétrole se maintient autour de 83,50 dollars. Ce contexte reste favorable aux portefeuilles diversifiés, mais la vigilance sur les valorisations élevées s'impose.",
+          "source": "Le Revenu",
+          "url": "https://www.lerevenu.com/actualites-financieres/marches-mondiaux-les-bourses-progressent-le-petrole-reste-stable",
+          "niveau": "fort"
+        },
+        {
+          "titre": "Nvidia s'allie à Wall Street pour lever 500 milliards de dollars pour l'IA",
+          "analyse": "Nvidia annonce un partenariat avec sept institutions financières pour mobiliser plus de 500 milliards de dollars de capitaux destinés aux infrastructures IA. Cette opération confirme l'ampleur de la vague d'investissement dans l'intelligence artificielle, qui devient un thème structurel incontournable pour les allocations d'actifs.",
           "source": "MarketWatch",
-          "url": "",
+          "url": "https://www.marketwatch.com/story/nvidia-teams-with-wall-street-firms-to-help-finance-500-billion-for-ai-infrastructure",
           "niveau": "fort"
         },
         {
-          "titre": "Retraite : comment investir un versement en capital de 80 000 $ en toute sécurité",
-          "analyse": "Un épargnant proche de la retraite s'interroge sur le placement sécurisé d'un capital de 80 000 $ issu d'un pension payout, sans besoin immédiat de distribution. Cette problématique classique de CGP appelle une approche combinant préservation du capital (obligations de qualité, fonds en euros) et une exposition modérée aux actifs de rendement pour couvrir l'inflation sur un horizon de plusieurs années.",
+          "titre": "Intel prévoit une levée de 15 milliards de dollars après un bond de 400% de son action",
+          "analyse": "Intel annonce son intention de lever 15 milliards de dollars via une émission d'actions, après une hausse de 400% du titre en un an. Le groupe met en avant les opportunités dans l'IA physique, les puces sur mesure et le packaging avancé. Cette opération dilutive est à surveiller pour les portefeuilles exposés aux semi-conducteurs.",
           "source": "MarketWatch",
-          "url": "",
+          "url": "https://www.marketwatch.com/story/intel-plans-to-sell-15-billion-worth-of-stock-after-it-has-risen-400-in-a-year",
           "niveau": "fort"
         },
         {
-          "titre": "Succession et dépendance : gérer un proche âgé et un frère malade",
-          "analyse": "Un cas concret de planification patrimoniale mêlant trust révocable, maison à 600 000 $ et conflit potentiel entre bénéficiaires illustre la complexité des montages successoraux en période de dépendance. Le CGP doit anticiper les clauses de révocabilité, la coordination entre aidants familiaux et l'impact fiscal de la transmission, tout en préservant l'équilibre familial.",
-          "source": "MarketWatch",
-          "url": "",
-          "niveau": "fort"
-        },
-        {
-          "titre": "Bunds en consolidation : entre chute de l'emploi US et remontée du pétrole",
-          "analyse": "Les obligations allemandes se stabilisent, les investisseurs pesant la faiblesse des créations d'emplois américaines face au risque inflationniste lié à la hausse du brut. Ce contexte de taux incertain milite pour une gestion active de la duration obligataire dans les portefeuilles, en privilégiant les échéances intermédiaires et le crédit investment grade.",
+          "titre": "Les BRICS discutent de l'interconnexion des systèmes de paiement et des CBDC",
+          "analyse": "Les banques centrales des BRICS explorent l'interconnexion de leurs systèmes de paiement et de leurs monnaies numériques (CBDC). Cette initiative vise à réduire la dépendance au dollar dans les échanges internationaux. Pour les CGP, cela renforce la pertinence d'une diversification géographique et monétaire des portefeuilles.",
           "source": "Forex News",
+          "url": "https://www.forexnews.com/brics-nations-discuss-linking-payment-systems-and-cbdcs",
+          "niveau": "fort"
+        },
+        {
+          "titre": "Deutsche Bank devient la première banque de compensation en renminbi en Europe",
+          "analyse": "Deutsche Bank est désignée comme la première banque de compensation européenne pour le renminbi chinois. Cette décision marque une étape clé dans l'internationalisation du yuan et facilite les transactions libellées en devise chinoise. Un signal fort pour la diversification monétaire des portefeuilles obligataires et monétaires.",
+          "source": "Forex News",
+          "url": "https://www.forexnews.com/deutsche-bank-named-as-chinas-first-european-renminbi-clearing-bank",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "SCPI ActivImmo : 50,8 millions d'euros investis au deuxième trimestre 2026",
+          "analyse": "La SCPI ActivImmo affiche une collecte et un niveau d'investissement solides au T2 2026, confirmant sa dynamique. La question de la soutenabilité du dividende se pose néanmoins dans un contexte de taux encore élevés. Un point d'attention pour les CGP qui recommandent cette SCPI à leurs clients en quête de rendement.",
+          "source": "MeilleureSCPI.com",
+          "url": "https://www.meilleurescpi.com/scpi-activimmo-50-8-m-investis-au-2t-2026",
+          "niveau": "fort"
+        },
+        {
+          "titre": "SCPI Reason : le prix de part progresse à nouveau de 2%",
+          "analyse": "La SCPI Reason revalorise son prix de part à 1,03 euro, soit une hausse de 2% et un cumul de +3% depuis son lancement. Cette revalorisation témoigne de la bonne santé du véhicule et de la qualité de son patrimoine sous-jacent. Un signal positif pour les épargnants investis dans cette SCPI récente.",
+          "source": "MeilleureSCPI.com",
+          "url": "https://www.meilleurescpi.com/scpi-reason-le-prix-de-part-progresse-a-nouveau-de-2",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Changer d'assurance de prêt à tout moment sans frais : mode d'emploi",
+          "analyse": "Depuis septembre 2022, la loi permet de changer d'assurance emprunteur à tout moment sans frais, sous réserve d'équivalence des garanties. Cette faculté reste sous-utilisée par les emprunteurs et constitue un levier d'optimisation patrimoniale important, avec des économies potentielles significatives sur la durée du prêt.",
+          "source": "MySweetimmo",
+          "url": "https://www.mysweetimmo.com/comment-changer-dassurance-de-pret-a-tout-moment-sans-frais",
+          "niveau": "fort"
+        },
+        {
+          "titre": "Le prix de référence du gaz augmente de 5,6% au 1er septembre",
+          "analyse": "Cette hausse impacte directement le budget énergie de millions de ménages français. Pour les CGP, c'est l'occasion de réviser les postes de charges de leurs clients et d'anticiper l'impact sur leur capacité d'épargne, notamment pour les retraités et les foyers modestes.",
+          "source": "notretemps.com",
+          "url": "",
+          "niveau": "fort"
+        },
+        {
+          "titre": "Assurance habitation : les tarifs continuent de grimper, fortes disparités régionales",
+          "analyse": "La hausse des primes, tirée par les risques climatiques et le coût des réparations, pèse sur le budget des propriétaires. Le CGP doit inciter ses clients à comparer les contrats et à vérifier les garanties catastrophes naturelles, devenues essentielles face à la multiplication des sinistres.",
+          "source": "notretemps.com",
+          "url": "",
+          "niveau": "fort"
+        },
+        {
+          "titre": "Divorce : les droits à la retraite ne se partagent pas, mais une compensation est possible",
+          "analyse": "En cas de divorce, les droits à la retraite restent individuels, ce qui peut pénaliser le conjoint ayant réduit son activité. Le CGP doit alerter sur la nécessité de négocier une prestation compensatoire ou d'actionner des dispositifs comme le partage des droits via le JAF pour protéger le niveau de vie futur du client.",
+          "source": "notretemps.com",
+          "url": "",
+          "niveau": "fort"
+        },
+        {
+          "titre": "Succession bloquée par un héritier silencieux : quels recours ?",
+          "analyse": "Un héritier qui ne répond pas au notaire peut paralyser une succession pendant des mois. Le CGP peut orienter vers une démarche amiable, une sommation d'opter ou la saisine du tribunal judiciaire, et rappeler l'intérêt d'anticiper avec des mandats de protection future ou des clauses testamentaires claires.",
+          "source": "notretemps.com",
+          "url": "",
+          "niveau": "fort"
+        },
+        {
+          "titre": "Retraite : quels avantages spécifiques pour les pères de famille ?",
+          "analyse": "Contrairement aux mères, les pères bénéficient de droits retraite moins connus (majoration de durée d'assurance, pension de réversion sous conditions). Un point de vigilance pour les CGP dans l'optimisation des stratégies de départ, notamment pour les couples où le père a eu une carrière hachée.",
+          "source": "notretemps.com",
           "url": "",
           "niveau": "moyen"
         },
         {
-          "titre": "S&P 500 : la croissance des ventes au plus haut depuis près de 5 ans",
-          "analyse": "Portée par un bond de 42,5 % des revenus du secteur énergie, la croissance des ventes de l'indice S&P 500 atteint un pic pluriannuel, signalant une dynamique bénéficiaire solide. Pour les portefeuilles actions, cette surperformance sectorielle invite à réévaluer les pondérations énergétiques tout en restant attentif au caractère cyclique de cette expansion.",
-          "source": "MarketWatch",
+          "titre": "Le Bail Réel Solidaire (BRS) : acheter plus grand avec un seul salaire",
+          "analyse": "Le BRS permet de dissocier le foncier du bâti et de réduire le prix d'achat de 30 à 50% en zone tendue. Un dispositif à connaître pour les CGP accompagnant des primo-accédants aux revenus modestes, notamment les familles monoparentales, avec des contraintes de revente à intégrer dans le conseil.",
+          "source": "MySweetimmo",
           "url": "",
           "niveau": "moyen"
-        },
-        {
-          "titre": "Canicules à répétition : les Français adaptent leurs critères de recherche de logement",
-          "analyse": "Climatisation, volets, présence d'arbres deviennent des critères déterminants dans le choix d'un logement. Pour le CGP, cela signifie que la performance thermique et le confort d'été vont peser sur la valorisation des biens immobiliers, avec un risque de décote pour les passoires thermiques estivales. Un élément à intégrer dans les stratégies d'investissement locatif et les arbitrages patrimoniaux.",
-          "source": "notretemps.com",
-          "url": "https://www.notretemps.com/societe/canicules-recherche-logement-criteres",
-          "niveau": "fort"
-        },
-        {
-          "titre": "Incendies : des coûts toujours plus lourds pour les collectivités locales",
-          "analyse": "Avec 120 000 hectares brûlés depuis le début de l'été, les collectivités absorbent des coûts croissants. Cette tendance pourrait se traduire par une pression fiscale locale accrue (taxe foncière) et un renchérissement des primes d'assurance habitation dans les zones exposées. Le CGP doit anticiper ces évolutions dans les bilans patrimoniaux de ses clients propriétaires.",
-          "source": "notretemps.com",
-          "url": "https://www.notretemps.com/societe/incendies-couts-collectivites",
-          "niveau": "fort"
-        },
-        {
-          "titre": "Indemnité carburant de 100 euros : demande ouverte jusqu'au 31 août 2026",
-          "analyse": "Ce dispositif cible les travailleurs modestes grands rouleurs, alors que les prix à la pompe repartent à la hausse sur fond de tensions au Moyen-Orient. Le CGP peut informer ses clients éligibles de cette aide et intégrer la hausse du coût énergétique dans les projections de budget des ménages, notamment pour les actifs dépendants de leur véhicule.",
-          "source": "JDN",
-          "url": "https://www.journaldunet.com/patrimoine/indemnite-carburant-100-euros-aout-2026",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Gabriel Attal promet un plan \"massif\" sur l'eau en cas d'élection",
-          "analyse": "Chasse au gaspillage, bouclier tarifaire et création d'un ministère dédié : ce programme pourrait déboucher sur une évolution de la tarification de l'eau et de la fiscalité associée. Pour les propriétaires de biens ruraux ou de terrains agricoles, ces mesures sont à surveiller car elles pourraient affecter la valeur du foncier et les charges d'exploitation.",
-          "source": "notretemps.com",
-          "url": "https://www.notretemps.com/politique/attal-plan-eau-election",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "François Bayrou propose une primaire en janvier pour 2027",
-          "analyse": "L'ancien Premier ministre alerte sur un risque de duel entre extrêmes en 2027 et appelle à une primaire des forces démocrates et réformistes. Cette initiative politique pourrait clarifier le paysage électoral et réduire l'incertitude pour les marchés. Le CGP doit suivre ce calendrier, car l'issue de 2027 conditionnera la fiscalité du capital et les stratégies patrimoniales de long terme.",
-          "source": "JDN",
-          "url": "https://www.journaldunet.com/politique/bayrou-primaire-janvier-2027",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Prévention des incendies : les gendarmes mobilisés sur le lac de Sainte-Croix",
-          "analyse": "La surveillance renforcée des zones sensibles illustre la montée du risque incendie en région méditerranéenne. Pour les clients envisageant un achat immobilier dans le Var ou les zones boisées, le CGP doit recommander une vigilance accrue sur les contraintes d'assurance et les obligations légales de débroussaillement, qui peuvent alourdir le coût de détention.",
-          "source": "notretemps.com",
-          "url": "https://www.notretemps.com/societe/gendarmes-lac-varois-prevention-incendie",
-          "niveau": "faible"
-        },
-        {
-          "titre": "Violences sexuelles sur mineurs : l'association de la PJ dénonce une \"trahison\" de Darmanin",
-          "analyse": "Cette polémique entre le garde des Sceaux et l'Association nationale de police judiciaire fragilise l'exécutif sur un sujet sensible. Sans impact direct sur la gestion de patrimoine, elle contribue au climat d'instabilité politique et pourrait peser sur la confiance des acteurs économiques si elle s'amplifie.",
-          "source": "notretemps.com",
-          "url": "https://www.notretemps.com/societe/violences-sexuelles-mineurs-pj-darmanin",
-          "niveau": "faible"
-        },
-        {
-          "titre": "Consommation de poisson : quelles quantités sans danger pour la santé ?",
-          "analyse": "Entre pollution des produits de la mer et risque de surpêche, les recommandations de consommation évoluent. Pour le CGP, ce sujet peut être abordé sous l'angle de la prévoyance santé et des choix de consommation éclairés, en complément d'une approche globale du bien-être des clients, notamment seniors.",
-          "source": "notretemps.com",
-          "url": "https://www.notretemps.com/sante/consommation-poisson-danger-semaine",
-          "niveau": "faible"
-        },
-        {
-          "titre": "Expansion des marques françaises aux États-Unis : un marché désormais accessible",
-          "analyse": "Le marché américain n'est plus réservé aux grands groupes et s'ouvre aux PME et ETI françaises. Pour le CGP, cela représente une opportunité d'accompagner les dirigeants sur les volets financement, gestion des risques export et optimisation patrimoniale liée à une implantation internationale.",
-          "source": "JDN",
-          "url": "https://www.journaldunet.com",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Prospection commerciale : contacter sans raison valable, le vrai problème",
-          "analyse": "L'inefficacité de la prospection ne vient pas du démarchage d'inconnus mais de l'absence de proposition de valeur. Pour les CGP conseillant des entrepreneurs, cet article rappelle l'importance d'une stratégie commerciale fondée sur la pertinence, afin d'améliorer la rentabilité et la pérennité de l'entreprise.",
-          "source": "Maddyness",
-          "url": "https://www.maddyness.com",
-          "niveau": "faible"
         }
       ]
     }
