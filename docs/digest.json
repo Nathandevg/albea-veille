@@ -1,8 +1,229 @@
 {
-  "titre": "Budget 2027 : concessions fiscales et incertitudes à l'approche de la présidentielle",
-  "analyse": "Les concessions accordées au Parti socialiste (suspension de la réforme des retraites, hausse de la prime d'activité) fragilisent la trajectoire budgétaire française. Pour un CGP, cela renforce le risque de hausses d'impôts futures et justifie une diversification des enveloppes fiscales et une vigilance accrue sur les arbitrages patrimoniaux à moyen terme.",
-  "source": "L'Express",
-  "url": "https://www.lexpress.fr",
-  "niveau": "fort",
-  "compte_articles": 212
+  "date_fr": "Sunday 16 August 2026",
+  "compte_articles": 138,
+  "compte_forts": 9,
+  "compte_moyens": 15,
+  "synthese_jour": "Synthese IA partielle (fusion indisponible). Consultez les items ci-dessous.",
+  "chiffres_cles": [],
+  "sections": [
+    {
+      "titre": "Articles du jour",
+      "icone": "📰",
+      "niveau_global": "moyen",
+      "items": [
+        {
+          "titre": "Détroit d'Ormuz : trois pétroliers émiratis attaqués, l'Iran pointé",
+          "analyse": "Attaque de trois navires d'Adnoc en 24h sur la route pétrolière mondiale. L'Iran conditionne toujours la réouverture à un accord. Risque de prime de risque géopolitique sur le Brent et sur l'or ; à surveiller pour l'exposition énergie et les budgets transport/matières premières des clients.",
+          "source": "La Tribune",
+          "url": "https://www.latribune.fr/actualites/nouvelle-escalade-dans-le-detroit-d-ormuz-trois-petroliers-emiratis-pris-pour-cible.html",
+          "niveau": "fort"
+        },
+        {
+          "titre": "Ozempic : une révolution qui bouleverse fast-food, aviation et Hollywood",
+          "analyse": "Les traitements anti-obésité (oraux disponibles) redessinent la consommation, la santé, l'agroalimentaire et le transport aérien. Impact sectoriel majeur pour les portefeuilles actions : opportunité sur la pharma (Novo Nordisk, Eli Lilly) mais risque sur la grande conso, le snacking et les compagnies aériennes long-courrier.",
+          "source": "La Tribune",
+          "url": "https://www.latribune.fr/fast-food-hollywood-transport-aerien-comment-la-revolution-ozempic-bouleverse-l-economie.html",
+          "niveau": "fort"
+        },
+        {
+          "titre": "Ukraine : Kiev frappe un site de missiles lié à un réseau Starlink russe",
+          "analyse": "Frappes longue portée ukrainiennes sur un aérodrome et un centre de missiles soutenant une constellation satellite russe de type Starlink. Élévation du niveau technologique du conflit. Maintien du risque de réplique sur les marchés européens et l'énergie ; à intégrer dans le scénario de duration obligataire.",
+          "source": "L'Express",
+          "url": "https://www.lexpress.fr/monde/europe/l-ukraine-affirme-avoir-touche-un-centre-de-lancement-de-fusees-russe-lie-a-un-reseau-de-type-starlink.html",
+          "niveau": "fort"
+        },
+        {
+          "titre": "Fisc piraté : 680 000 contribuables concernés, enquête ouverte",
+          "analyse": "Vol de données personnelles (état civil, revenus, coordonnées) de près de 680 000 usagers de l'administration fiscale, sans compromission des comptes en ligne. Risque élevé de phishing ciblé et de fraude à l'identité. À communiquer en priorité aux clients et leur recommander vigilance et gel préventif des crédits.",
+          "source": "La Tribune",
+          "url": "https://www.latribune.fr/fisc-pirate-le-parquet-de-paris-ouvre-une-enquete.html",
+          "niveau": "fort"
+        },
+        {
+          "titre": "Pologne : incursions de drones russes, le flanc est de l'OTAN sous pression",
+          "analyse": "Varsovie et les pays baltes subissent des attaques hybrides récurrentes. Le réarmement polonais reste insuffisant face à la menace. Renforcement structurel de la défense européenne : thématique d'investissement durable (Thales, Saab, Rheinmetall) à présenter aux clients en allocation sectorielle.",
+          "source": "La Tribune",
+          "url": "https://www.latribune.fr/en-pologne-la-menace-russe-persiste-a-cause-des-drones.html",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Incendies : 1 600 ha dans les Landes, près de 100 000 ha brûlés en France",
+          "analyse": "Saison historique avec ~100 000 ha détruits depuis janvier. Le réchauffement climatique rebat les cartes de l'assurance habitation, de la valeur des biens exposés (Landes, PACA, Gironde) et des SCPI résidentielles/touristiques. Argument fort pour revisiter les couvertures MRH et l'exposition forêts/immobilier.",
+          "source": "La Tribune",
+          "url": "https://www.latribune.fr/incendies-pres-de-1-600-hectares-deja-detruits-dans-les-landes-et-autant-en-belgique.html",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Route de la soie polaire : premier porte-conteneurs chinois vers l'Europe",
+          "analyse": "Service hebdomadaire inaugural via l'Arctique reliant la Chine à l'Europe, contournant le Moyen-Orient instable. Réduction des délais et de l'exposition au détroit d'Ormuz/Suez. À moyen terme, impact sur la valeur des actifs logistiques et portuaires européens ; atout pour les exportateurs asiatiques.",
+          "source": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2025/08/16/un-premier-porte-conteneurs-chinois-le-dubai-tower-a-pris-la-route-de-l-europe-via-l-arctique.html",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Classement de Shanghai 2026 : Paris-Saclay 13e, Harvard en tête",
+          "analyse": "La France conserve 4 établissements dans le top 100, dont Paris-Saclay (13e). Utile pour les arbitrages de mobilité scolaire/fiscale des familles UHNW (Paris, Londres, Suisse, Singapour) et pour le conseil en assurance-vie luxembourgeoise ou les plans 529/PER pour les enfants d'expatriés.",
+          "source": "La Tribune",
+          "url": "https://www.latribune.fr/classement-de-shanghai-paris-saclay-reste-la-premiere-universite-francaise-harvard-toujours-en-tete.html",
+          "niveau": "faible"
+        },
+        {
+          "titre": "Guerre en Iran : la Chine arrache le contrôle du marché pétrolier à l'OPEP",
+          "analyse": "La stratégie chinoise de stockage en cycle bas étouffe la transmission du choc géopolitique aux cours. Pour les CGP, cela signifie une volatilité pétrolière contenue à court terme, mais une prime de risque géopolitique à intégrer dans les expositions matières premières et dans l'analyse des marges des entreprises énergétivores ou exportatrices (TotalEnergies, airlines, transporteurs).",
+          "source": "Challenges",
+          "url": "https://www.challenges.fr/economie/energie/guerre-en-iran-comment-la-chine-a-arrache-le-controle-des-marches-petroliers-a-l-opep_12345",
+          "niveau": "fort"
+        },
+        {
+          "titre": "Piratage DGFiP : 678 000 contribuables concernés, risque sur les placements",
+          "analyse": "La fuite de données fiscales expose les clients patrimoniaux à un risque ciblé de fraude (usurpation d'identité fiscale, faux avis d'imposition, tentatives d'ingénierie sociale sur les conseillers). C'est un signal fort pour renforcer les dispositifs de sécurité déclaratifs, surveiller les comptes et rappeler les réflexes anti-phishing auprès de la clientèle UHNW.",
+          "source": "MeilleureSCPI.com",
+          "url": "https://www.meilleurescpi.com/actualites/piratage-dgfip-2026-fuite-de-donnees-fiscales",
+          "niveau": "fort"
+        },
+        {
+          "titre": "Taux d'intérêt : et si la perspective historique était différente ?",
+          "analyse": "Les graphiques de long terme replacent l'environnement actuel de taux dans un cycle séculaire, non dans un point haut définitif. Pour l'allocation obligataire et le dimensionnement du crédit immobilier, c'est un argument pour éviter de verrouiller trop long à des niveaux qui pourraient redevenir élevés : diversifier maturités et conserver de laduration courte reste pertinent.",
+          "source": "MarketWatch",
+          "url": "https://www.marketwatch.com/story/think-interest-rates-are-high-now-these-charts-offer-a-different-perspective",
+          "niveau": "fort"
+        },
+        {
+          "titre": "Faut-il encore acheter sa résidence principale ? Le renting redevient attractif",
+          "analyse": "L'article interroge le dogme de l'accession à la propriété. Combiné au crédit contraint et à la hausse des prix (+9,27 % à Fonsorbes sur les appartements), cela conforte l'intérêt d'arbitrages patrimonialisés : SCPI, démembrement, ou location longue avec épargne financière investie sur des actifs plus liquides. À intégrer dans les bilans patrimoniaux des primo-accédants.",
+          "source": "MarketWatch",
+          "url": "https://www.marketwatch.com/story/owning-a-home-is-overrated-renting-is-now-often-a-better-money-move",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "SCPI Immo Placement : distribution stable à 11,40 € au 2T 2026",
+          "analyse": "La stabilité du coupon masque un TOF sous tension et un marché immobilier de bureau atone. Pour les clients investis en SCPI, c'est un signal pour ne pas surpondérer la pierre-papier sans diversification (immobilier direct, foncières cotées, actifs réels non corrélés) et pour vérifier la qualité des reports à nouveau.",
+          "source": "MeilleureSCPI.com",
+          "url": "https://www.meilleurescpi.com/actualites/scpi-immo-placement-distribution-2t-2026",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Un fonds actif détenant 800 actions surperforme les grands indices",
+          "analyse": "L'exemple relance le débat gestion active vs passive sur des poches très diversifiées. Pour les CGP cherchant à sortir de la concentration des méga-caps US, ce type de stratégie peut servir de complément aux ETF core/satellite. Vigilence toutefois sur les frais et la capacité de réplication pour les clients en enveloppe assurance-vie.",
+          "source": "MarketWatch",
+          "url": "https://www.marketwatch.com/story/an-active-fund-holding-a-whopping-800-stocks-is-beating-major-indexes",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Simon Porte Jacquemus : 14,8 % du capital cédés à L'Oréal pour 700 M€",
+          "analyse": "Valorisation d'une marque de luxe 'digital native' à 700 M€ avec un partenaire industriel mondial : emblématique des opérations de private equity accessibles via fonds de growth (L Catterton, Eurazeo Brands). C'est un point d'entrée pédagogique pour parler exposition au luxe dans la poche non cotée des patrimoines > 5 M€.",
+          "source": "Challenges",
+          "url": "https://www.challenges.fr/economie/entreprise/de-salon-de-provence-aux-bleus-comment-jacquemus-s-est-impose_12345",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Luxe : les ultra-riches se distinguent désormais par l'expérience, plus par l'avoir",
+          "analyse": "Pour les clients fortunés, la valeur d'usage se déplace du patrimoine matériel (art, jets) vers l'immatériel (expériences, temps, santé). C'est un signal d'allocation : croissance des services premium, voyages sur-mesure, santé/longévité, tout en gardant un socle tangible diversifié (art, forêts, vignoble) comme réserve de valeur.",
+          "source": "Challenges",
+          "url": "https://www.challenges.fr/economie/patrimoine/pourquoi-les-biens-de-luxe-ne-suffisent-plus-a-distinguer-les-ultra-riches_12345",
+          "niveau": "faible"
+        },
+        {
+          "titre": "Cyberattaque du fisc : enquête ouverte après le piratage de 700 000 usagers",
+          "analyse": "Extraction frauduleuse de données fiscales concernant près de 700 000 contribuables : risque élevé de vol d'identité, fraude fiscale et tentatives d'escroquerie ciblées. Pour les clients CGP, c'est l'occasion de rappeler les bonnes pratiques (vérification des avis d'imposition, surveillance des comptes, gel préventif des crédits), et de vérifier la couverture assistance/cyber des contrats bancaires et assurantiels.",
+          "source": "notretemps.com",
+          "url": "",
+          "niveau": "fort"
+        },
+        {
+          "titre": "Incendies en Gironde : Lecornu attendu lundi pour lancer la reconstruction",
+          "analyse": "Le Premier ministre lance officiellement la reconstruction post-mégafeu, ce qui ouvre la phase d'indemnisation et de normes de reconstruction (résilience, débroussaillement). Pour les clients propriétaires dans les zones exposées, c'est un signal à intégrer dans la stratégie d'assurance habitation (catastrophes naturelles, garantie reconstitution) et d'investissement locatif.",
+          "source": "notretemps.com",
+          "url": "",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Feu dans les Landes : situation favorable mais non fixée",
+          "analyse": "Le feu de Luglon continue de mobiliser d'importants moyens et reste un risque actif pour les biens et forêts des Landes. Pour les CGP, l'événement confirme la récurrence du risque feux de forêt dans le Sud-Ouest et justifie un point d'attention sur la valeur des biens immobiliers et forestiers exposés, ainsi que sur les contrats d'assurance adaptés.",
+          "source": "notretemps.com",
+          "url": "",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Canicule : vigilance orange maintenue sur le sud-est dimanche",
+          "analyse": "Persistance d'un épisode caniculaire sur le sud-est de la France, avec impact attendu sur la santé, l'agriculture et l'énergie. Pour les clients CGP, cela renforce la pertinence des arbitrages vers des actifs décarbonés et résilients, ainsi que la vigilance sur l'immobilier méditerranéen (assurance, vacance locative estivale, dévalorisation structurelle).",
+          "source": "notretemps.com",
+          "url": "",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Levée de la vigilance orange canicule sur l'est de la France",
+          "analyse": "L'épisode caniculaire se résorbe progressivement sur la Lorraine, l'Alsace et la Bourgogne-Franche-Comté. Signal positif mais conjoncturel : à replacer dans une tendance lourde de réchauffement qui doit être intégrée dans la durée de placement et le choix des zones d'investissement immobilier ou viticole.",
+          "source": "notretemps.com",
+          "url": "",
+          "niveau": "faible"
+        },
+        {
+          "titre": "Catapultes américaines : pas de risque pour le porte-avions français",
+          "analyse": "Le renoncement de Trump aux catapultes EMALS n'affecte pas la livraison prévue pour le futur porte-avions français. Suivi géostratégique utile mais sans incidence directe sur les marchés ; à garder en tête pour les clients exposés aux valeurs de défense (Thales, Dassault Aviation, Naval Group).",
+          "source": "notretemps.com",
+          "url": "",
+          "niveau": "faible"
+        },
+        {
+          "titre": "Attal propose un référendum sur l'interdiction des réseaux sociaux aux moins de 15 ans",
+          "analyse": "Proposition politique en vue de la présidentielle, sans portée réglementaire immédiate. Suivi à intégrer dans la veille ESG/réglementaire des clients exposés aux valeurs technologiques et médias (modèles d'affaires des plateformes, restrictions d'âge, conformité européenne).",
+          "source": "notretemps.com",
+          "url": "",
+          "niveau": "faible"
+        },
+        {
+          "titre": "Mélenchon salue la censure de la loi sur les réseaux sociaux",
+          "analyse": "Lecture politique de la décision du Conseil constitutionnel. Sans impact patrimonial direct, mais rappel de l'instabilité réglementaire autour des plateformes numériques, à surveiller pour les clients investis dans les GAFA, ETF technologiques ou fonds thématiques digital.",
+          "source": "notretemps.com",
+          "url": "",
+          "niveau": "faible"
+        },
+        {
+          "titre": "Piratage massif du fisc : enquête ouverte, 700 000 usagers concernés",
+          "analyse": "Cyberattaque d'ampleur sur l'administration fiscale avec extraction frauduleuse de données personnelles. Pour les clients CGP : vigilance accrue sur le risque d'usurpation d'identité, phishing ciblé et fraude à l'impôt. À recommander : surveillance des comptes, mise à jour des mots de passe, alerte aux services fiscaux en cas d'activité suspecte.",
+          "source": "notretemps.com",
+          "url": "https://www.notretemps.com",
+          "niveau": "fort"
+        },
+        {
+          "titre": "Catapultes américaines : la France rassurée sur le porte-avions",
+          "analyse": "Le ministère des Armées confirme que la décision Trump de renoncer aux catapultes modernes n'impacte pas la fourniture à la France pour son futur porte-avions. Point rassurant pour le secteur de la défense européenne et les industriels du complexe militaro-industriel français (ex : Naval Group, Thales).",
+          "source": "notretemps.com",
+          "url": "https://www.notretemps.com",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Incendies en Gironde : Lecornu attendu pour la reconstruction",
+          "analyse": "Visite du Premier ministre lundi pour lancer la reconstruction après le mégafeu de juillet, cristallisant espoirs et colères locales. Enjeu patrimonial et assurantiel majeur : réévaluation des risques climatiques, impact sur l'immobilier en zones forestières, hausse attendue des primes d'assurance habitation (catastrophes naturelles).",
+          "source": "notretemps.com",
+          "url": "https://www.notretemps.com",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Attal appelle à un référendum sur l'interdiction des réseaux aux moins de 15 ans",
+          "analyse": "Proposition politique forte de Gabriel Attal pour interdire les réseaux sociaux aux mineurs de 15 ans. Impact potentiel sur les valeurs tech et médias (Meta, Snap, TikTok) cotées en portefeuille. À surveiller : évolution réglementaire européenne déjà en cours (Digital Services Act).",
+          "source": "notretemps.com",
+          "url": "https://www.notretemps.com",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Mélenchon salue la censure de la loi sur les réseaux sociaux par le Conseil constitutionnel",
+          "analyse": "Le Conseil constitutionnel a censuré la loi visant à interdire les réseaux aux moins de 15 ans, créant un signal réglementaire favorable aux GAFAM. Décision contraire à la proposition Attal : paysage politique et réglementaire français incertain sur ce sujet. À intégrer dans la veille ESG des investissements tech.",
+          "source": "notretemps.com",
+          "url": "https://www.notretemps.com",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Landes : feu fixé mais pas encore maîtrisé, moyens massifs mobilisés",
+          "analyse": "Poursuite de la lutte contre les incendies dans les Landes avec moyens humains et aériens exceptionnels. Nouveau signal de l'intensification du risque climatique en France : à intégrer dans les arbitrages de portefeuille (assureurs, foncier rural, OPCI forestiers, SCPI).",
+          "source": "notretemps.com",
+          "url": "https://www.notretemps.com",
+          "niveau": "moyen"
+        }
+      ]
+    }
+  ],
+  "a_surveiller": [],
+  "fallback": true
 }
