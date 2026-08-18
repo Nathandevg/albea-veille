@@ -1,8 +1,8 @@
 {
-  "date_fr": "Monday 17 August 2026",
-  "compte_articles": 127,
-  "compte_forts": 12,
-  "compte_moyens": 11,
+  "date_fr": "Tuesday 18 August 2026",
+  "compte_articles": 228,
+  "compte_forts": 25,
+  "compte_moyens": 21,
   "synthese_jour": "Synthese IA partielle (fusion indisponible). Consultez les items ci-dessous.",
   "chiffres_cles": [],
   "sections": [
@@ -12,185 +12,213 @@
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "Budget 2027 : Thierry Breton s'oppose à la désindexation des retraites",
-          "analyse": "La désindexation des retraites envisagée dans le budget 2027 suscite une opposition politique forte. Pour les clients retraités ou proches de la retraite, cela pourrait réduire le pouvoir d'achat futur et accroître l'importance de l'épargne complémentaire. Un CGP doit intégrer ce risque dans les projections de revenus.",
+          "titre": "Désindexation des retraites : Bercy vise 6 milliards d'économies",
+          "analyse": "Sujet directement pertinent pour la clientèle CGP : une revalorisation des pensions inférieure à l'inflation pour les retraités aisés est à l'étude. Il convient d'anticiper l'impact sur le pouvoir d'achat des clients et d'envisager des stratégies de complément de revenus.",
           "source": "La Tribune",
-          "url": "",
+          "url": "https://www.latribune.fr",
           "niveau": "fort"
         },
         {
-          "titre": "Piratage du fisc : 678 000 contribuables victimes d'une fuite de données",
-          "analyse": "La violation de données fiscales de 678 000 contribuables expose les clients à des risques d'usurpation d'identité et de fraude. Les CGP doivent alerter leurs clients sur la vigilance accrue et recommander la surveillance de leurs comptes et données personnelles.",
+          "titre": "Nvidia garantit 105 Mds$ pour le futur data center d'OpenAI",
+          "analyse": "Montage financier massif illustrant l'accélération des investissements en infrastructure IA. Opportunité d'exposition au thème tech/IA via les équipementiers et les infrastructures de calcul pour les profils dynamiques.",
           "source": "La Tribune",
-          "url": "",
+          "url": "https://www.latribune.fr",
           "niveau": "fort"
         },
         {
-          "titre": "Sécheresse : risque de type gilets jaunes autour de l'eau en France",
-          "analyse": "La sécheresse généralisée et les restrictions d'eau touchent 70% du territoire, avec un risque de contestation sociale. Cela impacte les actifs agricoles, l'immobilier et les assurances, et renforce la nécessité d'intégrer les risques climatiques dans les stratégies patrimoniales.",
-          "source": "L'Express",
-          "url": "",
+          "titre": "Stripe viserait PayPal et OpenRouter pour contrôler paiements et IA",
+          "analyse": "Consolidation majeure dans la fintech et les paiements IA, signalant une concentration du secteur. À surveiller pour les portefeuilles exposés au tech et aux moyens de paiement, avec un potentiel de réévaluation des actifs du secteur.",
+          "source": "La Tribune",
+          "url": "https://www.latribune.fr",
           "niveau": "fort"
         },
         {
-          "titre": "Les États-Unis durcissent encore les sanctions contre l'Iran",
-          "analyse": "Le durcissement des sanctions américaines contre l'Iran pourrait accentuer la volatilité des prix du pétrole et des marchés émergents. Les CGP doivent surveiller l'exposition énergétique et les risques géopolitiques dans les allocations.",
-          "source": "L'Express",
-          "url": "",
-          "niveau": "fort"
-        },
-        {
-          "titre": "Les houthistes menacent le détroit de Bab el-Mandeb et le trafic maritime",
-          "analyse": "La menace d'un blocus du détroit de Bab el-Mandeb par les houthistes pourrait perturber le commerce maritime et les approvisionnements énergétiques. Cela renforce les risques inflationnistes et logistiques à intégrer dans les scénarios.",
-          "source": "L'Express",
-          "url": "",
-          "niveau": "fort"
-        },
-        {
-          "titre": "La dépopulation mondiale arrivera plus vite que prévu, selon un économiste",
-          "analyse": "Les prévisions de dépopulation rapide pourraient transformer les marchés immobiliers, les systèmes de retraite et la croissance économique. Les CGP doivent anticiper une pression sur les rendements à long terme et adapter les allocations vers des actifs résilients.",
-          "source": "L'Express",
-          "url": "",
+          "titre": "Shein ne vaut plus que 25 Mds$ : l'IPO qui révèle la fin d'un modèle",
+          "analyse": "Décote brutale de 75% par rapport à 2022, illustrant les risques liés au fast fashion face aux droits de douane et à la concurrence. Signal négatif pour les valorisations des acteurs e-commerce asiatiques et thème des chaînes d'approvisionnement.",
+          "source": "La Tribune",
+          "url": "https://www.latribune.fr",
           "niveau": "moyen"
         },
         {
-          "titre": "Pharma : la falaise des brevets pourrait entraîner 370 milliards de pertes",
-          "analyse": "La falaise des brevets menace 370 milliards de pertes et pousse à des fusions dans la pharmacie. Pour les portefeuilles exposés au secteur santé, cela crée à la fois des risques de concentration et des opportunités de repositionnement.",
-          "source": "L'Express",
-          "url": "",
+          "titre": "La consommation chinoise cale et menace d'exporter sa déflation",
+          "analyse": "Ventes au détail en hausse de seulement 0,6% en juillet : le risque déflationniste chinois pèse sur les marges industrielles occidentales. Facteur macro clé pour l'allocation d'actifs et l'exposition aux marchés émergents.",
+          "source": "La Tribune",
+          "url": "https://www.latribune.fr",
+          "niveau": "fort"
+        },
+        {
+          "titre": "Piratage du fisc : ZeroBytes dit avoir trouvé deux acheteurs",
+          "analyse": "Données de 678 000 usagers potentiellement exploitées pour des escroqueries ciblées. Risque majeur pour les clients : alerte sur la vigilance phishing, renforcement de l'authentification et sensibilisation à la cybersécurité patrimoniale.",
+          "source": "La Tribune",
+          "url": "https://www.latribune.fr",
+          "niveau": "fort"
+        },
+        {
+          "titre": "Incendies en Gironde : la bataille des assurances reste entière",
+          "analyse": "Malgré 100 M€ d'aides publiques, la question de l'indemnisation par les assureurs reste critique. Point de vigilance sur la couverture catastrophes naturelles des biens immobiliers des clients en zones à risque.",
+          "source": "La Tribune",
+          "url": "https://www.latribune.fr",
           "niveau": "moyen"
         },
         {
-          "titre": "Notaire condamnée pour virement sur un RIB frauduleux",
-          "analyse": "La condamnation d'une notaire pour virement sur RIB frauduleux rappelle les risques de fraude lors des transactions immobilières. Les CGP doivent sensibiliser leurs clients à la vérification systématique des coordonnées bancaires et aux procédures sécurisées.",
+          "titre": "Brésil : Lula salue la découverte de pétrole au large de l'Amazonie",
+          "analyse": "Petrobras annonce des indices d'hydrocarbures en eaux profondes, potentiellement significatifs pour l'offre énergétique mondiale. À suivre pour l'exposition aux valeurs énergie et aux matières premières, malgré les contestations environnementales.",
           "source": "Le Monde",
-          "url": "",
+          "url": "https://www.lemonde.fr",
           "niveau": "moyen"
         },
         {
-          "titre": "Immobilier : les jeunes acheteurs boudent les zones exposées aux risques climatiques",
-          "analyse": "Les risques climatiques (inondations, incendies, sécheresses) modifient les choix immobiliers des jeunes acquéreurs, ce qui peut affecter la valeur et la liquidité des biens dans les zones exposées. Un CGP doit intégrer ce critère dans les conseils d'achat et de diversification patrimoniale, en privilégiant les localisations résilientes.",
-          "source": "Le Revenu - Actualités financières",
-          "url": "",
+          "titre": "Crédit immobilier : production en chute de 21,5 % sur un an",
+          "analyse": "La contraction sévère du crédit immobilier (-21,5 % en production et -19,7 % en nombre de prêts) complique l'accès à la propriété pour les clients. Les CGP doivent anticiper des dossiers de financement plus complexes et privilégier les scénarios de renégociation ou d'apport renforcé.",
+          "source": "Le Revenu",
+          "url": "https://www.lerevenu.com",
           "niveau": "fort"
         },
         {
-          "titre": "Logement étudiant : les loyers des studios augmentent, la colocation recule",
-          "analyse": "La hausse de 1,6 % des loyers des studios et le recul de la colocation indiquent une demande soutenue pour les petites surfaces, ce qui peut renforcer l'attrait de l'investissement locatif étudiant. Un CGP peut conseiller ce type d'actif pour générer des revenus réguliers, tout en surveillant les évolutions réglementaires locales.",
-          "source": "Le Revenu - Actualités financières",
-          "url": "",
+          "titre": "BCE : risque de correction des marchés tech liés à l'IA",
+          "analyse": "La BCE alerte sur des valorisations déconnectées des fondamentaux dans le secteur IA, rappelant les risques de bulle. Les CGP doivent évaluer l'exposition de leurs clients aux valeurs technologiques américaines et envisager des prises de partiels ou une diversification sectorielle.",
+          "source": "Le Revenu",
+          "url": "https://www.lerevenu.com",
+          "niveau": "fort"
+        },
+        {
+          "titre": "Détroit d'Ormuz : trafic pétrolier quasi à l'arrêt",
+          "analyse": "Le blocage du détroit d'Ormuz par Téhéran constitue un choc majeur sur l'approvisionnement énergétique mondial. Les CGP doivent anticiper une volatilité accrue sur les matières premières et réévaluer les expositions aux valeurs énergétiques et inflationnistes.",
+          "source": "Le Revenu",
+          "url": "https://www.lerevenu.com",
+          "niveau": "fort"
+        },
+        {
+          "titre": "Or : le cours frôle les 4 400 dollars l'once",
+          "analyse": "L'or bénéficie d'un dollar affaibli et de tensions géopolitiques persistantes, confirmant son statut de refuge. C'est un signal pour les CGP de maintenir ou renforcer l'allocation or dans les portefeuilles comme couverture contre l'incertitude macroéconomique.",
+          "source": "Le Revenu",
+          "url": "https://www.lerevenu.com",
+          "niveau": "fort"
+        },
+        {
+          "titre": "Pensions sous-indexées : le gouvernement remet l'idée sur la table",
+          "analyse": "La sous-indexation des pensions des retraités les plus aisés revient dans le débat budgétaire à l'approche de 2027. Les CGP doivent intégrer ce risque fiscal dans les projections de revenus de leurs clients retraités et ajuster les stratégies de défiscalisation.",
+          "source": "Challenges",
+          "url": "https://www.challenges.fr",
+          "niveau": "fort"
+        },
+        {
+          "titre": "Dollar en baisse : l'euro remonte à 1,16 dollar",
+          "analyse": "Le recul du dollar face à l'euro, porté par des anticipations de pause de la Fed, impacte directement les portefeuilles internationaux. Les CGP doivent surveiller le risque de change sur les expositions en dollars et les couvertures devises des mandats multi-actifs.",
+          "source": "Le Revenu",
+          "url": "https://www.lerevenu.com",
           "niveau": "moyen"
         },
         {
-          "titre": "Prix du gaz : pourquoi la facture des Français risque de grimper cet hiver",
-          "analyse": "La hausse de 5,6 % du prix repère en septembre et le faible niveau des stocks européens (57 %) annoncent une augmentation des coûts énergétiques pour les ménages chauffés au gaz. Un CGP doit alerter ses clients sur l'impact budgétaire et envisager des solutions de maîtrise de la consommation ou de diversification énergétique.",
-          "source": "Le Revenu - Actualités financières",
-          "url": "",
-          "niveau": "fort"
-        },
-        {
-          "titre": "Location meublée : ces charges à déduire pour réduire ses impôts",
-          "analyse": "Le régime réel de la location meublée permet de déduire intérêts d'emprunt, taxe foncière, assurance, charges de copropriété et frais de gestion, réduisant ainsi le bénéfice imposable. Un CGP doit maîtriser ces leviers pour optimiser la fiscalité des clients investisseurs en LMNP, tout en respectant les conditions d'éligibilité.",
-          "source": "Le Revenu - Actualités financières",
-          "url": "",
-          "niveau": "fort"
-        },
-        {
-          "titre": "Achat immobilier : faut-il vraiment consacrer toute son épargne à l'apport ?",
-          "analyse": "Mobiliser toute son épargne pour l'apport réduit le coût du crédit mais expose à un risque de liquidité en cas d'imprévu. Un CGP doit recommander de conserver une épargne de précaution suffisante et d'arbitrer entre apport, taux d'endettement et diversification du patrimoine.",
-          "source": "Le Revenu - Actualités financières",
-          "url": "",
+          "titre": "Piratage du fisc : 678 000 personnes et entreprises concernées",
+          "analyse": "L'ampleur du piratage de la DGFiP expose les clients à un risque d'usurpation d'identité et de phishing fiscal. Les CGP doivent alerter leurs clients sur la vigilance à adopter et vérifier la sécurité de leurs données fiscales partagées.",
+          "source": "Challenges",
+          "url": "https://www.challenges.fr",
           "niveau": "moyen"
         },
         {
-          "titre": "Gaz : jusqu'à 509 euros de hausse sur la facture des ménages en 2026",
-          "analyse": "La facture de gaz pourrait s'alourdir de 509 euros pour certains foyers en 2026, après une année déjà marquée par plusieurs hausses. Un CGP doit intégrer cette pression sur le pouvoir d'achat dans les plans budgétaires de ses clients et explorer des alternatives comme les contrats à prix fixe ou les travaux d'efficacité énergétique.",
-          "source": "Le Revenu - Actualités financières",
-          "url": "",
-          "niveau": "fort"
-        },
-        {
-          "titre": "Sur l'île d'Oléron, les millions d'Airbnb financent le retour des locations à l'année",
-          "analyse": "La politique d'Oléron, qui utilise les revenus d'Airbnb pour inciter les propriétaires à louer à l'année, illustre une tendance de régulation des locations touristiques au profit du logement permanent. Un CGP doit suivre ces dispositifs locaux, car ils peuvent modifier la rentabilité et la fiscalité des investissements locatifs saisonniers.",
-          "source": "Alternatives économiques",
-          "url": "",
+          "titre": "Grandes dynasties : le casse-tête de la succession",
+          "analyse": "Les difficultés de transmission des empires familiaux illustrent un enjeu croissant pour les clients fortunés. Les CGP ont là un argument pour proposer des audits de succession et des montages de transmission anticipée face à la pénurie de repreneurs et aux conflits familiaux.",
+          "source": "Challenges",
+          "url": "https://www.challenges.fr",
           "niveau": "moyen"
         },
         {
-          "titre": "Les actions montent et le dollar recule alors que les marchés réduisent les risques de hausse de la Fed",
-          "analyse": "L'apaisement des anticipations de hausse des taux de la Fed soutient les actions et pèse sur le dollar, ce qui peut favoriser une allocation plus risquée à court terme. Un CGP doit surveiller ces signaux pour ajuster les portefeuilles, notamment en diversifiant les expositions géographiques et en gérant le risque de change.",
+          "titre": "Crédit immobilier : taux contenus en août, premières tensions",
+          "analyse": "Les taux moyens s'établissent à 3,44 % sur 20 ans et 3,52 % sur 25 ans, avec des banques encore compétitives sur les bons dossiers. Pour un CGP, c'est une fenêtre favorable à conseiller avant une éventuelle remontée de septembre.",
+          "source": "MySweetimmo",
+          "url": "https://www.mysweetimmo.com",
+          "niveau": "fort"
+        },
+        {
+          "titre": "Décret 30/04/2026 : impact pour les SCI en assurance-vie",
+          "analyse": "Ce décret modifie le traitement des autres FIA et des unités de comptes logeant des SCI dans les contrats d'assurance-vie. Le CGP doit vérifier la compatibilité des montages existants et anticiper les ajustements contractuels.",
+          "source": "MeilleureSCPI.com",
+          "url": "https://www.meilleurescpi.com",
+          "niveau": "fort"
+        },
+        {
+          "titre": "Immobilier britannique : les prix affichés reculent de 2 %",
+          "analyse": "Rightmove signale un repli des prix demandés en août sous l'effet d'une offre abondante, redonnant du pouvoir aux acheteurs. C'est un signal à surveiller pour anticiper un possible contrecien en France sur les marchés résidentiels.",
+          "source": "MySweetimmo",
+          "url": "https://www.mysweetimmo.com",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Bourses européennes : espoirs sur les taux soutiennent les marchés",
+          "analyse": "Le CAC 40 est attendu en hausse de 0,15 % et le Stoxx 600 de 0,23 %, portés par la baisse des anticipations de hausse des taux américains. Contexte modérément positif pour l'allocation actions européennes en portefeuille.",
+          "source": "Le Revenu - Actualités financières",
+          "url": "https://www.lerevenu.com",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Actions européennes sous pression : pétrole et taux en hausse",
+          "analyse": "Les valeurs européennes reculent sous l'effet de la surge des prix du pétrole et des rendements obligataires liés aux tensions au Moyen-Orient. Le CGP doit intégrer ce risque géopolitique dans la gestion du risque des portefeuilles.",
           "source": "All News",
-          "url": "",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Piratage du fisc : Lecornu convoque une cellule interministérielle de crise",
-          "analyse": "Cette fuite massive de données fiscales expose les clients à des risques d'usurpation d'identité et de fraude. Les CGP doivent alerter leurs clients sur la surveillance renforcée des avis d'imposition et des comptes bancaires, et proposer des solutions de protection de l'identité numérique.",
-          "source": "notretemps.com",
-          "url": "https://www.notretemps.com/actualites/piratage-fisc-lecornu-cellule-crise",
+          "url": "https://www.allnews.com",
           "niveau": "fort"
         },
         {
-          "titre": "Incendies en Gironde : Lecornu lance la reconstruction dans un climat de défiance",
-          "analyse": "La reconstruction post-incendie pourrait impacter les assurances habitation et les valeurs immobilières locales. Les CGP ayant des clients dans la région doivent anticiper les demandes d'indemnisation et réévaluer les risques climatiques dans les portefeuilles.",
-          "source": "notretemps.com",
-          "url": "https://www.notretemps.com/actualites/incendies-gironde-reconstruction-lecornu",
+          "titre": "Philip Lane : hausse des dépenses de défense et économie euro",
+          "analyse": "Le membre de la BCE analyse l'impact macroéconomique de la montée des dépenses militaires sur la zone euro. Un facteur structurel à intégrer dans les scénarios d'allocation et d'inflation à moyen terme.",
+          "source": "ECB - European Central Bank",
+          "url": "https://www.ecb.europa.eu",
           "niveau": "moyen"
         },
         {
-          "titre": "Canicule : six départements du sud-est en vigilance orange jusqu'à mercredi",
-          "analyse": "La persistance de la canicule rappelle l'importance d'intégrer les risques climatiques dans la planification patrimoniale, notamment pour les clients âgés ou dépendants. Les CGP peuvent sensibiliser sur les dispositifs d'adaptation du logement et les protections santé.",
-          "source": "notretemps.com",
-          "url": "https://www.notretemps.com/actualites/canicule-vigilance-orange-sud-est",
-          "niveau": "faible"
+          "titre": "Shein vise 25 milliards de dollars en Bourse à Hong Kong",
+          "analyse": "La valorisation visée chute de 98 à 25 milliards de dollars, illustrant la dégradation des conditions de marché pour les introductions et les valorisations tech/retail. Un point de vigilance pour les expositions au capital-investissement et aux IPOs.",
+          "source": "Le Revenu - Actualités financières",
+          "url": "https://www.lerevenu.com",
+          "niveau": "moyen"
         },
         {
-          "titre": "Chronique : la nostalgie du monde d'avant, un biais à dépasser",
-          "analyse": "La réflexion sur la nostalgie peut être un angle d'approche pour aborder la transmission patrimoniale et les biais comportementaux des clients, souvent attachés à des actifs du passé au détriment d'allocations plus adaptées à leur situation actuelle.",
-          "source": "notretemps.com",
-          "url": "https://www.notretemps.com/chroniques/nostalgie-monde-avant-biais",
-          "niveau": "faible"
+          "titre": "SCPI Edmond de Rothschild Europa investit 4,1 M£ en Angleterre",
+          "analyse": "Cette acquisition illustre la poursuite de la diversification européenne des SCPI malgré un contexte britannique tendu. Le CGP peut y voir un signal de sélectivité accrue des sociétés de gestion sur les actifs et les rendements locatifs.",
+          "source": "MeilleureSCPI.com",
+          "url": "https://www.meilleurescpi.com",
+          "niveau": "moyen"
         },
         {
-          "titre": "Piratage du fisc : les sénateurs socialistes demandent une commission d'enquête",
-          "analyse": "Cette cyberattaque expose les données fiscales de nombreux contribuables, créant un risque élevé d'usurpation d'identité et de fraude. Les CGP doivent alerter leurs clients sur la surveillance de leurs avis d'imposition et de leurs comptes bancaires, et recommander des mesures de protection comme le gel des crédits ou la vérification des identifiants fiscaux.",
-          "source": "notretemps.com",
-          "url": "",
+          "titre": "Crowdfunding immobilier : recul de 28 % en 2023 dans un marché en recomposition",
+          "analyse": "Le crowdfunding immobilier a enregistré une baisse de 28 % en 2023, reflet de la contraction du marché immobilier. Pour le CGP, ce repli doit inciter à la prudence : les rendements passés ne préjugent pas des performances futures et le risque de retard de remboursement augmente. Il convient de repositionner cette classe d'actifs comme un complément spéculatif, jamais comme un socle patrimonial.",
+          "source": "Crowdfunding Immo",
+          "url": "https://www.crowdfunding-immo.fr/le-crowdfunding-immobilier-en-2023-un-recul-marque",
           "niveau": "fort"
         },
         {
-          "titre": "Cellule interministérielle de crise après le piratage de 678 000 données fiscales",
-          "analyse": "L'ampleur de la fuite (678 000 personnes) justifie une vigilance accrue des conseillers en gestion de patrimoine. Il est conseillé d'informer proactivement les clients concernés, de les inciter à activer l'authentification à double facteur sur les services fiscaux en ligne et de documenter toute anomalie pour faciliter d'éventuelles démarches de réparation.",
-          "source": "JDN : Derniers contenus",
-          "url": "",
+          "titre": "Crowdfunding immobilier : risques de retards et évolutions réglementaires à surveiller",
+          "analyse": "Les retards de remboursement et les évolutions réglementaires constituent des risques spécifiques du crowdfunding immobilier. Le CGP doit systématiquement vérifier la solidité de la plateforme, la qualité du promoteur et les garanties attachées au projet avant de recommander ce type de placement. Une due diligence renforcée s'impose face à l'opacité persistante de certains dossiers.",
+          "source": "Crowdfunding Immo",
+          "url": "https://www.crowdfunding-immo.fr/crowdfunding-immobilier-risques-retards-reglementation",
           "niveau": "fort"
         },
         {
-          "titre": "Aide à mourir : impartialité du Conseil constitutionnel en question",
-          "analyse": "La décision du Conseil constitutionnel sur la loi relative à l'aide à mourir peut avoir des répercussions sur la planification successorale et les directives anticipées. Les CGP devraient suivre l'évolution du cadre légal pour conseiller leurs clients sur la rédaction de clauses bénéficiaires d'assurance-vie et la transmission de patrimoine en cas de fin de vie.",
-          "source": "Actu-Juridique",
-          "url": "",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Le Conseil constitutionnel censure l'interdiction des réseaux sociaux aux moins de 15 ans",
-          "analyse": "Cette censure a un impact limité pour la gestion de patrimoine, mais rappelle l'importance de la protection des mineurs dans l'environnement numérique. Les CGP peuvent en profiter pour sensibiliser leurs clients à la transmission du patrimoine numérique et à l'éducation financière des jeunes générations.",
-          "source": "JDN : Derniers contenus",
-          "url": "",
-          "niveau": "faible"
-        },
-        {
-          "titre": "COP17 Désertification : la préservation des sols, enjeu critique pour les entreprises",
-          "analyse": "La santé des sols devient un critère ESG de plus en plus scruté par les investisseurs. Les CGP peuvent orienter leurs clients vers des fonds thématiques liés à la régénération des sols ou à l'agriculture durable, tout en évaluant les risques de transition pour les secteurs exposés à la dégradation des terres.",
-          "source": "Novethic",
-          "url": "",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Feu de forêt stable dans les Landes, priorité aux attaques au sol",
-          "analyse": "Les sinistres climatiques récurrents renforcent la nécessité de revoir les contrats d'assurance habitation et les garanties contre les catastrophes naturelles. Les CGP devraient inciter leurs clients à vérifier les franchises, les plafonds d'indemnisation et l'adéquation de leur couverture face aux risques environnementaux croissants.",
+          "titre": "Retraite des frontaliers : la fiscalité du 2e pilier suisse peut coûter cher",
+          "analyse": "Les travailleurs frontaliers ayant cotisé en Suisse et optant pour le versement en capital de leur deuxième pilier s'exposent désormais à la contribution fiscale française. Le CGP doit alerter ses clients frontaliers sur l'arbitrage capital/rente et intégrer ce paramètre dans toute stratégie de sortie de retraite. Une simulation fiscale préalable devient indispensable.",
           "source": "notretemps.com",
-          "url": "",
+          "url": "https://www.notretemps.com/retraite/retraite-frontaliers-fiscalite-2e-pilier-suisse",
+          "niveau": "fort"
+        },
+        {
+          "titre": "Piratage du fisc : ZeroBytes affirme avoir vendu les données dérobées",
+          "analyse": "Le vol massif de données fiscales et leur revente alléguée exposent les contribuables à des risques d'usurpation d'identité et de fraude. Le CGP doit recommander à ses clients une vigilance accrue sur leurs comptes et documents fiscaux, ainsi que la mise en place d'alertes de surveillance. Cet épisode souligne l'importance de la cybersécurité dans la protection du patrimoine.",
+          "source": "notretemps.com",
+          "url": "https://www.notretemps.com/actualites/piratage-fisc-zeroBytes-donnees-vendues",
+          "niveau": "fort"
+        },
+        {
+          "titre": "Coût de la vie étudiante en hausse de 1,66 % sur un an selon l'Unef",
+          "analyse": "La hausse continue du coût de la vie étudiante pèse sur le budget des familles et doit être intégrée dans les stratégies d'épargne dédiées aux études. Le CGP peut conseiller des enveloppes d'épargne spécifiques ou des dispositifs de défiscalisation pour anticiper ces dépenses. Cette tendance renforce l'intérêt des plans d'épargne éducation à long terme.",
+          "source": "notretemps.com",
+          "url": "https://www.notretemps.com/actualites/cout-vie-etudiante-augmentation-unef-2026",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Allocation de rentrée scolaire 2026 : jusqu'à 466 euros versés dès le 18 août",
+          "analyse": "Le versement de l'allocation de rentrée scolaire dès le 18 août constitue un soutien de trésorerie pour des millions de familles. Le CGP peut rappeler à ses clients éligibles les plafonds de ressources et les démarches, et intégrer cette aide dans l'analyse budgétaire globale. C'est aussi l'occasion d'aborder la planification des dépenses de rentrée.",
+          "source": "notretemps.com",
+          "url": "https://www.notretemps.com/actualites/allocation-rentree-scolaire-2026-montant-eligibilite",
           "niveau": "moyen"
         }
       ]
