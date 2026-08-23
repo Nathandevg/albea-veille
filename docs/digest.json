@@ -1,20 +1,20 @@
 {
-  "date_fr": "vendredi 21 août 2026",
-  "synthese_jour": "Les marchés restent dominés par la prudence : le dollar rebondit après trois mois de baisse, stoppant le rally obligataire, tandis que l'or et le Brent évoluent en zone de surachat technique. Côté immobilier, plusieurs publications SCPI (collectes, TOF, cessions) rythment l'actualité, alors que la dette américaine et le budget français 2027 concentrent les risques macroéconomiques.",
+  "date_fr": "dimanche 23 août 2026",
+  "synthese_jour": "Les marchés restent sous tension avec des taux longs au plus haut depuis 2008 en France et une dette américaine dépassant 40 000 Md$, provoquant une fuite vers l'or et le bitcoin. Le contexte géopolitique (guerre commerciale USA-Canada, conflit Iran, Ukraine) et la pression fiscale européenne accrue dominent l'actualité, tandis que l'IA continue de capter les investissements massifs (Alibaba 10 Md$). L'AMF confirme des performances médianes négatives des FIP, un signal fort pour le conseil en défiscalisation.",
   "chiffres_cles": [
-    "Euro : 1,1692 $ (plus haut de 3 mois)",
-    "Or : résistance testée à 4 627 $",
-    "Brent : résistance 94-95 $",
-    "SCPI Épargne Pierre Europe : TOF record de 99,79 %",
-    "Comporta (Portugal) : jusqu'à 20 000 €/m²",
-    "Danone : rachat de Huel pour 1,2 Md€"
+    "Taux français 10 ans : plus haut depuis 2008",
+    "Taux longs US : plus haut depuis 2007",
+    "Dette américaine : > 40 000 Md$",
+    "Alibaba : levée de 10 Md$ pour l'IA",
+    "TotalEnergies : 11,2 Md$ de bénéfices au S1",
+    "FIP : TRI médian de -2,4 %/an, FCPI -1,1 %/an"
   ],
   "a_surveiller": [
-    "Évolution de la dette américaine et des rendements longs après les rachats de Washington",
-    "Répercussions de la crise immobilière chinoise (Evergrande) sur la confiance mondiale",
-    "Tension sur les taux d'intérêt et impact sur les Bourses européennes (CAC 40, DAX, FTSE)",
-    "Zone de surachat sur l'or et le Brent : risque de pullback à court terme",
-    "Décisions budgétaires françaises 2027 et risques de prolongation de la loi spéciale"
+    "Escalade de la guerre commerciale USA-Canada avec surtaxes de 50% dès le 8 septembre",
+    "Pression fiscale européenne sur les surprofits pétroliers (6 pays de l'UE)",
+    "Instabilité budgétaire française avant la présidentielle (gel des réformes fiscales)",
+    "Monétisation de l'IA par les méga-caps US : le miracle économique tarde à se matérialiser",
+    "Risque de dépréciation de l'immobilier littoral face à l'érosion côtière"
   ],
   "sections": [
     {
@@ -23,136 +23,101 @@
       "niveau_global": "fort",
       "items": [
         {
-          "titre": "La crise économique mondiale continue à s'aggraver",
-          "analyse": "Washington rachète 4 milliards de dollars de dette, ce qui fait flamber le bitcoin et l'or. Pour un CGP, c'est un signal de soutien monétaire qui peut soutenir les actifs refuges, mais aussi un marqueur de fragilité budgétaire à intégrer dans l'allocation.",
-          "source": "Le Monde.fr",
-          "url": "https://www.lemonde.fr/actualites/economie/article/506870/l-debt-discoque-a-t-il-bien-pour-reconquérir-la-france?fbclid=IwAR1uWfFvQoDpZbVUdJjzYsEhKkLqgRcSxGmHlCnXaBtOeTjyMjAaNfZi1r0",
+          "titre": "CAC 40 : huit séances de baisse, taux français à 10 ans au plus haut depuis 2008",
+          "analyse": "Le retournement de la hiérarchie des valeurs (STM, Thales chahutés, luxe fragile) couplé à la remontée des taux longs oblige à revoir l'allocation en faveur des valeurs décotées et des foncières. Vigilance accrue sur la duration obligataire et le compartiment growth.",
+          "source": "Le Revenu",
+          "url": "https://www.lerevenu.com/bourse/cac-40-les-taux-montent-la-hierarchie-des-valeurs-se-renverse",
           "niveau": "fort"
         },
         {
-          "titre": "Dette américaine : Washington contraint d'agir",
-          "analyse": "La hausse des rendements et des dépenses budgétaires fédérales met la dette américaine sous pression, nécessitant des mesures pour stabiliser les taux longs. Impact direct sur les portefeuilles obligataires internationaux : à réévaluer la duration et l'exposition aux Treasuries.",
+          "titre": "Marchés étrangers : taux longs US au plus haut depuis 2007, dette américaine > 40 000 Md$",
+          "analyse": "Au-delà du narratif IA, le risque souverain américain redevient le driver principal. Pour les CGP, cela justifie une diversification hors USA, une exposition à l'or et une prudence sur les obligations longues dollar.",
+          "source": "Le Revenu",
+          "url": "https://www.lerevenu.com/bourse/bourses-etrangeres-les-informations-quil-ne-fallait-pas-manquer-cette-semaine",
+          "niveau": "fort"
+        },
+        {
+          "titre": "Guerre commerciale USA-Canada : surtaxes de 50% et riposte d'Ottawa",
+          "analyse": "Échec des négociations Washington-Ottawa, déclenchement de surtaxes américaines de 50% sur certains produits canadiens et représailles canadiennes sur l'acier et les produits laitiers dès le 8 septembre. Impact direct sur les chaînes d'approvisionnement nord-américaines, exposition accrue des entreprises exportatrices et risque d'effet domino sur les marchés. À surveiller pour les clients ayant des actifs ou activités transatlantiques.",
+          "source": "Le Monde",
+          "url": "https://www.lemonde.fr/international/article/2025/08/24/mark-carney-denonce-la-guerre-commerciale-lancee-par-donald-trump-contre-le-canada",
+          "niveau": "fort"
+        },
+        {
+          "titre": "L'or et le bitcoin bondissent après l'annonce du Trésor américain sur les rachats de bonds",
+          "analyse": "L'annonce d'un doublement des buybacks par le Trésor US a déclenché un rallye simultané or/crypto et une baisse du dollar. Signal d'une défiance croissante envers la dette souveraine : opportunité de renforcer l'or physique et une poche crypto dans les allocations défensives.",
+          "source": "MarketWatch",
+          "url": "https://www.marketwatch.com/livecoverage/treasury-bond-buybacks-gold-bitcoin",
+          "niveau": "fort"
+        },
+        {
+          "titre": "Alibaba lève 10 Md$ pour accélérer dans l'intelligence artificielle",
+          "analyse": "Le géant chinois émet de nouvelles actions à Hong Kong pour financer ses modèles et infrastructures IA. Cette levée massive confirme la course mondiale aux investissements IA et la pression sur les valorisations tech. Signal positif pour le secteur tech chinois et global, à intégrer dans l'allocation thématique IA des patrimoines.",
           "source": "La Tribune",
-          "url": "URL de l'article",
+          "url": "https://www.latribune.fr/technos/alibaba-leve-10-milliards-de-dollars-pour-accelerer-dans-l-intelligence-artificielle",
           "niveau": "fort"
         },
         {
-          "titre": "Crise immobilière chinoise : condamnation du patron d'Evergrande",
-          "analyse": "L'effondrement d'Evergrande continue de peser sur la confiance et la consommation en Chine, avec des répercussions potentielles pour l'économie mondiale. Pour les clients exposés aux actions émergentes ou aux matières premières, c'est un facteur de risque à intégrer.",
+          "titre": "L'IA va-t-elle enrichir les USA ? Le miracle économique tarde à se matérialiser",
+          "analyse": "Malgré les promesses d'Elon Musk sur une révolution économique d'ici 2036, les retombées concrètes de l'IA sur le pouvoir d'achat américain et la productivité restent décevantes. Point d'attention pour les clients exposés aux valeurs tech US : la valorisation des méga-caps repose sur une hypothèse de monétisation encore non prouvée, ce qui justifie une diversification prudente.",
+          "source": "L'Express",
+          "url": "https://www.lexpress.fr/economie/l-ia-va-t-elle-enrichir-les-etats-unis",
+          "niveau": "fort"
+        },
+        {
+          "titre": "Conflit Iran : l'armée américaine montre des signes de fragilité",
+          "analyse": "Le conflit avec l'Iran entre dans son septième mois avec des troupes américaines épuisées et des pénuries d'armement. Cette situation géopolitique durable alimente la volatilité sur le pétrole et l'or, valeurs refuges à renforcer dans l'allocation. Risque également d'escalade accrue si Téhéran met à exécution sa menace de représailles sur les sanctions.",
           "source": "La Tribune",
-          "url": "URL de l'article",
-          "niveau": "fort"
-        },
-        {
-          "titre": "BofA : risque baissier sur le dollar, potentiel haussier sur l'euro",
-          "analyse": "Bank of America anticipe un dollar fragilisé à court terme face à un euro porté par le différentiel de politique monétaire. Pour un CGP, cela invite à revoir les couvertures de change des expositions USD et à envisager un rééquilibrage progressif vers l'EUR, sans parier sur un trend unidirectionnel.",
-          "source": "Forex News",
-          "url": "",
-          "niveau": "fort"
-        },
-        {
-          "titre": "Dollar rebondit après trois mois de baisse, rally obligataire stoppé",
-          "analyse": "Le billet vert reprend des couleurs après avoir touché un plus bas de plus de trois mois, stoppant dans le même temps le rally des Treasuries. Signal technique majeur pour les portefeuilles multi-devises et les expositions obligataires internationales : à intégrer dans le suivi tactique des allocations.",
-          "source": "Forex News",
-          "url": "",
-          "niveau": "fort"
-        },
-        {
-          "titre": "Dollar : le billet vert tombe à un plus bas de trois mois, l'euro remonte à 1,1692 $",
-          "analyse": "Fluctuations du marché des changes, avec une dépréciation du dollar et une reprise de l'euro. Pour les clients ayant des actifs libellés en USD, c'est un moment opportun pour réévaluer les couvertures de change et la diversification internationale.",
-          "source": "Le Revenu",
-          "url": "https://www.le-revenu.com/actualites-financieres/dollar-le-billet-vert-tombe-a-un-plus-bas-de-trois-mois-l-euro-remonte-a-1-1692",
+          "url": "https://www.latribune.fr/defense/guerre-en-iran-l-armee-americaine-mise-a-l-epreuve",
           "niveau": "moyen"
         },
         {
-          "titre": "Bourses européennes : CAC 40, DAX et FTSE reculent face à la tension sur les taux",
-          "analyse": "La pression sur les taux d'intérêt pèse sur les indices européens. Pour les portefeuilles actions, c'est un signal de prudence à court terme, à mettre en regard des opportunités de renforcement sur repli pour les horizons longs.",
-          "source": "Le Revenu",
-          "url": "https://www.le-revenu.com/actualites-financieres/bourses-europeennes-cac-40-dax-et-ftse-reculent-face-a-la-tension-sur-les-taux",
+          "titre": "Macron promet des missiles intercepteurs à Kiev après la frappe de Kryvyi Rih",
+          "analyse": "Double frappe russe meurtrière (16 morts) et engagement militaire français accru. Cette escalade du soutien occidental à l'Ukraine prolonge l'incertitude géopolitique européenne et la pression sur les budgets de défense. Impact modéré mais réel sur les taux longs et le climat d'investissement en Europe, à intégrer dans la gestion du risque souverain.",
+          "source": "L'Express",
+          "url": "https://www.lexpress.fr/monde/ukraine-macron-promet-l-envoi-de-missiles-intercepteurs-a-kiev",
           "niveau": "moyen"
         },
         {
-          "titre": "Or : test de la résistance à 4 627 $ avec un RSI en zone de surachat",
-          "analyse": "Le métal jaune aborde une zone technique majeure dans une configuration de surachat court terme. Pilier d'allocation patrimoniale, l'or reste à conserver mais un pullback est possible. Recommandation : renforcer progressivement sur faiblesse plutôt que de chasser le prix, et plafonner la poche à 5-10 % du patrimoine financier.",
-          "source": "All News",
-          "url": "",
+          "titre": "Relance nucléaire : Cadarache démantelé, deux EPR2 en construction à Gravelines",
+          "analyse": "Double mouvement symbole de la stratégie énergétique française. Pour les clients exposés à EDF et au secteur, perspective de cash-flows longs mais aussi de coûts de démantèlement à provisionner ; opportunité sur les ETF infrastructure et small/mid caps du nucléaire.",
+          "source": "La Tribune",
+          "url": "https://www.latribune.fr/energie-environnement/demanteler-cadarache-batir-gravelines",
           "niveau": "moyen"
         },
         {
-          "titre": "Brent bloqué sous la résistance 94-95 $ en zone de surachat",
-          "analyse": "Le pétrole cale sous une résistance technique forte après un rally significatif. Pour les unités de compte et fonds indiciels matières premières présents dans les contrats d'assurance-vie, c'est un signal de prudence. Attendre une consolidation avant toute exposition nouvelle au secteur énergie.",
-          "source": "All News",
-          "url": "",
+          "titre": "EPR2 : feu vert aux travaux préparatoires à Gravelines",
+          "analyse": "Le décret autorisant les travaux préparatoires des deux futurs EPR2 de Gravelines sécurise la trajectoire industrielle d'EDF et de la filière nucléaire française. Impact direct sur le titre EDF et les valeurs du secteur (Framatome, Vinci, Bouygues TP). Pour les clients CGP, ce type de news valide la thèse d'investissement sur le nucléaire et les infrastructures énergétiques dans une logique ISR/climat.",
+          "source": "notretemps.com",
+          "url": "https://www.notretemps.com/actualites/environnement/nucleaire-feu-vert-aux-travaux-preparatoires-des-futurs-reacteurs-epr2-a-gravelines",
           "niveau": "moyen"
         },
         {
-          "titre": "Michelin : JPMorgan passe à l'achat et vise 40 euros, l'action accélère en Bourse",
-          "analyse": "JPMorgan confirme sa confiance dans Michelin avec une recommandation de surpondérer et un objectif de 40 euros. Pour les portefeuilles actions, c'est un signal positif sur la valeur, à intégrer dans une analyse plus large du secteur automobile.",
-          "source": "Le Revenu",
-          "url": "https://www.le-revenu.com/actualites-financieres/michelin-jpmorgan-passe-a-lachat-et-vise-40-euros-l-action-accelere-en-bourse",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Bourses du Golfe : le pétrole soutient les marchés malgré les tensions avec l'Iran",
-          "analyse": "Les Bourses du Golfe réagissent positivement, soutenues par les cours du pétrole malgré les tensions géopolitiques. Pour les clients exposés aux marchés émergents, c'est un point de diversification à considérer, mais avec une vigilance sur le risque géopolitique.",
-          "source": "Le Revenu",
-          "url": "https://www.le-revenu.com/actualites-financieres/bourses-du-golfe-le-petrole-soutient-les-marches-malgre-les-tensions-avec-liran",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Danone : Londres autorise le rachat de Huel pour 1,2 milliard d'euros",
-          "analyse": "Acquisition stratégique par Danone, signe d'expansion dans le secteur des produits alimentaires. Pour les portefeuilles actions, c'est une opération de croissance externe à suivre pour son impact potentiel sur la valorisation du groupe.",
-          "source": "Le Revenu",
-          "url": "https://www.le-revenu.com/actualites-financieres/danone-londres-autorise-le-rachat-de-huel-pour-1-2-milliard-deuros",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "JD Sports chute en Bourse : ses bénéfices menacés par la baisse des ventes aux États-Unis",
-          "analyse": "Dégradation des perspectives financières de JD Sports due à une faible demande aux États-Unis. Pour les clients exposés au secteur de la distribution, c'est un signal de prudence sur les valeurs cycliques.",
-          "source": "Le Revenu",
-          "url": "https://www.le-revenu.com/actualites-financieres/jd-sports-chute-en-bourse-ses-benefices-menaces-par-la-baisse-des-ventes-aux-etats-unis",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Thales : un nouveau partenariat pour renforcer les capacités de défense aérienne du Danemark",
-          "analyse": "Partenariat stratégique dans le domaine de la défense aérienne, signe d'une croissance potentielle dans l'industrie européenne. Pour les clients, c'est un signal positif sur le secteur de la défense, à intégrer dans une allocation thématique.",
-          "source": "Le Revenu",
-          "url": "https://www.le-revenu.com/actualites-financieres/thales-un-nouveau-partenariat-pour-renforcer-les-capacites-defense-aeriene-du-danemark",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Accord commercial Canada-États-Unis",
-          "analyse": "Proches d'un compromis après des tensions commerciales, un signe positif pour la stabilité économique nord-américaine. Pour les clients avec des expositions nord-américaines, c'est un facteur de soutien potentiel.",
-          "source": "Challenges",
-          "url": "URL de l'article",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Rally Bitcoin : c'est Bessent, pas Trump, qui a déclenché le rally",
-          "analyse": "Le rally de Bitcoin suite aux statements de Bessent montre l'influence des leaders de la crypto-monnaie. Pour les clients intéressés par les actifs numériques, c'est un rappel de la volatilité et de l'importance de la diversification.",
-          "source": "Finyear",
-          "url": "https://www.finyear.com/bitcoin-8-le-19-august-2026-cest-bessent-pas-trump-qui-a-declenche-le-rally",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Acquisition ebm-papst par Madison Air",
-          "analyse": "L'acquisition d'ebm-papst pour 5,4 milliards de dollars par Madison Air marque une consolidation industrielle significative dans le secteur du refroidissement des data centers. Pour les clients, c'est un signal sur la croissance du secteur technologique et des infrastructures.",
-          "source": "Finyear",
-          "url": "https://www.finyear.com/madison-air-rachete-ebmpapst-54-mds-le-ma-du-refroidissement-data-center",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Le prix de l'électricité s'envole en France depuis un an et demi",
-          "analyse": "Les chaleurs marquées par une forte épidémie de coronavirus ont affecté le réseau électrique, ce qui a conduit à un niveau record de prix de l'électricité. Pour les clients, c'est un facteur de hausse des coûts à intégrer dans les prévisions de trésorerie.",
-          "source": "Météo-France",
-          "url": "https://www.meteofrance.fr/actualites/economique/prix-electricite",
+          "titre": "Présidentielle : Glucksmann officialise sa candidature",
+          "analyse": "Confirmation d'une candidature social-démocrate qui rebat les cartes du centre gauche et influence les scénarios de majorité. À surveiller pour l'analyse de risque politique de long terme (fiscalité, réformes structurelles).",
+          "source": "notretemps.com",
+          "url": "https://www.notretemps.com/actualites/politique/presidentielle-fin-du-suspens-pour-raphael-glucksmann",
           "niveau": "faible"
         },
         {
-          "titre": "Les entreprises françaises sont confrontées aux retards économiques",
-          "analyse": "Fuite massive de données : plus de neuf millions de visages exposés, un risque impossible à effacer. Pour les clients, c'est un rappel des risques cyber et de la nécessité de sécuriser les données.",
-          "source": "Le Monde.fr",
-          "url": "https://www.laventure.com/articles/2023-09-01/les-entreprises-françaises-sont-confrontees-aux-retards-economiques/",
+          "titre": "Écologistes désemparés face à la présidentielle",
+          "analyse": "Fragmentation persistante des écologistes qui complique l'émergence d'un candidat unique et pèse sur la lisibilité de l'offre politique de gauche. Impact indirect sur les marchés via le risque institutionnel et la visibilité réglementaire.",
+          "source": "notretemps.com",
+          "url": "",
+          "niveau": "faible"
+        },
+        {
+          "titre": "Mayotte : Philippe répond à Mélenchon sur la crise migratoire",
+          "analyse": "Premier échange de la séquence présidentielle sur le sujet migratoire, potentiellement structurant pour le débat public. Sujet à intégrer dans l'analyse de risque pays France et dans le contexte des obligations souveraines.",
+          "source": "notretemps.com",
+          "url": "",
+          "niveau": "faible"
+        },
+        {
+          "titre": "Paris : mise à l'abri de 253 migrants d'un campement",
+          "analyse": "Illustration de la pression migratoire persistante en Île-de-France et des coûts budgétaires associés. Signal faible pour les politiques publiques locales et le logement, mais peu d'impact direct sur les marchés financiers.",
+          "source": "notretemps.com",
+          "url": "",
           "niveau": "faible"
         }
       ]
@@ -163,50 +128,50 @@
       "niveau_global": "fort",
       "items": [
         {
-          "titre": "Budget 2027 : risques financiers en cas de prolongation de la loi spéciale",
-          "analyse": "Rapport alertant sur les risques pour les finances publiques françaises si une loi spéciale prolongée est adoptée, nécessitant une vigilance accrue. Pour les clients, c'est un signal sur la stabilité fiscale et les éventuelles hausses d'impôts à anticiper.",
-          "source": "Challenges",
-          "url": "URL de l'article",
+          "titre": "Budget 2027 : Lecornu alerte sur le « choix du désordre »",
+          "analyse": "Le Premier ministre met en garde contre les conséquences de l'absence de budget avant la présidentielle, évoquant une nécessaire prolongation des textes actuels. Signal d'instabilité politique et budgétaire française à huit mois du scrutin, avec un risque de gel des réformes fiscales. À anticiper dans le conseil patrimonial : possible attentisme sur la transmission, l'IFI ou les plus-values.",
+          "source": "La Tribune",
+          "url": "https://www.latribune.fr/politique/budget-2027-lecornu-met-en-garde-contre-le-choix-du-desordre",
           "niveau": "fort"
         },
         {
-          "titre": "Lecornu dément certaines pistes d'économies",
-          "analyse": "La décision de Sébastien Lecornu de ne pas mettre en place certains aspects d'une politique économique est reconnue comme une faute de gestion. Pour les clients, c'est un point de vigilance sur les orientations budgétaires et leurs impacts fiscaux.",
-          "source": "Notre temps",
-          "url": "https://www.notremet.com/article/lecornus-de-nea-titre-pire-dans-la-politique-economique/",
-          "niveau": "faible"
+          "titre": "Six pays de l'UE veulent taxer les surprofits pétroliers",
+          "analyse": "Allemagne, Italie, Espagne, Autriche, Pologne et Portugal réclament une taxe européenne sur les surprofits des majors pétrolières, après le choc du détroit d'Ormuz. TotalEnergies a dégagé 11,2 Md$ au S1. Pour les clients détenteurs de titres TotalEnergies ou de fonds énergie, risque de pression fiscale sectorielle accrue et d'érosion des dividendes. À mettre en regard avec la volatilité du prix du brut.",
+          "source": "La Tribune",
+          "url": "https://www.latribune.fr/energie-environnement/six-pays-de-l-ue-veulent-faire-payer-les-petroliers",
+          "niveau": "fort"
+        },
+        {
+          "titre": "Succession : méthodologie pour chiffrer l'actif net taxable",
+          "analyse": "Rappel utile pour les clients en phase de préparation patrimoniale : distinction patrimoine propre/conjoint survivant, intégration des dettes et des donations antérieures (rappels fiscaux). Permet au CGP d'anticiper les questions de ses clients âgés ou en transmission.",
+          "source": "notretemps.com",
+          "url": "",
+          "niveau": "fort"
         }
       ]
     },
     {
       "titre": "SCPI & Immobilier",
-      "icone": "🏢",
+      "icone": "🏠",
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "SCPI Epsicap Nano : 13,9 M€ de collecte nette au 2T 2026",
-          "analyse": "La collecte nette reste positive sur cette SCPI de niche, mais la décote sur la valeur de reconstitution interroge sur la soutenabilité du prix de part. Pour les détenteurs, à conserver en diversification sous réserve du suivi du TOF et de la stratégie d'investissement. Pour les prospects, attendre un point d'entrée plus clair.",
-          "source": "MeilleureSCPI.com",
+          "titre": "Immobilier : 1 Français sur 5 veut déménager après les vacances, mais le budget freine",
+          "analyse": "Tension entre désir de mobilité résidentielle et pouvoir d'achat : confirme un marché immobilier sous contraintes avec une demande latente. Opportunité pour accompagner les clients sur le financement (PTZ, prêt à taux zéro, démembrement) et le rachat de crédits.",
+          "source": "Le Revenu",
+          "url": "https://www.lerevenu.com/immobilier/1-francais-sur-5-veut-demenager-apres-les-vacances",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Érosion côtière : des restaurateurs sommés de libérer les lieux",
+          "analyse": "Cas concret d'expropriation/démolition sur la Côte d'Azur illustrant le risque physique croissant sur le littoral. Sujet à aborder en gestion patrimoniale : valeur des biens en zone littorale, assurance, démembrement et anticipation pour les clients détenteurs de résidences secondaires.",
+          "source": "notretemps.com",
           "url": "",
           "niveau": "moyen"
         },
         {
-          "titre": "SCPI Épargne Pierre Europe : TOF record de 99,79 % au 2T 2026",
-          "analyse": "Un taux d'occupation proche de 100 % est un signal très favorable de qualité locative, qui soutient la distribution future et limite le risque de Report À Nouveau. Point différenciant dans une allocation SCPI paneuropéenne. Vigilance sur la durée résiduelle des baux et la concentration sectorielle.",
-          "source": "MeilleureSCPI.com",
-          "url": "",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "SCPI PERIAL Grand Paris : 20,5 M€ de cessions au 2T 2026",
-          "analyse": "Stratégie d'arbitrage active avec 20,5 M€ de cessions sur le Grand Paris, traduisant une rotation patrimoniale assumée. Pour les associés, à analyser en transparence avec les plus/moins-values dégagées et la stratégie de réinvestissement. Pour les prospects, le message est positif sur la gestion dynamique du cycle immobilier.",
-          "source": "MeilleureSCPI.com",
-          "url": "",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Immobilier Portugal : Comporta flambe jusqu'à 20 000 €/m²",
-          "analyse": "Sur le segment haut de gamme de Comporta, les prix ont doublé en 5 ans avec des niveaux atteignant 20 000 €/m². Pour un client CGP envisageant une diversification internationale, alerte sur le risque de bulle localisée et nécessité d'intégrer la fiscalité spécifique (exit tax, IFI, convention fiscale). Approche patrimoniale globale indispensable avant tout engagement.",
+          "titre": "Visite sans mandat : les risques juridiques pour l'agence",
+          "analyse": "Rappel du cadre Loi Hoguet : intervenir sans mandat écrit expose l'agent immobilier à sanctions disciplinaires et risques civils. Point de vigilance pour les CGP accompagnant des clients investisseurs locatifs dans leurs relations avec les professionnels.",
           "source": "MySweetimmo",
           "url": "",
           "niveau": "moyen"
@@ -214,16 +179,16 @@
       ]
     },
     {
-      "titre": "Assurance-vie",
-      "icone": "🛡️",
-      "niveau_global": "moyen",
+      "titre": "Private equity",
+      "icone": "💼",
+      "niveau_global": "fort",
       "items": [
         {
-          "titre": "Gestion pilotée des investissements",
-          "analyse": "La gestion pilotée, bien que coûteuse, offre une gestion active des investissements. Pour les clients en assurance-vie, c'est une option à évaluer selon leur profil de risque et leurs objectifs, en pesant les frais contre la valeur ajoutée de la gestion active.",
+          "titre": "FIP : l'AMF confirme des performances médianes négatives sur les fonds soldés",
+          "analyse": "Donnée structurante pour le conseil en défiscalisation : selon l'AMF, les FIP soldés affichent un TRI médian de -2,4 %/an et les FCPI -1,1 %/an, soit une perte nette pour la moitié des souscripteurs. Pour un CGP, c'est un signal fort de sélectivité accrue sur les fonds evergreen, les FCPI/FIP récents et les véhicules étrangers (GFI, OFI) dont la traçabilité reste opaque. Obligation de revoir les allocations défiscalisantes clients et d'intégrer cette donnée dans la documentation de conformité.",
           "source": "Epargnant 3.0",
-          "url": "https://www.epargnants-3-0.com/gestion-pilotee-ce-quelle-couste-vraiment-et-ce-quelle-rapporte",
-          "niveau": "moyen"
+          "url": "https://www.epargnant3-0.fr/2026/08/23/defiscalisation-2026-les-bonnes-et-mauvaises-solutions/",
+          "niveau": "fort"
         }
       ]
     },
@@ -233,32 +198,11 @@
       "niveau_global": "fort",
       "items": [
         {
-          "titre": "Piratage du fisc",
-          "analyse": "Le piratage informatique du fisc met en lumière les risques d'arnaques et la nécessité de précautions. Pour les clients, c'est un rappel de l'importance de la cybersécurité et de la vigilance face aux tentatives de fraude.",
-          "source": "La finance pour tous",
-          "url": "https://www.lafinancepourtous.com/piratage-informatique-fisc-comment-eviter-les-risques-arnaque",
+          "titre": "Piratage du fisc : 700 000 contribuables touchés, l'État sous contrainte cyber",
+          "analyse": "La cyberattaque contre la DGFIP révèle la vulnérabilité des données fiscales et patrimoniales des Français. Obligation renforcée de vigilance sur la protection des données clients (login impôt, pièces d'identité). Incidence opérationnelle directe pour les CGP : sensibilisation des clients aux risques de fraude, importance des assurances cyber et procédures KYC renforcées.",
+          "source": "La Tribune",
+          "url": "https://www.latribune.fr/cybersecurite/nouvelle-unite-cyber-nis-2-apres-le-piratage-du-fisc",
           "niveau": "fort"
-        },
-        {
-          "titre": "IA : propagande chinoise dans les réponses d'IA",
-          "analyse": "Biais potentiel dans les IA génératives alimentées par des contenus de médias d'État chinois, posant des questions sur l'objectivité des informations. Pour les professionnels, c'est un point de vigilance sur la conformité et la fiabilité des outils utilisés.",
-          "source": "La Tribune",
-          "url": "URL de l'article",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Procès Meta : Zuckerberg accusé",
-          "analyse": "Accusations contre Meta pour ses outils de sécurité inefficaces, mettant en lumière les défis en matière de gestion des risques et de conformité. Pour les clients, c'est un rappel des risques de réputation et de conformité dans le secteur technologique.",
-          "source": "La Tribune",
-          "url": "URL de l'article",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Transparence des factures d'énergie",
-          "analyse": "Les nouvelles règles sur la transparence des factures d'électricité et de gaz à partir de 2027 sont une avancée pour les consommateurs. Pour les clients, c'est une amélioration de la lisibilité des coûts, à intégrer dans les prévisions budgétaires.",
-          "source": "Merci pour l'info",
-          "url": "https://www.merci-pour-l-info.com/eleectricite-gaz-vos-factures-seront-bientot-plus-transparentes",
-          "niveau": "moyen"
         }
       ]
     },
@@ -268,35 +212,14 @@
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "Record de températures",
-          "analyse": "Le nombre record de stations météo ayant dépassé les 40°C en France souligne les impacts du réchauffement climatique. Pour les clients, c'est un facteur de risque pour les infrastructures et les assurances, à intégrer dans les stratégies d'investissement durable.",
-          "source": "notretemps.com",
-          "url": "https://www.notretemps.com/actualites/france-40c-mesures-endroits-record-cetete-analyse-afp",
-          "niveau": "fort"
-        },
-        {
-          "titre": "Réchauffement climatique : surfaces brûlées tripler",
-          "analyse": "Risque potentiel pour les finances publiques et les infrastructures en Europe à cause des feux de forêt, augmentant les dépenses liées aux sinistres. Pour les clients, c'est un facteur de risque pour les actifs immobiliers et les assurances.",
-          "source": "La Tribune",
-          "url": "URL de l'article",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Énergie solaire : pourquoi l'Alsace accélère fortement dans le photovoltaïque en 2026",
-          "analyse": "Élan du secteur de l'énergie solaire en Alsace, malgré un ensoleillement inférieur au sud méditerranéen. Pour les clients, c'est une opportunité d'investissement dans les énergies renouvelables, à intégrer dans une allocation durable.",
-          "source": "Le Revenu",
-          "url": "https://www.le-revenu.com/actualites-financieres/energie-solaire-pourquoi-lalsace-accelere-fortement-dans-le-photovoltaique-en-2026",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Plateforme FireWatch",
-          "analyse": "Lancement de la plateforme FireWatch, une avancée technologique dans la détection des feux de forêt. Pour les clients, c'est un exemple d'innovation dans la gestion des risques climatiques, à suivre pour les opportunités d'investissement.",
-          "source": "notretemps.com",
-          "url": "https://www.notretemps.com/actualites/firewatch-plateforme-detection-des-feux-de-foret-normais-operationnelle",
+          "titre": "L'épargne des Français finance-t-elle la défense à leur insu ?",
+          "analyse": "La volonté publique de flécher l'épargne vers le réarmement pose un enjeu de transparence pour les CGP. Sujet à intégrer dans le conseil : informer les clients sur l'usage réel de leur épargne (Livret A, fonds euros) et proposer des alternatives labellisées ou ISR.",
+          "source": "Alternatives économiques",
+          "url": "https://www.alternatives-economiques.fr/epargne-des-francais-finance-defense",
           "niveau": "moyen"
         }
       ]
     }
   ],
-  "compte_articles": 236
+  "compte_articles": 136
 }
