@@ -1,344 +1,229 @@
 {
-  "date_fr": "mardi 25 août 2026",
-  "synthese_jour": "Les marchés financiers restent sous tension entre des records boursiers et des risques géopolitiques (Iran, Russie, cyberattaques) et commerciaux (Canada-USA), tandis que les arbitrages d'épargne se multiplient face à la remontée des taux et à la correction immobilière. Côté France, le budget 2027 se prépare dans un contexte de tensions budgétaires et de réformes sociales (franchises médicales, retraite) qui impactent directement le pouvoir d'achat et l'épargne des ménages.",
-  "chiffres_cles": [
-    "CAC 40: +0.8%",
-    "OAT 10 ans: 3.2%",
-    "Livret A: 1.7%",
-    "Fonds euros assurance-vie: 2.7%",
-    "Bitcoin: 72 000 $",
-    "SCPI rendement distribué: 4.91%"
-  ],
-  "a_surveiller": [
-    "Publication des résultats de Nvidia et réaction des marchés technologiques",
-    "Discours de Kevin Warsh à Jackson Hole le 28 août et impact sur les cryptos et les taux",
-    "Évolution du projet de loi de finances 2027, notamment sur la fiscalité des retraités aisés et des grandes entreprises",
-    "Correction immobilière dans les métropoles et divergence avec le littoral",
-    "Hausse du plafond des franchises médicales et intégration dans les budgets santé des clients"
-  ],
+  "date_fr": "Wednesday 26 August 2026",
+  "compte_articles": 222,
+  "compte_forts": 21,
+  "compte_moyens": 25,
+  "synthese_jour": "Synthese IA partielle (fusion indisponible). Consultez les items ci-dessous.",
+  "chiffres_cles": [],
   "sections": [
     {
-      "titre": "Marches financiers",
-      "icone": "📈",
-      "niveau_global": "fort",
+      "titre": "Articles du jour",
+      "icone": "📰",
+      "niveau_global": "moyen",
       "items": [
         {
-          "titre": "Nvidia publie ses résultats, objectif 91 milliards de dollars de revenus",
-          "analyse": "Les résultats trimestriels de Nvidia sont très attendus par les marchés, dans un contexte d'euphorie sur l'IA. Pour les clients exposés aux valeurs technologiques américaines, la volatilité peut être forte ; un rééquilibrage et une gestion du risque de concentration sont recommandés.",
-          "source": "Le Revenu - Actualités financières",
-          "url": "",
+          "titre": "Hausse du ticket modérateur et des franchises médicales",
+          "analyse": "L'augmentation du reste à charge santé fragilise le budget des ménages, notamment les retraités. Pour le CGP, cela renforce la pertinence d'une couverture prévoyance adaptée et d'un arbitrage vers les contrats Madelin pour les professions libérales impactées.",
+          "source": "Le Monde.fr",
+          "url": "https://www.lemonde.fr",
           "niveau": "fort"
         },
         {
-          "titre": "La semaine la plus explosive de l'année commence ce matin",
-          "analyse": "Les résultats de Nvidia, l'inflation américaine et le discours de Jackson Hole concentrent les risques de marché cette semaine. Pour un CGP, cette volatilité attendue justifie de ne pas prendre de décisions d'investissement hâtives et de maintenir une allocation équilibrée. Les clients doivent être rassurés sur la nature temporaire de ces secousses et sur l'importance d'une vision de long terme.",
-          "source": "Le Revenu - Actualités financières",
-          "url": "https://www.lerevenu.com",
+          "titre": "Urgence de redresser la productivité en France (Artus)",
+          "analyse": "L'écart de productivité avec les États-Unis (+27% vs +13% depuis 2010) pèse sur la compétitivité et les marges des entreprises françaises. Le CGP doit intégrer ce risque structurel dans l'allocation géographique, en surpondérant les expositions US dans les mandats actions.",
+          "source": "L'Express.fr",
+          "url": "https://www.lexpress.fr",
           "niveau": "fort"
         },
         {
-          "titre": "Here's how overvalued the stock market really is",
-          "analyse": "Les valorisations boursières américaines atteignent des niveaux jugés excessifs, augmentant le risque de correction. Pour un CGP, cela plaide pour une réduction progressive de l'exposition aux actions américaines survalorisées au profit de classes d'actifs moins tendues. Une approche prudente et diversifiée, avec des prises de bénéfices partielles, peut protéger le patrimoine des clients.",
-          "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com",
+          "titre": "Trump surtaxe l'automobile canadienne, Ottawa riposte",
+          "analyse": "L'escalade tarifaire sur le secteur automobile affecte directement les chaînes de valeur nord-américaines. Les investisseurs doivent anticiper une volatilité accrue sur les valeurs automobiles et envisager des couvertures sur les devises CAD/USD.",
+          "source": "L'Express.fr",
+          "url": "https://www.lexpress.fr",
           "niveau": "fort"
         },
         {
-          "titre": "L'or retrouve son plus haut depuis mi-mai, porté par la faiblesse du dollar",
-          "analyse": "Le métal précieux poursuit son rebond, soutenu par les inquiétudes sur les finances américaines et la baisse du dollar. Dans un portefeuille patrimonial, l'or conserve son rôle de diversification et de couverture contre les risques monétaires et géopolitiques.",
-          "source": "Le Revenu - Actualités financières",
-          "url": "",
+          "titre": "Les États-Unis veulent asphyxier l'économie iranienne",
+          "analyse": "L'opération « economic outcast » vise à isoler l'Iran de ses partenaires commerciaux, avec la Chine dans le viseur. Ce durcissement géopolitique soutient le risque haussier sur les cours du pétrole et justifie un positionnement défensif sur les valeurs énergétiques.",
+          "source": "L'Express.fr",
+          "url": "https://www.lexpress.fr",
           "niveau": "fort"
         },
         {
-          "titre": "Iran : chute du rial et érosion du pouvoir d'achat",
-          "analyse": "La dépréciation du rial et la baisse de consommation des ménages signalent un risque de déstabilisation économique et sociale en Iran. Pour un CGP, cela renforce la prudence sur les expositions aux marchés émergents et aux actifs liés au pétrole, avec un possible impact sur les prix énergétiques.",
-          "source": "Le Monde",
-          "url": "",
+          "titre": "Financement du nucléaire français : bras de fer avec Bruxelles",
+          "analyse": "Le financement des six EPR2 se heurte aux règles de concurrence européennes sur les aides d'État. L'issue de ce conflit déterminera la rentabilité du secteur nucléaire français et l'attractivité des utilities européennes dans les portefeuilles ISR.",
+          "source": "La Tribune",
+          "url": "https://www.latribune.fr",
           "niveau": "fort"
         },
         {
-          "titre": "Allemagne : 12 milliards d'euros pour des missiles longue portée",
-          "analyse": "Ce programme massif de réarmement confirme la montée des budgets de défense en Europe, soutenant le secteur de l'armement et de la sécurité. Pour un CGP, les valeurs de défense européennes et les ETF sectoriels peuvent constituer une poche de diversification, avec un risque de volatilité lié aux décisions politiques.",
-          "source": "L'Express",
-          "url": "",
-          "niveau": "fort"
-        },
-        {
-          "titre": "Ukraine : premier tir létal d'un drone russe entièrement piloté par IA",
-          "analyse": "L'utilisation d'armes autonomes marque une escalade technologique dans le conflit, avec des implications pour la défense et la régulation de l'IA. Pour un CGP, cela renforce l'intérêt pour les valeurs de cybersécurité et de défense technologique, tout en signalant un risque géopolitique accru.",
-          "source": "L'Express",
-          "url": "",
-          "niveau": "fort"
-        },
-        {
-          "titre": "Canicules : 7 300 morts en France, impact sanitaire du réchauffement",
-          "analyse": "Les vagues de chaleur répétées engendrent des coûts humains et économiques croissants, pesant sur les systèmes de santé et les assurances. Pour un CGP, cela justifie d'intégrer les critères ESG et les actifs liés à l'adaptation climatique (santé, infrastructures, énergie) dans les allocations de long terme.",
-          "source": "L'Express",
-          "url": "",
-          "niveau": "fort"
-        },
-        {
-          "titre": "Bitcoin has beaten stocks and gold over six months. Now it's closing in on $80,000.",
-          "analyse": "Le Bitcoin surperforme les actions et l'or sur six mois, porté par les annonces du Trésor américain sur les rachats de dette. Pour un CGP, cette dynamique peut justifier une exposition limitée et encadrée aux cryptoactifs pour les profils dynamiques, mais la volatilité extrême et l'incertitude réglementaire imposent une stricte limitation de la part allouée. Un suivi fiscal rigoureux des plus-values est indispensable.",
-          "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com",
+          "titre": "Visas H-1B à plus de 100 000 $ : Trump inquiète la Silicon Valley",
+          "analyse": "La hausse drastique du coût des visas de travail menace le modèle de recrutement des géants tech américains. Pour le CGP, cela introduit un risque réglementaire supplémentaire sur les valeurs technologiques américaines déjà valorisées.",
+          "source": "L'Express.fr",
+          "url": "https://www.lexpress.fr",
           "niveau": "moyen"
         },
         {
-          "titre": "Jackson Hole 28 août 2026 : 3 scénarios Warsh et leur impact sur les cryptos",
-          "analyse": "Le discours de Kevin Warsh à Jackson Hole le 28 août pourrait avoir un impact significatif sur les marchés financiers, notamment les cryptomonnaies, avec Bitcoin à 72 000 dollars. Pour les CGP, cet événement macroéconomique est à surveiller de près car il peut influencer les décisions d'allocation d'actifs des clients exposés aux actifs numériques. Une communication plus restrictive ou accommodante de la Fed pourrait déclencher des mouvements de marché importants.",
-          "source": "Finyear",
-          "url": "https://www.finyear.com/jackson-hole-28-aout-2026-3-scenarios-warsh-et-leur-impact-sur-les-cryptos",
+          "titre": "Projet à 6 Md€ entre Paris et Riyad : le pari risqué de Macron et MBS",
+          "analyse": "Les trois parcs d'attractions saoudiens en France représentent un investissement immobilier massif mais incertain. Le CGP doit rester prudent sur les engagements réels de financement et surveiller les opportunités sur les foncières de loisirs et le BTP francilien.",
+          "source": "L'Express.fr",
+          "url": "https://www.lexpress.fr",
           "niveau": "moyen"
         },
         {
-          "titre": "Le dollar se raffermit, le dollar canadien sous pression commerciale",
-          "analyse": "Le dollar américain se reprend après une perte hebdomadaire de près de 1%, tandis que le huard recule face aux tensions commerciales. L'exposition aux devises reste un point de vigilance pour les portefeuilles internationaux.",
-          "source": "Forex News",
-          "url": "",
+          "titre": "Istanbul bouscule les hubs du Golfe sur les liaisons Europe-Asie",
+          "analyse": "Les perturbations géopolitiques au Moyen-Orient redessinent les routes aériennes au profit d'Istanbul. Cela crée des opportunités sur les valeurs aéroportuaires turques et fragilise les investissements dans les hubs du Golfe, à surveiller dans les mandats actions émergentes.",
+          "source": "La Tribune",
+          "url": "https://www.latribune.fr",
           "niveau": "moyen"
         },
         {
-          "titre": "Tensions Canada-USA : Stellantis parmi les valeurs les plus pénalisées",
-          "analyse": "Les nouvelles surtaxes américaines sur l'automobile pèsent directement sur Stellantis et le secteur. Les portefeuilles exposés aux constructeurs automobiles doivent intégrer un risque commercial accru et envisager une diversification sectorielle ou géographique.",
-          "source": "Le Revenu - Actualités financières",
-          "url": "",
+          "titre": "Crédit immobilier : les taux pourraient remonter à 4 % d'ici fin 2026",
+          "analyse": "La remontée des taux moyens (3,30 % en juillet) menace directement la capacité d'emprunt des ménages et la solvabilité des projets immobiliers. Les CGP doivent anticiper un renchérissement du coût du crédit et conseiller leurs clients sur le timing des acquisitions ou des renégociations.",
+          "source": "Le Revenu",
+          "url": "https://www.lerevenu.com/article/credit-immobilier-le-retour-des-taux-a-4-menace-les-acheteurs-dici-fin-2026",
+          "niveau": "fort"
+        },
+        {
+          "titre": "Marché obligataire : la flambée des taux longs devient un foyer de risque mondial",
+          "analyse": "La hausse des taux longs aux États-Unis et en Europe signale un changement de régime économique, avec une concurrence accrue pour les capitaux. Pour les CGP, cela implique de réévaluer l'exposition obligataire des portefeuilles et de privilégier des durations courtes ou des actifs réels.",
+          "source": "La Tribune",
+          "url": "https://www.latribune.fr/entreprises-finance/banques-finance/dette-inflation-demographie-ia-geopolitique-pourquoi-le-marche-obligataire-devient-le-nouveau-foyer-de-risque-pour-l-economie-mondiale",
+          "niveau": "fort"
+        },
+        {
+          "titre": "Détroit d'Ormuz : le trafic maritime s'effondre, risque énergétique majeur",
+          "analyse": "La chute du trafic dans ce corridor énergétique stratégique fait peser un risque d'envolée des prix du pétrole et de perturbation des chaînes d'approvisionnement. Les CGP doivent intégrer ce risque géopolitique dans leurs recommandations d'allocation, notamment sur les secteurs énergétiques et les valeurs refuges.",
+          "source": "Le Revenu",
+          "url": "https://www.lerevenu.com/article/detroit-dormuz-le-trafic-maritime-seffondre-une-nouvelle-fois",
+          "niveau": "fort"
+        },
+        {
+          "titre": "Franchises médicales portées à 140 euros dès le 1er octobre",
+          "analyse": "Le relèvement du plafond des franchises médicales de 100 à 140 euros, indexé sur l'inflation, alourdit le reste à charge des patients. Les CGP doivent intégrer cette hausse dans l'évaluation des besoins de couverture santé de leurs clients et réexaminer l'intérêt des complémentaires santé renforcées.",
+          "source": "La Tribune",
+          "url": "https://www.latribune.fr/economie/france/franchises-medicales-le-gouvernement-porte-la-facture-des-patients-a-140-euros",
           "niveau": "moyen"
         },
         {
-          "titre": "Shein : carnet d'ordres couvert pour une IPO jusqu'à 1,8 Md$ à Hong Kong",
-          "analyse": "L'introduction en Bourse de Shein à Hong Kong, jusqu'à 1,8 milliard de dollars, voit son carnet d'ordres couvert. C'est un signal sur l'appétit des investisseurs pour les introductions asiatiques, à surveiller pour la diversification actions.",
-          "source": "All News",
-          "url": "",
+          "titre": "Retraités : l'État entrouvre une porte fiscale, mais sous conditions",
+          "analyse": "L'éditorial pointe une évolution fiscale potentielle pour les retraités, sans en préciser les contours exacts. Les CGP doivent suivre ce dossier de près, car toute modification de la fiscalité des retraités impacterait directement les stratégies de revenus et de transmission de leur clientèle senior.",
+          "source": "La Tribune",
+          "url": "https://www.latribune.fr/opinions/retraites-l-etat-entrouvre-enfin-une-porte-fiscale-mais-gare-a-ceux-qui-n-en-possedent-pas-la-cle",
           "niveau": "moyen"
         },
         {
-          "titre": "États-Unis : démissions dans l'entourage de Trump avant les midterms",
-          "analyse": "L'instabilité de l'équipe présidentielle à l'approche des élections de mi-mandat accroît l'incertitude politique et réglementaire aux États-Unis. Pour un CGP, cela peut justifier une diversification géographique et une attention accrue à la volatilité des marchés américains, notamment sur les secteurs sensibles à la politique commerciale.",
-          "source": "L'Express",
-          "url": "",
+          "titre": "Immobilier espagnol : les prix de l'ancien flambent de 16,2 % sur un an",
+          "analyse": "La forte progression des prix en Espagne (2 933 €/m² en moyenne) confirme l'attractivité du marché immobilier ibérique pour les investisseurs français. Les CGP peuvent y voir une opportunité de diversification patrimoniale, tout en alertant sur les risques de surchauffe et la fiscalité locale.",
+          "source": "Le Revenu",
+          "url": "https://www.lerevenu.com/article/immobilier-les-prix-de-lancien-flambent-de-162-en-espagne",
           "niveau": "moyen"
         },
         {
-          "titre": "Arabie saoudite : partenariat stratégique franco-saoudien et méga-projet",
-          "analyse": "La visite de MBS en France illustre la diversification économique saoudienne et les opportunités d'investissement dans les infrastructures et le tourisme. Pour un CGP, cela peut offrir des perspectives dans les fonds thématiques Moyen-Orient ou les valeurs liées aux grands contrats, tout en surveillant les risques géopolitiques.",
-          "source": "Le Monde",
-          "url": "",
+          "titre": "Résidences secondaires vides : comment optimiser la location hors saison",
+          "analyse": "La sous-occupation des résidences secondaires après l'été représente un manque à gagner pour les propriétaires. Les CGP peuvent conseiller leurs clients sur les dispositifs de location saisonnière, la fiscalité applicable et les solutions pour rentabiliser ces biens tout en maîtrisant les contraintes réglementaires.",
+          "source": "Challenges",
+          "url": "https://www.challenges.fr/immobilier/apres-l-ete-des-residences-secondaires-restent-desesperement-vides-comment-eviter-cet-enorme-gachis-et-les-louer-seulement-quelques-mois",
           "niveau": "moyen"
         },
         {
-          "titre": "Énergies propres : les États-Unis peuvent devenir leader via des alliances",
-          "analyse": "Malgré la domination chinoise sur le solaire, les États-Unis pourraient rebondir en nouant des partenariats internationaux, créant des opportunités dans les chaînes d'approvisionnement alternatives. Pour un CGP, cela ouvre des perspectives sur les valeurs américaines de transition énergétique et les fonds thématiques climat, avec un horizon de long terme.",
-          "source": "L'Express",
-          "url": "",
-          "niveau": "moyen"
-        }
-      ]
-    },
-    {
-      "titre": "Fiscalite",
-      "icone": "🏛️",
-      "niveau_global": "fort",
-      "items": [
+          "titre": "IPO de Shein à Hong Kong : le carnet d'ordres est entièrement couvert",
+          "analyse": "L'introduction en Bourse de Shein, avec une levée potentielle de 1,5 milliard d'euros, offre une nouvelle opportunité d'investissement sur le e-commerce asiatique. Les CGP doivent toutefois souligner les risques liés à la valorisation revue à la baisse et aux incertitudes réglementaires pesant sur le groupe.",
+          "source": "La Tribune",
+          "url": "https://www.latribune.fr/entreprises-finance/industrie/consommation/introduction-en-bourse-de-shein-le-livre-d-ordres-integralement-couvert-par-la-demande-des-investisseurs",
+          "niveau": "faible"
+        },
         {
-          "titre": "Budget 2027 : pas d'année blanche, effort des retraités aisés toujours envisagé",
-          "analyse": "Le gouvernement écarte une année blanche budgétaire mais maintient la piste d'une contribution des retraités aisés. Pour les clients CGP, cela renforce le besoin d'anticiper une possible hausse de prélèvements sur les pensions élevées et d'optimiser la fiscalité successorale et les revenus.",
-          "source": "La Tribune - Actualités",
+          "titre": "CAC 40 vise les 8 500 points à l'ouverture",
+          "analyse": "Après neuf séances de baisse sur dix, le CAC 40 tente de se stabiliser autour de 8 500 points. Les résultats Nvidia et les données PCE américaines seront les catalyseurs de la semaine, à surveiller de près pour ajuster l'allocation actions européennes des clients.",
+          "source": "Le Revenu",
           "url": "",
           "niveau": "fort"
         },
         {
-          "titre": "Surtaxe des grands groupes prolongée dans le budget 2027",
-          "analyse": "La contribution exceptionnelle sur les bénéfices des grandes entreprises devient une recette pérenne, avec un taux espéré réduit. Les investisseurs en actions françaises doivent intégrer une pression fiscale durable sur les résultats des grands groupes, ce qui peut peser sur les dividendes et les valorisations.",
-          "source": "La Tribune - Actualités",
+          "titre": "Wall Street hésite avant Nvidia et Jackson Hole",
+          "analyse": "Les marchés américains marquent une pause avant une semaine charnière. Le symposium de Jackson Hole et les résultats de Nvidia détermineront la tendance ; un risque de correction accrue si les signaux monétaires déçoivent.",
+          "source": "Le Revenu",
           "url": "",
           "niveau": "fort"
         },
         {
-          "titre": "Fisc piraté : aucun impôt concerné, mais des exigences de sécurité renforcées",
-          "analyse": "Le vol de données du fisc n'a pas touché les avis d'imposition, mais soulève des questions de sécurité pour la facturation électronique à venir. Pour un CGP, c'est un signal de vigilance sur la protection des données fiscales des clients, et un argument pour sensibiliser à la cybersécurité patrimoniale. La confiance dans les outils numériques fiscaux reste un enjeu.",
-          "source": "notretemps.com",
-          "url": "https://www.notretemps.com/argent/fisc-pirate-securite-facturation-electronique",
-          "niveau": "moyen"
+          "titre": "Or et Bitcoin en hausse simultanée : le debasement trade",
+          "analyse": "L'or atteint un plus haut de 3 mois et le Bitcoin frôle 74 500$, portés par la dette américaine record et les rachats du Trésor. Ce mouvement corrélé rappelle l'intérêt d'une exposition aux actifs de couverture anti-dévaluation dans les portefeuilles.",
+          "source": "Le Revenu",
+          "url": "",
+          "niveau": "fort"
         },
         {
           "titre": "Cinq pistes pour gérer la dette publique française",
-          "analyse": "Le rapport du HCSP alerte sur le risque d'emballement de la dette publique française, dans un contexte de remontée des taux d'intérêt. Pour les CGP, cela renforce la nécessité de diversifier les allocations au-delà des actifs français et de sensibiliser les clients au risque souverain. La pression fiscale future et l'évolution des prélèvements obligatoires doivent être intégrées dans les stratégies patrimoniales de long terme.",
-          "source": "Alternatives economiques",
-          "url": "https://www.alternatives-economiques.fr",
-          "niveau": "fort"
-        }
-      ]
-    },
-    {
-      "titre": "SCPI & Immobilier",
-      "icone": "🏠",
-      "niveau_global": "fort",
-      "items": [
-        {
-          "titre": "Immobilier : à Bordeaux, Lyon et Nantes, les prix décrochent jusqu'à 9 % en deux ans",
-          "analyse": "La correction immobilière se poursuit dans les grandes métropoles, avec des baisses pouvant atteindre 9 % sur deux ans. Pour les CGP, cela représente une opportunité de repositionnement pour les clients en phase d'accumulation, mais aussi un risque de moins-value latente pour les détenteurs récents. Une analyse fine du marché local et de la capacité d'emprunt devient indispensable.",
-          "source": "Le Revenu - Actualités financières",
-          "url": "https://www.lerevenu.com",
-          "niveau": "fort"
-        },
-        {
-          "titre": "SCPI : rendement distribué 4,91 % en 2025, gain net réel 1,46 %",
-          "analyse": "La fiscalité 2026 réduit fortement l'attrait des SCPI par rapport aux foncières cotées et ETF immobiliers. Les CGP doivent revoir l'arbitrage pierre-papier pour leurs clients, en intégrant la fiscalité du capital.",
-          "source": "Epargnant 3.0",
-          "url": "https://www.epargnant30.fr",
-          "niveau": "fort"
-        },
-        {
-          "titre": "Immobilier : la Corse flambe de 8,5 %, la Bretagne gagne 38,5 % depuis 2019",
-          "analyse": "Le littoral français résiste mieux que le marché national, avec des hausses de prix dans les stations balnéaires. Cette divergence géographique doit inciter les CGP à différencier leurs conseils selon la localisation des biens. Les clients détenant des résidences secondaires sur le littoral peuvent voir leur patrimoine se valoriser, tandis que les acheteurs doivent intégrer une prime de rareté.",
-          "source": "Le Revenu - Actualités financières",
-          "url": "https://www.lerevenu.com",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Crowdfunding immobilier : cadre et pratiques chez Anaxago et La Première Brique",
-          "analyse": "Les plateformes Anaxago et La Première Brique mettent en avant la sélection rigoureuse des projets, la protection des données et la gestion des conflits d'intérêts. Le crowdfunding immobilier peut être une alternative de diversification, à aborder avec prudence et en vérifiant les critères de chaque plateforme.",
-          "source": "Crowdfunding Immo",
+          "analyse": "Le rapport France 2035/2050 du HCSP alerte sur un risque d'emballement de la dette publique, dans un contexte de taux d'intérêt élevés. Un cadrage macro à intégrer dans les réflexions patrimoniales long terme de vos clients.",
+          "source": "Alternatives économiques",
           "url": "",
           "niveau": "moyen"
         },
         {
-          "titre": "Votre logement peut vous rapporter de l'argent",
-          "analyse": "Location saisonnière, location de pièces ou prêt de jardin permettent de tirer des revenus ponctuels ou réguliers d'un bien immobilier. Piste de revenus complémentaires à étudier dans une approche patrimoniale, en tenant compte de la fiscalité et des contraintes.",
-          "source": "notretemps.com",
+          "titre": "SCPI Cœur d'Europe : 275 M€ de capitalisation au T2 2026",
+          "analyse": "La SCPI Cœur d'Europe affiche une forte croissance et un rendement attractif, mais les risques liés à l'exposition immobilière européenne méritent une analyse approfondie avant de recommander ce support aux clients.",
+          "source": "MeilleureSCPI.com",
           "url": "",
           "niveau": "moyen"
-        }
-      ]
-    },
-    {
-      "titre": "Assurance-vie",
-      "icone": "🛡️",
-      "niveau_global": "moyen",
-      "items": [
-        {
-          "titre": "Livret A à 1,7 %, assurance-vie à 2,7 % : où placer son épargne d'ici fin 2026 ?",
-          "analyse": "L'écart de rendement entre le Livret A (1,7 %) et les fonds euros d'assurance-vie (2,7 % en moyenne) se creuse nettement. Pour un CGP, cela justifie de réorienter une partie de l'épargne de précaution vers l'assurance-vie, tout en rappelant les avantages fiscaux et successoraux de cette enveloppe. Il convient néanmoins de conserver une poche liquide suffisante sur livrets réglementés.",
-          "source": "Le Revenu - Actualités financières",
-          "url": "https://www.lerevenu.com",
-          "niveau": "fort"
         },
         {
-          "titre": "Assurance-vie verte et solidaire : investir via des unités de compte labellisées",
-          "analyse": "L'assurance-vie peut financer la transition écologique grâce à des unités de compte investies dans des fonds verts, responsables ou solidaires, encadrés par le label Greenfin. C'est un levier à proposer aux clients souhaitant aligner leur épargne sur des critères extra-financiers sans renoncer au cadre assurantiel.",
-          "source": "Le Revenu - Actualités financières",
-          "url": "",
-          "niveau": "faible"
-        }
-      ]
-    },
-    {
-      "titre": "Private equity",
-      "icone": "💼",
-      "niveau_global": "moyen",
-      "items": [
-        {
-          "titre": "Cryptoactifs en Europe : une régulation nette mais incomplète",
-          "analyse": "Le règlement MiCA, en vigueur depuis juillet 2026, a fortement réduit le nombre d'acteurs agréés (300 sur 5 000). Pour un CGP, cette clarification réglementaire peut légitimer une exposition marginale aux cryptoactifs pour les clients avertis, mais la prudence reste de mise face à un marché encore volatile et à une régulation incomplète. L'accompagnement sur la fiscalité des plus-values crypto devient un enjeu.",
-          "source": "Alternatives economiques",
-          "url": "https://www.alternatives-economiques.fr",
-          "niveau": "fort"
-        },
-        {
-          "titre": "CLARITY Act : compromis sur le rendement des stablecoins avant vote le 15 septembre",
-          "analyse": "Le compromis Tillis-Alsobrooks débloque la régulation des stablecoins aux États-Unis. Les clients exposés aux cryptos doivent anticiper un cadre plus clair, mais aussi une possible remise en cause des rendements sur stablecoins.",
-          "source": "Finyear",
-          "url": "https://www.finyear.com",
-          "niveau": "moyen"
-        }
-      ]
-    },
-    {
-      "titre": "Retraite & Epargne salariale",
-      "icone": "📅",
-      "niveau_global": "fort",
-      "items": [
-        {
-          "titre": "Retraite : la majoration de 10% pour les parents menacée",
-          "analyse": "La majoration de 10% des pensions pour les parents pourrait être remise en cause au nom des économies budgétaires. Cela impacterait directement les revenus de retraite des clients parents, à intégrer dans les projections et stratégies de revenus.",
-          "source": "notretemps.com",
-          "url": "",
-          "niveau": "fort"
-        },
-        {
-          "titre": "Carrière longue : certains trimestres ne sont pas pris en compte pour un départ anticipé",
-          "analyse": "Le dispositif de carrière longue exige de cumuler suffisamment de trimestres, mais tous ne sont pas éligibles, ce qui peut retarder un départ anticipé. Un CGP doit vérifier précisément la nature des trimestres cotisés (maladie, chômage, apprentissage) avant de valider une stratégie de départ anticipé. C'est un point crucial pour les clients ayant commencé à travailler jeunes.",
-          "source": "notretemps.com",
-          "url": "https://www.notretemps.com/retraite/carriere-longue-trimestres-non-pris-en-compte",
-          "niveau": "fort"
-        },
-        {
-          "titre": "Bien préparer sa retraite sur le plan de la santé : des dépenses souvent sous-estimées",
-          "analyse": "Les dépenses de santé à la retraite sont fréquemment sous-estimées par les futurs retraités, alors que les revenus baissent. Un CGP doit intégrer un poste santé dans le plan de financement de la retraite, en évaluant les besoins en complémentaire santé, en prévoyance et en épargne dédiée. C'est un levier de conseil différenciant pour sécuriser le budget des clients retraités.",
-          "source": "notretemps.com",
-          "url": "https://www.notretemps.com/retraite/preparer-retraite-sante",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Bien préparer la rentrée pour son épargne",
-          "analyse": "L'article propose de structurer ses dépenses, sécuriser un coussin d'épargne et automatiser les virements. C'est un rappel utile pour accompagner les clients dans la gestion de leur trésorerie de rentrée et la discipline d'épargne.",
+          "titre": "Don exceptionnel de 100 000 € : profiter avant fin 2026",
+          "analyse": "Le dispositif de don exceptionnel de 100 000 € sans droits de donation expire fin 2026. Une opportunité de transmission à anticiper dès maintenant avec les clients concernés, notamment pour financer un projet immobilier ou une rénovation.",
           "source": "MeilleureSCPI.com",
           "url": "",
           "niveau": "fort"
-        }
-      ]
-    },
-    {
-      "titre": "Reglementation",
-      "icone": "📜",
-      "niveau_global": "moyen",
-      "items": [
-        {
-          "titre": "Cyberattaques : la nouvelle bataille de l'identification",
-          "analyse": "La multiplication des fuites de données expose les particuliers et les entreprises à des risques d'usurpation d'identité et de fraude. Pour un CGP, cela souligne l'importance de conseiller des solutions de protection (gestion des mots de passe, surveillance du dark web, assurance cyber) et de privilégier les acteurs de la cybersécurité.",
-          "source": "L'Express",
-          "url": "",
-          "niveau": "fort"
         },
         {
-          "titre": "Une nouvelle mutuelle, Solimut, victime d'une cyberattaque",
-          "analyse": "La mutuelle Solimut a confirmé une cyberattaque avec une fuite de données dont l'ampleur reste inconnue, susceptible de concerner ses adhérents. Pour les CGP, cet incident rappelle l'importance de vérifier la solidité des partenaires assureurs et mutuelles recommandés aux clients. Il est également crucial d'accompagner les clients dans la surveillance de leurs données personnelles et de les alerter sur les risques de phishing ou d'usurpation d'identité.",
-          "source": "notretemps.com",
-          "url": "https://www.notretemps.com/argent/assurance-sante/une-nouvelle-mutuelle-solimut-victime-d-une-cyberattaque",
+          "titre": "Cryptoactifs en Europe : régulation MiCA incomplète",
+          "analyse": "Sur 5 000 acteurs crypto en Europe, seuls 300 ont obtenu l'agrément MiCA. Ce tri sévère sécurise le secteur mais limite l'offre accessible ; à communiquer aux clients intéressés par les cryptoactifs pour orienter leur choix vers les acteurs agréés.",
+          "source": "Alternatives économiques",
+          "url": "",
           "niveau": "moyen"
-        }
-      ]
-    },
-    {
-      "titre": "ESG",
-      "icone": "🌱",
-      "niveau_global": "moyen",
-      "items": [
+        },
         {
-          "titre": "Cyberattaques : la nouvelle bataille de l'identification",
-          "analyse": "La multiplication des fuites de données expose les particuliers et les entreprises à des risques d'usurpation d'identité et de fraude. Pour un CGP, cela souligne l'importance de conseiller des solutions de protection (gestion des mots de passe, surveillance du dark web, assurance cyber) et de privilégier les acteurs de la cybersécurité.",
-          "source": "L'Express",
+          "titre": "Délai de succession dépassé : majoration de 40% confirmée",
+          "analyse": "La Cour de cassation confirme une majoration de 40% des droits de succession pour retard de déclaration, même quand la mise en demeure a été signée par un voisin. Un rappel brutal de l'importance du respect des délais fiscaux dans les successions de vos clients.",
+          "source": "notretemps.com",
           "url": "",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "SCPI : conseils pour choisir les meilleures du marché",
+          "analyse": "Article de pédagogie grand public sur les SCPI, utile pour relayer le discours de diversification immobilière. Rappelle qu'un rendement élevé ne suffit pas et qu'il faut intégrer risque de vacance, exposition sectorielle et horizon de placement.",
+          "source": "notretemps.com",
+          "url": "https://www.notretemps.com/article/scpi-nos-conseils-pour-choisir-les-meilleures-scpi-du-marche",
           "niveau": "fort"
         },
         {
-          "titre": "Canicules : 7 300 morts en France, impact sanitaire du réchauffement",
-          "analyse": "Les vagues de chaleur répétées engendrent des coûts humains et économiques croissants, pesant sur les systèmes de santé et les assurances. Pour un CGP, cela justifie d'intégrer les critères ESG et les actifs liés à l'adaptation climatique (santé, infrastructures, énergie) dans les allocations de long terme.",
-          "source": "L'Express",
-          "url": "",
+          "titre": "Délai de succession dépassé : majoration de 40% et signature par un voisin",
+          "analyse": "Cas jurisprudentiel sur les majorations de droits de succession et la validité de la notification fiscale. Pertinent pour alerter les clients sur les délais de déclaration et les risques contentieux liés à la réception des courriers du fisc.",
+          "source": "notretemps.com",
+          "url": "https://www.notretemps.com/article/delai-declaration-succession-depasse-lettre-recommandee-voisin",
           "niveau": "fort"
         },
         {
-          "titre": "Énergies propres : les États-Unis peuvent devenir leader via des alliances",
-          "analyse": "Malgré la domination chinoise sur le solaire, les États-Unis pourraient rebondir en nouant des partenariats internationaux, créant des opportunités dans les chaînes d'approvisionnement alternatives. Pour un CGP, cela ouvre des perspectives sur les valeurs américaines de transition énergétique et les fonds thématiques climat, avec un horizon de long terme.",
-          "source": "L'Express",
-          "url": "",
+          "titre": "Aides auditives moins bien remboursées dès 2027",
+          "analyse": "Hausse du ticket modérateur confirmée par décret pour 2027, avec impact direct sur le reste à charge des seniors. À anticiper dans les budgets santé des clients retraites et dans les arbitrages assurance santé complémentaire.",
+          "source": "notretemps.com",
+          "url": "https://www.notretemps.com/article/sante-appareils-auditifs-moins-bien-rembourses-2027",
+          "niveau": "fort"
+        },
+        {
+          "titre": "Intentions de recrutement de cadres en baisse au T3 2026 (Apec)",
+          "analyse": "Indicateur conjoncturel marquant un ralentissement du marché du travail cadre, particulièrement dans les grandes entreprises. Signal d'affaiblissement du marché de l'emploi à intégrer dans le discours sur l'épargne de précaution et la protection du revenu.",
+          "source": "notretemps.com",
+          "url": "https://www.notretemps.com/article/intentions-recrutement-cadres-berne-troisieme-trimestre-apec",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Transparence salariale : projet de loi en Conseil des ministres le 9 septembre",
+          "analyse": "Transposition de la directive européenne sur la transparence des rémunérations, avec enjeux pour les entreprises et les négociations salariales. À surveiller pour les clients dirigeants et chefs d'entreprise en matière de conformité RH.",
+          "source": "notretemps.com",
+          "url": "https://www.notretemps.com/article/transparence-salariale-projet-loi-conseil-des-ministres-9-septembre",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Sécheresse : assouplissement des règles pour comté, beaufort et abondance",
+          "analyse": "Mesure temporaire touchant des produits AOP emblématiques, illustrant l'impact économique des aléas climatiques sur les filières agricoles. Utile pour contextualiser le risque climatique dans les portefeuilles et l'immobilier rural.",
+          "source": "notretemps.com",
+          "url": "https://www.notretemps.com/article/secheresse-gouverment-allege-reglementation-fromages-comte-beaufort-abondance",
           "niveau": "moyen"
         }
       ]
     }
   ],
-  "compte_articles": 250
+  "a_surveiller": [],
+  "fallback": true
 }
