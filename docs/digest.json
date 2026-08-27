@@ -1,224 +1,322 @@
 {
-  "date_fr": "Wednesday 26 August 2026",
-  "compte_articles": 222,
-  "compte_forts": 21,
-  "compte_moyens": 25,
-  "synthese_jour": "Synthese IA partielle (fusion indisponible). Consultez les items ci-dessous.",
+  "date_fr": "Thursday 27 August 2026",
+  "compte_articles": 250,
+  "compte_forts": 0,
+  "compte_moyens": 250,
+  "synthese_jour": "Synthese IA non disponible (fallback). Consultez les articles ci-dessous.",
   "chiffres_cles": [],
   "sections": [
     {
-      "titre": "Articles du jour",
+      "titre": "General",
       "icone": "📰",
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "Hausse du ticket modérateur et des franchises médicales",
-          "analyse": "L'augmentation du reste à charge santé fragilise le budget des ménages, notamment les retraités. Pour le CGP, cela renforce la pertinence d'une couverture prévoyance adaptée et d'un arbitrage vers les contrats Madelin pour les professions libérales impactées.",
-          "source": "Le Monde.fr",
-          "url": "https://www.lemonde.fr",
-          "niveau": "fort"
-        },
-        {
-          "titre": "Urgence de redresser la productivité en France (Artus)",
-          "analyse": "L'écart de productivité avec les États-Unis (+27% vs +13% depuis 2010) pèse sur la compétitivité et les marges des entreprises françaises. Le CGP doit intégrer ce risque structurel dans l'allocation géographique, en surpondérant les expositions US dans les mandats actions.",
-          "source": "L'Express.fr",
-          "url": "https://www.lexpress.fr",
-          "niveau": "fort"
-        },
-        {
-          "titre": "Trump surtaxe l'automobile canadienne, Ottawa riposte",
-          "analyse": "L'escalade tarifaire sur le secteur automobile affecte directement les chaînes de valeur nord-américaines. Les investisseurs doivent anticiper une volatilité accrue sur les valeurs automobiles et envisager des couvertures sur les devises CAD/USD.",
-          "source": "L'Express.fr",
-          "url": "https://www.lexpress.fr",
-          "niveau": "fort"
-        },
-        {
-          "titre": "Les États-Unis veulent asphyxier l'économie iranienne",
-          "analyse": "L'opération « economic outcast » vise à isoler l'Iran de ses partenaires commerciaux, avec la Chine dans le viseur. Ce durcissement géopolitique soutient le risque haussier sur les cours du pétrole et justifie un positionnement défensif sur les valeurs énergétiques.",
-          "source": "L'Express.fr",
-          "url": "https://www.lexpress.fr",
-          "niveau": "fort"
-        },
-        {
-          "titre": "Financement du nucléaire français : bras de fer avec Bruxelles",
-          "analyse": "Le financement des six EPR2 se heurte aux règles de concurrence européennes sur les aides d'État. L'issue de ce conflit déterminera la rentabilité du secteur nucléaire français et l'attractivité des utilities européennes dans les portefeuilles ISR.",
-          "source": "La Tribune",
-          "url": "https://www.latribune.fr",
-          "niveau": "fort"
-        },
-        {
-          "titre": "Visas H-1B à plus de 100 000 $ : Trump inquiète la Silicon Valley",
-          "analyse": "La hausse drastique du coût des visas de travail menace le modèle de recrutement des géants tech américains. Pour le CGP, cela introduit un risque réglementaire supplémentaire sur les valeurs technologiques américaines déjà valorisées.",
-          "source": "L'Express.fr",
-          "url": "https://www.lexpress.fr",
+          "titre": "EN DIRECT, débat de la présidentielle 2027 : Edouard Philippe souhaite la fin de",
+          "analyse": "Les sept candidats à l’élection présidentielle sont interrogés, jeudi, par des chefs d’entreprise sur leur programme économique, à l’occasion de la Rencontre des entrepreneurs de France, organisée par le Medef.",
+          "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
+          "url": "https://www.lemonde.fr/economie/live/2026/08/27/en-direct-presidentielle-2027-suivez-le-debat-entre-les-candidats-aux-rencontres-des-entrepreneurs-de-france_6758467_3234.html",
           "niveau": "moyen"
         },
         {
-          "titre": "Projet à 6 Md€ entre Paris et Riyad : le pari risqué de Macron et MBS",
-          "analyse": "Les trois parcs d'attractions saoudiens en France représentent un investissement immobilier massif mais incertain. Le CGP doit rester prudent sur les engagements réels de financement et surveiller les opportunités sur les foncières de loisirs et le BTP francilien.",
-          "source": "L'Express.fr",
-          "url": "https://www.lexpress.fr",
+          "titre": "Inondations au Népal et au Tibet : « L’origine du drame est un glissement de ter",
+          "analyse": "Si les volumes de roches et de glace qui se sont décrochés dans l’Himalaya n’ont pas encore été quantifiés, le glaciologue Adrien Gilbert estime déjà, dans un entretien au « Monde », que cette catastrophe est d’une ampleur exceptionnelle.",
+          "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
+          "url": "https://www.lemonde.fr/planete/article/2026/08/27/inondations-au-nepal-et-au-tibet-l-origine-du-drame-est-un-glissement-de-terrain-qui-a-entraine-avec-lui-un-glacier_6758468_3244.html",
           "niveau": "moyen"
         },
         {
-          "titre": "Istanbul bouscule les hubs du Golfe sur les liaisons Europe-Asie",
-          "analyse": "Les perturbations géopolitiques au Moyen-Orient redessinent les routes aériennes au profit d'Istanbul. Cela crée des opportunités sur les valeurs aéroportuaires turques et fragilise les investissements dans les hubs du Golfe, à surveiller dans les mandats actions émergentes.",
-          "source": "La Tribune",
-          "url": "https://www.latribune.fr",
+          "titre": "Ratko Mladic, général serbe condamné pour génocide après la guerre de Bosnie-Her",
+          "analyse": "Artisan militaire du projet de « Grande Serbie », ce général a été condamné en 2017 pour « génocide, crimes contre l’humanité et crimes de guerre » durant la guerre de Bosnie-Herzégovine par les juges du Tribunal pénal international pour l’ex-Yougoslavie. Incarcéré à La Haye, il est mort le 27 août,",
+          "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
+          "url": "https://www.lemonde.fr/disparitions/article/2026/08/27/le-chef-de-guerre-serbe-ratko-mladic-condamne-pour-genocide-apres-la-guerre-de-bosnie-herzegovine-est-mort_6758461_3382.html",
           "niveau": "moyen"
         },
         {
-          "titre": "Crédit immobilier : les taux pourraient remonter à 4 % d'ici fin 2026",
-          "analyse": "La remontée des taux moyens (3,30 % en juillet) menace directement la capacité d'emprunt des ménages et la solvabilité des projets immobiliers. Les CGP doivent anticiper un renchérissement du coût du crédit et conseiller leurs clients sur le timing des acquisitions ou des renégociations.",
-          "source": "Le Revenu",
-          "url": "https://www.lerevenu.com/article/credit-immobilier-le-retour-des-taux-a-4-menace-les-acheteurs-dici-fin-2026",
-          "niveau": "fort"
-        },
-        {
-          "titre": "Marché obligataire : la flambée des taux longs devient un foyer de risque mondial",
-          "analyse": "La hausse des taux longs aux États-Unis et en Europe signale un changement de régime économique, avec une concurrence accrue pour les capitaux. Pour les CGP, cela implique de réévaluer l'exposition obligataire des portefeuilles et de privilégier des durations courtes ou des actifs réels.",
-          "source": "La Tribune",
-          "url": "https://www.latribune.fr/entreprises-finance/banques-finance/dette-inflation-demographie-ia-geopolitique-pourquoi-le-marche-obligataire-devient-le-nouveau-foyer-de-risque-pour-l-economie-mondiale",
-          "niveau": "fort"
-        },
-        {
-          "titre": "Détroit d'Ormuz : le trafic maritime s'effondre, risque énergétique majeur",
-          "analyse": "La chute du trafic dans ce corridor énergétique stratégique fait peser un risque d'envolée des prix du pétrole et de perturbation des chaînes d'approvisionnement. Les CGP doivent intégrer ce risque géopolitique dans leurs recommandations d'allocation, notamment sur les secteurs énergétiques et les valeurs refuges.",
-          "source": "Le Revenu",
-          "url": "https://www.lerevenu.com/article/detroit-dormuz-le-trafic-maritime-seffondre-une-nouvelle-fois",
-          "niveau": "fort"
-        },
-        {
-          "titre": "Franchises médicales portées à 140 euros dès le 1er octobre",
-          "analyse": "Le relèvement du plafond des franchises médicales de 100 à 140 euros, indexé sur l'inflation, alourdit le reste à charge des patients. Les CGP doivent intégrer cette hausse dans l'évaluation des besoins de couverture santé de leurs clients et réexaminer l'intérêt des complémentaires santé renforcées.",
-          "source": "La Tribune",
-          "url": "https://www.latribune.fr/economie/france/franchises-medicales-le-gouvernement-porte-la-facture-des-patients-a-140-euros",
+          "titre": "Addiction des mineurs à Facebook et Instagram : le point sur les nouvelles restr",
+          "analyse": "Outre le versement de 18 milliards de dollars, Meta s’est engagé, pour mettre fin aux poursuites qui l’opposaient à des dizaines d’Etats et d’entités américaines, à limiter pour les adolescents l’accès à ses plateformes. Un accord qui suscite des réactions diversement enthousiastes.",
+          "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
+          "url": "https://www.lemonde.fr/pixels/article/2026/08/27/addiction-des-mineurs-a-facebook-et-instagram-le-point-sur-les-nouvelles-restrictions-annoncees-par-meta_6758499_4408996.html",
           "niveau": "moyen"
         },
         {
-          "titre": "Retraités : l'État entrouvre une porte fiscale, mais sous conditions",
-          "analyse": "L'éditorial pointe une évolution fiscale potentielle pour les retraités, sans en préciser les contours exacts. Les CGP doivent suivre ce dossier de près, car toute modification de la fiscalité des retraités impacterait directement les stratégies de revenus et de transmission de leur clientèle senior.",
-          "source": "La Tribune",
-          "url": "https://www.latribune.fr/opinions/retraites-l-etat-entrouvre-enfin-une-porte-fiscale-mais-gare-a-ceux-qui-n-en-possedent-pas-la-cle",
+          "titre": "Olivia Barreau, promotrice de la « puissance d’agir » des cheffes de familles mo",
+          "analyse": "Cette quadragénaire, ex-comédienne et productrice devenue responsable associative pour élever, seule, ses deux enfants, organise, vendredi 28 août, la première université d’été consacrée aux familles monoparentales, en présence de plusieurs responsables politiques.",
+          "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
+          "url": "https://www.lemonde.fr/societe/article/2026/08/27/olivia-barreau-promotrice-de-la-puissance-d-agir-des-cheffes-de-familles-monoparentales_6758492_3224.html",
           "niveau": "moyen"
         },
         {
-          "titre": "Immobilier espagnol : les prix de l'ancien flambent de 16,2 % sur un an",
-          "analyse": "La forte progression des prix en Espagne (2 933 €/m² en moyenne) confirme l'attractivité du marché immobilier ibérique pour les investisseurs français. Les CGP peuvent y voir une opportunité de diversification patrimoniale, tout en alertant sur les risques de surchauffe et la fiscalité locale.",
-          "source": "Le Revenu",
-          "url": "https://www.lerevenu.com/article/immobilier-les-prix-de-lancien-flambent-de-162-en-espagne",
+          "titre": "EN DIRECT, guerre en Ukraine : au moins 18 blessés en Ukraine dans des attaques ",
+          "analyse": "Huit personnes ont été blessées à la suite d’attaques russes, jeudi, dans l’oblast de Dnipropetrovsk, dans le centre du pays. Les autorités locales ukrainiennes ont également fait état de trois blessés à Kherson dans une frappe sur un bus municipal, et de trois autres à Odessa, deux villes du sud du",
+          "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
+          "url": "https://www.lemonde.fr/international/live/2026/08/27/en-direct-guerre-en-ukraine-au-moins-18-blesses-en-ukraine-dans-des-attaques-de-drones-russes-en-plein-jour_6753793_3210.html",
           "niveau": "moyen"
         },
         {
-          "titre": "Résidences secondaires vides : comment optimiser la location hors saison",
-          "analyse": "La sous-occupation des résidences secondaires après l'été représente un manque à gagner pour les propriétaires. Les CGP peuvent conseiller leurs clients sur les dispositifs de location saisonnière, la fiscalité applicable et les solutions pour rentabiliser ces biens tout en maîtrisant les contraintes réglementaires.",
-          "source": "Challenges",
-          "url": "https://www.challenges.fr/immobilier/apres-l-ete-des-residences-secondaires-restent-desesperement-vides-comment-eviter-cet-enorme-gachis-et-les-louer-seulement-quelques-mois",
+          "titre": "Bruxelles cherche la parade à l’accroissement des fusillades liées au trafic de ",
+          "analyse": "Après un été plutôt calme, la capitale belge vient de vivre une vague de tirs à l’arme à feu avec six événements de ce type recensés en seulement quatre jours. En réponse à ces incidents, les autorités annoncent une série de mesures.",
+          "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
+          "url": "https://www.lemonde.fr/international/article/2026/08/27/bruxelles-cherche-la-parade-a-l-accroissement-des-fusillades-liees-au-trafic-de-drogue_6758471_3210.html",
           "niveau": "moyen"
         },
         {
-          "titre": "IPO de Shein à Hong Kong : le carnet d'ordres est entièrement couvert",
-          "analyse": "L'introduction en Bourse de Shein, avec une levée potentielle de 1,5 milliard d'euros, offre une nouvelle opportunité d'investissement sur le e-commerce asiatique. Les CGP doivent toutefois souligner les risques liés à la valorisation revue à la baisse et aux incertitudes réglementaires pesant sur le groupe.",
-          "source": "La Tribune",
-          "url": "https://www.latribune.fr/entreprises-finance/industrie/consommation/introduction-en-bourse-de-shein-le-livre-d-ordres-integralement-couvert-par-la-demande-des-investisseurs",
-          "niveau": "faible"
-        },
+          "titre": "Le procès du cerveau présumé du 11-Septembre, Khalid Cheikh Mohammed, commencera",
+          "analyse": "Khalid Cheikh Mohammed, capturé au Pakistan en 2003, a été par la suite transféré à la prison de Guantanamo. Il est entre-temps passé par les prisons secrètes de la CIA en Pologne pour y subir des séances d’interrogatoire sous la torture.",
+          "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
+          "url": "https://www.lemonde.fr/international/article/2026/08/27/le-proces-du-cerveau-presume-du-11-septembre-khalid-cheikh-mohammed-commencera-le-5-juin-2028_6758479_3210.html",
+          "niveau": "moyen"
+        }
+      ]
+    },
+    {
+      "titre": "Marches financiers",
+      "icone": "📈",
+      "niveau_global": "moyen",
+      "items": [
         {
-          "titre": "CAC 40 vise les 8 500 points à l'ouverture",
-          "analyse": "Après neuf séances de baisse sur dix, le CAC 40 tente de se stabiliser autour de 8 500 points. Les résultats Nvidia et les données PCE américaines seront les catalyseurs de la semaine, à surveiller de près pour ajuster l'allocation actions européennes des clients.",
-          "source": "Le Revenu",
-          "url": "",
-          "niveau": "fort"
-        },
-        {
-          "titre": "Wall Street hésite avant Nvidia et Jackson Hole",
-          "analyse": "Les marchés américains marquent une pause avant une semaine charnière. Le symposium de Jackson Hole et les résultats de Nvidia détermineront la tendance ; un risque de correction accrue si les signaux monétaires déçoivent.",
-          "source": "Le Revenu",
-          "url": "",
-          "niveau": "fort"
-        },
-        {
-          "titre": "Or et Bitcoin en hausse simultanée : le debasement trade",
-          "analyse": "L'or atteint un plus haut de 3 mois et le Bitcoin frôle 74 500$, portés par la dette américaine record et les rachats du Trésor. Ce mouvement corrélé rappelle l'intérêt d'une exposition aux actifs de couverture anti-dévaluation dans les portefeuilles.",
-          "source": "Le Revenu",
-          "url": "",
-          "niveau": "fort"
-        },
-        {
-          "titre": "Cinq pistes pour gérer la dette publique française",
-          "analyse": "Le rapport France 2035/2050 du HCSP alerte sur un risque d'emballement de la dette publique, dans un contexte de taux d'intérêt élevés. Un cadrage macro à intégrer dans les réflexions patrimoniales long terme de vos clients.",
-          "source": "Alternatives économiques",
-          "url": "",
+          "titre": "China should be loosening budgetary policy. It’s doing the opposite",
+          "analyse": "Its belt-tightening is good micro, but bad macro",
+          "source": "Finance & economics",
+          "url": "https://www.economist.com/finance-and-economics/2026/08/27/china-should-be-loosening-budgetary-policy-its-doing-the-opposite",
           "niveau": "moyen"
         },
         {
-          "titre": "SCPI Cœur d'Europe : 275 M€ de capitalisation au T2 2026",
-          "analyse": "La SCPI Cœur d'Europe affiche une forte croissance et un rendement attractif, mais les risques liés à l'exposition immobilière européenne méritent une analyse approfondie avant de recommander ce support aux clients.",
+          "titre": "How India’s central bank subsidised the diaspora",
+          "analyse": "The scheme has helped to stabilise the rupee",
+          "source": "Finance & economics",
+          "url": "https://www.economist.com/finance-and-economics/2026/08/27/how-indias-central-bank-subsidised-the-diaspora",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Tax breaks for charity donations are a poor way to do good",
+          "analyse": "They should be scrapped",
+          "source": "Finance & economics",
+          "url": "https://www.economist.com/finance-and-economics/2026/08/27/tax-breaks-for-charity-donations-are-a-poor-way-to-do-good",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Why is Russia deliberately weakening its currency?",
+          "analyse": "A strong rouble was hurting the budget",
+          "source": "Finance & economics",
+          "url": "https://www.economist.com/finance-and-economics/2026/08/26/why-is-russia-deliberately-weakening-its-currency",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "One thing America still excels at making? Pretzels",
+          "analyse": "How Pennsylvania became a powerhouse in the production of the doughy snack",
+          "source": "Business",
+          "url": "https://www.economist.com/business/2026/08/27/one-thing-america-still-excels-at-making-pretzels",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "The quality you should most wish for your children",
+          "analyse": "The benefits of having an internal locus of control",
+          "source": "Business",
+          "url": "https://www.economist.com/business/2026/08/27/the-quality-you-should-most-wish-for-your-children",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "SpaceX’s $100 billion spaceport plan has investors asking where all the money is",
+          "analyse": "The company will need to raise a lot of debt in order to fund its ambitions, according to an analyst.",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/spacexs-100-billion-spaceport-plan-has-investors-asking-where-all-the-money-is-coming-from-7395bc51?mod=mw_rss_topstories",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "‘It’s the ultimate regifting’: My mom gave me a house. Should I transfer it back",
+          "analyse": "“The property is very old and requires significant ongoing maintenance.”",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/its-the-ultimate-regifting-my-mom-gave-me-a-house-should-i-transfer-it-back-to-her-to-reduce-capital-gains-e357f49c?mod=mw_rss_topstories",
+          "niveau": "moyen"
+        }
+      ]
+    },
+    {
+      "titre": "SCPI & Immobilier",
+      "icone": "🏠",
+      "niveau_global": "moyen",
+      "items": [
+        {
+          "titre": "CœurForest : Retour sur les dernières actualités du GFI",
+          "analyse": "GFI CœurForest est-il vraiment résilient et patrimonial en 2026 ? Incendies, prix de part, nouvelles acquisitions : découvrez les signaux à surveiller avan",
           "source": "MeilleureSCPI.com",
-          "url": "",
+          "url": "https://www.meilleurescpi.com/actualites/gfi-coeurforest-trois-points-cles-a-retenir-en-aout/",
           "niveau": "moyen"
         },
         {
-          "titre": "Don exceptionnel de 100 000 € : profiter avant fin 2026",
-          "analyse": "Le dispositif de don exceptionnel de 100 000 € sans droits de donation expire fin 2026. Une opportunité de transmission à anticiper dès maintenant avec les clients concernés, notamment pour financer un projet immobilier ou une rénovation.",
+          "titre": "SCPI Osmo Énergie : 18,65 M€ collectés sur le 2e trimestre 2026",
+          "analyse": "La SCPI au 2T 2026 : quels chiffres faut-il retenir ?",
           "source": "MeilleureSCPI.com",
-          "url": "",
-          "niveau": "fort"
-        },
-        {
-          "titre": "Cryptoactifs en Europe : régulation MiCA incomplète",
-          "analyse": "Sur 5 000 acteurs crypto en Europe, seuls 300 ont obtenu l'agrément MiCA. Ce tri sévère sécurise le secteur mais limite l'offre accessible ; à communiquer aux clients intéressés par les cryptoactifs pour orienter leur choix vers les acteurs agréés.",
-          "source": "Alternatives économiques",
-          "url": "",
+          "url": "https://www.meilleurescpi.com/actualites/scpi-osmo-energie-une-collecte-de-18-65-meur-au-2t/",
           "niveau": "moyen"
         },
         {
-          "titre": "Délai de succession dépassé : majoration de 40% confirmée",
-          "analyse": "La Cour de cassation confirme une majoration de 40% des droits de succession pour retard de déclaration, même quand la mise en demeure a été signée par un voisin. Un rappel brutal de l'importance du respect des délais fiscaux dans les successions de vos clients.",
-          "source": "notretemps.com",
-          "url": "",
+          "titre": "SCPI Remake Live : un trimesstre rythmé par six acquisitions",
+          "analyse": "Quels indicateurs retenir pour la SCPI au 2T 2026 ?",
+          "source": "MeilleureSCPI.com",
+          "url": "https://www.meilleurescpi.com/actualites/scpi-remake-live-un-2t-rythme-par-six-acquisitions/",
           "niveau": "moyen"
         },
         {
-          "titre": "SCPI : conseils pour choisir les meilleures du marché",
-          "analyse": "Article de pédagogie grand public sur les SCPI, utile pour relayer le discours de diversification immobilière. Rappelle qu'un rendement élevé ne suffit pas et qu'il faut intégrer risque de vacance, exposition sectorielle et horizon de placement.",
-          "source": "notretemps.com",
-          "url": "https://www.notretemps.com/article/scpi-nos-conseils-pour-choisir-les-meilleures-scpi-du-marche",
-          "niveau": "fort"
-        },
-        {
-          "titre": "Délai de succession dépassé : majoration de 40% et signature par un voisin",
-          "analyse": "Cas jurisprudentiel sur les majorations de droits de succession et la validité de la notification fiscale. Pertinent pour alerter les clients sur les délais de déclaration et les risques contentieux liés à la réception des courriers du fisc.",
-          "source": "notretemps.com",
-          "url": "https://www.notretemps.com/article/delai-declaration-succession-depasse-lettre-recommandee-voisin",
-          "niveau": "fort"
-        },
-        {
-          "titre": "Aides auditives moins bien remboursées dès 2027",
-          "analyse": "Hausse du ticket modérateur confirmée par décret pour 2027, avec impact direct sur le reste à charge des seniors. À anticiper dans les budgets santé des clients retraites et dans les arbitrages assurance santé complémentaire.",
-          "source": "notretemps.com",
-          "url": "https://www.notretemps.com/article/sante-appareils-auditifs-moins-bien-rembourses-2027",
-          "niveau": "fort"
-        },
-        {
-          "titre": "Intentions de recrutement de cadres en baisse au T3 2026 (Apec)",
-          "analyse": "Indicateur conjoncturel marquant un ralentissement du marché du travail cadre, particulièrement dans les grandes entreprises. Signal d'affaiblissement du marché de l'emploi à intégrer dans le discours sur l'épargne de précaution et la protection du revenu.",
-          "source": "notretemps.com",
-          "url": "https://www.notretemps.com/article/intentions-recrutement-cadres-berne-troisieme-trimestre-apec",
+          "titre": "Immobilier : Le marché ralentit mais le luxe ne connaît pas la crise selon Engel",
+          "analyse": "Alors que le marché immobilier français ralentit depuis février, l’immobilier de prestige résiste. Engel &#038; Völkers France détaille les tendances observées à Paris, Bordeaux, Lyon et sur la Côte d’Azur.\nCet article Immobilier : Le marché ralentit mais le luxe ne connaît pas la crise selon Engel ",
+          "source": "MySweetimmo",
+          "url": "https://www.mysweetimmo.com/2026/08/27/immobilier-le-marche-ralentit-mais-le-luxe-ne-connait-pas-la-crise-selon-engel-volkers/",
           "niveau": "moyen"
         },
         {
-          "titre": "Transparence salariale : projet de loi en Conseil des ministres le 9 septembre",
-          "analyse": "Transposition de la directive européenne sur la transparence des rémunérations, avec enjeux pour les entreprises et les négociations salariales. À surveiller pour les clients dirigeants et chefs d'entreprise en matière de conformité RH.",
-          "source": "notretemps.com",
-          "url": "https://www.notretemps.com/article/transparence-salariale-projet-loi-conseil-des-ministres-9-septembre",
+          "titre": "DPE immobilier 2027 : 300 000 logements pourraient sortir des classes F ou G",
+          "analyse": "Le calcul du DPE change au 1er janvier 2027 : environ 300 000 logements pourraient sortir des classes F ou G sans travaux, dont 125 000 dans le parc locatif privé.\nCet article DPE immobilier 2027 : 300 000 logements pourraient sortir des classes F ou G est apparu en premier sur MySweetimmo.",
+          "source": "MySweetimmo",
+          "url": "https://www.mysweetimmo.com/2026/08/27/dpe-immobilier-2027-300-000-logements-pourraient-sortir-de-f-ou-g/",
           "niveau": "moyen"
         },
         {
-          "titre": "Sécheresse : assouplissement des règles pour comté, beaufort et abondance",
-          "analyse": "Mesure temporaire touchant des produits AOP emblématiques, illustrant l'impact économique des aléas climatiques sur les filières agricoles. Utile pour contextualiser le risque climatique dans les portefeuilles et l'immobilier rural.",
+          "titre": "Risques et régulation dans le crowdfunding immobilier : un guide de vigilance",
+          "analyse": "Le crowdfunding immobilier séduit de nombreux investisseurs, mais il comporte des risques spécifiques et nécessite une vigilance accrue sur les retards, remboursements et évolutions réglementaires. Découvrez les enjeux essentiels à connaître avant de vous engager.",
+          "source": "Crowdfunding Immo",
+          "url": "https://www.crowdfundingimmo.fr/guides/risques-regulation-crowdfunding-immobilier-2/",
+          "niveau": "moyen"
+        }
+      ]
+    },
+    {
+      "titre": "Fiscalite",
+      "icone": "⚖️",
+      "niveau_global": "moyen",
+      "items": [
+        {
+          "titre": "Au premier débat de la présidentielle, Mélenchon interpelle les patrons, les can",
+          "analyse": "Un match animé à Roland-Garros: Jean-Luc Mélenchon a interpellé les patrons jeudi lors du premier grand débat de la présidentielle organisé par le Medef, lors duquel les sept principaux candidats se s...",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/article/secheresse-gouverment-allege-reglementation-fromages-comte-beaufort-abondance",
+          "url": "https://www.notretemps.com/depeches/au-premier-debat-de-la-presidentielle-melenchon-interpelle-les-patrons-les-candidats-se-divisent-sur-l-economie-137726",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "ZFE : un impact limité mais réel sur le verdissement du parc automobile, selon l",
+          "analyse": "Les zones à faibles émissions (ZFE) dans des grandes villes françaises ont bien participé à réduire les émissions polluantes, en incitant à l&#039;achat de véhicules moins polluants, selon un...",
+          "source": "notretemps.com",
+          "url": "https://www.notretemps.com/depeches/zfe-un-impact-limite-mais-reel-sur-le-verdissement-du-parc-automobile-selon-l-insee-137750",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "ZFE : un impact limité mais réel sur le verdissement du parc automobile, selon l",
+          "analyse": "Les zones à faibles émissions (ZFE) dans des grandes villes françaises ont bien participé à réduire les émissions polluantes, en incitant à l&#039;achat de véhicules moins polluants, selon un...",
+          "source": "notretemps.com",
+          "url": "https://www.notretemps.com/depeches/zfe-un-impact-limite-mais-reel-sur-le-verdissement-du-parc-automobile-selon-l-insee-137748",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Ces 6 photos d'animaux sont parmi les plus belles de 2026",
+          "analyse": "Chaque année, le Natural History Museum de Londres récompense les 100 plus beaux clichés d&#039;animaux à l&#039;occasion du concours \"Wildlife Photographer of the Year\". Pour patienter jusqu&#039;à la révélation du palmarès complet en septembre, quelques clichés ont été dévoilés... Voici nos préfér",
+          "source": "notretemps.com",
+          "url": "https://www.notretemps.com/loisirs/musees/ces-6-photos-d-animaux-sont-parmi-les-plus-belles-de-2026-137713",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Retraite: ces changements au 1er septembre 2026 pourraient vous permettre de par",
+          "analyse": "Au 1er septembre 2026, plusieurs nouvelles mesures vont impacter positivement les retraités. Âge de départ, carrières longues, calcul de la pension pour les parents: plusieurs règles évoluent. Voici ce qui change concrètement et qui est vraiment concerné.",
+          "source": "notretemps.com",
+          "url": "https://www.notretemps.com/retraite/ma-pension/retraite-ces-changements-du-1er-septembre-2026-pourraient-vous-permettre-de-partir-plus-tot-137685",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "En Corse, alerte à la pollution aux particules fines et à la canicule",
+          "analyse": "La procédure d&#039;alerte à la pollution aux particules fines a été déclenchée jeudi par l&#039;organisme de prévision Qualitair Corse pour toute la Corse qui est également en vigilance orange canicule.\"Un épi...",
+          "source": "notretemps.com",
+          "url": "https://www.notretemps.com/depeches/en-corse-alerte-a-la-pollution-aux-particules-fines-et-a-la-canicule-137746",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Altercation avec des policiers: le député insoumis Sébastien Delogu en garde à v",
+          "analyse": "Le député insoumis Sébastien Delogu a été placé en garde à vue jeudi suite à une altercation avec trois policiers venus interpeller un suspect dans l&#039;immeuble où il réside, a annoncé le parquet de Mar...",
+          "source": "notretemps.com",
+          "url": "https://www.notretemps.com/depeches/altercation-avec-des-policiers-le-depute-insoumis-sebastien-delogu-en-garde-a-vue-137745",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Mayotte: Lecornu lance un \"choc\" de reconstruction, sur fond de tensions politiq",
+          "analyse": "\"Il faut se bouger\". Sébastien Lecornu a lancé jeudi à Mayotte un \"choc\" des mises en chantier pour accélérer la reconstruction de l&#039;archipel après le dévastateur cyclone Chido, sur fond de tensions p...",
+          "source": "notretemps.com",
+          "url": "https://www.notretemps.com/depeches/mayotte-lecornu-lance-un-choc-de-reconstruction-sur-fond-de-tensions-politiques-137744",
+          "niveau": "moyen"
+        }
+      ]
+    },
+    {
+      "titre": "Finance_Pro",
+      "icone": "📰",
+      "niveau_global": "moyen",
+      "items": [
+        {
+          "titre": "Robinhood Chain tokenise les positions à effet de levier",
+          "analyse": "Le 25 août 2026, Arcus — le DEX construit par l&rsquo;équipe derrière dYdX en partenariat avec Robinhood Crypto — lançait les pTokens sur Robinhood Chain. Pour la première fois, une position à effet de levier sur des contrats perpétuels devient un token ERC-20 transférable, utilisable comme collatér",
+          "source": "Finyear",
+          "url": "https://finyear.com/robinhood-chain-tokenise-les-positions-a-effet-de-levier/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Revolut lance EURR : le stablecoin € MiCA émis par Stripe",
+          "analyse": "Le 26 août 2026, Revolut commençait le déploiement de EURR — son premier stablecoin, adossé à l&rsquo;euro — auprès de clients sélectionnés au Danemark, en Pologne et au Portugal. Le lancement était attendu. Ce que les comptes-rendus n&rsquo;ont pas détaillé, c&rsquo;est la structure juridique réell",
+          "source": "Finyear",
+          "url": "https://finyear.com/revolut-lance-eurr-le-stablecoin-e-mica-emis-par-stripe/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "S1 2026 : entre incendies en France, guerre en Iran et transformation IA",
+          "analyse": "L&rsquo;été 2026 a confronté les grandes banques françaises à deux crises simultanées : la guerre en Iran et ses conséquences économiques mondiales, et des incendies d&rsquo;une ampleur inédite sur le territoire français. Dans les deux cas, les cinq groupes ont activé des dispositifs d&rsquo;urgence",
+          "source": "Finyear",
+          "url": "https://finyear.com/s1-2026-entre-incendies-en-france-guerre-en-iran-et-transformation-ia/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Bilans des banques françaises au S1 2026 : dividendes records et rachats d’actio",
+          "analyse": "15,7% de ratio CET1 moyen pour les cinq grandes banques françaises au 30 juin 2026. 1 719 milliards d&rsquo;euros de réserves de liquidité. Des ratios LCR entre 136% et 158%, tous largement au-dessus de l&rsquo;exigence réglementaire. Mais la vraie information de ce semestre sur les bilans n&rsquo;e",
+          "source": "Finyear",
+          "url": "https://finyear.com/bilans-des-banques-francaises-au-s1-2026-dividendes-records-et-rachats-dactions/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Coefficient d’exploitation des banques françaises : 59,8% en moyenne au S1 2026",
+          "analyse": "59,8% de coefficient d&rsquo;exploitation moyen pour les cinq grandes banques françaises au S1 2026, en amélioration de 265 points de base sur un an. Derrière cette moyenne convergente, cinq trajectoires très différentes : BNP Paribas à 59,3% grâce à l&rsquo;intégration d&rsquo;AXA IM, Société Génér",
+          "source": "Finyear",
+          "url": "https://finyear.com/coefficient-dexploitation-des-banques-francaises-598-en-moyenne-au-s1-2026/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Coût du risque des banques françaises : +18,5% au S1 2026",
+          "analyse": "Le coût du risque cumulé des cinq grandes banques françaises s&rsquo;établit à 7,2 milliards d&rsquo;euros au 30 juin 2026, en hausse de 18,5% par rapport aux 6 milliards du 30 juin 2025. Derrière ce chiffre agrégé se cachent des disparités importantes entre établissements, une montée des dotations ",
+          "source": "Finyear",
+          "url": "https://finyear.com/cout-du-risque-des-banques-francaises-185-au-s1-2026/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Résultats S1 2026 des grandes banques françaises : 87 milliards de PNB, 20 milli",
+          "analyse": "Dans un contexte particulièrement contraint — guerre en Iran depuis fin février, détroit d&rsquo;Ormuz congestionné, BCE qui relève ses taux en juin pour la première fois depuis onze ans, instabilité politique française — les cinq grands groupes bancaires français ont publié des résultats d&rsquo;un",
+          "source": "Finyear",
+          "url": "https://finyear.com/resultats-s1-2026-des-grandes-banques-francaises-87-milliards-de-pnb-20-milliards-de-resultat-net/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Bilan S1 2026 banques françaises : rapport complet de KPMG via 8 indicateurs clé",
+          "analyse": "87 milliards de PNB, 20 milliards de résultat net, 7,2 milliards de coût du risque, 15,7% de CET1 moyen, 1 719 milliards de réserves de liquidité, coefficient d&rsquo;exploitation à 59,8%. KPMG France a publié le 6 août son panorama semestriel des cinq grands groupes bancaires français. Dans un cont",
+          "source": "Finyear",
+          "url": "https://finyear.com/bilan-s1-2026-banques-francaises-rapport-complet-kpmg-8-indicateurs-cles/",
+          "niveau": "moyen"
+        }
+      ]
+    },
+    {
+      "titre": "Reglementation",
+      "icone": "📋",
+      "niveau_global": "moyen",
+      "items": [
+        {
+          "titre": "Clandestin et sans ressources en Espagne, le couple effectue des allers-retours ",
+          "analyse": "Si les rues de la capitale sortent doucement de la torpeur estivale, la 23e chambre correctionnelle croule toujours sous l&#8217;affluence des pr&#233;venus jug&#233;s en comparution imm&#233;diate. Hier, six &#233;trangers et deux Fran&#231;ais se sont succ&#233;d&#233; dans le box jusqu&#8217;en m",
+          "source": "Actu-Juridique",
+          "url": "https://www.actu-juridique.fr/penal/clandestin-et-sans-ressources-en-espagne-le-couple-effectue-des-allers-retours-en-france-pour-voler/",
           "niveau": "moyen"
         }
       ]
