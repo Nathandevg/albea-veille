@@ -1,8 +1,8 @@
 {
-  "date_fr": "Saturday 29 August 2026",
-  "compte_articles": 163,
+  "date_fr": "Sunday 30 August 2026",
+  "compte_articles": 123,
   "compte_forts": 0,
-  "compte_moyens": 163,
+  "compte_moyens": 123,
   "synthese_jour": "Synthese IA non disponible (fallback). Consultez les articles ci-dessous.",
   "chiffres_cles": [],
   "sections": [
@@ -12,59 +12,59 @@
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "EN DIRECT, présidentielle 2027 : Sébastien Lecornu répète qu’il n’est « pas cand",
-          "analyse": "Le candidat à la présidentielle a fustigé cette primaire réunissant PS, Place publique, et le petit parti Gauche républicaine et socialiste, estimant que cela revenait à « mettre un obstacle au vote des gens, plus qu’à les attirer ». Le premier ministe s’est, lui, exprimé dans « Le Parisien ».",
+          "titre": "L’Islande rejette les négociations d’adhésion à l’UE",
+          "analyse": "Consultés samedi par référendum, les Islandais ont voté non, à l’issue d’une campagne au cours de laquelle la souveraineté de l’île et son indépendance ont dominé les débats. Le résultat de ce vote devrait être scruté à Bruxelles.",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/politique/live/2026/08/29/en-direct-presidentielle-2027-le-ps-reuni-a-blois-jordan-bardella-et-gabriel-attal-a-la-foire-de-chalons-suivez-la-rentree-politique_6759921_823448.html",
+          "url": "https://www.lemonde.fr/international/article/2026/08/30/les-islandais-rejettent-les-negociations-d-adhesion-a-l-union-europeenne_6760950_3210.html",
           "niveau": "moyen"
         },
         {
-          "titre": "Les inondations au Népal et au Tibet, une catastrophe naturelle racontée en cart",
-          "analyse": "La comparaison des images par satellite avant et après la catastrophe qui a ravagé une zone frontalière entre le Népal et le Tibet montre l’ampleur des destructions.",
+          "titre": "Jet-set, mafias et FLNC : sur l’île corse de Cavallo, la fin annoncée de l’entre",
+          "analyse": "Cavallo, ce petit bijou de l’archipel des Lavezzi, a toujours suscité les convoitises. Théâtre de fêtes endiablées, il a attiré la jet-set internationale avant d’être la cible des nationalistes et des mafias. En juin, la mairie de Bonifacio est passée à l’offensive pour reprendre le contrôle du port",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/planete/article/2026/08/29/les-inondations-au-nepal-et-au-tibet-une-catastrophe-naturelle-racontee-en-carte-et-en-images_6759987_3244.html",
+          "url": "https://www.lemonde.fr/m-le-mag/article/2026/08/30/jet-set-mafias-et-nationalistes-sur-l-ile-corse-de-cavallo-la-fin-annoncee-de-l-entre-soi_6760601_4500055.html",
           "niveau": "moyen"
         },
         {
-          "titre": "Les canicules et les incendies redessinent la carte des vacances d’été : « On a ",
-          "analyse": "Soumis aux crises climatiques et à la baisse du pouvoir d’achat, les Français n’ont pas renoncé à partir, mais ont changé leurs habitudes. Littoral de la Manche, montagne : les destinations plus fraîches et moins chères ont tiré leur épingle du jeu au cours d’un été touristique contrasté.",
+          "titre": "EN DIRECT, présidentielle 2027 : la primaire socialiste sera « le moment de refo",
+          "analyse": "Candidat à la présidentielle et à la primaire sociale-démocrate, notamment contre Olivier Faure, le coprésident de Place publique a minimisé, sur France 2, une éventuelle candidature de François Hollande. « Les Françaises et les Français veulent écrire une nouvelle page [politique] », a-t-il dit.",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/08/29/les-canicules-et-les-incendies-redessinent-la-carte-des-vacances-d-ete-on-a-souffert-de-la-chaleur-on-ne-voulait-pas-faire-vivre-ca-aux-enfants_6759536_3234.html",
+          "url": "https://www.lemonde.fr/politique/live/2026/08/30/en-direct-presidentielle-2027-olivier-faure-a-annonce-aux-deputes-de-son-groupe-etre-candidat-a-la-primaire-de-la-gauche_6759921_823448.html",
           "niveau": "moyen"
         },
         {
-          "titre": "EN DIRECT, guerre en Ukraine : une attaque russe sur un entrepôt de munitions à ",
-          "analyse": "« Il y a eu une frappe sur un entrepôt, suivie d’une détonation », a dit le service d’Etat pour les situations d’urgence (DSNS) ukrainien, samedi. L’explosion a provoqué d’importants dégâts, notamment sur des habitations aux alentours. Le président ukrainien a annoncé l’ouverture d’une enquête pour ",
+          "titre": "Dans le village de Devighat, au Népal, un décor apocalyptique figé par la boue :",
+          "analyse": "Alertés à temps, de nombreux habitants ont pu évacuer leurs maisons quelques minutes avant le passage de la coulée de boue qui a fait 750 morts au Népal et en Chine. Les secours cherchent les rescapés et les morts dans des conditions extrêmement périlleuses.",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/international/live/2026/08/29/en-direct-guerre-en-ukraine-une-attaque-russe-sur-un-entrepot-a-boutcha-pres-de-kiev-a-tue-au-moins-27-personnes-selon-le-gouvernement-ukrainien_6753793_3210.html",
+          "url": "https://www.lemonde.fr/planete/article/2026/08/30/dans-un-village-du-nepal-devaste-par-la-boue-meme-nos-ancetres-n-ont-pas-souvenir-d-un-deluge-de-cette-ampleur_6761016_3244.html",
           "niveau": "moyen"
         },
         {
-          "titre": "UTMB : Ben Dhiman, le plus Pyrénéen des Américains, survole l’Ultra-Trail du Mon",
-          "analyse": "Deuxième en 2025, le traileur américain établi à Bagnères-de-Bigorre a remporté la course reine de l’ultra-trail, franchissant la ligne d’arrivée à Chamonix en 18 h 16 min 29 s.",
+          "titre": "Itamar Ben Gvir, ministre d’extrême droite israélien, est « fier » de la dégrada",
+          "analyse": "A deux mois des législatives, le ministre de la sécurité nationale israélien a publié une vidéo dans laquelle une femme voilée, le visage flouté, affirme que les conditions de détention sont « extrêmement mauvaises ».",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/sport/article/2026/08/29/utmb-ben-dhiman-le-plus-pyreneen-des-americains-survole-l-ultra-trail-du-mont-blanc-en-moins-de-19-heures_6760024_3242.html",
+          "url": "https://www.lemonde.fr/international/article/2026/08/30/itamar-ben-gvir-ministre-d-extreme-droite-israelien-vante-la-degradation-des-conditions-de-detention-des-palestiniens_6761051_3210.html",
           "niveau": "moyen"
         },
         {
-          "titre": "L’île Lacroix, l’esprit du large",
-          "analyse": "« La Seine en cinq îles » (5/5). Proche de la Manche, ce territoire rouennais n’a été doté d’un pont qu’en 1829 et s’est proclamé commune libre en 1920. Il a connu l’âge d’or de la batellerie et de l’industrie, avant de s’illustrer par ses clubs nautiques et sportifs.",
+          "titre": "Ben Dhiman, vainqueur de l’UTMB : « Même au milieu de la nuit, tout seul dans ce",
+          "analyse": "Le traileur américain a remporté, samedi, l’Ultra-Trail du Mont-Blanc en un temps record. Dans un entretien au « Monde », l’athlète installé dans les Pyrénées revient sur sa course et son parcours.",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/m-styles/article/2026/08/29/l-ile-lacroix-l-esprit-du-large_6759539_4497319.html",
+          "url": "https://www.lemonde.fr/sport/article/2026/08/30/ben-dhiman-vainqueur-de-l-utmb-meme-au-milieu-de-la-nuit-tout-seul-dans-ces-grandes-montagnes-je-courais-sans-peur_6761151_3242.html",
           "niveau": "moyen"
         },
         {
-          "titre": "A France Inter, la société des journalistes dénonce l’arrivée de Charles Sapin, ",
-          "analyse": "A partir du 30 août, Charles Sapin sera à l’antenne chaque dimanche pour livrer un édito dans la matinale, une décision justifiée par la direction au nom du « pluralisme ».",
+          "titre": "EN DIRECT, guerre en Ukraine : les dernières informations",
+          "analyse": "La Russie dit préparer des « frappes massives contre les installations énergétiques de l’Ukraine », selon son ministère de la défense, en représailles aux « attaques continues du régime de Kiev contre les infrastructures civiles et le complexe pétrolier et énergétique de la Russie ».",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/actualite-medias/article/2026/08/29/la-societe-des-journalistes-de-france-inter-denonce-l-arrivee-a-l-antenne-d-un-dirigeant-de-valeurs-actuelles_6759920_3236.html",
+          "url": "https://www.lemonde.fr/international/live/2026/08/30/en-direct-guerre-en-ukraine-les-dernieres-informations-au-30-aout-2026_6760568_3210.html",
           "niveau": "moyen"
         },
         {
-          "titre": "Pourquoi l’avenir de la tour Montparnasse est-il en jeu dans les prochaines sema",
-          "analyse": "Si le bâtiment parisien a été vidé de ses occupants en mars 2026, le démarrage du chantier de rénovation est retardé par de nombreux conflits entre copropriétaires.",
+          "titre": "Roman, nouveau télescope spatial de la NASA, s’est envolé à la recherche de l’én",
+          "analyse": "Ce télescope, qui doit décoller dimanche à bord d’une fusée lancée à Cap Canaveral, en Floride, est la mission scientifique la plus ambitieuse de l’agence spatiale américaine depuis celle du James-Webb en 2021. En cinq ans, il devrait achever trois grands relevés du ciel et aider à faire progresser ",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/comprendre-en-3-minutes/video/2026/08/29/pourquoi-l-avenir-de-la-tour-montparnasse-est-il-en-jeu-dans-les-prochaines-semaines-comprendre-en-trois-minutes_6759543_6176282.html",
+          "url": "https://www.lemonde.fr/sciences/article/2026/08/30/roman-le-nouveau-telescope-spatial-de-la-nasa-part-a-la-recherche-de-l-energie-noire-et-des-exoplanetes_6760674_1650684.html",
           "niveau": "moyen"
         }
       ]
@@ -74,6 +74,34 @@
       "icone": "📈",
       "niveau_global": "moyen",
       "items": [
+        {
+          "titre": "AI isn’t eating software after all — and the sector’s ‘epic’ rally could run thr",
+          "analyse": "Months of panic that AI would replace subscription software are easing after a strong week of software earnings.",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/ai-isnt-eating-software-after-all-and-the-sectors-epic-rally-could-run-through-october-a4610583?mod=mw_rss_topstories",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Am I too old for Roth conversions? I’m 84 and my wife is 77. We have $8 million ",
+          "analyse": "“We are reluctant to pay a financial adviser 2% of assets — roughly $160,000 per year.”",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/am-i-too-old-for-roth-conversions-im-84-and-my-wife-is-77-we-have-8-million-saved-fb08fccd?mod=mw_rss_topstories",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "My mother, 91, has dementia. Every bank says I need her signature to unlock her ",
+          "analyse": "“These shares are the only assets in her estate without designated beneficiaries.”",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/my-mother-91-has-dementia-every-bank-says-i-need-her-signature-to-unlock-her-100-000-stock-certificate-what-can-i-do-4a2b702f?mod=mw_rss_topstories",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "‘I feel shoehorned’: My father funded my $800,000 Roth IRA. Does that give him t",
+          "analyse": "“His argument is essentially that, since my parents provided the money for the Roth, they have a say in how I invest it.”",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/i-feel-shoehorned-my-father-funded-my-800-000-roth-ira-does-that-give-him-the-right-to-say-how-i-invest-it-7b1e3ab3?mod=mw_rss_topstories",
+          "niveau": "moyen"
+        },
         {
           "titre": "5 affordable cities to retire in the U.S. right now",
           "analyse": "You don’t have to leave the country to find an affordable place that matches your retirement vision.",
@@ -89,59 +117,17 @@
           "niveau": "moyen"
         },
         {
-          "titre": "Where are all the new jobs? Hiring slows again — and it probably won’t speed up ",
-          "analyse": "The U.S. labor market seemed to be on upswing after a surge in new employment early this year — but a summer slowdown in hiring and fewer help-wanted ads suggest it won’t get any easier to find a job.",
-          "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/where-are-all-the-new-jobs-hiring-slows-again-and-it-probably-wont-speed-up-soon-66920f1d?mod=mw_rss_topstories",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Corporate earnings have been growing at a blistering pace. Here’s why that’s not",
-          "analyse": "The recent blistering pace of earnings growth is unsustainable.",
-          "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/corporate-earnings-have-been-growing-at-a-blistering-pace-heres-why-thats-not-likely-to-last-28810eac?mod=mw_rss_topstories",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "My contractor handed my $42,000 pool upgrade to a subcontractor I had already re",
-          "analyse": "“I specifically rejected Contractor A because of his reputation.”",
-          "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/my-contractor-handed-my-42-000-pool-upgrade-to-a-subcontractor-i-had-already-rejected-what-can-i-do-dce41b2b?mod=mw_rss_topstories",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "The S&P 500 keeps climbing on days when stocks broadly struggle. Here’s what’s g",
-          "analyse": "Investors’ intense focus on AI is at times adding to the might of a small club of Big Tech stocks with mega market values  to potentially make or break a single trading session for the S&P 500.",
-          "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/the-s-p-500-keeps-climbing-on-days-when-stocks-broadly-struggle-heres-whats-going-on-60ad5c72?mod=mw_rss_topstories",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "‘I feel shoehorned’: My father funded my $800,000 Roth IRA. Does that give him t",
-          "analyse": "“His argument is essentially that, since my parents provided the money for the Roth, they have a say in how I invest it.”",
-          "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/i-feel-shoehorned-my-father-funded-my-800-000-roth-ira-does-that-give-him-the-right-to-say-how-i-invest-it-7b1e3ab3?mod=mw_rss_topstories",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "‘My main goal is to help people’: I’m single, 74, with $10 million burning a hol",
-          "analyse": "“I also own my home and an SUV outright, with no outstanding debt.”",
-          "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/my-main-goal-is-to-help-people-im-single-74-with-10-million-burning-a-hole-in-my-pocket-what-should-i-do-0e6112e1?mod=mw_rss_topstories",
-          "niveau": "moyen"
-        }
-      ]
-    },
-    {
-      "titre": "Marches financiers",
-      "icone": "🏛️",
-      "niveau_global": "moyen",
-      "items": [
-        {
-          "titre": "Isabel Schnabel: Central banks on-chain",
+          "titre": "TaskUs surges 61% after InvestingPro Fair Value identified opportunity",
           "analyse": "",
-          "source": "ECB - European Central Bank",
-          "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260828~fe9afc86e8.en.html",
+          "source": "All News",
+          "url": "https://www.investing.com/news/investment-ideas/taskus-surges-61-after-investingpro-fair-value-identified-opportunity-93CH-4882039",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "China’s Longi Green Energy first-half net loss widens as solar downturn persists",
+          "analyse": "",
+          "source": "All News",
+          "url": "https://www.investing.com/news/company-news/chinas-longi-green-energy-firsthalf-net-loss-widens-as-solar-downturn-persists-4882034",
           "niveau": "moyen"
         }
       ]
@@ -152,45 +138,10 @@
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "PERIAL Opportunités Europe : 6,2 M€ déployés en Italie au 2T 2026",
-          "analyse": "Comment la SCPI PERIAL Opportunités Europe se repositionne avec 6,2 M€ investis en Italie au 2T 2026 ? Découvrez rendement, risques et stratégie.",
-          "source": "MeilleureSCPI.com",
-          "url": "https://www.meilleurescpi.com/actualites/perial-opportunites-europe-6-2-meur-deployes-en-italie-au-2t/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "SCPI Altixia Cadence XII : Un local libéré à Noisy-le-Sec au 2T 2026",
-          "analyse": "Local libéré à Noisy-le-Sec sur Altixia Cadence XII : impact sur le taux d’occupation, revenus distribués et liquidité des parts ? Découvrez les chiffres c",
-          "source": "MeilleureSCPI.com",
-          "url": "https://www.meilleurescpi.com/actualites/scpi-altixia-cadence-xii-un-local-libere-a-noisy-le-sec-au-2t/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "SCPI NEWGEN : Un patrimoine pleinement occupé au 2T 2026",
-          "analyse": "SCPI NEWGEN est-elle adaptée pour générer des revenus réguliers en 2026 ? Découvrez occupation, loyers, rendement cible et risques avant d’investir. Analys",
-          "source": "MeilleureSCPI.com",
-          "url": "https://www.meilleurescpi.com/actualites/scpi-newgen-un-patrimoine-pleinement-occupe-au-2t/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "La SCPI Telamon Borea franchit une nouvelle étape au 2T 2026",
-          "analyse": "Décimalisation des parts, rendement visé et risques de la SCPI Telamon Borea en 2026 : comment profiter du tournant du 2T 2026 sans négliger la prudence ?",
-          "source": "MeilleureSCPI.com",
-          "url": "https://www.meilleurescpi.com/actualites/scpi-telamon-borea-un-trimestre-marque-par-une-evolution-structurelle-majeure/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "MaPrimeRénov’ : Isolation, fenêtres, chauffage… les nouvelles règles au 1er sept",
-          "analyse": "À partir du 1er septembre 2026, plusieurs travaux sortent de MaPrimeRénov’ par geste et les rénovations d’ampleur doivent respecter de nouvelles règles de chauffage.\nCet article MaPrimeRénov’ : Isolation, fenêtres, chauffage… les nouvelles règles au 1er septembre 2026 est apparu en premier sur MySwe",
-          "source": "MySweetimmo",
-          "url": "https://www.mysweetimmo.com/2026/08/29/maprimerenov-isolation-fenetres-chauffage-les-nouvelles-regles-au-1er-septembre-2026/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Défaut de conseil : Quand l’agent immobilier est-il responsable ?",
-          "analyse": "Information, conseil, vérifications : dans quels cas la responsabilité de l’agent immobilier peut-elle être engagée ? Les points de vigilance à connaître.\nCet article Défaut de conseil : Quand l’agent immobilier est-il responsable ? est apparu en premier sur MySweetimmo.",
-          "source": "MySweetimmo",
-          "url": "https://www.mysweetimmo.com/2026/08/29/defaut-de-conseil-quand-lagent-immobilier-est-il-responsable/",
+          "titre": "Crowdfunding immobilier : bilan 2023 et perspectives dans un marché en mutation",
+          "analyse": "Le crowdfunding immobilier subit un ralentissement notable en 2023, avec une baisse de 28 % de ses levées de fonds, dans un contexte de marché immobilier en contraction. Malgré cela, le secteur reste majoritaire dans le financement participatif qui dépasse les 2 milliards d'euros. Ce panorama s'acco",
+          "source": "Crowdfunding Immo",
+          "url": "https://www.crowdfundingimmo.fr/analyses/crowdfunding-immobilier-bilan-2023-perspectives/",
           "niveau": "moyen"
         }
       ]
@@ -201,59 +152,59 @@
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "Pourquoi Dragon Ball passionne-t-il tant vos enfants… et petits-enfants?",
-          "analyse": "Un parc d&#039;attractions dédié à l&#039;univers du manga Dragon ball devrait voir le jour en Île-de-France, à la suite d&#039;un accord entre la France et l&#039;Arabie saoudite. Mais pourquoi Dragon ball rencontre-t-il un tel succès depuis quarante ans?",
+          "titre": "Un site du ministère du Logement inaccessible après une revendication de piratag",
+          "analyse": "Le site \"Zéro logement vacant\" rattaché au ministère de la Ville et du Logement était inaccessible dimanche après la revendication par les pirates du fisc d&#039;une cyberattaque massive de d...",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/famille/petits-enfants-grands-parents/pourquoi-dragon-ball-passionne-t-il-tant-vos-enfants-et-petits-enfants-137765",
+          "url": "https://www.notretemps.com/depeches/un-site-du-ministere-du-logement-inaccessible-apres-une-revendication-de-piratage-massif-137792",
           "niveau": "moyen"
         },
         {
-          "titre": "Vous allez randonner? Voici comment bien réagir si vous croisez un patou",
-          "analyse": "Le rôle de ces gros chiens blancs qui peuvent impressionner les promeneurs est de protéger les troupeaux dans les alpages durant l&#039;été. Comment bien réagir si vous en croisez un lors d&#039;une randonnée? Voici les erreurs à ne pas faire pour une rencontre sereine.",
+          "titre": "Olivier Faure candidat à la primaire de la gauche",
+          "analyse": "L&#039;attente n&#039;aura pas été longue: quelques heures après son discours en clôture de l&#039;université d&#039;été de Blois, le premier secrétaire du Parti socialiste, Olivier Faure, a annoncé aux députés de son gr...",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/loisirs/sorties/voici-comment-bien-reagir-si-vous-croisez-un-patou-lors-d-une-randonnee-137747",
+          "url": "https://www.notretemps.com/depeches/olivier-faure-candidat-a-la-primaire-de-la-gauche-137791",
           "niveau": "moyen"
         },
         {
-          "titre": "Tarte aux mirabelles, crème d'amandes et pistaches",
-          "analyse": "Incontournable sur les tables d&#039;été, la tarte aux mirabelles est une pièce maîtresse. Vous pouvez parfumer les fruits avec un peu de vanille ou de cannelle.",
+          "titre": "Avec les canicules successives, les producteurs de maïs en souffrance",
+          "analyse": "Dans un de ses champs, Sébastien Maylin égraine nerveusement un épi de maïs rabougri: à cause des canicules qui ont frappé le sud-ouest, ce producteur va pouvoir \"à peine rembourser\" ses engrais et se...",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/vie-pratique/cuisine/tarte-aux-mirabelles-creme-d-amandes-et-pistaches-135620",
+          "url": "https://www.notretemps.com/depeches/avec-les-canicules-successives-les-producteurs-de-mais-en-souffrance-137790",
           "niveau": "moyen"
         },
         {
-          "titre": "A l'ouest de Paris, La Défense, \"haut lieu\" du street art depuis près de 50 ans",
-          "analyse": "Une exposition de street art géante à La Défense ? Manauly Briquet n&#039;aurait \"jamais imaginé\" ça dans le premier quartier d&#039;affaires d&#039;Europe, pourtant devenu en un demi-siècle un haut lieu du graffiti...",
+          "titre": "Bretagne, Normandie, Hauts-de-France: une nouvelle viticulture émerge",
+          "analyse": "Niché au sein d&#039;une petite vallée normande, quelques hectares de vigne tranchent au milieu de bois et de prairies. De la Bretagne aux Hauts-de-France, le vignoble s&#039;étend vers le nord, profitant du ch...",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/depeches/a-l-ouest-de-paris-la-defense-haut-lieu-du-street-art-depuis-pres-de-50-ans-137784",
+          "url": "https://www.notretemps.com/depeches/bretagne-normandie-hauts-de-france-une-nouvelle-viticulture-emerge-137789",
           "niveau": "moyen"
         },
         {
-          "titre": "Dans les Corbières, un an après le mégafeu, des troupeaux face aux incendies",
-          "analyse": "\"Est-ce que les animaux sont juste des tondeuses ?\" Un an après les incendies qui ont traversé 17.000 hectares dans les Corbières, le pastoralisme est mis en avant comme outil de prévention des feux,...",
+          "titre": "Comment vendre ou transmettre un bien immobilier à peu de frais?",
+          "analyse": "Vous êtes propriétaire d&#039;un bien immobilier ou l&#039;avez reçu en héritage et vous souhaitez vous en séparer? Il y a des solutions pour mieux le vendre ou le transmettre, à peu de frais.",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/depeches/dans-les-corbieres-un-an-apres-le-megafeu-des-troupeaux-face-aux-incendies-137783",
+          "url": "https://www.notretemps.com/droit-argent/logement/comment-vendre-ou-transmettre-un-bien-immobilier-a-peu-de-frais-135720",
           "niveau": "moyen"
         },
         {
-          "titre": "Psycho: \"En vieillissant, j’ai peur de ressembler à mes parents\"",
-          "analyse": "Ils ont longtemps été nos modèles, mais vient parfois un moment où leur ressembler, physiquement ou psychologiquement, nous effraie. Pourquoi?",
+          "titre": "Muriel Gilbert: Pourquoi dit-on \"J’ai descendu dans mon jardin…\" et pas \"je suis",
+          "analyse": "Vous êtes-vous jamais demandé pourquoi, dans la chanson \"Gentil coquelicot\", on dit \"J&#039;ai descendu dans mon jardin\" et non \"Je suis descendue dans mon jardin\"? On n&#039;a jamais fait le tour des curiosités de ces deux auxiliaires qu&#039;on utilise à tout bout de phrase! L&#039;éclairage de no",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/sante-bien-etre/psychologie/jai-peur-de-ressembler-a-mes-parents-136530",
+          "url": "https://www.notretemps.com/loisirs/langue-francaise/muriel-gilbert-pourquoi-dit-on-jai-descendu-dans-mon-jardin-et-pas-je-suis-descendue-135100",
           "niveau": "moyen"
         },
         {
-          "titre": "Comment la pension de réversion est-elle partagée entre les différents conjoints",
-          "analyse": "Le calcul de la pension réversion peut vite devenir complexe lorsque la personne décédée a été mariée plusieurs fois. Voici les règles à connaître pour vous y retrouver.",
+          "titre": "Retraite, arrêts maladie, prix du gaz: ce qui va changer au 1er septembre 2026",
+          "analyse": "Retraites, arrêts maladie, rupture conventionnelle, prix du gaz: plusieurs changements entrent en vigueur au 1er septembre 2026. Voici ce qui va évoluer dans votre quotidien.",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/retraite/reversion/comment-la-pension-de-reversion-peut-elle-etre-partagee-entre-les-differents-conjoints-136564",
+          "url": "https://www.notretemps.com/droit-argent/droit-du-consommateur/retraite-arrets-maladie-prix-du-gaz-ce-qui-va-changer-au-1er-septembre-2026-137764",
           "niveau": "moyen"
         },
         {
-          "titre": "Les soins dentaires seront moins bien remboursés dès 2027, quel sera l'impact su",
-          "analyse": "À partir du 1er janvier 2027, la prise en charge des soins dentaires par l&#039;Assurance maladie va diminuer. Une partie des dépenses sera transférée vers les mutuelles, au risque de faire augmenter le prix des cotisations pour les assurés.",
+          "titre": "\"Septembre Bouge\": un mois pour mettre le sport au centre de nos vies!",
+          "analyse": "Pendant tout le mois de septembre, le Ministère des Sports va multiplier les initiatives dans le cadre de cette initiative, dont Notre Temps est partenaire, pour nous encourager à pratiquer une activité physique et sportive et en faire notre alliée santé au quotidien.",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/sante-bien-etre/prevention/les-soins-dentaires-seront-moins-bien-rembourses-des-2027-quel-sera-l-impact-sur-vos-depenses-de-sante-137759",
+          "url": "https://www.notretemps.com/sante-bien-etre/forme/septembre-bouge-un-mois-pour-mettre-le-sport-au-centre-de-nos-vies-137757",
           "niveau": "moyen"
         }
       ]
@@ -264,17 +215,10 @@
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "Jackson Hole : Warsh a parlé",
-          "analyse": "Nous avions écrit trois scénarios le 25 août : silencieux sur les taux, accommodant, ou hawkish. Ce vendredi 28 août, Kevin Warsh a choisi le troisième. «La Fed a encore du travail à accomplir.» Les marchés ont compris. Le taux à deux ans a bondi de 4,22% à 4,30% dans l&rsquo;heure. Une hausse en oc",
-          "source": "Finyear",
-          "url": "https://finyear.com/jackson-hole-warsh-a-parle/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Jolt Capital, Proskauer… les nominations de la semaine",
-          "analyse": "Après quarante ans de carrière chez Accenture, JEAN-MARC OLLAGNIER (Telecom Paris) a cloturé les nominations de l’été en prenant le poste de d’operating partner au sein des équipes de Jolt Capital.",
-          "source": "PE Magazine",
-          "url": "https://www.pemagazine.fr/jolt-capital-a-accueilli-la-derniere-nomination-de-lete/",
+          "titre": "Clause bénéficiaire : la rédiger sans perdre d’abattement",
+          "analyse": "Deux lignes rédigées à l&#8217;ouverture décident de ce que vos proches recevront. C&#8217;est le seul endroit de votre patrimoine où trente secondes valent plusieurs dizaines de milliers d&#8217;euros. La plupart des épargnants n&#8217;ont jamais relu leur clause bénéficiaire depuis la souscription",
+          "source": "Epargnant 3.0",
+          "url": "https://www.epargnant30.fr/clause-beneficiaire-assurance-vie/",
           "niveau": "moyen"
         },
         {
@@ -282,41 +226,6 @@
           "analyse": "Personne ne limite ce que vous versez sur une assurance vie. Douze seuils décident en revanche de ce que vous garderez, et l&#8217;un d&#8217;eux a changé de camp en 2026. La question revient chaque semaine dans ma boîte mail, et elle est presque toujours mal posée. On me demande combien on a le dro",
           "source": "Epargnant 3.0",
           "url": "https://www.epargnant30.fr/assurance-vie-plafond/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "ETF CAC 40 : faut-il vraiment investir dans l’indice phare de Paris ?",
-          "analyse": "Depuis le 31 décembre 1987, le CAC 40 dont on parle à la télévision a rapporté 5,52 % par an. Le vrai CAC 40, celui que vous encaissez réellement en tant qu&#8217;actionnaire, a rapporté 8,81 % par an. Sur presque quarante ans, cet écart transforme 10 000 euros en 82 000 euros dans un cas,...",
-          "source": "Epargnant 3.0",
-          "url": "https://www.epargnant30.fr/etf-cac-40/",
-          "niveau": "moyen"
-        }
-      ]
-    },
-    {
-      "titre": "ESG",
-      "icone": "🌱",
-      "niveau_global": "moyen",
-      "items": [
-        {
-          "titre": "Effacements : la Cour des comptes suggère vivement d’arrêter les appels d’offres",
-          "analyse": "Tandis que les mécanismes d’effacement de la consommation sont en pleine évolution pour intégrer la famille plus large des « flexibilités », la Cour des comptes étrille le système des appels d’offres (AO) jusqu’alors en place pour les industriels et les entreprises du tertiaire, dans un rapport publ",
-          "source": "GreenUnivers",
-          "url": "https://www.greenunivers.com/2026/08/effacements-la-cour-des-comptes-suggr-vivement-darreter-les-appels-doffres-431777/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Les documents de la semaine",
-          "analyse": "La sélection des documents parus cette semaine utiles aux acteurs de la transition énergétique. A retrouver tous les vendredis. Les nouveaux documents sont ajoutés à ceux rendus publics auparavant : textes réglementaires clés définitifs ou en consultation, documents de régulation, études pertinentes",
-          "source": "GreenUnivers",
-          "url": "https://www.greenunivers.com/2026/08/les-documents-de-la-semaine-381215/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "L’agenda de la transition énergétique",
-          "analyse": "Chaque semaine, GreenUnivers sélectionne les principaux événements professionnels de la transition énergétique. Des rendez-vous qui ont lieu en France et ailleurs dans les secteurs des énergies renouvelables, de l’hydrogène, de la rénovation ou encore de la mobilité électrique. Septembre 1 Salon de ",
-          "source": "GreenUnivers",
-          "url": "https://www.greenunivers.com/2026/08/lagenda-de-la-transition-energetique-281-431464/",
           "niveau": "moyen"
         }
       ]
@@ -327,24 +236,17 @@
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "PASQAL au Nasdaq : le quantique français cherche le capital de son industrialisa",
-          "analyse": "En clôturant sa première séance à 19,11 dollars, PASQAL a presque doublé la valeur du dernier cours de son SPAC. Cette envolée ne valide pourtant ni sa valorisation ni son modèle économique : les détenteurs de plus de 90 % des actions publiques de Bleichroeder ont préféré récupérer leur mise avant l",
+          "titre": "Présidentielle 2027 : ce que les candidats ont réellement compris de la puissanc",
+          "analyse": "À La REF, grande messe annuelle du MEDEF, principale organisation patronale française, l’intelligence artificielle et l’innovation n’ont pas bénéficié d’une séquence dédiée lors du débat réunissant sept candidats à la présidentielle de 2027. Elles en ont pourtant traversé presque tous les sujets : s",
           "source": "FW.MEDIA",
-          "url": "https://www.frenchweb.fr/pasqal-au-nasdaq-le-quantique-francais-cherche-le-capital-de-son-industrialisation/463104",
+          "url": "https://www.frenchweb.fr/presidentielle-2027-ce-que-les-candidats-ont-reellement-compris-de-la-puissance-technologique/463107",
           "niveau": "moyen"
         },
         {
-          "titre": "Le nombre de morts va bondir dans cette région française d'ici quelques années",
-          "analyse": "Une région est en train de vivre un lent basculement, le nombre de morts devrait grimper en flèche dans les années à venir.",
+          "titre": "Il refuse de répondre à son patron pendant son arrêt maladie : il est licencié p",
+          "analyse": "Pour la Cour d'appel de Paris, ce refus était un manquement à son obligation de loyauté. Une faute grave peut justifier un licenciement.",
           "source": "JDN : Derniers contenus",
-          "url": "https://www.journaldunet.com/magazine/1540835-cd1-region-francaise-nombre-morts/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "\"Quasiment aucun pays ne peut avoir une souveraineté totale sur l'IA.\"",
-          "analyse": "En tant que spécialiste du stockage, NetApp est au cœur de l'infrastructure de données qui alimente la révolution de l'IA. Rencontre avec George Kurian, PDG de NetApp pour parler IA et souveraineté.",
-          "source": "JDN : Derniers contenus",
-          "url": "https://www.journaldunet.com/intelligence-artificielle/1554089-quasiment-aucun-pays-ne-peut-avoir-une-souverainete-totale-sur-l-ia/",
+          "url": "https://www.journaldunet.com/management/ressources-humaines/1549529-rv1-refus-de-repondre-pendant-un-arret-maladie/",
           "niveau": "moyen"
         }
       ]
