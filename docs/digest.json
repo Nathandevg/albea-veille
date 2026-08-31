@@ -1,8 +1,8 @@
 {
-  "date_fr": "Sunday 30 August 2026",
-  "compte_articles": 123,
+  "date_fr": "Monday 31 August 2026",
+  "compte_articles": 192,
   "compte_forts": 0,
-  "compte_moyens": 123,
+  "compte_moyens": 192,
   "synthese_jour": "Synthese IA non disponible (fallback). Consultez les articles ci-dessous.",
   "chiffres_cles": [],
   "sections": [
@@ -12,59 +12,59 @@
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "L’Islande rejette les négociations d’adhésion à l’UE",
-          "analyse": "Consultés samedi par référendum, les Islandais ont voté non, à l’issue d’une campagne au cours de laquelle la souveraineté de l’île et son indépendance ont dominé les débats. Le résultat de ce vote devrait être scruté à Bruxelles.",
+          "titre": "Retraites : Sébastien Lecornu confirme la piste de la désindexation",
+          "analyse": "Dans un entretien au « Parisien », le premier ministre affirme que les « petites » pensions ne seront pas gelées en 2027, laissant ainsi entendre que les plus élevées pourraient stagner.",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/international/article/2026/08/30/les-islandais-rejettent-les-negociations-d-adhesion-a-l-union-europeenne_6760950_3210.html",
+          "url": "https://www.lemonde.fr/politique/article/2026/08/31/retraites-sebastien-lecornu-confirme-la-piste-de-la-desindexation_6762446_823448.html",
           "niveau": "moyen"
         },
         {
-          "titre": "Jet-set, mafias et FLNC : sur l’île corse de Cavallo, la fin annoncée de l’entre",
-          "analyse": "Cavallo, ce petit bijou de l’archipel des Lavezzi, a toujours suscité les convoitises. Théâtre de fêtes endiablées, il a attiré la jet-set internationale avant d’être la cible des nationalistes et des mafias. En juin, la mairie de Bonifacio est passée à l’offensive pour reprendre le contrôle du port",
+          "titre": "Au Népal, après les inondations, les glaciologues sidérés par l’ampleur de la ca",
+          "analyse": "Les scientifiques de ce pays himalayen connaissent le danger représenté par la fonte accélérée des glaciers. Mais aucun n’avait anticipé un effondrement et une crue de cette magnitude.",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/m-le-mag/article/2026/08/30/jet-set-mafias-et-nationalistes-sur-l-ile-corse-de-cavallo-la-fin-annoncee-de-l-entre-soi_6760601_4500055.html",
+          "url": "https://www.lemonde.fr/planete/article/2026/08/31/au-nepal-les-glaciologues-sideres-face-a-l-ampleur-de-la-catastrophe_6762244_3244.html",
           "niveau": "moyen"
         },
         {
-          "titre": "EN DIRECT, présidentielle 2027 : la primaire socialiste sera « le moment de refo",
-          "analyse": "Candidat à la présidentielle et à la primaire sociale-démocrate, notamment contre Olivier Faure, le coprésident de Place publique a minimisé, sur France 2, une éventuelle candidature de François Hollande. « Les Françaises et les Français veulent écrire une nouvelle page [politique] », a-t-il dit.",
+          "titre": "Vincent Bolloré dépose plainte pour « association de malfaiteurs » contre des ma",
+          "analyse": "Dans une ultime tentative d’obtenir le renvoi de son procès pour corruption au Togo, prévu du 7 au 17 décembre au tribunal judiciaire de Paris, le milliardaire a déposé plainte, en mai, contre des magistrats, pour « entrave à l’exercice de la justice ».",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/politique/live/2026/08/30/en-direct-presidentielle-2027-olivier-faure-a-annonce-aux-deputes-de-son-groupe-etre-candidat-a-la-primaire-de-la-gauche_6759921_823448.html",
+          "url": "https://www.lemonde.fr/societe/article/2026/08/31/vincent-bollore-depose-plainte-pour-association-de-malfaiteurs-contre-des-magistrats-apres-son-renvoi-devant-le-tribunal-pour-corruption_6762587_3224.html",
           "niveau": "moyen"
         },
         {
-          "titre": "Dans le village de Devighat, au Népal, un décor apocalyptique figé par la boue :",
-          "analyse": "Alertés à temps, de nombreux habitants ont pu évacuer leurs maisons quelques minutes avant le passage de la coulée de boue qui a fait 750 morts au Népal et en Chine. Les secours cherchent les rescapés et les morts dans des conditions extrêmement périlleuses.",
+          "titre": "Rentrée scolaire : « L’été qui s’achève n’a fait que confirmer que la santé ment",
+          "analyse": "Après des vacances marquées par les épisodes de canicule, l’inspecteur de l’éducation nationale Jean-Pierre Bellier déplore, dans une tribune au « Monde », ses conséquences sur la santé mentale des élèves, et plaide pour le recrutement de psychologues au sein des établissements.",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/planete/article/2026/08/30/dans-un-village-du-nepal-devaste-par-la-boue-meme-nos-ancetres-n-ont-pas-souvenir-d-un-deluge-de-cette-ampleur_6761016_3244.html",
+          "url": "https://www.lemonde.fr/idees/article/2026/08/31/rentree-scolaire-l-ete-qui-s-acheve-n-a-fait-que-confirmer-que-la-sante-mentale-des-jeunes-merite-toute-notre-attention_6761901_3232.html",
           "niveau": "moyen"
         },
         {
-          "titre": "Itamar Ben Gvir, ministre d’extrême droite israélien, est « fier » de la dégrada",
-          "analyse": "A deux mois des législatives, le ministre de la sécurité nationale israélien a publié une vidéo dans laquelle une femme voilée, le visage flouté, affirme que les conditions de détention sont « extrêmement mauvaises ».",
+          "titre": "Etats-Unis et Iran : Donald Trump menace de riposter aux attaques de missiles ir",
+          "analyse": "Téhéran affirme avoir attaqué avec des drones une base émiratie utilisée par les Etats-Unis, en « légitime défense ».",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/international/article/2026/08/30/itamar-ben-gvir-ministre-d-extreme-droite-israelien-vante-la-degradation-des-conditions-de-detention-des-palestiniens_6761051_3210.html",
+          "url": "https://www.lemonde.fr/international/article/2026/08/31/moyen-orient-premier-echange-de-frappes-entre-les-etats-unis-et-l-iran-depuis-un-mois_6762552_3210.html",
           "niveau": "moyen"
         },
         {
-          "titre": "Ben Dhiman, vainqueur de l’UTMB : « Même au milieu de la nuit, tout seul dans ce",
-          "analyse": "Le traileur américain a remporté, samedi, l’Ultra-Trail du Mont-Blanc en un temps record. Dans un entretien au « Monde », l’athlète installé dans les Pyrénées revient sur sa course et son parcours.",
+          "titre": "Bradley Barcola quitte le PSG pour Liverpool, nouvelle transaction record pour l",
+          "analyse": "L’international français, qui fêtera bientôt ses 24 ans, était devenu un élément-clé de l’attaque du Paris Saint-Germain, club dont il portait les couleurs depuis 2023 et avec lequel il a remporté deux Ligues des champions.",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/sport/article/2026/08/30/ben-dhiman-vainqueur-de-l-utmb-meme-au-milieu-de-la-nuit-tout-seul-dans-ces-grandes-montagnes-je-courais-sans-peur_6761151_3242.html",
+          "url": "https://www.lemonde.fr/sport/article/2026/08/31/bradley-barcola-quitte-le-psg-pour-liverpool-nouvelle-transaction-record-pour-le-depart-d-un-joueur-de-ligue-1-a-l-etranger_6762551_3242.html",
           "niveau": "moyen"
         },
         {
-          "titre": "EN DIRECT, guerre en Ukraine : les dernières informations",
-          "analyse": "La Russie dit préparer des « frappes massives contre les installations énergétiques de l’Ukraine », selon son ministère de la défense, en représailles aux « attaques continues du régime de Kiev contre les infrastructures civiles et le complexe pétrolier et énergétique de la Russie ».",
+          "titre": "Entre malaise social et poussée du RN, la rentrée compliquée de la fonction publ",
+          "analyse": "Les syndicats appellent à la mobilisation, mardi 29 septembre. A moins de trois mois des élections professionnelles, la légitimité des organisations est remise en question, tandis qu’un nouveau défi, politique celui-là, émerge, en raison de l’attrait grandissant des fonctionnaires pour le Rassemblem",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/international/live/2026/08/30/en-direct-guerre-en-ukraine-les-dernieres-informations-au-30-aout-2026_6760568_3210.html",
+          "url": "https://www.lemonde.fr/idees/article/2026/08/31/entre-malaise-social-et-poussee-du-rn-la-rentree-compliquee-de-la-fonction-publique_6762279_3232.html",
           "niveau": "moyen"
         },
         {
-          "titre": "Roman, nouveau télescope spatial de la NASA, s’est envolé à la recherche de l’én",
-          "analyse": "Ce télescope, qui doit décoller dimanche à bord d’une fusée lancée à Cap Canaveral, en Floride, est la mission scientifique la plus ambitieuse de l’agence spatiale américaine depuis celle du James-Webb en 2021. En cinq ans, il devrait achever trois grands relevés du ciel et aider à faire progresser ",
+          "titre": "Tirs mortels lors d’une rave-party en Suisse : un homme arrêté lundi",
+          "analyse": "La police cantonale d’Argovie affirme « privilégier la thèse selon laquelle l’auteur a agi seul », mais n’a pas précisé où il avait été interpellé.",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/sciences/article/2026/08/30/roman-le-nouveau-telescope-spatial-de-la-nasa-part-a-la-recherche-de-l-energie-noire-et-des-exoplanetes_6760674_1650684.html",
+          "url": "https://www.lemonde.fr/international/article/2026/08/31/suisse-un-homme-arrete-apres-la-fusillade-mortelle-lors-d-une-rave-party-a-aarau_6762448_3210.html",
           "niveau": "moyen"
         }
       ]
@@ -75,38 +75,45 @@
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "AI isn’t eating software after all — and the sector’s ‘epic’ rally could run thr",
-          "analyse": "Months of panic that AI would replace subscription software are easing after a strong week of software earnings.",
-          "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/ai-isnt-eating-software-after-all-and-the-sectors-epic-rally-could-run-through-october-a4610583?mod=mw_rss_topstories",
+          "titre": "Will anybody use AI as much as coders do?",
+          "analyse": "The answer will have big implications for the investment boom",
+          "source": "Business",
+          "url": "https://www.economist.com/business/2026/08/30/will-anybody-use-ai-as-much-as-coders-do",
           "niveau": "moyen"
         },
         {
-          "titre": "Am I too old for Roth conversions? I’m 84 and my wife is 77. We have $8 million ",
-          "analyse": "“We are reluctant to pay a financial adviser 2% of assets — roughly $160,000 per year.”",
+          "titre": "Wall Street banks are keeping astronomical price targets on SpaceX’s stock as it",
+          "analyse": "The AI boom features Citigroup’s $12 trillion market-capitalization projection for SpaceX. Here’s what investors need to know about investment-bank research.",
           "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/am-i-too-old-for-roth-conversions-im-84-and-my-wife-is-77-we-have-8-million-saved-fb08fccd?mod=mw_rss_topstories",
+          "url": "https://www.marketwatch.com/story/wall-street-banks-are-keeping-astronomical-price-targets-on-spacexs-stock-as-it-tries-to-blast-off-again-0e21a0e4?mod=mw_rss_topstories",
           "niveau": "moyen"
         },
         {
-          "titre": "My mother, 91, has dementia. Every bank says I need her signature to unlock her ",
-          "analyse": "“These shares are the only assets in her estate without designated beneficiaries.”",
+          "titre": "Global oil prices top $91 a barrel after U.S. and Iran exchange fire for the fir",
+          "analyse": "Every extra dollar in oil prices now lands in a market that has suddenly rediscovered the possibility of another interest-rate hike.",
           "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/my-mother-91-has-dementia-every-bank-says-i-need-her-signature-to-unlock-her-100-000-stock-certificate-what-can-i-do-4a2b702f?mod=mw_rss_topstories",
+          "url": "https://www.marketwatch.com/story/brent-oil-tops-90-after-first-u-s-and-iran-fighting-in-a-month-3b818e19?mod=mw_rss_topstories",
           "niveau": "moyen"
         },
         {
-          "titre": "‘I feel shoehorned’: My father funded my $800,000 Roth IRA. Does that give him t",
-          "analyse": "“His argument is essentially that, since my parents provided the money for the Roth, they have a say in how I invest it.”",
+          "titre": "My contractor handed my $42,000 pool upgrade to a subcontractor I had already re",
+          "analyse": "“I specifically rejected Contractor A because of his reputation.”",
           "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/i-feel-shoehorned-my-father-funded-my-800-000-roth-ira-does-that-give-him-the-right-to-say-how-i-invest-it-7b1e3ab3?mod=mw_rss_topstories",
+          "url": "https://www.marketwatch.com/story/my-contractor-handed-my-42-000-pool-upgrade-to-a-subcontractor-i-had-already-rejected-what-can-i-do-dce41b2b?mod=mw_rss_topstories",
           "niveau": "moyen"
         },
         {
-          "titre": "5 affordable cities to retire in the U.S. right now",
-          "analyse": "You don’t have to leave the country to find an affordable place that matches your retirement vision.",
+          "titre": "My friend is charging everyone $80 to attend her 30th birthday party. She says i",
+          "analyse": "“I think she would take it personally if I didn’t attend.”",
           "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/5-cheap-u-s-cities-to-retire-in-if-you-can-deal-with-this-one-thing-fbda5d1a?mod=mw_rss_topstories",
+          "url": "https://www.marketwatch.com/story/my-friend-is-charging-everyone-80-to-attend-her-30th-birthday-party-she-says-its-to-cover-the-open-bar-is-it-rude-to-not-go-d60b3b5b?mod=mw_rss_topstories",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Party balloons could become a luxury as the Iran war spurs a helium shortage",
+          "analyse": "Dollar Tree says a helium squeeze has hit sales of balloons and party supplies. Researchers note this could foreshadow higher costs for other industries that depend on the gas.",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/party-balloons-could-become-a-luxury-as-the-iran-war-spurs-a-helium-shortage-89e3f86e?mod=mw_rss_topstories",
           "niveau": "moyen"
         },
         {
@@ -117,17 +124,10 @@
           "niveau": "moyen"
         },
         {
-          "titre": "TaskUs surges 61% after InvestingPro Fair Value identified opportunity",
-          "analyse": "",
-          "source": "All News",
-          "url": "https://www.investing.com/news/investment-ideas/taskus-surges-61-after-investingpro-fair-value-identified-opportunity-93CH-4882039",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "China’s Longi Green Energy first-half net loss widens as solar downturn persists",
-          "analyse": "",
-          "source": "All News",
-          "url": "https://www.investing.com/news/company-news/chinas-longi-green-energy-firsthalf-net-loss-widens-as-solar-downturn-persists-4882034",
+          "titre": "America is asking the wrong question about its $40 trillion in debt, this MIT ex",
+          "analyse": "The federal debt may be sustainable, but rising burdens may still be troublesome to the U.S. economy, says one expert.",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/america-is-asking-the-wrong-question-about-its-40-trillion-in-debt-this-mit-expert-warns-0fbda60e?mod=mw_rss_topstories",
           "niveau": "moyen"
         }
       ]
@@ -138,10 +138,45 @@
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "Crowdfunding immobilier : bilan 2023 et perspectives dans un marché en mutation",
-          "analyse": "Le crowdfunding immobilier subit un ralentissement notable en 2023, avec une baisse de 28 % de ses levées de fonds, dans un contexte de marché immobilier en contraction. Malgré cela, le secteur reste majoritaire dans le financement participatif qui dépasse les 2 milliards d'euros. Ce panorama s'acco",
+          "titre": "Tourisme & Littoral : des fondamentaux immobiliers solides au 2T 2026",
+          "analyse": "SCPI Tourisme & Littoral : véhicule trop concentré pour votre patrimoine ? Découvrez ses forces, risques et enjeux de transformation en SCI. Analyse détail",
+          "source": "MeilleureSCPI.com",
+          "url": "https://www.meilleurescpi.com/actualites/scpi-tourisme-littoral-des-fondamentaux-immobiliers-solides-au-2t/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Comète : cap sur un ensemble immobilier mixte dans le Grand Londres",
+          "analyse": "Comment la SCPI Comète utilise un actif mixte du Grand Londres pour viser 7,4 % de rendement AEM tout en diversifiant les risques ? Découvrez la stratégie",
+          "source": "MeilleureSCPI.com",
+          "url": "https://www.meilleurescpi.com/actualites/scpi-comete-cap-sur-un-actif-mixte-dans-le-grand-londres/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "SCPI LOG IN : un trimestre porté par une opération majeure",
+          "analyse": "SCPI LOG IN renforce sa logistique européenne avec une acquisition clé à Grenade. Quels impacts sur le rendement, le risque et la distribution 2026 ? Analy",
+          "source": "MeilleureSCPI.com",
+          "url": "https://www.meilleurescpi.com/actualites/scpi-log-in-un-trimestre-porte-par-une-operation-majeure/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Crédit immobilier : Pourquoi les taux pourraient repartir à la hausse dès cet au",
+          "analyse": "Les emprunteurs bénéficient encore d’une fenêtre favorable en septembre, mais elle pourrait se refermer : malgré des taux moyens stables autour de 3,40 % sur 20 ans, Meilleurtaux anticipe une remontée progressive vers 3,7 % à 4 % d’ici la fin de l’année.\nCet article Crédit immobilier : Pourquoi les ",
+          "source": "MySweetimmo",
+          "url": "https://www.mysweetimmo.com/2026/08/31/credit-immobilier-pourquoi-les-taux-pourraient-repartir-a-la-hausse-des-cet-automne/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Logement étudiant : Jusqu’à 1 638 demandes pour un studio, la folle course de la",
+          "analyse": "À quelques heures de la rentrée 2026, trouver un logement étudiant reste un parcours du combattant. Loyers, surfaces et villes les plus demandées selon PAP.\nCet article Logement étudiant : Jusqu’à 1 638 demandes pour un studio, la folle course de la rentrée est apparu en premier sur MySweetimmo.",
+          "source": "MySweetimmo",
+          "url": "https://www.mysweetimmo.com/2026/08/31/logement-etudiant-jusqua-1-638-demandes-pour-un-studio-la-folle-course-de-la-rentree/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Crowdfunding immobilier : comprendre les risques, retards et cadre réglementaire",
+          "analyse": "Le crowdfunding immobilier permet d’investir dans des projets immobiliers via des plateformes en ligne. Ce mode d’investissement présente des opportunités, mais aussi des risques spécifiques liés aux délais, remboursements, et évolutions réglementaires. Voici une synthèse claire et prudente pour mie",
           "source": "Crowdfunding Immo",
-          "url": "https://www.crowdfundingimmo.fr/analyses/crowdfunding-immobilier-bilan-2023-perspectives/",
+          "url": "https://www.crowdfundingimmo.fr/analyses/crowdfunding-immobilier-risques-retards-regulation-9/",
           "niveau": "moyen"
         }
       ]
@@ -152,59 +187,59 @@
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "Un site du ministère du Logement inaccessible après une revendication de piratag",
-          "analyse": "Le site \"Zéro logement vacant\" rattaché au ministère de la Ville et du Logement était inaccessible dimanche après la revendication par les pirates du fisc d&#039;une cyberattaque massive de d...",
+          "titre": "Après la taxe sur les petits colis, un malus sur les vêtements de mode jetable",
+          "analyse": "Après qu&#039;une taxe européenne sur les petits colis chinois en ait freiné l&#039;importation, la France tape fort avec l&#039;instauration d&#039;un malus sur chaque produit de mode ultra-éphémère type Shein, pouvant...",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/depeches/un-site-du-ministere-du-logement-inaccessible-apres-une-revendication-de-piratage-massif-137792",
+          "url": "https://www.notretemps.com/depeches/apres-la-taxe-sur-les-petits-colis-un-malus-sur-les-vetements-de-mode-jetable-137809",
           "niveau": "moyen"
         },
         {
-          "titre": "Olivier Faure candidat à la primaire de la gauche",
-          "analyse": "L&#039;attente n&#039;aura pas été longue: quelques heures après son discours en clôture de l&#039;université d&#039;été de Blois, le premier secrétaire du Parti socialiste, Olivier Faure, a annoncé aux députés de son gr...",
+          "titre": "Après la taxe sur les petits colis, un malus sur les vêtements de mode jetable",
+          "analyse": "Après qu&#039;une taxe européenne sur les petits colis chinois en ait freiné l&#039;importation, la France tape fort avec l&#039;instauration d&#039;un malus sur chaque produit de mode ultra-éphémère type S...",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/depeches/olivier-faure-candidat-a-la-primaire-de-la-gauche-137791",
+          "url": "https://www.notretemps.com/depeches/apres-la-taxe-sur-les-petits-colis-un-malus-sur-les-vetements-de-mode-jetable-137808",
           "niveau": "moyen"
         },
         {
-          "titre": "Avec les canicules successives, les producteurs de maïs en souffrance",
-          "analyse": "Dans un de ses champs, Sébastien Maylin égraine nerveusement un épi de maïs rabougri: à cause des canicules qui ont frappé le sud-ouest, ce producteur va pouvoir \"à peine rembourser\" ses engrais et se...",
+          "titre": "Défenseur du photojournalisme et fondateur de Visa pour l’image, Jean-François L",
+          "analyse": "Avec sa grande silhouette, ses coups de gueule et sa passion pour l&#039;image, Jean-François Leroy, le fondateur du festival de photojournalisme Visa pour l&#039;image décédé lundi, a été un ardent défenseur d...",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/depeches/avec-les-canicules-successives-les-producteurs-de-mais-en-souffrance-137790",
+          "url": "https://www.notretemps.com/depeches/defenseur-du-photojournalisme-et-fondateur-de-visa-pour-limage-jean-francois-leroy-est-mort-137806",
           "niveau": "moyen"
         },
         {
-          "titre": "Bretagne, Normandie, Hauts-de-France: une nouvelle viticulture émerge",
-          "analyse": "Niché au sein d&#039;une petite vallée normande, quelques hectares de vigne tranchent au milieu de bois et de prairies. De la Bretagne aux Hauts-de-France, le vignoble s&#039;étend vers le nord, profitant du ch...",
+          "titre": "Lecornu et son gouvernement en séminaire, avant le chemin de croix budgétaire",
+          "analyse": "Sébastien Lecornu réunit lundi son gouvernement au grand complet, pour un séminaire tourné vers la préparation d&#039;un budget 2027 aux airs de mission impossible, entre économie en berne, nouvelles dépen...",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/depeches/bretagne-normandie-hauts-de-france-une-nouvelle-viticulture-emerge-137789",
+          "url": "https://www.notretemps.com/depeches/lecornu-et-son-gouvernement-en-seminaire-avant-le-chemin-de-croix-budgetaire-137795",
           "niveau": "moyen"
         },
         {
-          "titre": "Comment vendre ou transmettre un bien immobilier à peu de frais?",
-          "analyse": "Vous êtes propriétaire d&#039;un bien immobilier ou l&#039;avez reçu en héritage et vous souhaitez vous en séparer? Il y a des solutions pour mieux le vendre ou le transmettre, à peu de frais.",
+          "titre": "Les enseignants de retour à l'école pour une rentrée affectée par une cyberattaq",
+          "analyse": "Plus de 850.000 enseignants reprennent lundi le chemin des classes pour une journée de rentrée, perturbée dans certaines académies par les conséquences d&#039;une cyberattaque survenue cet été. \"C&#039;est une...",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/droit-argent/logement/comment-vendre-ou-transmettre-un-bien-immobilier-a-peu-de-frais-135720",
+          "url": "https://www.notretemps.com/depeches/les-enseignants-de-retour-a-l-ecole-pour-une-rentree-affectee-par-une-cyberattaque-137796",
           "niveau": "moyen"
         },
         {
-          "titre": "Muriel Gilbert: Pourquoi dit-on \"J’ai descendu dans mon jardin…\" et pas \"je suis",
-          "analyse": "Vous êtes-vous jamais demandé pourquoi, dans la chanson \"Gentil coquelicot\", on dit \"J&#039;ai descendu dans mon jardin\" et non \"Je suis descendue dans mon jardin\"? On n&#039;a jamais fait le tour des curiosités de ces deux auxiliaires qu&#039;on utilise à tout bout de phrase! L&#039;éclairage de no",
+          "titre": "Mort de Jean-François Leroy, fondateur du festival de photojournalisme Visa pour",
+          "analyse": "Jean-François Leroy, fondateur du festival de photojournalisme Visa pour l&#039;image, est décédé des suites d&#039;un cancer lundi matin, en pleine 38e édition de cette rencontre mondiale, a-t-on appris auprès...",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/loisirs/langue-francaise/muriel-gilbert-pourquoi-dit-on-jai-descendu-dans-mon-jardin-et-pas-je-suis-descendue-135100",
+          "url": "https://www.notretemps.com/depeches/mort-de-jean-francois-leroy-fondateur-du-festival-de-photojournalisme-visa-pour-l-image-137803",
           "niveau": "moyen"
         },
         {
-          "titre": "Retraite, arrêts maladie, prix du gaz: ce qui va changer au 1er septembre 2026",
-          "analyse": "Retraites, arrêts maladie, rupture conventionnelle, prix du gaz: plusieurs changements entrent en vigueur au 1er septembre 2026. Voici ce qui va évoluer dans votre quotidien.",
+          "titre": "Le gouvernement promet que les aides au carburant seront reconduites",
+          "analyse": "Le gouvernement souhaite \"poursuivre les aides\" pour les secteurs les plus exposés à la hausse des prix des carburants, a assuré lundi la ministre déléguée à l&#039;Energie, Maud Bregeon, en...",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/droit-argent/droit-du-consommateur/retraite-arrets-maladie-prix-du-gaz-ce-qui-va-changer-au-1er-septembre-2026-137764",
+          "url": "https://www.notretemps.com/depeches/le-gouvernement-promet-que-les-aides-au-carburant-seront-reconduites-137800",
           "niveau": "moyen"
         },
         {
-          "titre": "\"Septembre Bouge\": un mois pour mettre le sport au centre de nos vies!",
-          "analyse": "Pendant tout le mois de septembre, le Ministère des Sports va multiplier les initiatives dans le cadre de cette initiative, dont Notre Temps est partenaire, pour nous encourager à pratiquer une activité physique et sportive et en faire notre alliée santé au quotidien.",
+          "titre": "Ce que l'on sait des orientations du budget pour 2027",
+          "analyse": "Budget \"réversible\", sans hausses d&#039;impôts, coup de frein dans les dépenses, sous-indexation possible des retraites élevées : voici les premières orientations du gouvernement de Sébastien Lecornu pour...",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/sante-bien-etre/forme/septembre-bouge-un-mois-pour-mettre-le-sport-au-centre-de-nos-vies-137757",
+          "url": "https://www.notretemps.com/depeches/ce-que-l-on-sait-des-orientations-du-budget-pour-2027-137799",
           "niveau": "moyen"
         }
       ]
@@ -215,17 +250,101 @@
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "Clause bénéficiaire : la rédiger sans perdre d’abattement",
-          "analyse": "Deux lignes rédigées à l&#8217;ouverture décident de ce que vos proches recevront. C&#8217;est le seul endroit de votre patrimoine où trente secondes valent plusieurs dizaines de milliers d&#8217;euros. La plupart des épargnants n&#8217;ont jamais relu leur clause bénéficiaire depuis la souscription",
-          "source": "Epargnant 3.0",
-          "url": "https://www.epargnant30.fr/clause-beneficiaire-assurance-vie/",
+          "titre": "457 milliards de dollars d’activité crypto imposable en 2025",
+          "analyse": "Le 26 août 2026, Chainalysis publiait un rapport sur l&rsquo;activité crypto on-chain potentiellement imposable dans le monde. Le chiffre central est 457 milliards de dollars en 2025 — gains, revenus de staking et mining, paiements en crypto. La France y figure à 9,4 milliards. Le Portugal, lui, aff",
+          "source": "Finyear",
+          "url": "https://finyear.com/457-milliards-de-dollars-dactivite-crypto-imposable-en-2025/",
           "niveau": "moyen"
         },
         {
-          "titre": "Assurance vie : les 12 plafonds à connaître en 2026",
-          "analyse": "Personne ne limite ce que vous versez sur une assurance vie. Douze seuils décident en revanche de ce que vous garderez, et l&#8217;un d&#8217;eux a changé de camp en 2026. La question revient chaque semaine dans ma boîte mail, et elle est presque toujours mal posée. On me demande combien on a le dro",
-          "source": "Epargnant 3.0",
-          "url": "https://www.epargnant30.fr/assurance-vie-plafond/",
+          "titre": "OpenPayd rejoint Circle Payments Network : le règlement en USDC au cœur des paie",
+          "analyse": "OpenPayd, infrastructure de paiements basée à Londres, a annoncé le 25 août sa connexion au Circle Payments Network (CPN). Le mécanisme est simple : les clients entreprises d&rsquo;OpenPayd peuvent désormais envoyer des devises classiques en quelques secondes, le règlement s&rsquo;effectuant en USDC",
+          "source": "Finyear",
+          "url": "https://finyear.com/openpayd-rejoint-circle-payments-network-le-reglement-en-usdc-au-coeur-des-paiements-b2b-europeens/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "TIAA rachète Schroders pour 9,9 milliards de livres sterling : 2 500 milliards d",
+          "analyse": "Le bras d&rsquo;investissement de TIAA — gestionnaire américain de l&rsquo;épargne retraite des universitaires et enseignants — acquiert le gestionnaire d&rsquo;actifs britannique Schroders pour 590 pence par action en numéraire, auxquels s&rsquo;ajoutent des dividendes autorisés jusqu&rsquo;à 22 pe",
+          "source": "Finyear",
+          "url": "https://finyear.com/tiaa-rachete-schroders-pour-99-milliards-de-livres-sterling-2-500-milliards-dactifs-combines/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "McKesson rachète Precision Medicine Group pour 2,25 milliards",
+          "analyse": "McKesson Corp. (NYSE : MCK) a annoncé le 25 août un accord pour acquérir Precision Medicine Group, LLC — prestataire mondial de recherche clinique et de commercialisation biopharma — pour environ 2,25 milliards de dollars. L&rsquo;opération étend la chaîne de valeur de McKesson au-delà de la distrib",
+          "source": "Finyear",
+          "url": "https://finyear.com/mckesson-rachete-precision-medicine-group-pour-225-milliards/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "BitGo rachète NYDIG : la consolidation de l’infra crypto pour institutions",
+          "analyse": "Le 28 août 2026, BitGo annonçait un accord pour acquérir le business de trading institutionnel de NYDIG — exécution, dérivés, produits structurés et financement. L&rsquo;opération ajoute aux capacités de custody et de settlement de BitGo une couche complète de services de marché pour les institution",
+          "source": "Finyear",
+          "url": "https://finyear.com/bitgo-rachete-nydig-la-consolidation-de-linfra-crypto-pour-institutions/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Hyperliquid Strategies : $647M levés, 29,3 millions de HYPE en trésorerie",
+          "analyse": "Le 27 août, Hyperliquid Strategies Inc. (Nasdaq : PURR) publiait ses résultats annuels pour l&rsquo;exercice clos le 30 juin 2026. 647 millions de dollars levés en capital actions. Trésorerie HYPE portée de 12,5 à 29,3 millions de tokens, valorisée à 1,9 milliard de dollars. 305,5 millions de résult",
+          "source": "Finyear",
+          "url": "https://finyear.com/hyperliquid-strategies-647m-leves-293-millions-de-hype-en-tresorerie/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "USDC sur le maillot de Chelsea : Circle ambitieux",
+          "analyse": "Le 28 août 2026, Circle annonçait un partenariat principal avec Chelsea FC — «USDC by Circle» sur le maillot des équipes hommes, femmes et académie dès la saison 2026/27. C&rsquo;est la première fois qu&rsquo;un stablecoin devient sponsor maillot d&rsquo;un club de Premier League. Chelsea avait joué",
+          "source": "Finyear",
+          "url": "https://finyear.com/usdc-sur-le-maillot-de-chelsea-circle-ambitieux/",
+          "niveau": "moyen"
+        }
+      ]
+    },
+    {
+      "titre": "Reglementation",
+      "icone": "📋",
+      "niveau_global": "moyen",
+      "items": [
+        {
+          "titre": "« Jacques Isorni n’est pas un idéologue, c’est un artiste »",
+          "analyse": "Avocat de tous les combats, jamais l&#224; o&#249; on l&#8217;attend, Jacques Isorni a &#233;t&#233; l&#8217;un des p&#233;nalistes les plus brillants de sa g&#233;n&#233;ration, avant de tomber peu &#224; peu dans l&#8217;oubli. Avocat honoraire et historien, Gilles Antonowicz entretient sa m&#233;",
+          "source": "Actu-Juridique",
+          "url": "https://www.actu-juridique.fr/grands-juristes/jacques-isorni-nest-pas-un-ideologue-cest-un-artiste/",
+          "niveau": "moyen"
+        }
+      ]
+    },
+    {
+      "titre": "ESG",
+      "icone": "🌱",
+      "niveau_global": "moyen",
+      "items": [
+        {
+          "titre": "Comment des groupes armés colombiens recrutent des enfants grâce à TikTok et Fac",
+          "analyse": "Certaines vidéos génèrent plusieurs milliers de vues. @Captures d'écran TikTok issues du rapport \"“I Thought I’d Never See My Mom Again”\nRecruitment and Use of Children by Colombian Armed Groups\" de Human Rights Watch.\nDes adolescents en habits militaires exhibant des liasses de billets ou travailla",
+          "source": "Novethic",
+          "url": "https://www.novethic.fr/economie-et-social/droits-humains/groupes-armes-colombiens-recrutent-enfants-grace-tiktok-facebook",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Dividende écologique et sociétal : Impact France veut trouver 100 entreprises vo",
+          "analyse": "Caroline Neyron, directrice générale du mouvement Impact France, avec Daniel Baal du Crédit Mutuel et Pascal Demurger de la Maif, a lancé la coalition pour le dividende sociétal le 28 août 2026. @Arnaud Dumas\nLe mouvement Impact France veut inciter les entreprises à mieux partager leurs bénéfices av",
+          "source": "Novethic",
+          "url": "https://www.novethic.fr/finance-durable/finance-verte/dividende-ecologique-societal-impact-france-trouver-100-entreprises-volontaires",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "COP17 Biodiversité, COP31 Climat, Conférence sur l'eau... : voici l'agenda de la",
+          "analyse": "L'année 2026 marque l'année des trois COP issues du sommet de Rio. @Pexels / Ann H\nClimate Week à New York, aux Etats-Unis : du 20 au 27 septembre 2026 La Climate week 2026 de New York \"mettra l'accent sur l'énergie, l'impact et l'action que nous menons ensemble\", explique Climate Group, organisateu",
+          "source": "Novethic",
+          "url": "https://www.novethic.fr/environnement/climat/cop17-biodiversite-cop31-climat-conference-sur-leau-voici-lagenda-de-la-rentree",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "La baisse du prix spot de l’électricité cache la hausse pour 2027 [Marchés]",
+          "analyse": "Les prix de l’électricité repartent à la hausse ce lundi par rapport à ce week-end, certes, mais s’éloignent tout de même des sommets atteints ces dernières semaines. Sous les 100 €/MWh au début du mois d’août, le prix spot de l’électricité, c’est-à-dire contractualisé pour livraison le lendemain, a",
+          "source": "GreenUnivers",
+          "url": "https://www.greenunivers.com/2026/08/la-baisse-du-prix-spot-de-lelectricite-cache-la-hausse-pour-2027-marches-431812/",
           "niveau": "moyen"
         }
       ]
@@ -236,17 +355,59 @@
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "Présidentielle 2027 : ce que les candidats ont réellement compris de la puissanc",
-          "analyse": "À La REF, grande messe annuelle du MEDEF, principale organisation patronale française, l’intelligence artificielle et l’innovation n’ont pas bénéficié d’une séquence dédiée lors du débat réunissant sept candidats à la présidentielle de 2027. Elles en ont pourtant traversé presque tous les sujets : s",
+          "titre": "Reprenez la main sur ce que l’IA dit de votre  marque grâce aux RP",
+          "analyse": "ChatGPT, Gemini, Perplexity, AI Overviews de Google : ces interfaces IA sont devenues un point d&#8217;entrée vers l&#8217;information … et les marques. Pour les directions communication et marketing, une question s&#8217;impose : que dit l’IA de vous, et comment influencer ses réponses ?  En chiffr",
           "source": "FW.MEDIA",
-          "url": "https://www.frenchweb.fr/presidentielle-2027-ce-que-les-candidats-ont-reellement-compris-de-la-puissance-technologique/463107",
+          "url": "https://www.frenchweb.fr/reprenez-la-main-sur-ce-que-lia-dit-de-votre-marque-grace-aux-rp/463149",
           "niveau": "moyen"
         },
         {
-          "titre": "Il refuse de répondre à son patron pendant son arrêt maladie : il est licencié p",
-          "analyse": "Pour la Cour d'appel de Paris, ce refus était un manquement à son obligation de loyauté. Une faute grave peut justifier un licenciement.",
+          "titre": "FW.MEDIA change d’échelle : deeptech européenne et édition anglaise en vaisseau ",
+          "analyse": "Depuis près de vingt ans, nous racontons les transformations de la tech française, européenne et internationale. Aujourd’hui, ce qui change n’est pas notre terrain de jeu, mais notre focale. FW.MEDIA resserre son travail autour des technologies qui reconfigurent durablement l’économie, l’industrie e",
+          "source": "FW.MEDIA",
+          "url": "https://www.frenchweb.fr/fw-media-change-dechelle-deeptech-europeenne-et-edition-anglaise-en-vaisseau-amiral/463138",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Agentic commerce : la donnée produit, seul vrai champ de bataille",
+          "analyse": "L'agentic commerce impose aux retailers de rendre leurs données produits complètes, structurées et fiables pour permettre aux agents IA de comparer, recommander et vendre efficacement.",
           "source": "JDN : Derniers contenus",
-          "url": "https://www.journaldunet.com/management/ressources-humaines/1549529-rv1-refus-de-repondre-pendant-un-arret-maladie/",
+          "url": "https://www.journaldunet.com/retail/1554179-agentic-commerce-la-donnee-produit-seul-vrai-champ-de-bataille/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "L'IA en magasin : du pilote au déploiement à grande échelle",
+          "analyse": "Les distributeurs multiplient les projets d'IA, mais ont besoin d'une infrastructure solide pour passer à l'échelle et rentabiliser leurs investissements.",
+          "source": "JDN : Derniers contenus",
+          "url": "https://www.journaldunet.com/retail/1554123-l-ia-en-magasin-du-pilote-au-deploiement-a-grande-echelle/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "A ceux qui veulent reporter la facturation électronique : ne confondez pas risqu",
+          "analyse": "Une cyberattaque touchant les systèmes liés à l'administration fiscale a immédiatement réveillé les appels à repousser la généralisation de la facturation électronique...",
+          "source": "JDN : Derniers contenus",
+          "url": "https://www.journaldunet.com/fintech/1554191-a-ceux-qui-veulent-reporter-la-facturation-electronique-ne-confondez-pas-risque-et-remede/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Facturation électronique : la réforme a été conçue décentralisée",
+          "analyse": "La réforme de la facturation électronique n'est pas une réforme de la comptabilité . Elle encourage le pluralisme et la diversité. Les éditeurs vont-ils rester producteurs de leurs flux ?",
+          "source": "JDN : Derniers contenus",
+          "url": "https://www.journaldunet.com/fintech/1554145-facturation-electronique-la-reforme-a-ete-concue-decentralisee/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Facturation électronique : et si cette exigence réglementaire était l'occasion d",
+          "analyse": "Au-delà de son obligation réglementaire, la facturation électronique est l'occasion pour les entreprises de simplifier leurs processus afin de limiter la complexité et gagner en efficacité et agilité.",
+          "source": "JDN : Derniers contenus",
+          "url": "https://www.journaldunet.com/fintech/1554125-facturation-electronique-et-si-cette-exigence-reglementaire-etait-l-occasion-de-simplifier/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Facturation électronique : ce que disent vraiment les fichiers de Bercy",
+          "analyse": "À une semaine de l'obligation de réception, les annuaires du marché annoncent entre 137 et 166 plateformes agréées. Le fichier officiel en contient 148. Et l'écart s'explique en deux lignes.",
+          "source": "JDN : Derniers contenus",
+          "url": "https://www.journaldunet.com/fintech/1554013-facturation-electronique-ce-que-disent-vraiment-les-fichiers-de-bercy/",
           "niveau": "moyen"
         }
       ]
