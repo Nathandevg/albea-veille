@@ -1,8 +1,8 @@
 {
-  "date_fr": "Friday 04 September 2026",
-  "compte_articles": 250,
+  "date_fr": "Saturday 05 September 2026",
+  "compte_articles": 227,
   "compte_forts": 0,
-  "compte_moyens": 250,
+  "compte_moyens": 227,
   "synthese_jour": "Synthese IA non disponible (fallback). Consultez les articles ci-dessous.",
   "chiffres_cles": [],
   "sections": [
@@ -12,59 +12,59 @@
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "Inondations au Népal et au Tibet : les secours extraient deux ouvriers miraculés",
-          "analyse": "Les deux survivants ont été extraits d’un tunnel du nord du pays où ils étaient retenus prisonniers depuis la crue du 26 août. Les autorités népalaises, citées par l’Organisation des Nations unies, ont dénombré près de 85 000 sinistrés, privés désormais de toit.",
+          "titre": "En Italie, Giorgia Meloni célèbre près de quatre années au pouvoir malgré les cr",
+          "analyse": "Alors que la campagne pour les élections législatives de 2027 approche, la présidente du conseil, qui a prononcé un discours devant ses troupes, à Bari, vendredi, doit composer avec une économie morose et un parti encore plus à droite que le sien.",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/planete/article/2026/09/04/inondations-au-nepal-et-au-tibet-les-secours-extraient-deux-ouvriers-miracules-le-bilan-s-eleve-a-1-280-morts-et-plus-de-5-600-disparus_6765174_3245.html",
+          "url": "https://www.lemonde.fr/international/article/2026/09/05/en-italie-giorgia-meloni-celebre-pres-de-quatre-annees-au-pouvoir-malgre-les-crises-et-les-revers_6766318_3210.html",
           "niveau": "moyen"
         },
         {
-          "titre": "Jean-Philippe Martin, historien : « Les agriculteurs qui veulent transformer leu",
-          "analyse": "Alors que la ministre, Annie Genevard, a annoncé, vendredi 4 septembre, une aide de 1 milliard d’euros à l’agriculture, le spécialiste de l’histoire du monde paysan s’interroge, dans un entretien au « Monde », sur l’avenir du modèle agricole français.",
+          "titre": "EN DIRECT, guerre en Ukraine : Jared Kushner et Steve Witkoff sont arrivés à Mos",
+          "analyse": "Les deux émissaires de Donald Trump doivent s’entretenir avec Vladimir Poutine, samedi, puis se rendre à Kiev, dimanche, où ils effectueront leur première visite. Ils sont porteurs d’un plan « visant à mettre fin à la guerre », selon le président américain.",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/idees/article/2026/09/04/jean-philippe-martin-historien-les-agriculteurs-qui-veulent-transformer-leur-mode-d-exploitation-sont-peu-soutenus_6765774_3232.html",
+          "url": "https://www.lemonde.fr/international/live/2026/09/05/en-direct-guerre-en-ukraine-volodymyr-zelensky-denonce-des-frappes-russes-sur-les-aeroports-de-kiev-et-de-boryspil-avant-la-visite-de-jared-kushner-et-de-steve-witkoff_6760568_3210.html",
           "niveau": "moyen"
         },
         {
-          "titre": "Le projet saoudien de parcs d’attractions divise les habitants de Cergy-Pontoise",
-          "analyse": "Trois sites, dont l’un serait consacré à l’univers des mangas, pourraient voir le jour dans le Val-d’Oise, près de Paris. Avec 6 milliards d’euros d’investissement et 22 000 emplois annoncés, le projet suscite autant d’espoirs économiques que de craintes au sujet de l’environnement, du logement ou d",
+          "titre": "Piratage du site des impôts : l’ombre de « ChatNoir », un jeune homme de 18 ans ",
+          "analyse": "Un suspect a été mis en examen le 20 août et placé en détention provisoire dans l’enquête sur les attaques informatiques ayant visé la direction générale des finances publiques. Il est déjà poursuivi dans plusieurs affaires retentissantes de piratage et de vol de données.",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/09/04/le-projet-saoudien-de-parcs-d-attractions-divise-les-habitants-de-courdimanche-nous-sommes-les-grands-oublies_6765627_3234.html",
+          "url": "https://www.lemonde.fr/societe/article/2026/09/04/piratage-du-site-des-impots-l-ombre-de-chatnoir-pirate-juvenile-multi-mis-en-examen_6765819_3224.html",
           "niveau": "moyen"
         },
         {
-          "titre": "Présidentielle 2027 : le député Emmanuel Maurel annonce qu’il participera à la p",
-          "analyse": "L’animateur national du petit parti Gauche républicaine et socialiste est le septième candidat déclaré à la primaire du camp social-démocrate, qui se tiendra les 9-10 et 16-17 octobre. Tous les candidats doivent obtenir un certain nombre de parrainages pour pouvoir se présenter.",
+          "titre": "Dominique Méda, sociologue : « Pour réussir la transition écologique, nous devon",
+          "analyse": "Face au dérèglement climatique et à ses conséquences, les dirigeants politiques ne peuvent plus tergiverser et doivent adopter les voies et moyens pour changer de modèle économique. Cela tombe bien, car des solutions existent, estime, dans sa chronique, la chercheuse.",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/09/04/presidentielle-2027-le-depute-emmanuel-maurel-annonce-qu-il-participera-a-la-primaire-a-gauche_6765747_823448.html",
+          "url": "https://www.lemonde.fr/idees/article/2026/09/05/dominique-meda-sociologue-pour-reussir-la-transition-ecologique-nous-devons-conditionner-les-aides-publiques-a-la-reduction-des-couts-sociaux_6766320_3232.html",
           "niveau": "moyen"
         },
         {
-          "titre": "Volkswagen signe un accord pour la suppression de 50 000 emplois supplémentaires",
-          "analyse": "Le constructeur en crise existentielle a surpris en concluant sans conflit un compromis permettant de supprimer 50 000 postes supplémentaires d’ici à 2030. Mais de nombreuses questions restent ouvertes sur les sites et l’avenir technologique du groupe.",
+          "titre": "« Je ne vais pas rester assise à regarder des émissions à la télé » : les habita",
+          "analyse": "​Après un été marqué par des canicules à répétition, la chaleur a joué les prolongations vendredi à Toulouse, où Météo-France a relevé 37,2 °C, un record pour la ville en septembre.",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/09/04/volkswagen-signe-un-accord-pour-la-suppression-de-50-000-emplois-supplementaires-mais-laisse-de-nombreuses-questions-en-suspens_6765776_3234.html",
+          "url": "https://www.lemonde.fr/planete/article/2026/09/05/je-ne-vais-pas-rester-assise-a-regarder-des-emissions-a-la-tele-les-habitants-s-accommodent-du-nouveau-pic-de-chaleur-a-toulouse_6766310_3244.html",
           "niveau": "moyen"
         },
         {
-          "titre": "L’IA rebat les cartes de l’apprentissage, de l’école au lycée : « Une réponse im",
-          "analyse": "Si l’intelligence artificielle générative est entrée dans la vie des élèves, difficile de savoir quelles transformations elle produira dans leur manière de mémoriser et de raisonner.",
+          "titre": "Les IA secrétaires de réunion : « Nicolas a suggéré d’ajouter du laxatif dans le",
+          "analyse": "Dans sa chronique, Guillemette Faure met en lumière les transformations invisibles de notre époque. Cette semaine, les comptes rendus de réunion rédigés sans filtre par l’intelligence artificielle.",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/societe/article/2026/09/04/de-l-ecole-au-lycee-l-apprentissage-au-defi-de-l-ia-une-reponse-immediate-comble-le-desir-de-savoir-mais-tue-le-desir-d-apprendre_6765591_3224.html",
+          "url": "https://www.lemonde.fr/m-le-mag/article/2026/09/05/les-ia-secretaires-de-reunion-nicolas-a-suggere-d-ajouter-du-laxatif-dans-le-cafe-de-l-expert-comptable_6766315_4500055.html",
           "niveau": "moyen"
         },
         {
-          "titre": "Israël annonce avoir consolidé sa « zone de sécurité » dans le sud du Liban aprè",
-          "analyse": "L’armée israélienne dit s’être emparée de la crête montagneuse d’Ali-Taher, où elle affirme que le mouvement pro iranien avait établi un centre de commandement souterrain. Tsahal a déjà prévenu que ses forces ne se retireraient pas.",
+          "titre": "Anne-Cécile Mailfert, présidente de la Fondation des femmes : « Pour la première",
+          "analyse": "Dans un entretien au « Monde », celle qui a participé à la réflexion sur cette proposition de loi détaille sa genèse, son contenu ainsi que son arrivée à l’agenda parlementaire dans le sillage de l’affaire Lyhanna. Elle sera présente le samedi 19 septembre dans le cadre d’une rencontre sur ce même s",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/guerre-au-proche-orient/article/2026/09/04/israel-annonce-avoir-consolide-sa-zone-de-securite-au-sud-du-liban-apres-la-prise-d-une-position-cle-du-hezbollah_6765753_6325529.html",
+          "url": "https://www.lemonde.fr/festival/article/2026/09/05/anne-cecile-mailfert-presidente-de-la-fondation-des-femmes-pour-la-premiere-fois-peut-etre-une-loi-contre-les-violences-sexistes-et-sexuelles-part-du-point-de-vue-des-victimes_6766309_4415198.html",
           "niveau": "moyen"
         },
         {
-          "titre": "Xenia Fedorova : Jean-Noël Barrot se dit « affligé » du retour de la propagandis",
-          "analyse": "La chroniqueuse russe, expulsée de France cet été et dont la chaîne de Vincent Bolloré a annoncé le retour prochain à l’antenne, à distance, « n’est pas une journaliste mais une agente d’ingérence au service de la Russie », a fait valoir le ministre des affaires étrangères.",
+          "titre": "Cisjordanie occupée : l’ambassadeur américain appelle à sanctionner les auteurs ",
+          "analyse": "En visite en Cisjordanie occupée, Mike Huckabee a par ailleurs assuré qu’il n’existait « aucun plan » israélien visant à expulser de force les Palestiniens de la bande de Gaza.",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/actualite-medias/article/2026/09/04/xenia-fedorova-jean-noel-barrot-se-dit-afflige-du-retour-de-la-propagandiste-pro-poutine-sur-cnews-et-dans-le-jdnews_6765756_3236.html",
+          "url": "https://www.lemonde.fr/guerre-au-proche-orient/article/2026/09/05/cisjordanie-occupee-l-ambassadeur-americain-appelle-a-sanctionner-les-auteurs-de-violences_6766328_6325529.html",
           "niveau": "moyen"
         }
       ]
@@ -75,52 +75,31 @@
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "Neoclouds like CoreWeave are getting much bigger—and riskier",
-          "analyse": "The mountain of debt funding their expansion is growing rapidly",
-          "source": "Business",
-          "url": "https://www.economist.com/business/2026/09/03/neoclouds-like-coreweave-are-getting-much-bigger-and-riskier",
+          "titre": "The jobs apocalypse is postponed. An AI jobs boom is here",
+          "analyse": "Initial effects of the technology on employment look positive",
+          "source": "Finance & economics",
+          "url": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
           "niveau": "moyen"
         },
         {
-          "titre": "LIV Golf’s failure shows how not to invest in sport",
-          "analyse": "It takes more than huge amounts of money to disrupt a game",
+          "titre": "VW’s surprise job-slashing deal is a big win for its bosses",
+          "analyse": "And a blow to Germany’s co-operative model of industrial relations",
           "source": "Business",
-          "url": "https://www.economist.com/business/2026/09/03/liv-golfs-failure-shows-how-not-to-invest-in-sport",
+          "url": "https://www.economist.com/business/2026/09/04/vws-surprise-job-slashing-deal-is-a-big-win-for-its-bosses",
           "niveau": "moyen"
         },
         {
-          "titre": "The IRS is going after America Inc’s overseas profits",
-          "analyse": "Companies from Coca-Cola to Meta are in its sights",
+          "titre": "How Oura’s rings found their way onto millions of fingers",
+          "analyse": "Its business is booming as consumers look to take charge of their health",
           "source": "Business",
-          "url": "https://www.economist.com/business/2026/09/03/the-irs-is-going-after-america-incs-overseas-profits",
+          "url": "https://www.economist.com/business/2026/09/04/how-ouras-rings-found-their-way-onto-millions-of-fingers",
           "niveau": "moyen"
         },
         {
-          "titre": "Chinese businesses of all stripes are turning to Huawei",
-          "analyse": "In industries from mining to transport, the company’s technology is becoming pervasive",
-          "source": "Business",
-          "url": "https://www.economist.com/business/2026/09/03/chinese-businesses-of-all-stripes-are-turning-to-huawei",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Six reasons that the risk of a stock-market selloff is rising. Here’s what inves",
-          "analyse": "Many markets are priced for perfection warns Longview Economics.",
+          "titre": "Micron is doubling down on AI memory chips. That could pay off big time for inve",
+          "analyse": "Micron is reportedly increasing production capacity of a more profitable memory offering that’s in high demand due to AI.",
           "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/six-reasons-that-the-risk-of-a-stock-market-selloff-is-rising-heres-what-investors-should-be-doing-4c3d84ec?mod=mw_rss_topstories",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Governments keep trying to calm global markets. Why that should worry investors.",
-          "analyse": "Government interventions, such as currency buying and bond buybacks, are supposed to reassure markets. But lately, they are doing the opposite.",
-          "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/governments-keep-trying-to-calm-global-markets-why-that-should-worry-investors-e7f93d62?mod=mw_rss_topstories",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Potential midterm-election chaos can roil markets. Here’s one trader’s play.",
-          "analyse": "Buying portfolio insurance to protect against falls in the market — if the outcome of the midterm elections is disputed — is so obvious to Kevin Muir, he regards it as a “chip shot.”",
-          "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/potential-midterm-election-chaos-can-roil-markets-heres-one-traders-play-73a02966?mod=mw_rss_topstories",
+          "url": "https://www.marketwatch.com/story/micron-is-doubling-down-on-ai-memory-chips-that-could-pay-off-big-time-for-investors-da9e7f5e?mod=mw_rss_topstories",
           "niveau": "moyen"
         },
         {
@@ -129,19 +108,26 @@
           "source": "MarketWatch.com - Top Stories",
           "url": "https://www.marketwatch.com/story/will-a-data-center-hurt-your-homes-value-research-says-no-sellers-disagree-7017ace4?mod=mw_rss_topstories",
           "niveau": "moyen"
-        }
-      ]
-    },
-    {
-      "titre": "Marches financiers",
-      "icone": "🏛️",
-      "niveau_global": "moyen",
-      "items": [
+        },
         {
-          "titre": "Philip R. Lane: Diversity at the European Central Bank",
-          "analyse": "",
-          "source": "ECB - European Central Bank",
-          "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260904~7b9257099b.en.pdf",
+          "titre": "Here’s what’s worth streaming in September 2026 on Netflix, Hulu, HBO Max and mo",
+          "analyse": "Prices are rising again, but a slew of fan-favorite shows — including Apple’s ‘Slow Horses,’ Netflix’s ‘The Gentlemen’ and Paramount’s ‘MobLand’ — are returning for new seasons",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/heres-whats-worth-streaming-in-september-2026-on-netflix-hulu-hbo-max-and-more-a702e7dd?mod=mw_rss_topstories",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Why Oracle’s stock looks like a compelling buy ahead of earnings",
+          "analyse": "While there are long-term debates around Oracle’s stock, analysts say the company looks poised to benefit from upbeat pricing trends and more when it reports results next week.",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/why-oracles-stock-looks-like-a-compelling-buy-ahead-of-earnings-12a04d7b?mod=mw_rss_topstories",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "There’s a new record number of 401(k) millionaires as retirement savings hold at",
+          "analyse": "Retirement savings hovered at record highs in the second quarter, pushing the number of 401(k) millionaires to a record as investors focused on their long-term goals despite persistent anxiety about the broader economy, Fidelity Investments said Thursday.",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/theres-a-new-record-number-of-401-k-millionaires-as-retirement-savings-hold-at-all-time-highs-94f2c520?mod=mw_rss_topstories",
           "niveau": "moyen"
         }
       ]
@@ -152,10 +138,24 @@
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "SCPI VOLT EUROPE : Une rentrée portée par sa stratégie solaire",
-          "analyse": "Comment la SCPI VOLT EUROPE utilise l’immobilier solaire pour viser 7 % de TRI et 7,5 % de TD sur 10 ans ? Découvrez sa stratégie et sa Phase Sponsor.",
+          "titre": "Cap Foncières&Territoires : Que révèlent les expertises au 30/06/26 ?",
+          "analyse": "SCPI Cap Foncières & Territoires : valeur stable, décote au prix de part et stratégie de gestion. Découvrez ce que révèlent les expertises 2026 et comment",
           "source": "MeilleureSCPI.com",
-          "url": "https://www.meilleurescpi.com/actualites/scpi-volt-europe-une-rentree-portee-par-sa-strategie-solaire/",
+          "url": "https://www.meilleurescpi.com/actualites/cap-foncieres-territoires-quels-resultats-pour-les-expertises-au-30-06/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "SCPI Sofidy : Revue des valeurs de reconstitution à mi-année 2026",
+          "analyse": "Baisse ciblée d’Efimmo 1, stabilité des autres SCPI Sofidy : que révèlent les valeurs de reconstitution 2026 ? Analyse chiffrée et pistes pour investir.",
+          "source": "MeilleureSCPI.com",
+          "url": "https://www.meilleurescpi.com/actualites/scpi-sofidy-revue-des-valeurs-de-reconstitution-a-mi-annee/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "SCPI Iroko : Trois évolutions à retenir à la rentrée",
+          "analyse": "SCPI Iroko : que changent la hausse du prix de part, les nouvelles clés de démembrement et les frais de sortie à 6 ans ? Faites le point avant d’investir.",
+          "source": "MeilleureSCPI.com",
+          "url": "https://www.meilleurescpi.com/actualites/scpi-iroko-trois-evolutions-a-retenir-a-la-rentree/",
           "niveau": "moyen"
         },
         {
@@ -173,38 +173,10 @@
           "niveau": "moyen"
         },
         {
-          "titre": "Arkéa REIM fête ses 5 ans et poursuit sa croissance au 1S 2026",
-          "analyse": "Comment Arkéa REIM a-t-elle atteint 3,7 Mds€ sous gestion en 5 ans malgré un marché immobilier chahuté ? Découvrez les détails",
-          "source": "MeilleureSCPI.com",
-          "url": "https://www.meilleurescpi.com/actualites/arkea-reim-fete-ses-5-ans-et-poursuit-sa-croissance-au-1er-semestre/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "La SCPI Edmond de Rothschild EUROPA investit dans le Grand Londres",
-          "analyse": "Comment la SCPI Edmond de Rothschild EUROPA sécurise un rendement à Londres avec Wickes et un bail de 19 ans ? Découvrez les chiffres clés et la stratégie.",
-          "source": "MeilleureSCPI.com",
-          "url": "https://www.meilleurescpi.com/actualites/la-scpi-edmond-de-rothschild-europa-investit-dans-le-grand-londres/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "La SCPI Epsicap Nano fait son entrée sur le marché italien",
-          "analyse": "Comment Epsicap Nano se développe en Italie tout en restant fidèle à sa stratégie smallcaps européenne ? Découvrez les chiffres clés et les enjeux. Analyse",
-          "source": "MeilleureSCPI.com",
-          "url": "https://www.meilleurescpi.com/actualites/la-scpi-epsicap-nano-fait-son-entree-sur-le-marche-italien/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Quelles SCPI ont le plus collecté -décollecté…- au 2T 2026 ?",
-          "analyse": "La collecte nette des SCPI du 2ème trimestre 2026 accuse un très léger repli. Cette phase de stabilisation reste marquée par les mêmes fondamentaux : une concentration sur un nombre restreint de véhicules. Côté parts en attente, la situation s’est améliorée, mais exclusivement en raison de la remise",
-          "source": "Pierrepapier.fr",
-          "url": "https://www.pierrepapier.fr/scpi/quelles-scpi-ont-le-plus-collecte-decollecte-au-2t-2026/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "La SCPI Eurovalys cède à Brême un actif de bureaux reconverti en école",
-          "analyse": "Advenis REIM annonce la cession par la SCPI Eurovalys d&#8217;un immeuble de bureaux de 10 550 m² à Brême, en Allemagne, pour 33,6 M€. Après reconversion en école louée à la Ville de Brême, l&#8217;opération dégage une plus-value brute de près de 8 M€ pour les associés. Une cession réalisée au-dessu",
-          "source": "Pierrepapier.fr",
-          "url": "https://www.pierrepapier.fr/communique/la-scpi-eurovalys-cede-a-breme-un-actif-de-bureaux-reconverti-en-ecole/",
+          "titre": "Immobilier : Les data centers, une bulle ? « Exactement l’inverse », répond le p",
+          "analyse": "Face aux doutes sur les valorisations de l'IA, Jon Gray, président de Blackstone, défend les data centers : la demande est réelle, ce sont les infrastructures, l'énergie et les permis qui manquent.\nCet article Immobilier : Les data centers, une bulle ? « Exactement l&rsquo;inverse », répond le patro",
+          "source": "MySweetimmo",
+          "url": "https://www.mysweetimmo.com/2026/09/05/immobilier-les-data-centers-une-bulle-exactement-linverse-repond-le-patron-de-blackstone/",
           "niveau": "moyen"
         }
       ]
@@ -215,59 +187,59 @@
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "Périscolaire : la Ville de Paris, Grégoire et Hidalgo visés par une plainte de f",
-          "analyse": "\"Briser le silence institué\": une quinzaine de familles, qui dénoncent des violences et atteintes sexuelles sur leurs enfants, ont annoncé vendredi porter plainte contre la Ville de Paris et son maire...",
+          "titre": "Le clafoutis aux mirabelles de François-Régis Gaudry",
+          "analyse": "La saison des mirabelles est courte mais il est encore temps d&#039;en profiter en réalisant un délicieux clafoutis. Avec la recette du célèbre chroniqueur cuisine!",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/depeches/periscolaire-la-ville-de-paris-gregoire-et-hidalgo-vises-par-une-plainte-de-familles-137942",
+          "url": "https://www.notretemps.com/vie-pratique/cuisine/le-clafoutis-aux-mirabelles-de-francois-regis-gaudry-137903",
           "niveau": "moyen"
         },
         {
-          "titre": "Plus de 80 cas de contamination à la salmonellose liés à des graines de courge v",
-          "analyse": "81 personnes ont été infectées depuis le printemps à la salmonellose après avoir consommé des graines de courge transformées dans le Lot-et-Garonne et principalement vendues par l&#039;enseig...",
+          "titre": "Violences sexistes et sexuelles : la loi intégrale arrive en commission à l'Asse",
+          "analyse": "Après l&#039;affaire Lyhanna, une collégienne de 11 ans retrouvée en juin morte et violée, une proposition de loi \"intégrale\" très attendue contre les violences sexistes et sexuelles entame lundi son parco...",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/depeches/plus-de-80-cas-de-contamination-a-la-salmonellose-lies-a-des-graines-de-courge-vendues-chez-grand-frais-137947",
+          "url": "https://www.notretemps.com/depeches/violences-sexistes-et-sexuelles-la-loi-integrale-arrive-en-commission-a-l-assemblee-137985",
           "niveau": "moyen"
         },
         {
-          "titre": "Sécheresse: plus d'un milliard d'euros pour soutenir l'agriculture",
-          "analyse": "Après un été de canicules, incendies et sécheresse exceptionnels, le gouvernement a annoncé vendredi un milliard d&#039;euros d&#039;aides d&#039;urgence pour soutenir une agriculture française durement éprouvée.\"Le...",
+          "titre": "Budget : pour les syndicats, le pouvoir d'achat au cœur des enjeux",
+          "analyse": "Trouver des économies, mais pas sur le dos de ceux qui travaillent : à l&#039;approche de la présentation du budget 2027, les syndicats avancent leurs positions, plaçant le pouvoir d&#039;achat et le modèle soc...",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/depeches/secheresse-plus-d-un-milliard-d-euros-pour-soutenir-l-agriculture-137939",
+          "url": "https://www.notretemps.com/depeches/budget-pour-les-syndicats-le-pouvoir-d-achat-au-coeur-des-enjeux-137984",
           "niveau": "moyen"
         },
         {
-          "titre": "La France a connu son \"été le plus chaud\", le gouvernement veut muscler l'adapta",
-          "analyse": "La France a connu son été \"le plus chaud\" jamais enregistré, poussant le gouvernement a essayer de muscler son plan d&#039;adaptation du pays face à des extrêmes climatiques appelés à se répéter.\"Nous avon...",
+          "titre": "En révisant la Constitution par référendum, le RN au pouvoir ouvrirait une crise",
+          "analyse": "Jordan Bardella l&#039;a réaffirmé cette semaine: élue présidente, Marine Le Pen convoquerait d&#039;emblée un référendum pour réviser largement la Constitution afin de mettre en place la préférence nationale e...",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/depeches/la-france-a-connu-son-ete-le-plus-chaud-le-gouvernement-veut-muscler-l-adaptation-137925",
+          "url": "https://www.notretemps.com/depeches/en-revisant-la-constitution-par-referendum-le-rn-au-pouvoir-ouvrirait-une-crise-majeure-137982",
           "niveau": "moyen"
         },
         {
-          "titre": "5 bonnes habitudes à adopter pour limiter son exposition au cadmium",
-          "analyse": "Le cadmium est un métal lourd omniprésent dans notre alimentation et dangereux pour notre santé. Comment mieux choisir son alimentation pour limiter son exposition? Voici 5 bonnes habitudes à prendre.",
+          "titre": "Quiz culture générale: vos neurones sont-elles prêtes à relever le challenge?",
+          "analyse": "L&#039;heure de la rentrée a sonné, il est temps de réviser vos connaissances. Grammaire, arts, actualité… Répondez à ces 10 questions pour vous tester.",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/sante-bien-etre/nutrition/5-bonnes-habitudes-a-adopter-pour-limiter-son-exposition-au-cadmium-137912",
+          "url": "https://www.notretemps.com/loisirs/langue-francaise/quiz-culture-generale-vos-neurones-sont-elles-pretes-a-relever-le-challenge-137846",
           "niveau": "moyen"
         },
         {
-          "titre": "Ferroviaire: Velvet \"n'est pas du low cost\", indique sa présidente Rachel Picard",
-          "analyse": "Velvet, l&#039;entreprise ferroviaire qui ambitionne de concurrencer la SNCF à partir de 2028 sur des lignes à grande vitesse entre Paris et quatre grandes villes de l&#039;ouest de la France, ne...",
+          "titre": "Les librairies indépendantes de grande couronne à la peine face à Amazon et Pari",
+          "analyse": "Concurrence du commerce en ligne, hausse des charges et clientèle moins fidèle... En grande couronne de Paris, les librairies indépendantes accusent le coup. Et à l&#039;heure de la retraite, certains prof...",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/depeches/ferroviaire-velvet-n-est-pas-du-low-cost-indique-sa-presidente-rachel-picard-137935",
+          "url": "https://www.notretemps.com/depeches/les-librairies-independantes-de-grande-couronne-a-la-peine-face-a-amazon-et-paris-137981",
           "niveau": "moyen"
         },
         {
-          "titre": "Ferroviaire: Velvet \"n'est pas du low cost\", indique sa présidente Rachel Picard",
-          "analyse": "Velvet, l&#039;entreprise ferroviaire qui ambitionne de concurrencer la SNCF à partir de 2028 sur des lignes à grande vitesse entre Paris et quatre grandes villes de l&#039;ouest de la France, ne \"sera pas du l...",
+          "titre": "Canicules, orages, incendies : l'été bousculé des festivals de musique, qui redo",
+          "analyse": "Festivals annulés, éditions raccourcies et équipes qui naviguent à vue : après un été caniculaire, les organisateurs de concerts demandent un protocole national pour construire leurs prochaines éditio...",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/depeches/ferroviaire-velvet-n-est-pas-du-low-cost-indique-sa-presidente-rachel-picard-137934",
+          "url": "https://www.notretemps.com/depeches/canicules-orages-incendies-l-ete-bouscule-des-festivals-de-musique-qui-redoutent-la-suite-137980",
           "niveau": "moyen"
         },
         {
-          "titre": "Jeu vidéo: 90 emplois menacés au studio français Don't Nod qui lutte pour sa sur",
-          "analyse": "Le studio de jeux vidéo français Don&#039;t Nod envisage de se séparer de 90 employés en France, a-t-il annoncé vendredi dans un communiqué, un an après un premier plan social et sur fond d&#039;i...",
+          "titre": "Les vautours, nouvelle crainte des éleveurs basques et béarnais",
+          "analyse": "Des dizaines de vautours fauves qui s&#039;envolent, laissant derrière eux la dépouille d&#039;un veau : pour une éleveuse du Pays basque, l&#039;épisode vécu dans son exploitation au printemps est le signe d&#039;une no...",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/depeches/jeu-video-90-emplois-menaces-au-studio-francais-don-t-nod-qui-lutte-pour-sa-survie-137933",
+          "url": "https://www.notretemps.com/depeches/les-vautours-nouvelle-crainte-des-eleveurs-basques-et-bearnais-137979",
           "niveau": "moyen"
         }
       ]
@@ -278,38 +250,24 @@
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "Le climat s’aggrave, la politique recule, l’économie pivote — et les investisseu",
-          "analyse": "350 milliards d&rsquo;euros manquent chaque année pour financer la transition environnementale européenne. Les politiques climatiques reculent des deux côtés de l&rsquo;Atlantique. Pourtant, les grands fonds souverains et les allocataires institutionnels maintiennent le cap. Le livre blanc qu&rsquo;",
+          "titre": "Winston Taylor conseille ODDO BHF European MidCap Buyout : participation majorit",
+          "analyse": "ODDO BHF European MidCap Buyout (ex- « Strategic Opportunities ») a finalisé l&rsquo;acquisition d’une participation majoritaire dans SEEmed, leader français dans la distribution de matériels destinés aux centres de radiothérapie et de radiodiagnostic.\nWinston Taylor a conseillé ODDO BHF European Mi",
           "source": "Finyear",
-          "url": "https://finyear.com/le-climat-saggrave-la-politique-recule-leconomie-pivote-et-les-investisseurs-ne-sont-pas-dupes/",
+          "url": "https://finyear.com/winston-taylor-conseille-oddo-bhf-european-midcap-buyout-participation-majoritaire-dans-seemed/",
           "niveau": "moyen"
         },
         {
-          "titre": "Isatis Capital cède le groupe SECAL",
-          "analyse": "Après l’annonce du lancement de son fonds Isatis Souveraineté PME et de la transmission de la société de gestion à ses équipes, Isatis Capital (société de gestion indépendante spécialiste du LBO primaire) annonce la cession de sa participation dans le groupe SECAL à VINCI Energies.\nCette opération s",
-          "source": "Finyear",
-          "url": "https://finyear.com/isatis-capital-cede-le-groupe-secal/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "L’indice Argos regagne du terrain, à 8,8 fois, tiré par les fonds",
-          "analyse": "Les fonds, pressés pour certains de déployer et faire tourner leurs capitaux, continuent à tirer les valorisations vers le haut. Selon l’indice Argos, ils ont pratiqué un multiple médian de 10,2 fois l’Ebitda au deuxième trimestre 2026, qui prolonge donc sa hausse suite au rebond qu’il a connu en dé",
+          "titre": "Iris, Ardabelle Capital, Revaia… les nominations de la semaine",
+          "analyse": "Iris a annoncé trois recrutements pour accompagner sa croissance en Europe: VIKTOR STOLL (Stockholm School of Economics, WHU) comme investment manager au sein de l’équipe growth à Munich",
           "source": "PE Magazine",
-          "url": "https://www.pemagazine.fr/lindice-argos-regagne-du-terrain-a-88-fois-tire-par-les-fonds/",
+          "url": "https://www.pemagazine.fr/iris-ardabelle-capital-revaia-les-nominations-de-la-semaine/",
           "niveau": "moyen"
         },
         {
-          "titre": "Lucya CNP : mon avis sur l’assurance-vie aux frais les plus bas",
-          "analyse": "Aperçu · Avis Lucya CNP · Épargnant 3.0 En avril 2026, CNP Assurances, no&#160;1 de l&#8217;assurance-vie en France avec 370&#8239;milliards d&#8217;euros d&#8217;encours, a lancé son premier contrat distribué par un courtier en ligne : Lucya CNP, en exclusivité chez Lucya (ex-Assurancevie.com). J&#",
+          "titre": "S&P 500 : ce qu’il faut savoir avant d’investir",
+          "analyse": "Comprendre ce qu&#8217;est le S&#38;P 500, ce qu&#8217;il contient et comment il se calcule, puis décider s&#8217;il a sa place dans votre portefeuille et à quel prix selon l&#8217;enveloppe. Le S&#38;P 500, en clair. Un indice boursier est un chiffre unique qui résume l&#8217;évolution d&#8217;un p",
           "source": "Epargnant 3.0",
-          "url": "https://www.epargnant30.fr/avis-lucya-cnp/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "FTSE 100 : faut-il investir ? Analyse et ETF en 2026",
-          "analyse": "Sur les quatre dernières années et demie, l&#8217;indice de la Bourse de Londres a battu le MSCI World. En euros, dividendes inclus. +69,2 % pour le FTSE 100 contre +59,7 % pour le MSCI World, entre le 31 décembre 2021 et le 31 août 2026 (données justETF, calculs en euros, dividendes réinvestis). Vo",
-          "source": "Epargnant 3.0",
-          "url": "https://www.epargnant30.fr/ftse-100/",
+          "url": "https://www.epargnant30.fr/sp-500/",
           "niveau": "moyen"
         }
       ]
@@ -320,24 +278,10 @@
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "Airbnb : nouvelle victoire décisive pour la ville de Paris",
-          "analyse": "La Cour de cassation refuse de transmettre au Conseil constitutionnel une question prioritaire de constitutionnalit&#233; portant sur la r&#233;forme de 2024 des modes de preuve en mati&#232;re d&#8217;affectation des locaux. Pour la ville de Paris, c&#8217;est un sujet strat&#233;gique puisque seul",
+          "titre": "Mort de Frederico Martín Aramburú : retour sur les faits qui seront jugés à part",
+          "analyse": "Le proc&#232;s de Loik Le Priol, accus&#233; de l&#8217;assassinat du rugbyman Frederico Mart&#237;n Arambur&#250; le 19 mars 2022, boulevard Saint-Germain, et de Romain Bouvier et Lyson Rochemir, poursuivis pour tentative et complicit&#233;, s&#8217;ouvre ce lundi devant la cour d&#8217;assises de ",
           "source": "Actu-Juridique",
-          "url": "https://www.actu-juridique.fr/civil/logement/airbnb-nouvelle-victoire-decisive-pour-la-ville-de-paris/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "FLASH : Le Conseil d’État rejette le recours du Ministère de la Justice dans le ",
-          "analyse": "Dans une ordonnance prononc&#233;e ce jour, le Conseil d&#8217;&#201;tat rejette le recours du minist&#232;re de la Justice contre une ordonnance du tribunal administratif de Caen du 18 juillet qui lui enjoignait de mettre fin aux comportements illicites de certains surveillants p&#233;nitentaires d",
-          "source": "Actu-Juridique",
-          "url": "https://www.actu-juridique.fr/droit-penitentiaire/flash-le-conseil-detat-rejette-le-recours-du-ministere-de-la-justice-dans-le-dossier-de-conde-sur-sarthe/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Tribunal de Valence : « Il me met deux gifles, je le mords, je casse des choses ",
-          "analyse": "Sylvain et &#201;milie vivent en couple, mais ils se battent, sur fond d&#8217;abus de drogue et d&#8217;alcool. Un soir, la situation a d&#233;rap&#233;. &#192; tel point qu&#8217;ils ont &#233;t&#233; plac&#233;s tous les deux en d&#233;tention provisoire et comparaissent ensemble devant le tribun",
-          "source": "Actu-Juridique",
-          "url": "https://www.actu-juridique.fr/droit-penal/violences-familiales/tribunal-de-valence-il-me-met-deux-gifles-je-le-mords-je-casse-des-choses/",
+          "url": "https://www.actu-juridique.fr/penal/mort-de-frederico-martin-aramburu-retour-sur-les-faits-qui-seront-juges-a-partir-de-lundi-aux-assises-de-paris/",
           "niveau": "moyen"
         }
       ]
@@ -355,52 +299,24 @@
           "niveau": "moyen"
         },
         {
-          "titre": "\"J’en suis incapable\" : Travailler après les incendies, entre traumatisme et anx",
-          "analyse": "Plus de 180 maisons ont brûlé au Porge en Gironde après les incendies. Julien de Rosa / AFP\nQuand les gendarmes arrivent, Ludivine Daurignac n’a que cinq minutes pour partir. Il est autour de 20 heures. Depuis plusieurs heures, elle voit le feu se rapprocher du Porge, son village en Gironde, mais pe",
-          "source": "Novethic",
-          "url": "https://www.novethic.fr/environnement/climat/jen-suis-incapable-travailler-apres-les-incendies-entre-traumatisme-et-anxiete",
+          "titre": "Les salariés des EnR préparent une manifestation lors du colloque du Ser",
+          "analyse": "Exclusif — Ils remettent le couvert. Les Comités sociaux et économiques (CSE) qui avaient organisé en février dernier deux manifestations à Paris et Montpellier pour soutenir les employés de l&#8217;électricité renouvelable ont acté en début de semaine le principe d’une nouvelle manifestation.&#160;",
+          "source": "GreenUnivers",
+          "url": "https://www.greenunivers.com/2026/09/les-salaries-des-enr-preparent-une-manifestation-lors-du-colloque-du-ser-432277/",
           "niveau": "moyen"
         },
         {
-          "titre": "En juillet et août, les cleantech françaises lèvent 110 M€",
-          "analyse": "Traditionnellement calme, la période estivale n&#8217;a pourtant pas été mauvaise pour les cleantech françaises. Elles collectent un\nL’article En juillet et août, les cleantech françaises lèvent 110 M€ est apparu en premier sur GreenUnivers.",
+          "titre": "Réseaux, décarbonation et souveraineté dans les débats à Giverny",
+          "analyse": "« Le principal risque auquel le réseau électrique est exposé est le changement climatique », a indiqué Emilie Piette, présidente du directoire de RTE, lors d’une\nL’article Réseaux, décarbonation et souveraineté dans les débats à Giverny est apparu en premier sur GreenUnivers.",
           "source": "GreenUnivers",
-          "url": "https://www.greenunivers.com/2026/09/en-juillet-et-aout-les-cleantech-francaises-levent-110-me-432077/",
+          "url": "https://www.greenunivers.com/2026/09/reseaux-decarbonation-et-souverainete-dans-les-debats-a-giverny-432355/",
           "niveau": "moyen"
         },
         {
-          "titre": "Les documents de la semaine",
-          "analyse": "La sélection des documents parus cette semaine utiles aux acteurs de la transition énergétique. A retrouver tous les vendredis. Les nouveaux documents sont ajoutés à ceux rendus publics auparavant : textes réglementaires clés définitifs ou en consultation, documents de régulation, études pertinentes",
+          "titre": "Au premier semestre, le solaire et l’éolien progressent, le biogaz freine",
+          "analyse": "Le solaire photovoltaïque continue sa progression rapide dans l’Hexagone, avec 3 GW connectés au réseau au premier semestre, d’après les derniers chiffres du ministère de la transition écologique. C’est même\nL’article Au premier semestre, le solaire et l&rsquo;éolien progressent, le biogaz freine es",
           "source": "GreenUnivers",
-          "url": "https://www.greenunivers.com/2026/09/les-documents-de-la-semaine-381215/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "L’agenda de la transition énergétique",
-          "analyse": "Chaque semaine, GreenUnivers sélectionne les principaux événements professionnels de la transition énergétique. Des rendez-vous qui ont lieu en France et ailleurs dans les secteurs des énergies renouvelables, de l’hydrogène, de la rénovation ou encore de la mobilité électrique. Septembre 8 European ",
-          "source": "GreenUnivers",
-          "url": "https://www.greenunivers.com/2026/09/lagenda-de-la-transition-energetique-281-431464/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Coût et autonomie freinent l’électrification des chantiers",
-          "analyse": "Les travaux publics passent à l&#8217;électrique. Après les voitures, bus et camions, les batteries prennent de vitesse les autres carburants alternatifs pour décarboner les engins de chantier. Pour changer d&#8217;échelle, l&#8217;électrification du BTP se heurte néanmoins à la réalité du terrain. ",
-          "source": "GreenUnivers",
-          "url": "https://www.greenunivers.com/2026/09/cout-et-autonomie-freinent-lelectrification-des-chantiers-432138/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Budget 2027 : les dossiers à suivre dans l’énergie",
-          "analyse": "Parmi les grands dossiers de la rentrée, celui du budget pour 2027 est au sommet de la pile. Le gouvernement compte déposer sa première mouture de projet de loi de finances (PLF 2027) le 30 septembre devant l’Assemblée nationale. Plusieurs arbitrages concernant la transition énergétique sont attendu",
-          "source": "GreenUnivers",
-          "url": "https://www.greenunivers.com/2026/09/budget-2027-les-dossiers-a-suivre-dans-lenergie-432194/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Voltalia peine à se redresser, la Bourse sanctionne",
-          "analyse": "Cette année, Voltalia devait sortir du rouge, améliorer son&#160;Ebitda&#160;et commencer à réduire son lourd endettement. Au vu des résultats semestriels et des prévisions pour l’année, communiqués aujourd’hui, c’est raté pour la rentabilité et mal parti pour la dette, en hausse de 5%. Seuls\nL’arti",
-          "source": "GreenUnivers",
-          "url": "https://www.greenunivers.com/2026/09/voltalia-peine-a-se-redresser-la-bourse-sanctionne-432147/",
+          "url": "https://www.greenunivers.com/2026/09/au-premier-semestre-le-solaire-et-leolien-progressent-le-biogaz-freine-432339/",
           "niveau": "moyen"
         }
       ]
@@ -411,45 +327,24 @@
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "CLAIRE VERNET-GARNIER, de l’État actionnaire aux grandes manœuvres d’ORANGE",
-          "analyse": "Après près de trois années passées à l&#8217;Élysée, Claire Vernet-Garnier rejoint Orange pour diriger le Corporate Development, les fusions-acquisitions et l&#8217;intégration. À 42 ans, cette ancienne banquière d&#8217;affaires retrouve un groupe dont elle fut administratrice au nom de l&#8217;Éta",
-          "source": "FW.MEDIA",
-          "url": "https://www.frenchweb.fr/claire-vernet-garnier-de-letat-actionnaire-aux-grandes-manoeuvres-dorange/462948",
+          "titre": "Fuite DGFIP : le malentendu français qui fragilise notre cybersécurité",
+          "analyse": "La fuite massive de données subie par la DGFIP cet été met en exergue une exception française : nous avons un vrai problème avec la notion de responsabilité.",
+          "source": "JDN : Derniers contenus",
+          "url": "https://www.journaldunet.com/cybersecurite/1554347-responsabilite-le-malentendu-francais-qui-fragilise-notre-cybersecurite/",
           "niveau": "moyen"
         },
         {
-          "titre": "L’ELYSEE, VIGINUM, SANOFI, SPORE.BIO, CAILABS : les mouvements clés de la semain",
-          "analyse": "Clara Chappaz rejoint l’Élysée comme conseillère pour l’attractivité, le numérique et l’IA Clara Chappaz intègre le cabinet d’Emmanuel Macron comme Conseillère chargée de l’attractivité, du numérique et de l’intelligence artificielle. Ancienne directrice de la Mission French Tech puis Ministre délég",
-          "source": "FW.MEDIA",
-          "url": "https://www.frenchweb.fr/lelysee-viginum-sanofi-spore-bio-cailabs-les-mouvements-cles-de-la-semaine/463142",
+          "titre": "Cyber-résilience à l'ère de l'IA : pourquoi la reprise définit désormais la défe",
+          "analyse": "Face à des cyberattaques accélérées par l'IA, la résilience repose sur des données sécurisées, une détection interconnectée et une reprise rapide, testée et fiable des services les plus critiques.",
+          "source": "JDN : Derniers contenus",
+          "url": "https://www.journaldunet.com/cybersecurite/1554341-cyber-resilience-a-l-ere-de-l-ia-pourquoi-la-reprise-definit-desormais-la-defense/",
           "niveau": "moyen"
         },
         {
-          "titre": "La COREE DU SUD veut devenir l’usine des technologies de rupture",
-          "analyse": "SMR, fusion, solaire tandem, puces quantiques, satellites, biotechnologies et minerais critiques : la CORÉE DU SUD a sélectionné sept technologies qu’elle veut transformer en moteurs de croissance au cours des vingt prochaines années. Derrière cette dispersion apparente se dessine une stratégie fami",
-          "source": "FW.MEDIA",
-          "url": "https://www.frenchweb.fr/la-coree-du-sud-veut-devenir-lusine-des-technologies-de-rupture/463000",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Pérennisez votre succès avec Kaufland Global Marketplace : 5 conseils pour optim",
-          "analyse": "Dans le secteur du commerce en ligne, la hausse des coûts et la saturation des marchés requièrent désormais de nouvelles stratégies. En 2026, la réussite ne dépendra plus de l’envergure des équipes, mais du choix de la bonne plateforme. Les vendeurs qui proposeront leurs produits à de nouveaux clien",
-          "source": "FW.MEDIA",
-          "url": "https://www.frenchweb.fr/perennisez-votre-succes-avec-kaufland-global-marketplace-5-conseils-pour-optimiser-votre-strategie-de-croissance-en-ligne-en-2026/463180",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "FW DAILIES: DOCTRINE trouve acquéreur, SORARE se refinance, quelle valorisation ",
-          "analyse": "LEXISNEXIS rachète DOCTRINE pour intégrer toute la chaîne de l’IA juridique LEXISNEXIS finalise l’acquisition de DOCTRINE, pour un montant non communiqué, un peu plus d’un an après que les deux entreprises se sont affrontées devant la justice. Le nouvel ensemble représente 800 collaborateurs et envi",
-          "source": "FW.MEDIA",
-          "url": "https://www.frenchweb.fr/fw-dailies-doctrine-trouve-acquereur-sorare-se-refinance-quelle-valorisation-pour-mistral-un-nouveau-ceo-pour-aircall/463225",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Le marché des CRM en pleine mutation face aux nouvelles attentes des entreprises",
-          "analyse": "Longtemps cantonnés au suivi commercial, les CRM deviennent des plateformes de données, d’automatisation et d’intelligence artificielle. Une évolution qui élargit les usages, mais rend aussi les arbitrages plus délicats. Le CRM n’est plus seulement le carnet d’adresses des commerciaux Pour cartograp",
-          "source": "FW.MEDIA",
-          "url": "https://www.frenchweb.fr/le-marche-des-crm-en-pleine-mutation-face-aux-nouvelles-attentes-des-entreprises/463220",
+          "titre": "Un agent IA ressemble trait pour trait au compte compromis qui vient de coûter 5",
+          "analyse": "La Cnil a rendu publique une sanction de 500 000 euros à l'encontre d'un établissement de santé privé, à la suite d'une intrusion dans son dossier patient informatisé. Cette sanction illustre les risques RGPD des agents IA : accès trop larges, détection d'anomalies aveugle et incapacité à dénombrer ",
+          "source": "JDN : Derniers contenus",
+          "url": "https://www.journaldunet.com/cybersecurite/1554327-un-agent-ia-ressemble-trait-pour-trait-au-compte-qui-vient-de-couter-500-000-euros-a-un-hopital/",
           "niveau": "moyen"
         },
         {
@@ -464,6 +359,41 @@
           "analyse": "Écarter d'une négociation ceux qui en maîtrisent le contenu coûte rarement en qualité de décision. Cela coûte en appropriation, et l'équipe n'applique plus ce qu'elle n'a pas décidé.",
           "source": "JDN : Derniers contenus",
           "url": "https://www.journaldunet.com/management/direction-generale/1554405-qui-vous-invitez-autour-de-la-table-decide-si-votre-decision-sera-appliquee/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "OpenAI dévoile GPT-6 Astra, son modèle d’IA le plus puissant à ce jour",
+          "analyse": "Au fil des générations, les modèles bénéficient d&#8217;une meilleure autonomie. C&#8217;est le cas pour GPT-6 Astra dévoilé le 3 septembre. OpenAI estime qu&#8217;il s&#8217;agit de la version la plus intelligente. Il peut interagir avec votre ordinateur, résoudre des problèmes scientifiques et mêm",
+          "source": "Siècle Digital",
+          "url": "https://siecledigital.fr/2026/09/04/openai-devoile-gpt-6-astra-son-modele-dia-le-plus-puissant-a-ce-jour/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Après le piratage des impôts, l’Etat fait appel aux ingénieurs de Mistral pour r",
+          "analyse": "Après le piratage des données de près de 700 000 contribuables cet été, l’État décide de renforcer la protection de ses ministères. Pour ce faire, le gouvernement a décidé de faire appel aux ingénieurs de Mistral.  Un été marqué par des piratages en série  Les services de l’État ont dû faire face à ",
+          "source": "Siècle Digital",
+          "url": "https://siecledigital.fr/2026/09/04/apres-le-piratage-des-impots-letat-fait-appel-aux-ingenieurs-de-mistral-pour-renforcer-ses-ministeres/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "WhatsApp va vous prévenir lorsque vous oubliez d’envoyer un message",
+          "analyse": "Votre conversation peut être interrompue par un appel, une notification ou un changement d&#8217;application. Le message est alors conservé en brouillon sur WhatsApp, et vous l&#8217;oubliez. Meta souhaite limiter ce type de situation grâce à un rappel automatique pour les brouillons non envoyés. Ce",
+          "source": "Siècle Digital",
+          "url": "https://siecledigital.fr/2026/09/04/whatsapp-va-vous-prevenir-lorsque-vous-oubliez-denvoyer-un-message/",
+          "niveau": "moyen"
+        }
+      ]
+    },
+    {
+      "titre": "Thinktank",
+      "icone": "📰",
+      "niveau_global": "moyen",
+      "items": [
+        {
+          "titre": "Défense antimissile : une composante essentielle des conflits contemporains",
+          "analyse": "La défense antimissile prend une place de plus en plus conséquente dans les stratégies nationales, du Golfe à l’Ukraine ou d'Israël aux États-Unis. La France se montre réticente, privilégiant la dissuasion nucléaire, craignant l’inféodation aux État-Unis et soulignant que les systèmes antimissiles n",
+          "source": "Institut Montaigne",
+          "url": "https://www.institutmontaigne.org/expressions/defense-antimissile-une-composante-essentielle-des-conflits-contemporains",
           "niveau": "moyen"
         }
       ]
