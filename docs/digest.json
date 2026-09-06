@@ -1,8 +1,8 @@
 {
-  "date_fr": "Saturday 05 September 2026",
-  "compte_articles": 227,
+  "date_fr": "Sunday 06 September 2026",
+  "compte_articles": 154,
   "compte_forts": 0,
-  "compte_moyens": 227,
+  "compte_moyens": 154,
   "synthese_jour": "Synthese IA non disponible (fallback). Consultez les articles ci-dessous.",
   "chiffres_cles": [],
   "sections": [
@@ -12,59 +12,59 @@
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "En Italie, Giorgia Meloni célèbre près de quatre années au pouvoir malgré les cr",
-          "analyse": "Alors que la campagne pour les élections législatives de 2027 approche, la présidente du conseil, qui a prononcé un discours devant ses troupes, à Bari, vendredi, doit composer avec une économie morose et un parti encore plus à droite que le sien.",
+          "titre": "La tournée européenne de Jordan Bardella minée par les polémiques",
+          "analyse": "Les visites du président du RN au Royaume-Uni et en Italie, vendredi et samedi, destinées à soigner l’image du parti sur la scène européenne, ont viré au fiasco, achoppant sur les dossiers de l’immigration et de l’aide à l’Ukraine.",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/international/article/2026/09/05/en-italie-giorgia-meloni-celebre-pres-de-quatre-annees-au-pouvoir-malgre-les-crises-et-les-revers_6766318_3210.html",
+          "url": "https://www.lemonde.fr/politique/article/2026/09/06/la-tournee-europeenne-de-jordan-bardella-minee-par-les-polemiques_6766770_823448.html",
           "niveau": "moyen"
         },
         {
-          "titre": "EN DIRECT, guerre en Ukraine : Jared Kushner et Steve Witkoff sont arrivés à Mos",
-          "analyse": "Les deux émissaires de Donald Trump doivent s’entretenir avec Vladimir Poutine, samedi, puis se rendre à Kiev, dimanche, où ils effectueront leur première visite. Ils sont porteurs d’un plan « visant à mettre fin à la guerre », selon le président américain.",
+          "titre": "EN DIRECT, guerre en Ukraine : après Moscou samedi, les émissaires américains St",
+          "analyse": "Les deux hommes doivent s’entretenir avec le président ukrainien, Volodymyr Zelensky, après des pourparlers à Moscou avec Vladimir Poutine.",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/international/live/2026/09/05/en-direct-guerre-en-ukraine-volodymyr-zelensky-denonce-des-frappes-russes-sur-les-aeroports-de-kiev-et-de-boryspil-avant-la-visite-de-jared-kushner-et-de-steve-witkoff_6760568_3210.html",
+          "url": "https://www.lemonde.fr/international/live/2026/09/06/en-direct-guerre-en-ukraine-les-emissaires-americains-steve-witkoff-et-jared-kushner-attendus-a-kiev-apres-apres-avoir-rencontre-vladimir-poutine-samedi-a-moscou_6766818_3210.html",
           "niveau": "moyen"
         },
         {
-          "titre": "Piratage du site des impôts : l’ombre de « ChatNoir », un jeune homme de 18 ans ",
-          "analyse": "Un suspect a été mis en examen le 20 août et placé en détention provisoire dans l’enquête sur les attaques informatiques ayant visé la direction générale des finances publiques. Il est déjà poursuivi dans plusieurs affaires retentissantes de piratage et de vol de données.",
+          "titre": "En France, la faune sauvage a durement souffert des canicules et de la sécheress",
+          "analyse": "La multiplication des épisodes climatiques extrêmes oblige les animaux sauvages à déployer toutes leurs capacités d’adaptation, pas toujours suffisantes pour survivre. Cet été, de nombreuses personnes ont d’elles-mêmes décidé de leur venir en aide, pour pallier la saturation des refuges et des centr",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/societe/article/2026/09/04/piratage-du-site-des-impots-l-ombre-de-chatnoir-pirate-juvenile-multi-mis-en-examen_6765819_3224.html",
+          "url": "https://www.lemonde.fr/planete/article/2026/09/06/en-france-la-faune-sauvage-a-durement-souffert-des-canicules-et-de-la-secheresse-toute-la-chaine-alimentaire-est-perturbee_6766771_3244.html",
           "niveau": "moyen"
         },
         {
-          "titre": "Dominique Méda, sociologue : « Pour réussir la transition écologique, nous devon",
-          "analyse": "Face au dérèglement climatique et à ses conséquences, les dirigeants politiques ne peuvent plus tergiverser et doivent adopter les voies et moyens pour changer de modèle économique. Cela tombe bien, car des solutions existent, estime, dans sa chronique, la chercheuse.",
+          "titre": "En Australie-Occidentale, le gouvernement prépare l’avenir après la fermeture an",
+          "analyse": "La cité minière de Collie, où sont situées trois centrales thermiques, ambitionne d’être un modèle à une transition énergétique et économique réussie.",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/idees/article/2026/09/05/dominique-meda-sociologue-pour-reussir-la-transition-ecologique-nous-devons-conditionner-les-aides-publiques-a-la-reduction-des-couts-sociaux_6766320_3232.html",
+          "url": "https://www.lemonde.fr/economie/article/2026/09/06/en-australie-occidentale-le-gouvernement-prepare-l-avenir-apres-la-fermeture-annoncee-des-centrales-a-charbon-publiques_6766772_3234.html",
           "niveau": "moyen"
         },
         {
-          "titre": "« Je ne vais pas rester assise à regarder des émissions à la télé » : les habita",
-          "analyse": "​Après un été marqué par des canicules à répétition, la chaleur a joué les prolongations vendredi à Toulouse, où Météo-France a relevé 37,2 °C, un record pour la ville en septembre.",
+          "titre": "Antoine Volodine : « Il faut savoir se retirer, plutôt qu’attendre que la Fauche",
+          "analyse": "L'écrivain expose quelques clés de lecture de l’univers romanesque dont les onze titres de « Retour au goudron » sont la coda.",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/planete/article/2026/09/05/je-ne-vais-pas-rester-assise-a-regarder-des-emissions-a-la-tele-les-habitants-s-accommodent-du-nouveau-pic-de-chaleur-a-toulouse_6766310_3244.html",
+          "url": "https://www.lemonde.fr/livres/article/2026/09/06/antoine-volodine-il-faut-savoir-se-retirer-plutot-qu-attendre-que-la-faucheuse-se-charge-de-porter-le-coup-fatal_6767025_3260.html",
           "niveau": "moyen"
         },
         {
-          "titre": "Les IA secrétaires de réunion : « Nicolas a suggéré d’ajouter du laxatif dans le",
-          "analyse": "Dans sa chronique, Guillemette Faure met en lumière les transformations invisibles de notre époque. Cette semaine, les comptes rendus de réunion rédigés sans filtre par l’intelligence artificielle.",
+          "titre": "Incendie en vallée d’Aspe, dans les Pyrénées-Atlantiques : 105 hectares brûlés, ",
+          "analyse": "L’incendie qui touche depuis mercredi la vallée d’Aspe, dans les Pyrénées-Atlantiques, a parcouru 105 hectares. Le feu n’a pas progressé dans la nuit de samedi à dimanche mais reste en cours, selon la préfecture.",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/m-le-mag/article/2026/09/05/les-ia-secretaires-de-reunion-nicolas-a-suggere-d-ajouter-du-laxatif-dans-le-cafe-de-l-expert-comptable_6766315_4500055.html",
+          "url": "https://www.lemonde.fr/planete/article/2026/09/06/incendie-en-vallee-d-aspe-dans-les-pyrenees-atlantiques-105-hectares-brules-le-feu-toujours-actif_6767262_3244.html",
           "niveau": "moyen"
         },
         {
-          "titre": "Anne-Cécile Mailfert, présidente de la Fondation des femmes : « Pour la première",
-          "analyse": "Dans un entretien au « Monde », celle qui a participé à la réflexion sur cette proposition de loi détaille sa genèse, son contenu ainsi que son arrivée à l’agenda parlementaire dans le sillage de l’affaire Lyhanna. Elle sera présente le samedi 19 septembre dans le cadre d’une rencontre sur ce même s",
+          "titre": "Quatre morts au Liban dans des bombardements israéliens, malgré la trêve",
+          "analyse": "Alors que les négociations entre responsables libanais et israéliens peinent à avancer, les civils du Liban sud paient un lourd tribut aux affrontements persistants.",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/festival/article/2026/09/05/anne-cecile-mailfert-presidente-de-la-fondation-des-femmes-pour-la-premiere-fois-peut-etre-une-loi-contre-les-violences-sexistes-et-sexuelles-part-du-point-de-vue-des-victimes_6766309_4415198.html",
+          "url": "https://www.lemonde.fr/guerre-au-proche-orient/article/2026/09/06/quatre-morts-au-liban-dans-des-bombardements-israeliens-malgre-la-treve_6767226_6325529.html",
           "niveau": "moyen"
         },
         {
-          "titre": "Cisjordanie occupée : l’ambassadeur américain appelle à sanctionner les auteurs ",
-          "analyse": "En visite en Cisjordanie occupée, Mike Huckabee a par ailleurs assuré qu’il n’existait « aucun plan » israélien visant à expulser de force les Palestiniens de la bande de Gaza.",
+          "titre": "Au Kenya, l’alcool contrefait envahit le marché et devient une menace sanitaire",
+          "analyse": "Un rapport publié en mai 2025 estime que l’alcool illicite représente 60 % du marché kényan en volume, soit une hausse de 27 % depuis 2022. Des cas d’intoxication sont régulièrement rapportés.",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/guerre-au-proche-orient/article/2026/09/05/cisjordanie-occupee-l-ambassadeur-americain-appelle-a-sanctionner-les-auteurs-de-violences_6766328_6325529.html",
+          "url": "https://www.lemonde.fr/afrique/article/2026/09/06/au-kenya-l-alcool-contrefait-envahit-le-marche-et-devient-une-menace-sanitaire_6767023_3212.html",
           "niveau": "moyen"
         }
       ]
@@ -75,31 +75,17 @@
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "The jobs apocalypse is postponed. An AI jobs boom is here",
-          "analyse": "Initial effects of the technology on employment look positive",
-          "source": "Finance & economics",
-          "url": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "VW’s surprise job-slashing deal is a big win for its bosses",
-          "analyse": "And a blow to Germany’s co-operative model of industrial relations",
-          "source": "Business",
-          "url": "https://www.economist.com/business/2026/09/04/vws-surprise-job-slashing-deal-is-a-big-win-for-its-bosses",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "How Oura’s rings found their way onto millions of fingers",
-          "analyse": "Its business is booming as consumers look to take charge of their health",
-          "source": "Business",
-          "url": "https://www.economist.com/business/2026/09/04/how-ouras-rings-found-their-way-onto-millions-of-fingers",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Micron is doubling down on AI memory chips. That could pay off big time for inve",
-          "analyse": "Micron is reportedly increasing production capacity of a more profitable memory offering that’s in high demand due to AI.",
+          "titre": "‘Poverty doesn’t have to be my reality’: I thought I’d have to rely on Social Se",
+          "analyse": "“It always baffled me how some people managed to retire with significant wealth.”",
           "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/micron-is-doubling-down-on-ai-memory-chips-that-could-pay-off-big-time-for-investors-da9e7f5e?mod=mw_rss_topstories",
+          "url": "https://www.marketwatch.com/story/i-didnt-know-what-i-didnt-know-i-thought-id-have-to-depend-on-social-security-then-i-taught-myself-how-to-invest-0129870b?mod=mw_rss_topstories",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Think you maxed out your 401(k)? The real limit is actually almost $50,000 highe",
+          "analyse": "You can unlock greater retirement wealth by reading this document that nearly everyone ignores.",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/think-you-maxed-out-your-401-k-the-real-limit-is-actually-almost-50-000-higher-217a89ee?mod=mw_rss_topstories",
           "niveau": "moyen"
         },
         {
@@ -110,17 +96,24 @@
           "niveau": "moyen"
         },
         {
-          "titre": "Here’s what’s worth streaming in September 2026 on Netflix, Hulu, HBO Max and mo",
-          "analyse": "Prices are rising again, but a slew of fan-favorite shows — including Apple’s ‘Slow Horses,’ Netflix’s ‘The Gentlemen’ and Paramount’s ‘MobLand’ — are returning for new seasons",
+          "titre": "Why the jobs report will actually be good for bonds",
+          "analyse": "Based on the chatter on Wall Street, you’d think labor has never had it so good. Sadly for working Americans, this isn’t actually the case.",
           "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/heres-whats-worth-streaming-in-september-2026-on-netflix-hulu-hbo-max-and-more-a702e7dd?mod=mw_rss_topstories",
+          "url": "https://www.marketwatch.com/story/why-the-jobs-report-will-actually-be-good-for-bonds-eb062fda?mod=mw_rss_topstories",
           "niveau": "moyen"
         },
         {
-          "titre": "Why Oracle’s stock looks like a compelling buy ahead of earnings",
-          "analyse": "While there are long-term debates around Oracle’s stock, analysts say the company looks poised to benefit from upbeat pricing trends and more when it reports results next week.",
+          "titre": "7% mortgage rates are already here, some buyers and mortgage experts say",
+          "analyse": "Mortgage rates ticked up to a new high for the year, delivering more bad news for home buyers.",
           "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/why-oracles-stock-looks-like-a-compelling-buy-ahead-of-earnings-12a04d7b?mod=mw_rss_topstories",
+          "url": "https://www.marketwatch.com/story/7-mortgage-rates-are-already-here-some-buyers-mortgage-experts-say-c51a7e04?mod=mw_rss_topstories",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Maybe the snowbirds are right? One state dominates this list of best places to r",
+          "analyse": "Access to healthcare, recreation, and low taxes lure retirees, new research says",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/maybe-the-snowbirds-are-right-one-state-dominates-this-list-of-best-places-to-retire-ab506160?mod=mw_rss_topstories",
           "niveau": "moyen"
         },
         {
@@ -128,6 +121,13 @@
           "analyse": "Retirement savings hovered at record highs in the second quarter, pushing the number of 401(k) millionaires to a record as investors focused on their long-term goals despite persistent anxiety about the broader economy, Fidelity Investments said Thursday.",
           "source": "MarketWatch.com - Top Stories",
           "url": "https://www.marketwatch.com/story/theres-a-new-record-number-of-401-k-millionaires-as-retirement-savings-hold-at-all-time-highs-94f2c520?mod=mw_rss_topstories",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "‘I currently give him $1,000 a month’: My grandson has severe mental illness. Ho",
+          "analyse": "“I’m desperately trying to plan ahead while I’m still able.”",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/im-desperately-trying-to-plan-ahead-im-leaving-everything-to-my-grandson-who-has-severe-mental-illness-how-can-i-protect-him-d8df2646?mod=mw_rss_topstories",
           "niveau": "moyen"
         }
       ]
@@ -138,45 +138,10 @@
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "Cap Foncières&Territoires : Que révèlent les expertises au 30/06/26 ?",
-          "analyse": "SCPI Cap Foncières & Territoires : valeur stable, décote au prix de part et stratégie de gestion. Découvrez ce que révèlent les expertises 2026 et comment",
-          "source": "MeilleureSCPI.com",
-          "url": "https://www.meilleurescpi.com/actualites/cap-foncieres-territoires-quels-resultats-pour-les-expertises-au-30-06/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "SCPI Sofidy : Revue des valeurs de reconstitution à mi-année 2026",
-          "analyse": "Baisse ciblée d’Efimmo 1, stabilité des autres SCPI Sofidy : que révèlent les valeurs de reconstitution 2026 ? Analyse chiffrée et pistes pour investir.",
-          "source": "MeilleureSCPI.com",
-          "url": "https://www.meilleurescpi.com/actualites/scpi-sofidy-revue-des-valeurs-de-reconstitution-a-mi-annee/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "SCPI Iroko : Trois évolutions à retenir à la rentrée",
-          "analyse": "SCPI Iroko : que changent la hausse du prix de part, les nouvelles clés de démembrement et les frais de sortie à 6 ans ? Faites le point avant d’investir.",
-          "source": "MeilleureSCPI.com",
-          "url": "https://www.meilleurescpi.com/actualites/scpi-iroko-trois-evolutions-a-retenir-a-la-rentree/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "La SCPI Esprit Horizon obtient le label ISR un an après son lancement",
-          "analyse": "La SCPI Esprit Horizon labellisée ISR un an après son lancement : que garantit vraiment ce label pour votre investissement immobilier ?",
-          "source": "MeilleureSCPI.com",
-          "url": "https://www.meilleurescpi.com/actualites/la-scpi-esprit-horizon-obtient-le-label-isr-un-an-apres-son-lancement/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "SCPI Eurovalys : Cession d’un actif de bureaux à Brême",
-          "analyse": "Comment Eurovalys a transformé puis vendu un immeuble de bureaux à Brême avec plus-value et bail long terme ? Analyse de l’opération et de ses enjeux.",
-          "source": "MeilleureSCPI.com",
-          "url": "https://www.meilleurescpi.com/actualites/la-scpi-eurovalys-cede-un-actif-de-bureaux-en-allemagne/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Immobilier : Les data centers, une bulle ? « Exactement l’inverse », répond le p",
-          "analyse": "Face aux doutes sur les valorisations de l'IA, Jon Gray, président de Blackstone, défend les data centers : la demande est réelle, ce sont les infrastructures, l'énergie et les permis qui manquent.\nCet article Immobilier : Les data centers, une bulle ? « Exactement l&rsquo;inverse », répond le patro",
+          "titre": "A vendre en Corse : Magnifique villa dans un esprit bergerie",
+          "analyse": "Cette jolie villa contemporaine d’environ 270 m² de plain-pied inspirée des bergeries corses est proposée à la vente par Barnes.\nCet article A vendre en Corse : Magnifique villa dans un esprit bergerie est apparu en premier sur MySweetimmo.",
           "source": "MySweetimmo",
-          "url": "https://www.mysweetimmo.com/2026/09/05/immobilier-les-data-centers-une-bulle-exactement-linverse-repond-le-patron-de-blackstone/",
+          "url": "https://www.mysweetimmo.com/2026/09/05/immobilier-corse-villa-esprit-bergerie-avec-piscine/",
           "niveau": "moyen"
         }
       ]
@@ -187,59 +152,59 @@
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "Le clafoutis aux mirabelles de François-Régis Gaudry",
-          "analyse": "La saison des mirabelles est courte mais il est encore temps d&#039;en profiter en réalisant un délicieux clafoutis. Avec la recette du célèbre chroniqueur cuisine!",
+          "titre": "Fonds d'indemnisation des victimes de pesticides: plus de 1.000 demandes en 2025",
+          "analyse": "Le fonds d&#039;indemnisation des victimes de pesticides (FIVP) a reçu plus de 1.000 demandes en 2025, une première, selon son rapport annuel, qui souligne qu&#039;il a dû de manière inédite piocher dans ses ré...",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/vie-pratique/cuisine/le-clafoutis-aux-mirabelles-de-francois-regis-gaudry-137903",
+          "url": "https://www.notretemps.com/depeches/fonds-d-indemnisation-des-victimes-de-pesticides-plus-de-1000-demandes-en-2025-une-premiere-138004",
           "niveau": "moyen"
         },
         {
-          "titre": "Violences sexistes et sexuelles : la loi intégrale arrive en commission à l'Asse",
-          "analyse": "Après l&#039;affaire Lyhanna, une collégienne de 11 ans retrouvée en juin morte et violée, une proposition de loi \"intégrale\" très attendue contre les violences sexistes et sexuelles entame lundi son parco...",
+          "titre": "Fonds d'indemnisation des victimes de pesticides: plus de 1.000 demandes en 2025",
+          "analyse": "Le fonds d&#039;indemnisation des victimes de pesticides (FIVP) a reçu plus de 1.000 demandes en 2025, une première, selon son rapport annuel, qui souligne qu&#039;il a dû de manière inédite pioch...",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/depeches/violences-sexistes-et-sexuelles-la-loi-integrale-arrive-en-commission-a-l-assemblee-137985",
+          "url": "https://www.notretemps.com/depeches/fonds-d-indemnisation-des-victimes-de-pesticides-plus-de-1000-demandes-en-2025-une-premiere-138003",
           "niveau": "moyen"
         },
         {
-          "titre": "Budget : pour les syndicats, le pouvoir d'achat au cœur des enjeux",
-          "analyse": "Trouver des économies, mais pas sur le dos de ceux qui travaillent : à l&#039;approche de la présentation du budget 2027, les syndicats avancent leurs positions, plaçant le pouvoir d&#039;achat et le modèle soc...",
+          "titre": "Fonds d'indemnisation des victimes de pesticides: plus de 1.000 demandes en 2025",
+          "analyse": "Le fonds d&#039;indemnisation des victimes de pesticides (FIVP) a reçu plus de 1.000 demandes en 2025, une première, selon son rapport annuel, qui souligne qu&#039;il a dû de manière inédite pioch...",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/depeches/budget-pour-les-syndicats-le-pouvoir-d-achat-au-coeur-des-enjeux-137984",
+          "url": "https://www.notretemps.com/depeches/fonds-d-indemnisation-des-victimes-de-pesticides-plus-de-1000-demandes-en-2025-une-premiere-138002",
           "niveau": "moyen"
         },
         {
-          "titre": "En révisant la Constitution par référendum, le RN au pouvoir ouvrirait une crise",
-          "analyse": "Jordan Bardella l&#039;a réaffirmé cette semaine: élue présidente, Marine Le Pen convoquerait d&#039;emblée un référendum pour réviser largement la Constitution afin de mettre en place la préférence nationale e...",
+          "titre": "Coup de tocsin des pompiers appelés à la mobilisation pour obtenir des moyens",
+          "analyse": "Comme un coup de tocsin après des feux estivaux d&#039;une ampleur inédite et sur fond d&#039;explosions des interventions du quotidien, les syndicats de pompiers professionnels appellent à partir de mardi à un...",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/depeches/en-revisant-la-constitution-par-referendum-le-rn-au-pouvoir-ouvrirait-une-crise-majeure-137982",
+          "url": "https://www.notretemps.com/depeches/coup-de-tocsin-des-pompiers-appeles-a-la-mobilisation-pour-obtenir-des-moyens-137998",
           "niveau": "moyen"
         },
         {
-          "titre": "Quiz culture générale: vos neurones sont-elles prêtes à relever le challenge?",
-          "analyse": "L&#039;heure de la rentrée a sonné, il est temps de réviser vos connaissances. Grammaire, arts, actualité… Répondez à ces 10 questions pour vous tester.",
+          "titre": "En Guadeloupe, la sécheresse met en péril la future récolte de canne à sucre",
+          "analyse": "Après une récolte 2026 catastrophique, les planteurs de cannes à sucre n&#039;ont toujours pas pu replanter en vue de la saison prochaine. La raison: une sécheresse sévère qui s&#039;abat depuis plusieurs mois...",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/loisirs/langue-francaise/quiz-culture-generale-vos-neurones-sont-elles-pretes-a-relever-le-challenge-137846",
+          "url": "https://www.notretemps.com/depeches/en-guadeloupe-la-secheresse-met-en-peril-la-future-recolte-de-canne-a-sucre-138001",
           "niveau": "moyen"
         },
         {
-          "titre": "Les librairies indépendantes de grande couronne à la peine face à Amazon et Pari",
-          "analyse": "Concurrence du commerce en ligne, hausse des charges et clientèle moins fidèle... En grande couronne de Paris, les librairies indépendantes accusent le coup. Et à l&#039;heure de la retraite, certains prof...",
+          "titre": "Un enfant de 2 ans tué et sept personnes blessées par l'explosion d'un pavillon ",
+          "analyse": "Un enfant de deux ans est décédé et sept personnes ont été blessées, dont deux grièvement, dans une fuite de gaz qui a entraîné \"l&#039;explosion\" samedi soir d&#039;un pavillon à Aubervilliers, ont indiqué dim...",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/depeches/les-librairies-independantes-de-grande-couronne-a-la-peine-face-a-amazon-et-paris-137981",
+          "url": "https://www.notretemps.com/depeches/un-enfant-de-2-ans-tue-et-sept-personnes-blessees-par-l-explosion-d-un-pavillon-a-aubervilliers-138000",
           "niveau": "moyen"
         },
         {
-          "titre": "Canicules, orages, incendies : l'été bousculé des festivals de musique, qui redo",
-          "analyse": "Festivals annulés, éditions raccourcies et équipes qui naviguent à vue : après un été caniculaire, les organisateurs de concerts demandent un protocole national pour construire leurs prochaines éditio...",
+          "titre": "Éducation: cinq choses à savoir sur l'enquête Pisa",
+          "analyse": "La très attendue enquête Pisa, que l&#039;Organisation de coopération et de développement économiques (OCDE) publie mardi, évalue tous les trois ans les compétences des élèves de 15 ans dans une centaine d...",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/depeches/canicules-orages-incendies-l-ete-bouscule-des-festivals-de-musique-qui-redoutent-la-suite-137980",
+          "url": "https://www.notretemps.com/depeches/education-cinq-choses-a-savoir-sur-l-enquete-pisa-137999",
           "niveau": "moyen"
         },
         {
-          "titre": "Les vautours, nouvelle crainte des éleveurs basques et béarnais",
-          "analyse": "Des dizaines de vautours fauves qui s&#039;envolent, laissant derrière eux la dépouille d&#039;un veau : pour une éleveuse du Pays basque, l&#039;épisode vécu dans son exploitation au printemps est le signe d&#039;une no...",
+          "titre": "Près de Paris, l'inauguration d'un temple comme emblème de l'hindouisme en Franc",
+          "analyse": "Des milliers d&#039;hindous célèbrent, dimanche, près de Paris la consécration du premier temple majeur bâti en France par l&#039;organisation BAPS, qui le promeut comme \"un emblème de la culture indienne et de...",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/depeches/les-vautours-nouvelle-crainte-des-eleveurs-basques-et-bearnais-137979",
+          "url": "https://www.notretemps.com/depeches/pres-de-paris-l-inauguration-d-un-temple-comme-embleme-de-l-hindouisme-en-france-137997",
           "niveau": "moyen"
         }
       ]
@@ -250,150 +215,17 @@
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "Winston Taylor conseille ODDO BHF European MidCap Buyout : participation majorit",
-          "analyse": "ODDO BHF European MidCap Buyout (ex- « Strategic Opportunities ») a finalisé l&rsquo;acquisition d’une participation majoritaire dans SEEmed, leader français dans la distribution de matériels destinés aux centres de radiothérapie et de radiodiagnostic.\nWinston Taylor a conseillé ODDO BHF European Mi",
-          "source": "Finyear",
-          "url": "https://finyear.com/winston-taylor-conseille-oddo-bhf-european-midcap-buyout-participation-majoritaire-dans-seemed/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Iris, Ardabelle Capital, Revaia… les nominations de la semaine",
-          "analyse": "Iris a annoncé trois recrutements pour accompagner sa croissance en Europe: VIKTOR STOLL (Stockholm School of Economics, WHU) comme investment manager au sein de l’équipe growth à Munich",
-          "source": "PE Magazine",
-          "url": "https://www.pemagazine.fr/iris-ardabelle-capital-revaia-les-nominations-de-la-semaine/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "S&P 500 : ce qu’il faut savoir avant d’investir",
-          "analyse": "Comprendre ce qu&#8217;est le S&#38;P 500, ce qu&#8217;il contient et comment il se calcule, puis décider s&#8217;il a sa place dans votre portefeuille et à quel prix selon l&#8217;enveloppe. Le S&#38;P 500, en clair. Un indice boursier est un chiffre unique qui résume l&#8217;évolution d&#8217;un p",
+          "titre": "Dow Jones : pourquoi son calcul change tout",
+          "analyse": "Comprendre pourquoi le Dow Jones se calcule autrement que les autres indices, ce que cela change pour un investisseur, et décider s&#8217;il mérite une place dans votre portefeuille. Trois ETF y donnent accès, à des coûts très différents. Trente actions choisies par un comité, depuis 1896. Le Dow Jo",
           "source": "Epargnant 3.0",
-          "url": "https://www.epargnant30.fr/sp-500/",
-          "niveau": "moyen"
-        }
-      ]
-    },
-    {
-      "titre": "Reglementation",
-      "icone": "📋",
-      "niveau_global": "moyen",
-      "items": [
-        {
-          "titre": "Mort de Frederico Martín Aramburú : retour sur les faits qui seront jugés à part",
-          "analyse": "Le proc&#232;s de Loik Le Priol, accus&#233; de l&#8217;assassinat du rugbyman Frederico Mart&#237;n Arambur&#250; le 19 mars 2022, boulevard Saint-Germain, et de Romain Bouvier et Lyson Rochemir, poursuivis pour tentative et complicit&#233;, s&#8217;ouvre ce lundi devant la cour d&#8217;assises de ",
-          "source": "Actu-Juridique",
-          "url": "https://www.actu-juridique.fr/penal/mort-de-frederico-martin-aramburu-retour-sur-les-faits-qui-seront-juges-a-partir-de-lundi-aux-assises-de-paris/",
-          "niveau": "moyen"
-        }
-      ]
-    },
-    {
-      "titre": "ESG",
-      "icone": "🌱",
-      "niveau_global": "moyen",
-      "items": [
-        {
-          "titre": "Le Cercle de Giverny veut installer un \"chief resilience officer\" dans les entre",
-          "analyse": "Vers un chief resilience officer dans les entreprises critiques - Photo de Towfiqu barbhuiyasur Unsplash\nChaleurs record, sécheresses à répétition, tensions sur l'eau : l'été 2026 a rappelé aux entreprises françaises leur exposition croissante aux risques climatiques. Ce n'est donc pas un hasard si ",
-          "source": "Novethic",
-          "url": "https://www.novethic.fr/economie-et-social/transformation-de-leconomie/chief-resilience-officer-proposition-forum-giverny-2026",
+          "url": "https://www.epargnant30.fr/dow-jones-industrial-average-djia/",
           "niveau": "moyen"
         },
         {
-          "titre": "Les salariés des EnR préparent une manifestation lors du colloque du Ser",
-          "analyse": "Exclusif — Ils remettent le couvert. Les Comités sociaux et économiques (CSE) qui avaient organisé en février dernier deux manifestations à Paris et Montpellier pour soutenir les employés de l&#8217;électricité renouvelable ont acté en début de semaine le principe d’une nouvelle manifestation.&#160;",
-          "source": "GreenUnivers",
-          "url": "https://www.greenunivers.com/2026/09/les-salaries-des-enr-preparent-une-manifestation-lors-du-colloque-du-ser-432277/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Réseaux, décarbonation et souveraineté dans les débats à Giverny",
-          "analyse": "« Le principal risque auquel le réseau électrique est exposé est le changement climatique », a indiqué Emilie Piette, présidente du directoire de RTE, lors d’une\nL’article Réseaux, décarbonation et souveraineté dans les débats à Giverny est apparu en premier sur GreenUnivers.",
-          "source": "GreenUnivers",
-          "url": "https://www.greenunivers.com/2026/09/reseaux-decarbonation-et-souverainete-dans-les-debats-a-giverny-432355/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Au premier semestre, le solaire et l’éolien progressent, le biogaz freine",
-          "analyse": "Le solaire photovoltaïque continue sa progression rapide dans l’Hexagone, avec 3 GW connectés au réseau au premier semestre, d’après les derniers chiffres du ministère de la transition écologique. C’est même\nL’article Au premier semestre, le solaire et l&rsquo;éolien progressent, le biogaz freine es",
-          "source": "GreenUnivers",
-          "url": "https://www.greenunivers.com/2026/09/au-premier-semestre-le-solaire-et-leolien-progressent-le-biogaz-freine-432339/",
-          "niveau": "moyen"
-        }
-      ]
-    },
-    {
-      "titre": "Fintech",
-      "icone": "📰",
-      "niveau_global": "moyen",
-      "items": [
-        {
-          "titre": "Fuite DGFIP : le malentendu français qui fragilise notre cybersécurité",
-          "analyse": "La fuite massive de données subie par la DGFIP cet été met en exergue une exception française : nous avons un vrai problème avec la notion de responsabilité.",
-          "source": "JDN : Derniers contenus",
-          "url": "https://www.journaldunet.com/cybersecurite/1554347-responsabilite-le-malentendu-francais-qui-fragilise-notre-cybersecurite/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Cyber-résilience à l'ère de l'IA : pourquoi la reprise définit désormais la défe",
-          "analyse": "Face à des cyberattaques accélérées par l'IA, la résilience repose sur des données sécurisées, une détection interconnectée et une reprise rapide, testée et fiable des services les plus critiques.",
-          "source": "JDN : Derniers contenus",
-          "url": "https://www.journaldunet.com/cybersecurite/1554341-cyber-resilience-a-l-ere-de-l-ia-pourquoi-la-reprise-definit-desormais-la-defense/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Un agent IA ressemble trait pour trait au compte compromis qui vient de coûter 5",
-          "analyse": "La Cnil a rendu publique une sanction de 500 000 euros à l'encontre d'un établissement de santé privé, à la suite d'une intrusion dans son dossier patient informatisé. Cette sanction illustre les risques RGPD des agents IA : accès trop larges, détection d'anomalies aveugle et incapacité à dénombrer ",
-          "source": "JDN : Derniers contenus",
-          "url": "https://www.journaldunet.com/cybersecurite/1554327-un-agent-ia-ressemble-trait-pour-trait-au-compte-qui-vient-de-couter-500-000-euros-a-un-hopital/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Vous partez chez un concurrent avec des fichiers clients ? La Cour de cassation ",
-          "analyse": "Vous quittez votre employeur pour un concurrent ? Attention : emporter fichiers clients, devis ou CRM peut désormais exposer le salarié… mais aussi son nouvel employeur.",
-          "source": "JDN : Derniers contenus",
-          "url": "https://www.journaldunet.com/management/emploi-cadres/1554411-vous-partez-chez-un-concurrent-avec-des-fichiers-clients-la-cour-de-cassation-vous-met-directement-a-risque/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Qui vous invitez autour de la table décide si votre décision sera appliquée",
-          "analyse": "Écarter d'une négociation ceux qui en maîtrisent le contenu coûte rarement en qualité de décision. Cela coûte en appropriation, et l'équipe n'applique plus ce qu'elle n'a pas décidé.",
-          "source": "JDN : Derniers contenus",
-          "url": "https://www.journaldunet.com/management/direction-generale/1554405-qui-vous-invitez-autour-de-la-table-decide-si-votre-decision-sera-appliquee/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "OpenAI dévoile GPT-6 Astra, son modèle d’IA le plus puissant à ce jour",
-          "analyse": "Au fil des générations, les modèles bénéficient d&#8217;une meilleure autonomie. C&#8217;est le cas pour GPT-6 Astra dévoilé le 3 septembre. OpenAI estime qu&#8217;il s&#8217;agit de la version la plus intelligente. Il peut interagir avec votre ordinateur, résoudre des problèmes scientifiques et mêm",
-          "source": "Siècle Digital",
-          "url": "https://siecledigital.fr/2026/09/04/openai-devoile-gpt-6-astra-son-modele-dia-le-plus-puissant-a-ce-jour/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Après le piratage des impôts, l’Etat fait appel aux ingénieurs de Mistral pour r",
-          "analyse": "Après le piratage des données de près de 700 000 contribuables cet été, l’État décide de renforcer la protection de ses ministères. Pour ce faire, le gouvernement a décidé de faire appel aux ingénieurs de Mistral.  Un été marqué par des piratages en série  Les services de l’État ont dû faire face à ",
-          "source": "Siècle Digital",
-          "url": "https://siecledigital.fr/2026/09/04/apres-le-piratage-des-impots-letat-fait-appel-aux-ingenieurs-de-mistral-pour-renforcer-ses-ministeres/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "WhatsApp va vous prévenir lorsque vous oubliez d’envoyer un message",
-          "analyse": "Votre conversation peut être interrompue par un appel, une notification ou un changement d&#8217;application. Le message est alors conservé en brouillon sur WhatsApp, et vous l&#8217;oubliez. Meta souhaite limiter ce type de situation grâce à un rappel automatique pour les brouillons non envoyés. Ce",
-          "source": "Siècle Digital",
-          "url": "https://siecledigital.fr/2026/09/04/whatsapp-va-vous-prevenir-lorsque-vous-oubliez-denvoyer-un-message/",
-          "niveau": "moyen"
-        }
-      ]
-    },
-    {
-      "titre": "Thinktank",
-      "icone": "📰",
-      "niveau_global": "moyen",
-      "items": [
-        {
-          "titre": "Défense antimissile : une composante essentielle des conflits contemporains",
-          "analyse": "La défense antimissile prend une place de plus en plus conséquente dans les stratégies nationales, du Golfe à l’Ukraine ou d'Israël aux États-Unis. La France se montre réticente, privilégiant la dissuasion nucléaire, craignant l’inféodation aux État-Unis et soulignant que les systèmes antimissiles n",
-          "source": "Institut Montaigne",
-          "url": "https://www.institutmontaigne.org/expressions/defense-antimissile-une-composante-essentielle-des-conflits-contemporains",
+          "titre": "ETF Vanguard : que valent-ils, et lesquels pouvez-vous vraiment acheter ?",
+          "analyse": "Savoir quels ETF Vanguard sont réellement accessibles depuis la France, dans quelle enveloppe, et à quel coût total. Vous verrez aussi pourquoi le TER affiché est rarement ce que vous payez. Vanguard, géant mondial et outsider européen. John Bogle fonde Vanguard en 1975 avec une idée que personne n&",
+          "source": "Epargnant 3.0",
+          "url": "https://www.epargnant30.fr/etf-vanguard/",
           "niveau": "moyen"
         }
       ]
