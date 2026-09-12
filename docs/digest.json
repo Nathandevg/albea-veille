@@ -1,8 +1,8 @@
 {
-  "date_fr": "Friday 11 September 2026",
-  "compte_articles": 250,
+  "date_fr": "Saturday 12 September 2026",
+  "compte_articles": 222,
   "compte_forts": 0,
-  "compte_moyens": 250,
+  "compte_moyens": 222,
   "synthese_jour": "Synthese IA non disponible (fallback). Consultez les articles ci-dessous.",
   "chiffres_cles": [],
   "sections": [
@@ -12,59 +12,59 @@
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "VIDEO - 11 septembre 2001 : le récit minute par minute des attentats les plus me",
-          "analyse": "Il y a tout juste vingt-cinq ans, en moins d’une heure et demie, quatre avions s’écrasaient à New York, à Washington et à Shanksville (Pennsylvanie), causant la mort de 2 977 personnes. Récit d’une journée qui a traumatisé les Etats-Unis.",
+          "titre": "Comment l’IA a suscité un vent de panique cet été, dans le sillage du piratage d",
+          "analyse": "Plusieurs événements au cours desquels des intelligences artificielles ont échappé à leurs concepteurs ont provoqué des craintes sur les capacités des IA en matière de cybersécurité. Une inquiétude pas entièrement justifiée.",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/international/video/2026/09/11/11-septembre-2001-le-recit-minute-par-minute-des-attentats-les-plus-meurtriers-de-l-histoire_6770324_3210.html",
+          "url": "https://www.lemonde.fr/pixels/article/2026/09/12/comment-l-ia-a-suscite-un-vent-de-panique-cet-ete-dans-le-sillage-du-piratage-de-hugging-face_6770981_4408996.html",
           "niveau": "moyen"
         },
         {
-          "titre": "Pour 2027, le gouvernement de Sébastien Lecornu veut croire à un léger réveil de",
-          "analyse": "Dans son budget 2027, le premier ministre table sur une croissance de 1 % hors inflation, selon les annonces faites par Bercy, vendredi 11 septembre. Les derniers arbitrages sur le contenu du projet seront arrêtés jeudi. Les économistes ne croient plus à une baisse du déficit.",
+          "titre": "L’Arabie saoudite ferme le pipeline qui lui sert à contourner le détroit d’Ormuz",
+          "analyse": "Alors que houthistes yéménites contrôlent l’accès à la mer Rouge, l’oléoduc Est-Ouest, seule alternative terrestre au détroit d’Ormuz, a été visé le 10 septembre. Les deux principales voies d’exportation du royaume saoudien sont désormais menacées par les attaques de l’axe pro-iranien.",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/09/11/pour-2027-le-gouvernement-de-sebastien-lecornu-veut-croire-a-un-leger-reveil-de-l-economie_6770550_823448.html",
+          "url": "https://www.lemonde.fr/international/article/2026/09/12/l-arabie-saoudite-ferme-le-pipeline-qui-lui-sert-a-contourner-le-detroit-d-ormuz-apres-des-frappes-de-drones-en-provenance-d-irak_6771330_3210.html",
           "niveau": "moyen"
         },
         {
-          "titre": "IA : après la démission de Jacob Coxon et plusieurs incidents de sécurité, le dé",
-          "analyse": "Alors qu’une série de piratages ont aiguisé les craintes sur l’IA, la démission, mercredi, de ce chercheur d’Anthropic, évoquant une technologie qui « pourrait tous nous tuer d’ici à la fin de la décennie », relance le débat sur la menace existentielle que pourrait représenter l’intelligence artific",
+          "titre": "Valentin Grimaud, essayiste : « La venue de Céline Dion à Paris ravive une forme",
+          "analyse": "Si la France ne l’a pas toujours accueillie à bras ouverts, la star québécoise suscite désormais l’admiration. L’emploi de ses chansons, notamment au cinéma, témoigne d’une forme d’universalité, souligne l’auteur de « Céline Dion. Vestale », dans une tribune au « Monde ».",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/pixels/article/2026/09/11/ia-apres-la-demission-de-jacob-coxon-et-plusieurs-incidents-de-securite-le-debat-sur-l-iapocalypse-prend-une-ampleur-inedite_6770505_4408996.html",
+          "url": "https://www.lemonde.fr/idees/article/2026/09/12/valentin-grimaud-essayiste-la-venue-de-celine-dion-a-paris-ravive-une-forme-d-union-sacree-en-france_6771295_3232.html",
           "niveau": "moyen"
         },
         {
-          "titre": "La légitime et impérative sanction de la colonisation israélienne",
-          "analyse": "Le boycott décidé le 8 septembre par plusieurs pays européens, dont la France, sur les produits israéliens fabriqués dans les territoires occupés intervient bien tardivement. La poursuite de la colonisation nourrit le fantasme dangereux du « transfert » de la plus grande partie possible de la popula",
+          "titre": "Franchises médicales : le plafond annuel passe de 100 à 140 euros le 1ᵉʳ octobre",
+          "analyse": "Le décret, paru samedi, prévoit également une réévaluation tous les ans à partir de 2028, en janvier, de ce plafond, sur la base de l’inflation.",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/idees/article/2026/09/11/la-legitime-et-imperative-sanction-de-la-colonisation-israelienne_6770556_3232.html",
+          "url": "https://www.lemonde.fr/politique/article/2026/09/12/franchises-medicales-le-plafond-annuel-passe-de-100-a-140-euros-le-1-octobre_6771228_823448.html",
           "niveau": "moyen"
         },
         {
-          "titre": "Au Sommet international sur l’espace, la France et l’UE à la rescousse d’Iris², ",
-          "analyse": "Promu par la France et l’Union européenne, le projet Iris² vise à déployer 348 satellites permettant des services de communications sécurisés sans dépendre d’acteurs non européens. Mais ce partenariat public-privé n’a pas levé tous les obstacles à sa mise en œuvre.",
+          "titre": "Jean-Philippe Toussaint : « J’ai toujours voulu être un écrivain de mon temps »",
+          "analyse": "L’auteur poursuit, avec « La Hantise », un cycle de romans situés à Bruxelles, où il est né et où il vit. Et dans lequel le récit d’espionnage contemporain se nourrit de l’intime.",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/09/11/au-sommet-international-sur-l-espace-la-france-et-l-ue-a-la-rescousse-d-iris-la-future-constellation-de-satellites-souveraine-de-l-europe_6770563_3234.html",
+          "url": "https://www.lemonde.fr/livres/article/2026/09/12/jean-philippe-toussaint-j-ai-toujours-voulu-etre-un-ecrivain-de-mon-temps_6770984_3260.html",
           "niveau": "moyen"
         },
         {
-          "titre": "Au Stade de France, Jaÿ-Z a fêté ses 30 ans de carrière avec une précision éblou",
-          "analyse": "Pharrell Williams et Justin Timberlake ont rejoint le rappeur américain sur scène pour un concert de deux heures qui reprenait des titres de ses treize albums.",
+          "titre": "EN DIRECT, présidentielle 2027 : Jean-Luc Mélenchon et Fabien Roussel à la Fête ",
+          "analyse": "A gauche, l’ancien président socialiste François Hollande, toujours pas candidat mais plus que jamais en campagne, se rendra lui à Frangy-en-Bresse (Saône-et-Loire), pour la traditionnelle Fête de la rose du PS. Les députés RN se retrouveront eux au Touquet, samedi.",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/culture/article/2026/09/11/au-stade-de-france-jay-z-a-fete-ses-30-ans-de-carriere-avec-une-precision-eblouissante-et-sans-temps-mort_6770566_3246.html",
+          "url": "https://www.lemonde.fr/politique/live/2026/09/12/en-direct-presidentielle-2027-jean-luc-melenchon-et-fabien-roussel-a-la-fete-de-l-huma-bruno-retailleau-avec-les-jeunes-lr-suivez-le-deplacement-des-candidats_6770586_823448.html",
           "niveau": "moyen"
         },
         {
-          "titre": "EN DIRECT, guerre en Ukraine : Radoslaw Sikorski, le ministre des affaires étran",
-          "analyse": "Le chef de la diplomatie polonaise est arrivé, vendredi, dans la capitale ukrainienne alors qu’elle était visée par une nouvelle attaque de drones russes. Au moins deux personnes ont été tuées et huit autres blessées par des frappes russes contre des stations-service de la ville.",
+          "titre": "Le réchauffement climatique rendra-t-il les orages plus dangereux ?",
+          "analyse": "L’été 2026 a été le théâtre d’une succession de canicules historiques, parfois suivies d’intempéries d’une grande intensité. Quelles sont les conséquences du réchauffement de l’atmosphère sur la fréquence et la virulence de ces tempêtes ?",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/international/live/2026/09/11/en-direct-guerre-en-ukraine-la-russie-dit-avoir-abattu-777-drones-ukrainiens-dans-la-nuit-des-attaques-qui-ont-fait-deux-morts-selon-les-autorites-locales_6766818_3210.html",
+          "url": "https://www.lemonde.fr/les-decodeurs/article/2026/09/12/le-rechauffement-climatique-rendra-t-il-les-orages-plus-dangereux_6771159_4355770.html",
           "niveau": "moyen"
         },
         {
-          "titre": "Mort de Federico Martin Aramburu : au procès Le Priol et Bouvier, un enquêteur a",
-          "analyse": "Les enregistrements des ultimes instants de la vie de l’ex-international de rugby argentin, tué en plein Paris en 2022, ont été examinés jeudi par la cour d’assises.",
+          "titre": "Vin de France : notre sélection des meilleures bouteilles hors appellation",
+          "analyse": "Qu’elles expriment un terroir de façon non conventionnelle ou s’en émancipent en assemblant des cépages n’entrant pas dans le cahier des charges des appellations, ces cuvées classées en vin de France brillent par leur audace et leur personnalité.",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/societe/article/2026/09/11/au-proces-le-priol-et-bouvier-les-dix-detonations-sont-une-execution-affirme-un-enqueteur_6770437_3224.html",
+          "url": "https://www.lemonde.fr/m-styles/article/2026/09/11/vin-de-france-notre-selection-des-meilleures-bouteilles-hors-appellation_6770611_4497319.html",
           "niveau": "moyen"
         }
       ]
@@ -75,59 +75,59 @@
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "Beef has never been pricier—and meatpackers are suffering",
-          "analyse": "Donald Trump is going after the wrong suspects",
-          "source": "Business",
-          "url": "https://www.economist.com/business/2026/09/10/beef-has-never-been-pricier-and-meatpackers-are-suffering",
+          "titre": "Wanted: new business, finance and economics interns",
+          "analyse": "The Economist invites applications for the Marjorie Deane internship",
+          "source": "Finance & economics",
+          "url": "https://www.economist.com/finance-and-economics/2026/09/12/wanted-new-business-finance-and-economics-interns",
           "niveau": "moyen"
         },
         {
-          "titre": "On my late husband’s birthday, I want to pay for every customer at his favorite ",
-          "analyse": "“I’m concerned that my card issuers might freeze or flag the cards when they suddenly see an extraordinary number of transactions.”",
+          "titre": "Surging bond yields presage pain—and not just for bond investors",
+          "analyse": "Stubborn inflation, corporate demand for capital and big public debts are squeezing holders of government bonds",
+          "source": "Finance & economics",
+          "url": "https://www.economist.com/finance-and-economics/2026/09/11/surging-bond-yields-presage-pain-and-not-just-for-bond-investors",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "The Fed could raise interest rates three times. Here’s where the market could fa",
+          "analyse": "Economists note that the Fed historically has not been content to raise rates only once.",
           "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/on-my-late-husbands-birthday-i-want-to-pay-for-every-customer-at-his-favorite-restaurant-is-this-a-good-idea-a2748ccc?mod=mw_rss_topstories",
+          "url": "https://www.marketwatch.com/story/the-fed-could-raise-interest-rates-three-times-heres-where-the-market-could-face-the-stiffest-test-757872a1?mod=mw_rss_topstories",
           "niveau": "moyen"
         },
         {
-          "titre": "The four reasons stocks could embark on a ‘face-ripper rally’ as soon as this mo",
-          "analyse": "Bull markets don’t peak when investors are so bearish, says Fundstrat’s Tom Lee.",
+          "titre": "This investment is safe from both Trump and the Democrats — and it pays 4.7%",
+          "analyse": "There’s a safe haven hiding in plain sight.",
           "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/the-four-reasons-stocks-are-about-to-embark-on-a-face-ripper-rally-e1e05e5e?mod=mw_rss_topstories",
+          "url": "https://www.marketwatch.com/story/this-investment-is-safe-from-both-trump-and-the-democrats-and-it-pays-4-7-4b76c2f3?mod=mw_rss_topstories",
           "niveau": "moyen"
         },
         {
-          "titre": "My 87-year-old mother wants to pay for my brother’s kids’ education. I don’t hav",
-          "analyse": "“Over the years, my mother and I have supplemented his income.”",
+          "titre": "Marvell is sitting on an incredibly ‘sticky’ business that could help it unlock ",
+          "analyse": "Marvell is best known for making custom chips — but an analyst notes there’s arguably more potential in supporting components and optical networking.",
           "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/my-87-year-old-mother-wants-to-pay-for-my-brothers-kids-education-i-dont-have-children-is-that-fair-b647a4bd?mod=mw_rss_topstories",
+          "url": "https://www.marketwatch.com/story/marvell-is-sitting-on-an-incredibly-sticky-business-that-could-help-it-unlock-a-30-billion-opportunity-caa6c83f?mod=mw_rss_topstories",
           "niveau": "moyen"
         },
         {
-          "titre": "Never mind the bond yields, Bank of America shows where the real threat to the e",
-          "analyse": "Diesel prices hit the real economy, says a Bank of America strategist who also offers an exchange-traded fund that has outperformed the market.",
+          "titre": "Tesla could transform the trucking business — and capitalize on high diesel pric",
+          "analyse": "The EV maker aims to finally kick its long-awaited Semi truck into high gear — unlocking a potentially huge opportunity, according to Morgan Stanley.",
           "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/never-mind-the-bond-yields-bank-of-america-shows-where-the-real-threat-to-the-economy-lies-1e6cbeaa?mod=mw_rss_topstories",
+          "url": "https://www.marketwatch.com/story/tesla-could-transform-the-trucking-business-and-capitalize-on-high-diesel-prices-e4c48d79?mod=mw_rss_topstories",
           "niveau": "moyen"
         },
         {
-          "titre": "Traditional portfolio diversification isn’t cutting it anymore. Here’s where to ",
-          "analyse": "For Allspring Global Investments, investors should be looking at how they can adapt their strategies  to incorporate more liquid alternatives.",
+          "titre": "Salesforce’s stock has been riding a wave of AI optimism. Here’s what Wall Stree",
+          "analyse": "Salesforce’s Dreamforce conference next week could offer a glimpse of how its recently announced Claudeforce partnership with Anthropic will play out.",
           "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/traditional-portfolio-diversification-isnt-cutting-it-anymore-heres-where-to-pivot-says-this-624-billion-fund-manager-0b552566?mod=mw_rss_topstories",
+          "url": "https://www.marketwatch.com/story/salesforces-stock-has-been-riding-a-wave-of-ai-optimism-heres-what-wall-street-wants-to-see-next-72f20e95?mod=mw_rss_topstories",
           "niveau": "moyen"
         },
         {
-          "titre": "Adobe’s latest earnings leave Wall Street wanting more",
-          "analyse": "“In this environment you can’t just meet” expectations, an analyst says",
+          "titre": "I’m a single 58-year-old veteran in California with $1.5 million and a VA pensio",
+          "analyse": "“I expect to receive at least $9,000 per month before federal and California state taxes.”",
           "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/adobes-latest-earnings-leave-wall-street-wanting-more-137ea782?mod=mw_rss_topstories",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "H.C. Wainwright raises Ovid Therapeutics price target to $5 on pipeline progress",
-          "analyse": "",
-          "source": "All News",
-          "url": "https://www.investing.com/news/analyst-ratings/hc-wainwright-raises-ovid-therapeutics-price-target-to-5-on-pipeline-progress-93CH-4897735",
+          "url": "https://www.marketwatch.com/story/im-a-single-58-year-old-veteran-with-1-5-million-in-assets-and-a-va-pension-can-i-afford-to-retire-9fadfd41?mod=mw_rss_topstories",
           "niveau": "moyen"
         }
       ]
@@ -138,17 +138,10 @@
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "Christine Lagarde, Boris Vujčić: Monetary policy statement (with Q&A)",
+          "titre": "Christine Lagarde: Europe seen from Normandy",
           "analyse": "",
           "source": "ECB - European Central Bank",
-          "url": "https://www.ecb.europa.eu//press/press_conference/monetary-policy-statement/2026/html/ecb.is260910~6a45359cfc.en.html",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Monetary policy decisions",
-          "analyse": "",
-          "source": "ECB - European Central Bank",
-          "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.mp260910~314e508016.en.html",
+          "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260912~fafa4b35b0.en.html",
           "niveau": "moyen"
         }
       ]
@@ -159,59 +152,52 @@
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "Reprise de Theoreim par Mata Capital : enjeux et impacts",
-          "analyse": "Rachat de Theoreim par Mata Capital : quels risques et opportunités pour vos SCPI et fonds immobiliers ? Découvrez les enjeux avant d’ajuster vos allocatio",
+          "titre": "Une nomination stratégique au sein de Magellim REIM",
+          "analyse": "Quel impact pour les investisseurs de la nomination de Nicolas JULLIEN chez Magellim REIM ?",
           "source": "MeilleureSCPI.com",
-          "url": "https://www.meilleurescpi.com/actualites/la-sgp-theoreim-est-reprise-par-mata-capital/",
+          "url": "https://www.meilleurescpi.com/actualites/magellim-reim-annonce-une-nomination-strategique/",
           "niveau": "moyen"
         },
         {
-          "titre": "La SCPI Affinités Pierre réalise son premier investissement en Pologne",
-          "analyse": "Affinités Pierre investit en Pologne dans une plateforme logistique louée 12 ans à DPD Polska. Quels atouts et risques pour les associés ? Découvrez les cl",
+          "titre": "Peur de perdre de l’argent et méconnaissance des ETF :",
+          "analyse": "Vous hésitez à investir en bourse par peur de perdre et méconnaissance des ETF ? Découvrez une méthode progressive pour investir sans tout risquer. Agissez",
           "source": "MeilleureSCPI.com",
-          "url": "https://www.meilleurescpi.com/actualites/la-scpi-affinites-pierre-realise-son-premier-investissement-en-pologne/",
+          "url": "https://www.meilleurescpi.com/actualites/peur-de-perdre-de-l-argent-meconnaissance-des-etf-pourquoi-92-des-francais-hesitent-a-investir-en-bourse/",
           "niveau": "moyen"
         },
         {
-          "titre": "Premier actif lyonnais pour la SCPI Urban Cœur Commerce",
-          "analyse": "Premier actif lyonnais pour Urban Cœur Commerce : localisation, locataire, rendement, conditions de souscription et risques clés. Découvrez les points à an",
+          "titre": "Retraite des mères et carrières longues : ce qui change au 01/09/2026",
+          "analyse": "Mères et carrière longue : allez-vous vraiment gagner en pension ou partir plus tôt après 2026 ? Découvrez les nouveaux calculs et comment adapter votre ép",
           "source": "MeilleureSCPI.com",
-          "url": "https://www.meilleurescpi.com/actualites/premier-actif-lyonnais-pour-la-scpi-urban-coeur-commerce/",
+          "url": "https://www.meilleurescpi.com/conseils/retraite-des-meres-et-carrieres-longues-ce-qui-change-au-1er-septembre/",
           "niveau": "moyen"
         },
         {
-          "titre": "AEW Patrimoine Santé investit dans un actif mixte à Berlin",
-          "analyse": "Comment l’actif mixte de santé acquis à Berlin par AEW Patrimoine Santé s’inscrit-il dans une stratégie européenne de long terme ? Découvrez les enjeux clé",
+          "titre": "Deux actifs parisiens acquis cet été par Pierre Expansion Santé",
+          "analyse": "Deux nouveaux actifs santé au cœur de Paris pour Pierre Expansion Santé : découvrez les locataires, les baux et l’impact sur la SCPI. Analysez avant d’inve",
           "source": "MeilleureSCPI.com",
-          "url": "https://www.meilleurescpi.com/actualites/aew-patrimoine-sante-investit-dans-un-actif-mixte-a-berlin/",
+          "url": "https://www.meilleurescpi.com/actualites/deux-actifs-parisiens-acquis-cet-ete-par-pierre-expansion-sante/",
           "niveau": "moyen"
         },
         {
-          "titre": "Fichier des dettes locatives : « Une bonne idée qui mérite précision… et courage",
-          "analyse": "Le fichier des dettes locatives revient dans le débat. Arnaud Hacquart, président d’Imodirect, soutient le principe, mais réclame trois garde-fous pour protéger les locataires.\nCet article Fichier des dettes locatives : « Une bonne idée qui mérite précision… et courage politique ! », Arnaud Hacquart",
-          "source": "MySweetimmo",
-          "url": "https://www.mysweetimmo.com/2026/09/11/fichier-des-dettes-locatives-une-bonne-idee-qui-merite-precision-et-courage-politique-arnaud-hacquart/",
+          "titre": "SCPI : les acquisitions immobilières marquantes de l’été 2026",
+          "analyse": "Où les SCPI ont-elles investi à l’été 2026 et avec quels rendements ? Découvrez les zones, typologies d’actifs et stratégies à suivre pour votre allocation",
+          "source": "MeilleureSCPI.com",
+          "url": "https://www.meilleurescpi.com/actualites/scpi-les-acquisitions-immobilieres-marquantes-de-l-ete/",
           "niveau": "moyen"
         },
         {
-          "titre": "Crédit immobilier : Face aux arnaques, la riposte s’organise",
-          "analyse": "La Banque de France et l’Orias s’allient pour diffuser des contenus d’éducation financière. Leur objectif : mieux informer le public face aux faux courtiers, aux offres de prêt frauduleuses et aux usurpations d’identité.\nCet article Crédit immobilier : Face aux arnaques, la riposte s’organise est ap",
+          "titre": "Immobilier Paris : Deux enchères bouclées en 15 jours",
+          "analyse": "À Paris, un studio et un deux-pièces ont été vendus aux enchères volontaires en une à deux semaines, pour 250 000 et 500 000 euros. Ces ventes montrent que le dispositif ne concerne pas seulement les biens de prestige.\nCet article Immobilier Paris : Deux enchères bouclées en 15 jours est apparu en p",
           "source": "MySweetimmo",
-          "url": "https://www.mysweetimmo.com/2026/09/11/credit-immobilier-face-aux-arnaques-la-riposte-sorganise/",
+          "url": "https://www.mysweetimmo.com/2026/09/12/immobilier-paris-deux-encheres-bouclees-en-15-jours/",
           "niveau": "moyen"
         },
         {
-          "titre": "Immobilier : SeLoger permet de chercher un bien en parlant",
-          "analyse": "SeLoger lance une recherche immobilière par IA, utilisable à l’écrit ou à l’oral. L’utilisateur décrit le bien recherché avec ses propres mots et accède directement aux annonces correspondantes.\nCet article Immobilier : SeLoger permet de chercher un bien en parlant est apparu en premier sur MySweeti",
+          "titre": "Immobilier : Près de Saint-Tropez, une villa quasi invisible à 9,5 millions",
+          "analyse": "À Gigaro, sur la commune de La Croix-Valmer, une villa de 300 m² mêlant pierre locale, verre et toit végétalisé est proposée à 9,5 millions d’euros. Sa conception la rend presque invisible depuis la mer.\nCet article Immobilier : Près de Saint-Tropez, une villa quasi invisible à 9,5 millions est appa",
           "source": "MySweetimmo",
-          "url": "https://www.mysweetimmo.com/2026/09/11/immobilier-seloger-permet-de-chercher-un-bien-en-parlant/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Hausse des taux de la BCE : Ce qui change pour votre crédit immobilier",
-          "analyse": "La BCE relève ses taux de 0,25 point. Les crédits immobiliers devraient encore renchérir, tandis que le taux d’usure pourrait bloquer certains dossiers.\nCet article Hausse des taux de la BCE : Ce qui change pour votre crédit immobilier est apparu en premier sur MySweetimmo.",
-          "source": "MySweetimmo",
-          "url": "https://www.mysweetimmo.com/2026/09/11/hausse-des-taux-de-la-bce-ce-qui-change-pour-votre-credit-immobilier/",
+          "url": "https://www.mysweetimmo.com/2026/09/12/immobilier-pres-de-saint-tropez-une-villa-quasi-invisible-a-95-millions/",
           "niveau": "moyen"
         }
       ]
@@ -222,59 +208,199 @@
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "La banque LCL veut fermer entre 60 et 90 agences",
-          "analyse": "La banque LCL, ex-Crédit Lyonnais et aujourd&#039;hui filiale du Crédit Agricole, envisage de fermer entre 60 et 90 agences sur un parc d&#039;environ 1.400, selon un document interne consulté ven...",
+          "titre": "La chronique psy du Dr Olivier Dubois: Le burn-out, un syndrome qu'il est possib",
+          "analyse": "Insomnies, burn-out, angoisses, stress, deuils, harcèlements, dépression…Medecin psychiatre aux thermes de Saujon, le Dr Olivier Dubois nous explique dans cette nouvelle chronique comment il aide ses patients à sortir de la spirale des troubles anxieux avec l&#039;appui du thermalisme.",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/depeches/la-banque-lcl-veut-fermer-entre-60-et-90-agences-138190",
+          "url": "https://www.notretemps.com/sante-bien-etre/psychologie/la-chronique-psy-du-dr-olivier-dubois-le-burn-out-un-syndrome-qu-il-est-possible-d-enrayer-137943",
           "niveau": "moyen"
         },
         {
-          "titre": "Ancien directeur général de la santé, Grégory Emery revient à ce poste après deu",
-          "analyse": "Le gouvernement a renommé Grégory Emery au poste de directeur général de la Santé, un poste clef au ministère qu&#039;il avait déjà occupé deux ans avant de devenir le conseiller santé d&#039;Emma...",
+          "titre": "Un TER déraille en Normandie faisant 44 blessés, l'acte malveillant privilégié",
+          "analyse": "Un acte malveillant pourrait être à l&#039;origine du déraillement vendredi soir d&#039;un TER à proximité de Rouen, qui a fait 44 blessés dont une jeune femme évacuée \"en urgence absolue\".La piste de l&#039;acte ma...",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/depeches/ancien-directeur-general-de-la-sante-gregory-emery-revient-a-ce-poste-apres-deux-ans-a-l-elysee-138189",
+          "url": "https://www.notretemps.com/depeches/un-ter-deraille-en-normandie-faisant-44-blesses-l-acte-malveillant-privilegie-138216",
           "niveau": "moyen"
         },
         {
-          "titre": "L'inaction en matière climatique risque d'avoir un coût majeur sur le PIB, prévi",
-          "analyse": "Et si l&#039;argument économique devenait plus audible que l&#039;argument écologique? A l&#039;heure de la croissance atone et des finances publiques exsangues en France, le ministère de l&#039;Economie a prévenu vendre...",
+          "titre": "La chronique psy du Dr Olivier Dubois: Dépression, réduire ses médicaments sans ",
+          "analyse": "Insomnies, burn-out, angoisses, stress, deuils, harcèlements, dépression…Medecin psychiatre aux thermes de Saujon, le Dr Olivier Dubois nous explique dans cette nouvelle chronique comment il aide ses patients à sortir de la spirale des troubles anxieux grâce à l&#039;appui du thermalisme.",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/depeches/l-inaction-en-matiere-climatique-risque-d-avoir-un-cout-majeur-sur-le-pib-previent-bercy-138188",
+          "url": "https://www.notretemps.com/sante-bien-etre/psychologie/la-chronique-psy-du-dr-olivier-dubois-troubles-anxio-depressif-reduire-ses-medicaments-sans-rechuter-c-est-possible-137946",
           "niveau": "moyen"
         },
         {
-          "titre": "Polémique après la suppression par France Télévisions du replay de propos d'Adèl",
-          "analyse": "Adèle Haenel et de nombreuses voix à gauche ont dénoncé vendredi le retrait du site de France Télévisions d&#039;une intervention de la comédienne accusant Israël de \"génocide en Palestine\" dans l&#039;émission...",
+          "titre": "Mots fléchés gratuits - Force 4 - 12 septembre 2026 Grille n°4062",
+          "analyse": "Remplissez la grille de mots fléchés Force 4 ci-dessous. Il vous suffit de cliquer sur une case pour pouvoir y entrer la lettre de votre choix. Grille n°4062  du 12 septembre 2026",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/depeches/polemique-apres-la-suppression-par-france-televisions-du-replay-de-propos-d-adele-haenel-sur-israel-138187",
+          "url": "https://www.notretemps.com/jeux/jeux-en-ligne/mots-fleches/force-4/mots-fleches-gratuits-force-4-12-septembre-2026-grille-4062",
           "niveau": "moyen"
         },
         {
-          "titre": "Le gouvernement économise 500 millions d'euros pour financer le plan agriculture",
-          "analyse": "Le gouvernement a annulé 500 millions d&#039;euros de crédits, ciblant notamment les programmes consacrés à l&#039;écologie et au service public de l&#039;énergie, pour financer le plan d&#039;urgence pour...",
+          "titre": "Mots fléchés gratuits - Force 3 - 12 septembre 2026 Grille n°4061",
+          "analyse": "Remplissez la grille de mots fléchés Force 3 ci-dessous. Il vous suffit de cliquer sur une case pour pouvoir y entrer la lettre de votre choix. Grille n°4061  du 12 septembre 2026",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/depeches/le-gouvernement-economise-500-millions-d-euros-pour-financer-le-plan-agriculture-l-ecologie-et-l-energie-principalement-touchees-138186",
+          "url": "https://www.notretemps.com/jeux/jeux-en-ligne/mots-fleches/force-3/mots-fleches-gratuits-force-3-12-septembre-2026-grille-4061",
           "niveau": "moyen"
         },
         {
-          "titre": "VERIFICATION: Attal contrevient-il à la loi Evin en trinquant dans un clip de ca",
-          "analyse": "Le candidat à la présidentielle Gabriel Attal a suscité de vives critiques d&#039;associations contre l&#039;alcoolisme en apparaissant verre de bière à la main dans un clip de campagne diffusé lu...",
+          "titre": "Mots fléchés gratuits - Force 2 - 12 septembre 2026 Grille n°4062",
+          "analyse": "Remplissez la grille de mots fléchés Force 2 ci-dessous. Il vous suffit de cliquer sur une case pour pouvoir y entrer la lettre de votre choix. Grille n°4062  du 12 septembre 2026",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/depeches/verification-attal-contrevient-il-a-la-loi-evin-en-trinquant-dans-un-clip-de-campagne-138185",
+          "url": "https://www.notretemps.com/jeux/jeux-en-ligne/mots-fleches/force-2/mots-fleches-gratuits-force-2-12-septembre-2026-grille-4062",
           "niveau": "moyen"
         },
         {
-          "titre": "Derrière l'impuissance des politiques sur le pouvoir d'achat, une colère sourde",
-          "analyse": "Flambée des prix mais marges de manoeuvre budgétaires réduites à peau de chagrin. Le gouvernement de Sébastien Lecornu assume une forme d&#039;impuissance à améliorer le pouvoir d&#039;achat des Français, en mê...",
+          "titre": "Mots fléchés gratuits - Force 1 - 12 septembre 2026 Grille n°4062",
+          "analyse": "Remplissez la grille de mots fléchés Force 1 ci-dessous. Il vous suffit de cliquer sur une case pour pouvoir y entrer la lettre de votre choix. Grille n°4062  du 12 septembre 2026",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/depeches/derriere-l-impuissance-des-politiques-sur-le-pouvoir-d-achat-une-colere-sourde-138184",
+          "url": "https://www.notretemps.com/jeux/jeux-en-ligne/mots-fleches/force-1/mots-fleches-gratuits-force-1-12-septembre-2026-grille-4062",
           "niveau": "moyen"
         },
         {
-          "titre": "60 millions de consommateurs: Niel \"ne peut garantir l'indépendance éditoriale\",",
-          "analyse": "Des responsables associatifs et syndicaux et des parlementaires estiment que le milliardaire Xavier Niel, qui a déposé une offre de rachat de 60 millions de consommateurs, \"ne peut garan...",
+          "titre": "Wordle : Le Mot du jour gratuit - 12 septembre 2026",
+          "analyse": "Le Mot du jour, inspiré du Wordle, est un jeu de devinettes avec six essais pour trouver un mot de cinq lettres. Les lettres sont marquées en vert, jaune ou gris selon leur position dans le mot. Grille du 12 septembre 2026",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/depeches/60-millions-de-consommateurs-niel-ne-peut-garantir-l-independance-editoriale-denoncent-elus-et-associations-138182",
+          "url": "https://www.notretemps.com/jeux/jeux-en-ligne/wordle-jeu-le-mot-du-jour/wordle-le-mot-du-jour-gratuit-12-septembre-2026",
+          "niveau": "moyen"
+        }
+      ]
+    },
+    {
+      "titre": "Finance_Pro",
+      "icone": "📰",
+      "niveau_global": "moyen",
+      "items": [
+        {
+          "titre": "B&Capital, Argos, DLA Piper… les nominations de la semaine",
+          "analyse": "B &#038; Capital a annoncé le lancement de RB small cap France 1 et renforcé son équipe avec l’arrivée de MARIANNE HARLE (univ. Paris X Nanterre, Sciences Po) en qualité de directrice associée.",
+          "source": "PE Magazine",
+          "url": "https://www.pemagazine.fr/bcapital-argos-dla-piper-les-nominations-de-la-semaine/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Groupama AM voit deux fois plus grand pour son deuxième fonds de dette à impact ",
+          "analyse": "Groupama AM s’apprête à engranger les premières participations de son deuxième fonds d’impact social sur la base de son closing initial de 155 millions d’euros.",
+          "source": "PE Magazine",
+          "url": "https://www.pemagazine.fr/groupama-am-voit-deux-fois-plus-grand-pour-son-deuxieme-fonds-de-dette-a-impact-social/",
+          "niveau": "moyen"
+        }
+      ]
+    },
+    {
+      "titre": "ESG",
+      "icone": "🌱",
+      "niveau_global": "moyen",
+      "items": [
+        {
+          "titre": "Comptabilité carbone : vers une norme unifiée entre l'ISO et le GHG Protocol",
+          "analyse": "L'ISO et le GHG protocol fusionnent leurs normes de comptabilité carbone - Photo de Anne Nygårdsur Unsplash\nAprès un partenariat noué en septembre 2025, l'ISO (Organisation internationale de normalisation) et le GHG Protocol ont confirmé fin juillet la fusion de leurs référentiels de comptabilisatio",
+          "source": "Novethic",
+          "url": "https://www.novethic.fr/environnement/climat/iso-ghg-protocol-fusion-comptabilite-carbone",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Marine Le Pen et Bernard Fontana s’entretiennent sur le nucléaire tricolore",
+          "analyse": "Exclusif —&#160;Bernard Fontana, PDG d’EDF, et Marine Le Pen, candidate RN à la présidentielle, se sont entretenus au siège d’EDF en début de semaine. L’occasion d’échanger sur «&#160;Marie Curie&#160;». Non pas la physicienne, mais le programme énergétique du parti à la flamme. Ce n’est pas par has",
+          "source": "GreenUnivers",
+          "url": "https://www.greenunivers.com/2026/09/marine-le-pen-et-bernard-fontana-sentretiennent-sur-le-nucleaire-tricolore-432922/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Comment Valorem se prépare à 2027 et au-delà",
+          "analyse": "Entretien — En France, l&#8217;année qui vient est à fort risque politique pour l&#8217;électricité renouvelable. Avec 1,8 TWh généré l&#8217;année dernière, Valorem en est un producteur important. Comment se prépare-t-il ? Que prévoit ce spécialiste de l&#8217;éolien et du solaire pour les années s",
+          "source": "GreenUnivers",
+          "url": "https://www.greenunivers.com/2026/09/comment-valorem-se-prepare-a-2027-et-au-dela-432760/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Electrification : le gouvernement prépare de nouvelles mesures, sélectionne 109 ",
+          "analyse": "Les 100 territoires d’électrification, devenus 109, démarrent officiellement leur parcours. Le gouvernement a publié la cartographie des zones sélectionnées, consultable en bas de page, et va maintenant leur demander de détailler les axes de travail afin de pouvoir signer des feuilles de route début",
+          "source": "GreenUnivers",
+          "url": "https://www.greenunivers.com/2026/09/electrification-le-gouvernement-prepare-de-nouvelles-mesures-selectionne-109-territoires-tests-432838/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Où en est Le Bon Tuyau, défricheur de la géothermie en location ?",
+          "analyse": "Pourvoyeuse en abondance de chaleur et froid renouvelable, la géothermie présente un attrait indéniable sur le papier. Sur le terrain, c&#8217;est différent. L’investissement&#160;\nL’article Où en est Le Bon Tuyau, défricheur de la géothermie en location ? est apparu en premier sur GreenUnivers.",
+          "source": "GreenUnivers",
+          "url": "https://www.greenunivers.com/2026/09/ou-en-est-le-bon-tuyau-defricheur-de-la-geothermie-en-location-432882/",
+          "niveau": "moyen"
+        }
+      ]
+    },
+    {
+      "titre": "Fintech",
+      "icone": "📰",
+      "niveau_global": "moyen",
+      "items": [
+        {
+          "titre": "L'IA ne sélectionne pas des usines, elle sélectionne des vitrines",
+          "analyse": "Les dirigeants arrivent avec une présélection de fournisseurs chinois faite en quelques heures. L'IA ne s'est pas trompée. Mais un tri à distance ne classe pas des usines, il classe des vitrines.",
+          "source": "JDN : Derniers contenus",
+          "url": "https://www.journaldunet.com/management/direction-generale/1554733-l-ia-ne-selectionne-pas-des-usines-elle-selectionne-des-vitrines/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Une entreprise peut-elle enquêter sur ses propres salariés sans franchir la lign",
+          "analyse": "Une entreprise peut enquêter sur un salarié, mais jusqu'où peut-elle aller sans porter atteinte à ses droits ? Cet article explore les limites entre contrôle, vie privée et recherche de preuves.",
+          "source": "JDN : Derniers contenus",
+          "url": "https://www.journaldunet.com/management/direction-generale/1554753-une-entreprise-peut-elle-enqueter-sur-ses-propres-salaries-sans-franchir-la-ligne-rouge/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Habiter la transformation organisationnelle",
+          "analyse": "Transformer une organisation, c'est gérer les écarts, des écarts souvent invisibles, parce que quelqu'un les porte au quotidien. L'enjeu de cette approche est de les rendre visibles.",
+          "source": "JDN : Derniers contenus",
+          "url": "https://www.journaldunet.com/management/direction-generale/1554759-habiter-la-transformation-organisationnelle/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "ChatGPT Ads manager : \"il est urgent d'attendre !\"",
+          "analyse": "Le JDN a testé la plateforme publicitaire en libre-service de ChatGPT avec Alban Peltier (Stelleo). La configuration est un jeu d'enfants, mais les défaillances et les limites encore nombreuses.",
+          "source": "JDN : Derniers contenus",
+          "url": "https://www.journaldunet.com/adtech/1554735-chatgpt-ads-manager-simple-a-utiliser-mais-encore-opaque-et-inachevee/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "\"Un dirigeant d'un jeu d'argent en ligne peut frauder en se versant des bonus de",
+          "analyse": "Gaëlle Daanen, chief product officer, et William Klein, chief technology officer de Sharp Vision, décryptent les fraudes aux jeux d'argent qu'ils observent grâce aux solutions de l'entreprise, spécialisée en la matière.",
+          "source": "JDN : Derniers contenus",
+          "url": "https://www.journaldunet.com/cybersecurite/1554755-un-dirigeant-d-un-jeu-d-argent-en-ligne-peut-frauder-en-se-versant-des-bonus-de-plusieurs-millions-d-euros/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "\"Taïwan aura une place très importante dans la révolution de la robotique\"",
+          "analyse": "Très implantée à Taïwan, la société américaine Graphen a dévoilé en juin dernier Aiter One, un humanoïde destiné notamment à la santé, au retail et aux services. Son fondateur revient sur les principaux défis technologiques de ces machines.",
+          "source": "JDN : Derniers contenus",
+          "url": "https://www.journaldunet.com/intelligence-artificielle/1554599-taiwan-aura-une-place-tres-importante-dans-la-revolution-de-la-robotique/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Proton parle aux indépendants qui veulent rester sobres côté outils",
+          "analyse": "Proton VPN Plus passe à 2,99 € par mois pendant 24 mois. Une formule simple qui réunit confidentialité, streaming, dix appareils et un vaste réseau de serveurs.",
+          "source": "JDN : Derniers contenus",
+          "url": "https://www.journaldunet.com/cybersecurite/vpn/1554673-proton-parle-aux-independants-qui-veulent-rester-sobres-cote-outils/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "OpenAI victime du succès d’Astra, l’abonnement ChatGPT à 200 dollars suspendu",
+          "analyse": "Astra a été dévoilé il y a une semaine seulement, mais OpenAI doit déjà revoir l&#8217;accès à son offre à 200 dollars. Son lancement a suscité une demande particulièrement forte auprès des utilisateurs. Depuis le 10 septembre, il n&#8217;est plus possible de souscrire un forfait ChatGPT Pro ni de p",
+          "source": "Siècle Digital",
+          "url": "https://siecledigital.fr/2026/09/11/openai-victime-du-succes-dastra-labonnement-chatgpt-a-200-dollars-suspendu/",
+          "niveau": "moyen"
+        }
+      ]
+    },
+    {
+      "titre": "Thinktank",
+      "icone": "📰",
+      "niveau_global": "moyen",
+      "items": [
+        {
+          "titre": "Nucléaire civil : les défis de l’organisation de la sûreté",
+          "analyse": "En France, l'Autorité de sûreté nucléaire est l'institution indépendante chargée de veiller sur les installations nucléaires civiles et de vérifier leur conformité au code de l’environnement, avec le niveau de sûreté adéquat. Mais quel est le juste \"standard de protection\" ? Comment évaluer la perti",
+          "source": "Institut Montaigne",
+          "url": "https://www.institutmontaigne.org/expressions/nucleaire-civil-les-defis-de-lorganisation-de-la-surete",
           "niveau": "moyen"
         }
       ]
