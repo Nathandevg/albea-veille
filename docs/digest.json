@@ -1,8 +1,8 @@
 {
-  "date_fr": "Sunday 13 September 2026",
-  "compte_articles": 128,
+  "date_fr": "Monday 14 September 2026",
+  "compte_articles": 250,
   "compte_forts": 0,
-  "compte_moyens": 128,
+  "compte_moyens": 250,
   "synthese_jour": "Synthese IA non disponible (fallback). Consultez les articles ci-dessous.",
   "chiffres_cles": [],
   "sections": [
@@ -12,59 +12,59 @@
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "EN DIRECT, présidentielle 2027 : Eric Zemmour et Sarah Knafo font leur rentrée ;",
-          "analyse": "Reconquête ! réunit moins de 2 000 militants au Port-Marly (Yvelines). La députée et candidate du RN devrait, quant à elle, prendre la parole autour de 14 h 30-15 heures, après un week-end de travaux à huis clos avec les parlementaires de son parti au Touquet.",
+          "titre": "En Méditerranée centrale, une chasse à l’homme en haute mer sponsorisée par l’U",
+          "analyse": "« Le Monde » a embarqué en juillet à bord de l’« Ocean-Viking », le navire de sauvetage affrété par SOS Méditerranée. L’ONG française dénonce l’intensification de la violence en mer contre les migrants et les humanitaires de la part d’acteurs libyens soutenus et financés par l’Union européenne.",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/politique/live/2026/09/13/en-direct-presidentielle-2027-la-candidate-du-rn-marine-le-pen-attendue-dans-son-fief-d-henin-beaumont_6770586_823448.html",
+          "url": "https://www.lemonde.fr/afrique/article/2026/09/14/en-mediterranee-centrale-une-chasse-a-l-homme-en-haute-mer-sponsorisee-par-l-ue_6773351_3212.html",
           "niveau": "moyen"
         },
         {
-          "titre": "De la cocaïne dissimulée dans du quinoa : plongée dans le système « El Francés »",
-          "analyse": "Soner Akca, 43 ans, est l’un des rares Français à être devenu un baron de la drogue au pays des cartels. Arrêté à Medellin, en Colombie, le 12 juin, le natif de Montfermeil, surnommé « El Francés », est soupçonné d’avoir organisé un réseau international de trafic de cocaïne chimiquement modifiée en ",
+          "titre": "Le Canada multiplie les initiatives pour atténuer sa dépendance économique aux E",
+          "analyse": "L’économie canadienne s’est construite dans l’orbite de son puissant voisin. Les nouvelles offensives de Donald Trump sur les droits de douane rappellent combien cette proximité demeure à la fois un atout et une source de fragilité.",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/societe/article/2026/09/13/de-la-cocaine-dissimulee-dans-du-quinoa-plongee-dans-le-systeme-el-frances-puissant-narcotrafiquant-francais-installe-en-colombie_6772180_3224.html",
+          "url": "https://www.lemonde.fr/economie/article/2026/09/14/le-canada-multiplie-les-initiatives-pour-attenuer-sa-dependance-economique-aux-etats-unis_6773786_3234.html",
           "niveau": "moyen"
         },
         {
-          "titre": "Sam Altman annonce qu’OpenAI n’entrera pas en Bourse en 2026, en raison des inqu",
-          "analyse": "« Au vu de tout ce qui se passe en matière de sécurité, le moment serait mal choisi pour entrer en Bourse, et nous ne ressentons pas de pression en ce sens », a déclaré le patron de la société créatrice de ChatGPT.",
+          "titre": "EN DIRECT, présidentielle 2027 : « La question du rapport à l’international, cel",
+          "analyse": "Julie Carriat, journaliste au service Politique du « Monde », a répondu à toutes vos questions sur la manière dont notre journal couvre les sondages durant la campagne présidentielle, mais aussi sur les rapports de force à sept mois de l’élection.",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/pixels/article/2026/09/13/sam-altman-annonce-qu-openai-n-entrera-pas-en-bourse-en-2026-en-raison-des-inquietudes-lies-a-la-securite-de-l-intelligence-artificielle_6772466_4408996.html",
+          "url": "https://www.lemonde.fr/politique/live/2026/09/14/en-direct-presidentielle-2027-posez-vos-questions-a-la-politiste-anne-muxel-suite-aux-resultats-de-la-premiere-enquete-electorale-du-monde_6770586_823448.html",
           "niveau": "moyen"
         },
         {
-          "titre": "« Les accords d’Abraham ont plutôt encouragé la guerre que la paix au Moyen-Orie",
-          "analyse": "Six ans après leur signature, les accords d’Abraham, loin de généraliser la normalisation israélo-arabe, ont aggravé les dissensions au Moyen-Orient, analyse l’historien Jean-Pierre Filiu dans sa chronique au « Monde ».",
+          "titre": "L’industrie française fragilisée par la flambée des prix du pétrole et du gaz",
+          "analyse": "Chimie, plasturgie, fabrication d’engrais… La poursuite du blocage du détroit d’Ormuz et la hausse des tarifs de l’énergie mettent sous tension de nombreuses filières.",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/un-si-proche-orient/article/2026/09/13/les-accords-d-abraham-ont-plutot-encourage-la-guerre-que-la-paix-au-moyen-orient_6772232_6116995.html",
+          "url": "https://www.lemonde.fr/economie/article/2026/09/14/l-industrie-francaise-fragilisee-par-la-flambee-des-prix-du-petrole-et-du-gaz_6773603_3234.html",
           "niveau": "moyen"
         },
         {
-          "titre": "Le média d’extrême droite « Frontières » veut « infiltrer » les politiques et le",
-          "analyse": "Le nouvel hebdomadaire en ligne « L’Infiltré », qui sera lancé le 29 septembre, se présente comme inspiré du « Canard enchaîné » et peut compter sur la caisse de résonance des médias du groupe Bolloré.",
+          "titre": "EN DIRECT, guerre en Ukraine : avec des attaques qui se rapprochent de la Pologn",
+          "analyse": "Le vice-ministre de la défense polonais a dénoncé « une très grave escalade de la part de la Russie », au lendemain de l’attaque d’un train ukrainien près de la frontière polonaise. « Les récentes attaques dans l’ouest de l’Ukraine ne sont pas non plus un hasard. Il s’agit de tester l’OTAN, de teste",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/09/13/le-media-d-extreme-droite-frontieres-veut-infiltrer-les-politiques-et-les-journalistes_6772467_3234.html",
+          "url": "https://www.lemonde.fr/international/live/2026/09/14/en-direct-guerre-en-ukraine-la-russie-affirme-poursuivre-ses-attaques-contre-les-trains-ukrainiens_6772184_3210.html",
           "niveau": "moyen"
         },
         {
-          "titre": "« Ce déménagement minimaliste vient de ma culpabilité envers mon ex-compagnon. J",
-          "analyse": "« Remue-ménages ». Synonyme à la fois de renoncement et de nouveau départ, un déménagement n’est jamais anodin. Quand Hélèna Baskakoff se sépare de son conjoint, à 26 ans, c’est toute sa vie genevoise qu’elle quitte. Pour repartir de zéro avec sa fille, à Avignon.",
+          "titre": "« Le débat croissant sur l’“IApocalypse” est aussi et surtout une histoire de gr",
+          "analyse": "Alors que les dirigeants du secteur de l’intelligence artificielle alertent sur les risques existentiels de leur technologie, Anthropic s’apprête à réaliser la plus importante entrée en Bourse de l’histoire. Un dangereux paradoxe que Nicolas Chapuis, correspondant du « Monde » à New York, explore da",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/intimites/article/2026/09/13/ce-demenagement-minimaliste-vient-de-ma-culpabilite-envers-mon-ex-compagnon-je-lui-enleve-sa-fille-je-lui-laisse-au-moins-les-meubles_6772501_6190330.html",
+          "url": "https://www.lemonde.fr/idees/article/2026/09/14/iapocalypse-ce-debat-est-aussi-et-surtout-une-histoire-de-gros-sous_6773784_3232.html",
           "niveau": "moyen"
         },
         {
-          "titre": "EN DIRECT, guerre en Ukraine : un train reliant Kiev à Varsovie touché par un dr",
-          "analyse": "Le train reliait Kiev à Varsovie lorsque sa locomotive a été touchée par un drone russe, à seulement 2 kilomètres de la frontière polonaise, selon le média ukrainien Suspline, qui cite le vice-directeur d’Ukrzaliznytsia.",
+          "titre": "Arrêts maladie : des médecins s’inquiètent pour leurs patients du durcissement d",
+          "analyse": "Des généralistes alertent sur les effets à « double tranchant » du plafonnement à un mois de la durée de première prescription, en vigueur depuis le 1ᵉʳ septembre, dans un contexte de hausse des arrêts de travail. Ils insistent sur l’importance d’une prescription par les médecins « au cas par cas ».",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/international/live/2026/09/13/en-direct-guerre-en-ukraine-un-train-reliant-kiev-a-varsovie-touche-par-un-drone-russe-sans-faire-de-victimes_6772184_3210.html",
+          "url": "https://www.lemonde.fr/societe/article/2026/09/14/arrets-maladie-des-medecins-s-inquietent-pour-leurs-patients-du-durcissement-des-regles_6773359_3224.html",
           "niveau": "moyen"
         },
         {
-          "titre": "Est-ce bien raisonnable de… vivre en tenue de sport ?",
-          "analyse": "Dans la mode comme dans la vie, il convient de connaître les limites à ne pas franchir. Ou alors, en connaissance de cause.",
+          "titre": "Les épargnants submergent le médiateur de l’Autorité des marchés financiers au s",
+          "analyse": "Le service du régulateur, qui sert à trouver des compromis en cas de litige avec des institutions financières, a vu ses demandes de saisine bondir de 37 % en 2025, un niveau qu’elle n’avait jamais connu. Cette envolée met ses services sous tension et allonge la durée de traitement des dossiers.",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/m-styles/article/2026/09/13/est-ce-bien-raisonnable-de-vivre-en-tenue-de-sport_6772367_4497319.html",
+          "url": "https://www.lemonde.fr/argent/article/2026/09/14/les-epargnants-submergent-le-mediateur-de-l-autorite-des-marches-financiers-au-sujet-de-leur-pea-des-scpi-et-du-crowdfunding_6773790_1657007.html",
           "niveau": "moyen"
         }
       ]
@@ -75,10 +75,52 @@
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "Why OpenAI’s Sam Altman says an IPO isn’t in the cards this year",
-          "analyse": "Concerns about AI safety have ramped up, and OpenAI’s CEO says now would be an ‘ill-advised’ time for the ChatGPT creator to go public",
+          "titre": "Should Anthropic press pause on a potential $2trn IPO?",
+          "analyse": "Amid a safety freakout, it wants to slow down AI development",
+          "source": "Business",
+          "url": "https://www.economist.com/business/2026/09/14/should-anthropic-press-pause-on-a-potential-2trn-ipo",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "How an oil-supply crisis could bring about an investment boom",
+          "analyse": "A Gulf-war windfall has boosted balance-sheets and enriched shareholders. Next: expansion",
+          "source": "Business",
+          "url": "https://www.economist.com/business/2026/09/13/how-an-oil-supply-crisis-could-bring-about-an-investment-boom",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Novo drops ‘Nordisk’ in corporate refresh to take on Lilly in the weight-loss wa",
+          "analyse": "The Danish drug giant behind Ozempic is competing with Eli Lilly in the market for weight-loss drugs.",
           "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/why-openais-sam-altman-says-an-ipo-isnt-in-the-cards-this-year-229de89c?mod=mw_rss_topstories",
+          "url": "https://www.marketwatch.com/story/novo-drops-nordisk-in-corporate-refresh-to-take-on-lilly-in-the-weight-loss-wars-a406161a?mod=mw_rss_topstories",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "‘He does not have a spouse or children’: My son has a serious genetic disease. W",
+          "analyse": "“He is also the sole beneficiary of my 403(b) accounts.”",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/he-does-not-have-a-spouse-or-children-my-son-has-a-serious-genetic-disease-what-should-i-do-with-my-1-3-million-estate-98cdccf9?mod=mw_rss_topstories",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "AI has been carrying the stock market. An industry pause could pull the rug out,",
+          "analyse": "Citigroup warns that if artificial-intelligence model developments slow, earnings revisions could follow, and those have been a crucial factor in stock gains this year.",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/ai-has-carried-the-stock-market-an-industry-pause-could-pull-the-rug-out-warns-this-wall-street-giant-3272c960?mod=mw_rss_topstories",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Oil over $100 has JPMorgan strategists warning stock-market investors against mi",
+          "analyse": "Brent crude and West Texas Intermediate’s front-month contracts rose on Monday after Saudi Arabia closed its East-West pipeline, citing damage cause by drone attacks.",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/oil-over-100-has-jpmorgan-stock-market-strategists-fearing-a-missing-out-on-a-swift-decline-ba32bfd4?mod=mw_rss_topstories",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Fed rate hikes won’t bring down gas prices. Why the bond market is pushing for t",
+          "analyse": "The 10-year Treasury yield is sitting on the doorstep of 5%, and that’s a warning sign for stocks.",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/fed-rate-hikes-wont-bring-down-gas-prices-why-the-bond-market-is-pushing-for-them-anyway-98f2c7e3?mod=mw_rss_topstories",
           "niveau": "moyen"
         },
         {
@@ -86,48 +128,6 @@
           "analyse": "“It wasn’t an ACA plan, but it was meaningfully cheaper than anything I could find on the ACA exchange.”",
           "source": "MarketWatch.com - Top Stories",
           "url": "https://www.marketwatch.com/story/i-still-dont-have-my-mri-my-health-insurer-canceled-my-plan-without-warning-is-that-legal-02143710?mod=mw_rss_topstories",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "My 87-year-old mother wants to pay for my brother’s kids’ education. I don’t hav",
-          "analyse": "“Over the years, my mother and I have supplemented his income.”",
-          "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/my-87-year-old-mother-wants-to-pay-for-my-brothers-kids-education-i-dont-have-children-is-that-fair-b647a4bd?mod=mw_rss_topstories",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "I want to pay for every customer at my late husband’s favorite restaurant on his",
-          "analyse": "“I’m concerned that my card issuers might freeze or flag the cards when they suddenly see an extraordinary number of transactions.”",
-          "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/on-my-late-husbands-birthday-i-want-to-pay-for-every-customer-at-his-favorite-restaurant-is-this-a-good-idea-a2748ccc?mod=mw_rss_topstories",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Xi pushes China’s open-source AI vision at BRICS summit",
-          "analyse": "",
-          "source": "All News",
-          "url": "https://www.investing.com/news/economy-news/xi-pushes-chinas-opensource-ai-vision-at-brics-summit-4898725",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Bitcoin slips below $77,000 as rate pressure clashes with diversification case",
-          "analyse": "",
-          "source": "All News",
-          "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-to-77200-as-rate-pressure-clashes-with-diversification-case-4898694",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Speculators turn bullish on yen for first time since February",
-          "analyse": "",
-          "source": "Forex News",
-          "url": "https://www.investing.com/news/forex-news/speculators-turn-bullish-on-yen-for-first-time-since-february-4898711",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "EUR/USD could retest 1.17 after Fed decision - Citi says",
-          "analyse": "",
-          "source": "Forex News",
-          "url": "https://www.investing.com/news/forex-news/eurusd-could-retest-117-after-fed-decision--citi-says-4898692",
           "niveau": "moyen"
         }
       ]
@@ -138,10 +138,17 @@
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "Christine Lagarde: Interview with Ouest-France",
+          "titre": "Piero Cipollone: The future of euro cash: trusted today, designed for tomorrow",
           "analyse": "",
           "source": "ECB - European Central Bank",
-          "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260912~3cc706f4d6.en.html",
+          "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260914_1~91d3436449.en.html",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Isabel Schnabel: Macroeconomic, fiscal and financial stability in a shock-prone ",
+          "analyse": "",
+          "source": "ECB - European Central Bank",
+          "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260914~0ffd556bc8.en.pdf",
           "niveau": "moyen"
         }
       ]
@@ -152,24 +159,24 @@
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "Immobilier Marcq-en-Barœul : Un nouveau siège social pour La Flandre Assurances",
-          "analyse": "Le bâtiment de 2 362 m² sera construit à Marcq-en-Barœul, près des locaux actuels de l’assureur. Les travaux doivent commencer en octobre 2026.\nCet article Immobilier Marcq-en-Barœul : Un nouveau siège social pour La Flandre Assurances   est apparu en premier sur MySweetimmo.",
+          "titre": "Crédit immobilier : Les taux remontent, jusqu’où iront-ils d’ici fin 2026 ?",
+          "analyse": "La BCE a relevé ses taux directeurs de 0,25 point. Pas de flambée immédiate attendue pour les crédits immobiliers, mais Meilleurtaux prévoit des taux pouvant atteindre 4 % sur 20 ans fin 2026.\nCet article Crédit immobilier : Les taux remontent, jusqu’où iront-ils d’ici fin 2026 ? est apparu en premi",
           "source": "MySweetimmo",
-          "url": "https://www.mysweetimmo.com/2026/09/13/immobilier-marcq-en-baroeul-un-nouveau-siege-social-pour-la-flandre-assurances/",
+          "url": "https://www.mysweetimmo.com/2026/09/14/credit-immobilier-les-taux-remontent-jusquou-iront-ils-dici-fin-2026/",
           "niveau": "moyen"
         },
         {
-          "titre": "Immobilier bas carbone : Nexity franchit le million de m²",
-          "analyse": "Nexity domine six catégories du palmarès BBCA 2026. Depuis 2016, le promoteur a fait labelliser 220 opérations bas carbone, représentant plus d’un million de mètres carrés en France.\nCet article Immobilier bas carbone : Nexity franchit le million de m² est apparu en premier sur MySweetimmo.",
+          "titre": "Immobilier : La FNAIM veut faire de chaque transaction un soutien à la recherche",
+          "analyse": "Pour ses 80 ans, la FNAIM s’associe à la Fondation pour la Recherche Médicale. Les agences immobilières volontaires verseront 30 € par vente et 5 € par location pour soutenir la recherche.\nCet article Immobilier : La FNAIM veut faire de chaque transaction un soutien à la recherche médicale est appar",
           "source": "MySweetimmo",
-          "url": "https://www.mysweetimmo.com/2026/09/13/immobilier-bas-carbone-nexity-franchit-le-million-de-m%c2%b2/",
+          "url": "https://www.mysweetimmo.com/2026/09/14/immobilier-la-fnaim-veut-faire-de-chaque-transaction-un-soutien-a-la-recherche-medicale/",
           "niveau": "moyen"
         },
         {
-          "titre": "Logement vacant : Votre nom transmis à la mairie dès 2027",
-          "analyse": "Dès 2027, les mairies recevront automatiquement le nom des propriétaires de logements vacants. Voici les données transmises et les taxes applicables.\nCet article Logement vacant : Votre nom transmis à la mairie dès 2027 est apparu en premier sur MySweetimmo.",
+          "titre": "Immobilier : Danim 2 veut simplifier la vie des agents grâce à l’IA",
+          "analyse": "Vidéos, home staging virtuel, retouche photo et réseaux sociaux : Danim 2 regroupe les outils de communication des conseillers immobiliers. Trois offres sont proposées de 49 à 89 € HT par mois.\nCet article Immobilier : Danim 2 veut simplifier la vie des agents grâce à l’IA est apparu en premier sur ",
           "source": "MySweetimmo",
-          "url": "https://www.mysweetimmo.com/2026/09/13/logement-vacant-votre-nom-transmis-a-la-mairie-des-2027/",
+          "url": "https://www.mysweetimmo.com/2026/09/14/immobilier-danim-2-veut-simplifier-la-vie-des-agents-grace-a-lia/",
           "niveau": "moyen"
         }
       ]
@@ -180,59 +187,248 @@
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "EasyJet France: l'appel à la grève des pilotes repoussé à fin septembre",
-          "analyse": "La grève des pilotes d&#039;EasyJet en France, initialement prévue dimanche et lundi, a été suspendue et repoussée à fin septembre, en raison d&#039;une reprise des négociations avec la direction, a indiqué le...",
+          "titre": "Ralentir la course à l'IA, à quel prix ? Les marchés s'inquiètent",
+          "analyse": "Ralentir le développement de l&#039;IA, à quel prix ? Les marchés s&#039;inquiètent pour les centaines de milliards investis dans le secteur de la tech, seul relais de croissance boursière depuis...",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/depeches/easyjet-france-l-appel-a-la-greve-des-pilotes-repousse-a-fin-septembre-138229",
+          "url": "https://www.notretemps.com/depeches/ralentir-la-course-a-l-ia-a-quel-prix-les-marches-s-inquietent-138258",
           "niveau": "moyen"
         },
         {
-          "titre": "Déraillement en Normandie: outre l'enquête judiciaire, une enquête technique ouv",
-          "analyse": "Le déraillement d&#039;un train régional vendredi près de Rouen, qui fait déjà l&#039;objet d&#039;une enquête judiciaire, a également donné lieu à l&#039;ouverture d&#039;une enquête technique, par l&#039;organisme spécialisé, a...",
+          "titre": "Un SDF jeté à terre par un policier à Carcassonne, enquête pour \"violences volon",
+          "analyse": "Le parquet de Carcassonne a annoncé lundi l&#039;ouverture d&#039;une enquête pour \"violences volontaires\" visant un agent de la police nationale qu&#039;une vidéo montre en train de jeter à terre un SDF, décédé plu...",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/depeches/deraillement-en-normandie-outre-l-enquete-judiciaire-une-enquete-technique-ouverte-138228",
+          "url": "https://www.notretemps.com/depeches/un-sdf-jete-a-terre-par-un-policier-a-carcassonne-enquete-pour-violences-volontaires-138257",
           "niveau": "moyen"
         },
         {
-          "titre": "Le Pen à Hénin-Beaumont pour reprendre le fil d'une campagne à deux visages",
-          "analyse": "Marine Le Pen de retour sur le terrain. La candidate du Rassemblement national, en tête dans les sondages, prononce dimanche après-midi dans son fief d&#039;Hénin-Beaumont le premier véritable discours d&#039;u...",
+          "titre": "Poussée d'arthrose: les traitements efficaces pour soulager durablement la doule",
+          "analyse": "La prise en charge de l&#039;arthrose a beaucoup évolué, quel que soit le stade de la maladie. La douleur est souvent ce qui amène à consulter. Quelles solutions ont fait leurs preuves aujourd&#039;hui? Où en est-on côté recherche avec les futurs traitements en cours d&#039;évaluation? Voici toutes ",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/depeches/le-pen-a-henin-beaumont-pour-reprendre-le-fil-d-une-campagne-a-deux-visages-138225",
+          "url": "https://www.notretemps.com/sante-bien-etre/medecine/quels-traitements-pour-soulager-et-reduire-la-douleur-lors-des-poussees-d-arthrose-136593",
           "niveau": "moyen"
         },
         {
-          "titre": "Pour mon départ à la retraite, un pot… ou pas: vos témoignages émouvants",
-          "analyse": "De beaux discours, quelques bulles, des fleurs, une enveloppe… Cela permet souvent de tourner la page de la vie professionnelle. Ce dernier jour avant la retraite, c&#039;est souvent émouvant, parfois insatisfaisant. Il arrive aussi que cette porte se ferme en silence. Vous nous avez confié vos souv",
+          "titre": "Déchets nucléaires: avis favorable de la commission d'enquête pour Cigéo",
+          "analyse": "Le projet Cigéo d&#039;enfouissement de déchets hautement radioactifs près de Bure (Meuse) a obtenu un avis favorable à l&#039;issue de l&#039;enquête publique menée entre mai et juillet, une étape indispensable à s...",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/retraite/partir/pour-mon-depart-a-la-retraite-un-pot-ou-pas-136443",
+          "url": "https://www.notretemps.com/depeches/dechets-nucleaires-avis-favorable-de-la-commission-d-enquete-pour-cigeo-138255",
           "niveau": "moyen"
         },
         {
-          "titre": "Expositions et spectacles: les rendez-vous culturels incontournables de septembr",
-          "analyse": "Ce mois-ci, direction Aix-en-Provence pour célébrer l&#039;oeil photographique de Paul McCartney, puis virage au nord, à Paris où de grandes expositions commencent, l&#039;une dédiée à la peinture de Paul Cézanne, l&#039;autre au roi de la cascade, Jean-Paul Belmondo. Sans oublier un hommage à Rosa ",
+          "titre": "Ce que l'on sait des nouvelles pistes pour interdire les réseaux sociaux aux ado",
+          "analyse": "Fonctionnalités addictives, accord parental: un mois après sa censure par le Conseil constitutionnel, Emmanuel Macron a annoncé lundi avoir présenté à Bruxelles une version amendée du pr...",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/loisirs/musees/expositions-et-spectacles-les-rendez-vous-culturels-incontournables-de-septembre-2026-136405",
+          "url": "https://www.notretemps.com/depeches/ce-que-l-on-sait-des-nouvelles-pistes-pour-interdire-les-reseaux-sociaux-aux-ados-138253",
           "niveau": "moyen"
         },
         {
-          "titre": "Comment calculer les droits de donation et de succession à payer en 2026 selon v",
-          "analyse": "Vous êtes conjoint, enfant ou bien encore soeur ou cousin d&#039;un défunt? Selon votre degré de parenté, voici comment se calculent les droits de donation et de succession pour une donation ou une succession ouverte en 2026. Abattements, taux d&#039;imposition, exonérations... On fait le point sur ",
+          "titre": "Examen en cassation le 30 septembre pour \"Gino\", antifasciste albanais réclamé p",
+          "analyse": "La Cour de cassation de Paris examinera le 30 septembre la remise aux autorités allemandes de \"Gino\", que ce militant antifasciste albanais conteste, a indiqué lundi son comité de soutien.Le 19 août,...",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/droit-argent/succession/comment-calculer-des-droits-de-donation-et-de-succession-selon-degre-parente-136309",
+          "url": "https://www.notretemps.com/depeches/examen-en-cassation-le-30-septembre-pour-gino-antifasciste-albanais-reclame-par-l-allemagne-138250",
           "niveau": "moyen"
         },
         {
-          "titre": "Quiz culture générale: quel sera votre score à ces 10 questions?",
-          "analyse": "C&#039;est l&#039;heure pour les enfants de rejoindre leurs classes… Et pourquoi pas pour vous de retrouver le plaisir de faire un quiz, de répondre à quelques questions de géographie et se remémorer des poèmes appris dans l&#039;enfance?",
+          "titre": "Un SDF jeté à terre par un policier à Carcassonne, enquête pour \"violences volon",
+          "analyse": "Une enquête judiciaire a été ouverte dimanche pour \"violences volontaires\" visant un fonctionnaire de la police nationale à Carcassonne, qu&#039;une vidéo montre en train de jeter à terre un jeune sans dom...",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/loisirs/histoire/quiz-culture-generale-quel-sera-votre-score-a-ces-10-questions-137891",
+          "url": "https://www.notretemps.com/depeches/un-sdf-jete-a-terre-par-un-policier-a-carcassonne-enquete-pour-violences-volontaires-138249",
           "niveau": "moyen"
         },
         {
-          "titre": "Mots fléchés gratuits - Force 4 - 13 septembre 2026 Grille n°4063",
-          "analyse": "Remplissez la grille de mots fléchés Force 4 ci-dessous. Il vous suffit de cliquer sur une case pour pouvoir y entrer la lettre de votre choix. Grille n°4063  du 13 septembre 2026",
+          "titre": "Levée de boucliers contre les propositions logement de Marine Le Pen",
+          "analyse": "Les propositions en matière de logement de Marine Le Pen ulcèrent personnalités politiques de gauche et associations, notamment l&#039;idée de réserver les logements HLM aux Français, \"une lubie xénophobe\"...",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/jeux/jeux-en-ligne/mots-fleches/force-4/mots-fleches-gratuits-force-4-13-septembre-2026-grille-4063",
+          "url": "https://www.notretemps.com/depeches/levee-de-boucliers-contre-les-propositions-logement-de-marine-le-pen-138248",
+          "niveau": "moyen"
+        }
+      ]
+    },
+    {
+      "titre": "Finance_Pro",
+      "icone": "📰",
+      "niveau_global": "moyen",
+      "items": [
+        {
+          "titre": "OKX lance les marchés pré-IPO et les actions tokenisées pour les traders europée",
+          "analyse": "OKX lance aujourd’hui les marchés pré-IPO et les actions tokenisées pour les traders éligibles en Europe. Ils peuvent désormais prendre position sur des entreprises privées, notamment OpenAI et Anthropic, avant leur introduction en Bourse, mais aussi trader des actions cotées en dehors des horaires ",
+          "source": "Finyear",
+          "url": "https://finyear.com/okx-lance-les-marches-pre-ipo-et-les-actions-tokenisees-pour-les-traders-europeens/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Realease Capital veut doubler son chiffre d’affaires en cinq ans",
+          "analyse": "À l’occasion de ses 40 ans et de l’arrivée de Patrick Henrion à sa présidence, Realease Capital ouvre une nouvelle étape de son développement. L’entreprise française indépendante, spécialisée dans la location et la gestion d’équipements professionnels, réalise 188 M€ de chiffre d’affaires et gère pl",
+          "source": "Finyear",
+          "url": "https://finyear.com/realease-capital-veut-doubler-son-chiffre-daffaires-en-cinq-ans/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Paiements internationaux : la cybersécurité entre dans l’ère de la preuve",
+          "analyse": "Par Olivier Patole, CEO de TRUSTABLE\nLa cybersécurité des paiements internationaux a longtemps été pensée sous l’angle de la protection : sécuriser les infrastructures, protéger les échanges,  réduire les vulnérabilités, etc. Si cette approche reste essentielle, elle ne suffit plus face à l’évolutio",
+          "source": "Finyear",
+          "url": "https://finyear.com/paiements-internationaux-la-cybersecurite-entre-dans-lere-de-la-preuve/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Coinhouse intègre les fonds monétaires Spiko dans son application : Amundi, bons",
+          "analyse": "Coinhouse, plateforme française de crypto-actifs agréée MiCA (n° A2026-013) et établissement de paiement agréé par l&rsquo;ACPR (n° 17998), annonce ce 14 septembre 2026 un partenariat avec Spiko Finance SAS, entreprise d&rsquo;investissement agréée par l&rsquo;ACPR, pour donner accès à ses clients à",
+          "source": "Finyear",
+          "url": "https://finyear.com/coinhouse-integre-les-fonds-monetaires-spiko-dans-son-application-amundi-bons-du-tresor-euro-et-us-des-1-euro/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Deux nouvelles arrivées chez Isatis Capital :Alexandre Chevet et Théa Chaduteau",
+          "analyse": "Isatis Capital, spécialiste du capital-investissement sur le segment du LBO primaire, poursuit le développement de ses équipes avec l’arrivée d’Alexandre Chevet en qualité de Directeur de Participations et de Théa Chaduteau en tant qu’Analyste. Ces arrivées s&rsquo;inscrivent dans la continuité du r",
+          "source": "Finyear",
+          "url": "https://finyear.com/deux-nouvelles-arrivees-chez-isatis-capital-alexandre-chevet-et-thea-chaduteau/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Tandem Health lève 100 M$, avec Scaleup Europe Fund géré par EQT",
+          "analyse": "Tandem Health, acteur européen de l’IA en santé, annonce aujourd’hui avoir levé 100 M$ dans le cadre d’un tour de financement de série B, mené par le Scaleup Europe Fund, géré par EQT, avec la participation de nouveaux investisseurs, T.Capital (branche d’investissement de Deutsche Telekom) et Norrsk",
+          "source": "Finyear",
+          "url": "https://finyear.com/tandem-health-leve-100-m-avec-scaleup-europe-fund-gere-par-eqt/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "La divulgation sélective : le levier d’adoption le plus clair de l’EUDI Wallet",
+          "analyse": "Parmi tous les résultats de l&rsquo;enquête IDnow, un se distingue comme le moteur le plus direct de l&rsquo;adoption : 62% des Français déclarent qu&rsquo;ils seraient davantage enclins à utiliser l&rsquo;EUDI Wallet si la divulgation sélective était garantie — la capacité de prouver sa majorité sa",
+          "source": "Finyear",
+          "url": "https://finyear.com/la-divulgation-selective-le-levier-dadoption-le-plus-clair-de-leudi-wallet/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "87% des Français craignent le piratage, 82% de perdre leur téléphone avec leur i",
+          "analyse": "Confrontés à une liste de risques potentiels associés à un portefeuille d&rsquo;identité numérique, les consommateurs français n&rsquo;ont pas répondu au hasard. 87% redoutent le piratage ou le vol de données, 87% la fraude bancaire, 82% de perdre leur téléphone et avec lui leur identité, 82% la col",
+          "source": "Finyear",
+          "url": "https://finyear.com/87-des-francais-craignent-le-piratage-82-de-perdre-leur-telephone-avec-leur-identite/",
+          "niveau": "moyen"
+        }
+      ]
+    },
+    {
+      "titre": "Reglementation",
+      "icone": "📋",
+      "niveau_global": "moyen",
+      "items": [
+        {
+          "titre": "FLASH : Deux magistrats mettent en cause Gérald Darmanin devant leur collège de ",
+          "analyse": "Le Coll&#232;ge de d&#233;ontologie des magistrats judiciaires a &#233;t&#233; saisi par mail d&#233;but juillet de deux demandes d&#8217;avis venant de magistrats du parquet des mineurs sur font d&#8217;affaire Lyhanna. D&#233;non&#231;ant le manque de moyens de la justice, mais aussi et surtout le",
+          "source": "Actu-Juridique",
+          "url": "https://www.actu-juridique.fr/professions/magistrats/flash-deux-magistrats-mettent-en-cause-gerald-darmanin-devant-leur-college-de-deontologie/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "« Madame, on vous croit mais… » : une formule d’audience à l’épreuve du droit",
+          "analyse": "On entend de plus en plus &#224; l&#8217;audience la phrase &#171; Madame, on vous croit mais&#8230; &#187;. D&#8217;o&#249; vient cette formule ? A-t-elle un sens en mati&#232;re judiciaire ? Produit-elle des effets ? &#201;l&#233;ments de r&#233;ponse avec la magistrate Val&#233;rie-Odile Dervieux",
+          "source": "Actu-Juridique",
+          "url": "https://www.actu-juridique.fr/droit-penal/violences-sexuelles/madame-on-vous-croit-mais-une-formule-daudience-a-lepreuve-du-droit/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Mort de F.M. Aramburú : « Il a souffert » et « s’est vu mourir »",
+          "analyse": "Au terme de la premi&#232;re semaine du proc&#232;s de Lo&#239;k Le Priol, de Romain Bouvier et Lyson R., il semble que la mort du rugbyman Federico Mart&#237;n Arambur&#250; est surtout due &#224; l&#8217;orgueil bless&#233; d&#8217;un ancien militaire en &#233;tat d&#8217;&#233;bri&#233;t&#233;. &",
+          "source": "Actu-Juridique",
+          "url": "https://www.actu-juridique.fr/penal/mort-de-f-m-aramburu-il-a-souffert-et-sest-vu-mourir/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Les principales dispositions de la loi du 25 juin 2026 relative à la lutte contr",
+          "analyse": "La loi relative &#224; la lutte contre les fraudes sociales et fiscales a &#233;t&#233; promulgu&#233;e le 25 juin 2026. L&#8217;objectif est de toujours mieux d&#233;tecter, emp&#234;cher et recouvrer la fraude. Le texte vise &#224; amplifier la strat&#233;gie men&#233;e depuis 2023 avec la feuille",
+          "source": "Actu-Juridique",
+          "url": "https://www.actu-juridique.fr/fiscalite/fiscal-finances/les-principales-dispositions-de-la-loi-du-25-juin-2026-relative-a-la-lutte-contre-les-fraudes-sociales-et-fiscales/",
+          "niveau": "moyen"
+        }
+      ]
+    },
+    {
+      "titre": "ESG",
+      "icone": "🌱",
+      "niveau_global": "moyen",
+      "items": [
+        {
+          "titre": "IA : contenus violents, travailleurs exposés… Teleperformance rattrapé par son d",
+          "analyse": "Teleperformance est mis en demeure par plusieurs organisations. @Vimeo\nDes milliers d’heures de modération, des contenus violents, traumatisants ou haineux… Voilà à quoi sont exposés les travailleurs de la donnée au service de l’intelligence artificielle. Or, selon plusieurs organisations, dont la C",
+          "source": "Novethic",
+          "url": "https://www.novethic.fr/economie-et-social/droits-humains/ia-contenus-violents-travailleurs-exposes-teleperformance-rattrape-par-son-devoir-de-vigilance",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Carbone, biodiversité, eau, sols : la France inaugure le premier projet quadrupl",
+          "analyse": "Dans le Cantal, la forêt de Montignac près de 140 000 crédits eau. @DR\nCarbone, biodiversité, eau et sol… Dans le sud de la France, deux projets de reforestation et d’agroforesterie viennent d’obtenir une quadruple certification, ce qui leur permettra de générer des crédits pour chacune de ces quatr",
+          "source": "Novethic",
+          "url": "https://www.novethic.fr/environnement/climat/carbone-biodiversite-eau-sols-la-france-inaugure-le-premier-projet-quadruplement-certifie-au-monde",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Le changement climatique va-t-il faire perdre son statut de leader touristique à",
+          "analyse": "Tour Eiffel fermée pendant la canicule de juin 2026. @ANNICE LYN / GETTY IMAGES EUROPE / GETTY IMAGES VIA AFP\nEn ce 12 juillet, les abords de la Tour Eiffel, monument phare de la capitale et le plus visité du monde, sont étrangement calmes. Il est 18h et il fait une chaleur de plomb sur l’esplanade ",
+          "source": "Novethic",
+          "url": "https://www.novethic.fr/environnement/climat/le-changement-climatique-va-t-il-faire-perdre-son-statut-de-leader-touristique-a-la-france",
+          "niveau": "moyen"
+        }
+      ]
+    },
+    {
+      "titre": "Fintech",
+      "icone": "📰",
+      "niveau_global": "moyen",
+      "items": [
+        {
+          "titre": "Les levées de fonds de la deeptech européenne du 7 au 13 septembre 2026",
+          "analyse": "Derrière les milliards, plusieurs économies du risque Que développe l’entreprise, qui la dirige, qui apporte les fonds et quelle étape doit être franchie ? Ces quatre questions permettent de lire autrement les financements de la deeptech européenne. Derrière les montants, cette sélection de dix opér",
+          "source": "FW.MEDIA",
+          "url": "https://www.frenchweb.fr/les-levees-de-fonds-de-la-deeptech-europeenne-du-7-au-13-septembre-2026/463393",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Mineurs et réseaux sociaux : Emmanuel Macron porte en Europe la bataille de l’in",
+          "analyse": "Après la censure du dispositif français, Emmanuel Macron demande une interdiction européenne des réseaux sociaux aux moins de 15 ans. Plusieurs gouvernements soutiennent des restrictions, avec des seuils allant de 14 à 16 ans et des approches différentes des exceptions. L’Espagne et les Pays-Bas veu",
+          "source": "FW.MEDIA",
+          "url": "https://www.frenchweb.fr/mineurs-et-reseaux-sociaux-emmanuel-macron-porte-en-europe-la-bataille-de-linterdiction/462990",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Avec 86,5 millions d’euros, TANDEM HEALTH veut passer du scribe médical au systè",
+          "analyse": "La scale-up suédoise Tandem Health boucle une série B de 86,5 millions d&#8217;euros menée par le Scaleup Europe Fund d’EQT. Derrière le montant, l’opération traduit surtout un changement de catégorie : après avoir automatisé la documentation médicale, Tandem veut intervenir avant, pendant et après ",
+          "source": "FW.MEDIA",
+          "url": "https://www.frenchweb.fr/avec-865-millions-deuros-tandem-health-veut-passer-du-scribe-medical-au-systeme-dexploitation-clinique/463406",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "🗓️ Event – Exister au-delà du clic : Repenser la performance digitale à l’ère du",
+          "analyse": "Le trafic seul ne suffit plus à mesurer la performance d’une stratégie digitale. Avec l’essor des AI Overviews, des moteurs conversationnels et du Social Search, les marques doivent désormais être visibles, crédibles, citées… et capables de mieux convertir chaque visite obtenue. C’est le sujet centr",
+          "source": "FW.MEDIA",
+          "url": "https://www.frenchweb.fr/%f0%9f%97%93%ef%b8%8f-event-marketing-digital-days-6eme-edition-repenser-la-performance-digitale-a-lere-du-zero-clic-et-de-lia/463413",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "La deeptech se finance désormais selon plusieurs économies du capital",
+          "analyse": "Les entreprises européennes de la deeptech ont levé 20,3 milliards de dollars en 2025, soit près du tiers de l’ensemble du capital-risque investi sur le continent. Ce total apparemment homogène rassemble pourtant des trajectoires qui le sont de moins en moins. Les financements des nouvelles technolo",
+          "source": "FW.MEDIA",
+          "url": "https://www.frenchweb.fr/la-deeptech-se-finance-desormais-selon-plusieurs-economies-du-capital/463253",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Info JDN. L'indice de résilience numérique va s'élargir aux PME et à toute l'Eur",
+          "analyse": "Les dirigeants de l'Association for Digital Resilience Initiative (aDRI) veulent simplifier les critères d'évaluation de l'IRN pour les PME et l'imposer en Europe grâce aux caisses des dépôts du continent.",
+          "source": "JDN : Derniers contenus",
+          "url": "https://www.journaldunet.com/cybersecurite/1554773-exclu-les-ambitions-de-l-irn-acces-aux-pme-plus-de-consultants-europeanisation/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Fintech : le nombre de levées de fonds en chute libre au niveau mondial",
+          "analyse": "Les jeunes pousses de la finance ont réalisé 726 tours de table au deuxième trimestre 2026. Deux ans plus tôt, à la même période, ce nombre atteignait 1 388, soit près du double.",
+          "source": "JDN : Derniers contenus",
+          "url": "https://www.journaldunet.com/fintech/1554807-fintech-le-nombre-de-levees-de-fonds-en-chute-libre-au-niveau-mondial/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "GPT-6 Astra vs Claude Fable 5.1 : quel est le meilleur modèle ?",
+          "analyse": "Lancés tous deux en septembre 2026, les modèles d'Anthropic et d'OpenAI dominent sur le code, le raisonnement brut et les sciences. Leurs différences restent pourtant marquées à l'usage.",
+          "source": "JDN : Derniers contenus",
+          "url": "https://www.journaldunet.com/intelligence-artificielle/1554683-gpt-6-astra-vs-claude-fable-5-1-quel-est-le-meilleur-modele/",
           "niveau": "moyen"
         }
       ]
