@@ -1,8 +1,8 @@
 {
-  "date_fr": "Friday 18 September 2026",
-  "compte_articles": 250,
+  "date_fr": "Saturday 19 September 2026",
+  "compte_articles": 219,
   "compte_forts": 0,
-  "compte_moyens": 250,
+  "compte_moyens": 219,
   "synthese_jour": "Synthese IA non disponible (fallback). Consultez les articles ci-dessous.",
   "chiffres_cles": [],
   "sections": [
@@ -12,59 +12,59 @@
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "EN DIRECT, présidentielle 2027 : « Le terme de terrorisme d’Etat a été mentionné",
-          "analyse": "Face à une « dégradation rapide » de la situation géopolitique et des prix des carburants « devenus insupportables », une rencontre à huis clos s’est tenue en fin de matinée avec Emmanuel Macron, Sébastien Lecornu, Yaël Braun-Pivet et les principaux chefs de partis et candidats à la présidentielle.",
+          "titre": "Budget : la dette publique française attendue à plus de 120 % du produit intérie",
+          "analyse": "Le gouvernement a transmis, vendredi, son projet de budget au Haut Conseil des finances publiques. Le texte prévoit une nouvelle hausse des prélèvements obligatoires, qui sera le principal facteur de la réduction attendue du déficit. La dette, elle, va poursuivre son ascension.",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/politique/live/2026/09/18/en-direct-presidentielle-2027-emmanuel-macron-recoit-les-chefs-de-parti-a-l-elysee-pour-evoquer-les-conflits-internationaux_6776151_823448.html",
+          "url": "https://www.lemonde.fr/politique/article/2026/09/19/budget-la-dette-publique-francaise-devrait-atteindre-un-nouveau-record-en-2027-a-plus-de-120-du-produit-interieur-brut_6777675_823448.html",
           "niveau": "moyen"
         },
         {
-          "titre": "La menace existentielle de l’IA sur l’humanité, risque théorique ou inquiétude l",
-          "analyse": "Le débat fait rage entre les scientifiques alertant sur un risque d’extinction de l’humanité provoquée par l’intelligence artificielle et ceux qui estiment que ces inquiétudes sont infondées. Mais de quoi parle-t-on précisément ?",
+          "titre": "La menace de microbes dangereux fabriqués avec l’aide de l’intelligence artifici",
+          "analyse": "Alors que les premiers virus conçus par IA viennent d’être décrits par une équipe américaine, le géant Anthropic annonce avoir été confronté à des tentatives de détournement de ses modèles pour créer de nouveaux agents pathogènes.",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/pixels/article/2026/09/18/pourquoi-la-menace-existentielle-de-l-ia-sur-l-humanite-reste-theorique-malgre-des-inquietudes-legitimes_6776740_4408996.html",
+          "url": "https://www.lemonde.fr/sciences/article/2026/09/19/la-menace-de-microbes-dangereux-fabriques-avec-l-aide-de-l-intelligence-artificielle-se-concretise_6777637_1650684.html",
           "niveau": "moyen"
         },
         {
-          "titre": "Prix des carburants : le gouvernement envisage de nouvelles aides « pour les Fra",
-          "analyse": "« Nous travaillons à un nouveau dispositif d’aide (...) à compter du 1ᵉʳ octobre », a déclaré sur France Inter la porte-parole du gouvernement, Maud Bregeon, en précisant que le maintien du dispositif « grands rouleurs » n’était qu’une des pistes étudiées.",
+          "titre": "Emmanuel Macron rend compte aux candidats à la présidentielle de la gravité de l",
+          "analyse": "Le président de la République a réuni, vendredi 18 septembre, les chefs de partis et les prétendants à l’Elysée, afin de partager des informations sur les conséquences pour la France des guerres en Iran et en Ukraine.",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/09/18/prix-des-carburants-le-gouvernement-ouvre-la-porte-a-de-nouvelles-aides-sur-fond-de-tension-sociale_6776774_823448.html",
+          "url": "https://www.lemonde.fr/politique/article/2026/09/19/emmanuel-macron-alerte-les-candidats-a-la-presidentielle-sur-la-gravite-de-la-situation-internationale-a-l-origine-de-la-crise-des-carburants_6777218_823448.html",
           "niveau": "moyen"
         },
         {
-          "titre": "« Pendant combien de temps va-t-on laisser cet homme cracher sa haine ? » : des ",
-          "analyse": "Le candidat à l’élection présidentielle a accusé jeudi soir, sur BFM-TV, le joueur de football de « solidarité islamique » avec les migrants à Ceuta. Une députée écologiste a saisi l’Arcom.",
+          "titre": "Les Etats-Unis ont renoncé à l’arraisonnement d’un navire chinois au Moyen-Orien",
+          "analyse": "L’incident intervient alors que l’armée et les services de renseignement américains accélèrent l’intégration de l’IA, de l’analyse du renseignement à la sélection de cibles.",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/09/18/pendant-combien-de-temps-va-t-on-laisser-cet-homme-cracher-sa-haine-des-propos-d-eric-zemmour-sur-kylian-mbappe-suscitent-l-indignation-a-gauche_6776777_823448.html",
+          "url": "https://www.lemonde.fr/international/article/2026/09/19/les-etats-unis-ont-renonce-a-l-arraisonnement-d-un-navire-chinois-au-moyen-orient-envisage-sur-la-base-d-un-rapport-en-partie-redige-par-ia-selon-cnn_6777674_3210.html",
           "niveau": "moyen"
         },
         {
-          "titre": "Delphine Ernotte Cunci, présidente de France Télévisions : « Je tire la sonnette",
-          "analyse": "Dans un entretien au « Monde », la patronne du groupe audiovisuel public dévoile une baisse de la dotation de l’Etat de 47 millions d’euros en 2027 et assure que le budget de l’entreprise sera amputé de 90 millions en raison du recul de la publicité et de l’absence de nouvelles cessions immobilières",
+          "titre": "La mise en cause par la justice de l’ex-« flic » des Bleus plonge la FFF et le s",
+          "analyse": "Chargé de la sécurité privé et des aspects logistiques au sein du staff du nouveau sélectionneur de l’équipe de France, l’ancien commandant divisionnaire Mohamed Sanhadji a été mis en examen pour, notamment, « corruption » et « blanchiment de fraude fiscale ».",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/09/18/delphine-ernotte-cunci-presidente-de-france-televisions-je-tire-la-sonnette-d-alarme-sur-la-sauvegarde-de-notre-modele-culturel_6776670_3234.html",
+          "url": "https://www.lemonde.fr/societe/article/2026/09/19/la-mise-en-cause-par-la-justice-de-l-ex-flic-des-bleus-plonge-la-fff-et-le-staff-de-zidane-dans-l-embarras_6777603_3224.html",
           "niveau": "moyen"
         },
         {
-          "titre": "EN DIRECT, guerre en Ukraine : un rapport des Nations unies documente plus de 1 ",
-          "analyse": "Le Haut-Commissariat des Nations unies aux droits de l’homme attribue neuf cas sur dix au camp russe. « Je suis profondément alarmé par la prévalence de ces actes odieux (…) et je crains qu’ils ne se poursuivent », a déploré dans un communiqué Volker Türk.",
+          "titre": "EN DIRECT, guerre en Ukraine : le point sur la situation",
+          "analyse": "Selon les services de secours ukrainiens, au moins quatre personnes ont été tuées et onze blessées dans plusieurs bombardements russes vendredi soir et samedi matin.",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/international/live/2026/09/18/en-direct-guerre-en-ukraine-un-missile-touche-un-train-de-banlieue-dans-la-region-de-kharkiv_6772184_3210.html",
+          "url": "https://www.lemonde.fr/international/live/2026/09/19/en-direct-guerre-en-ukraine-le-point-sur-la-situation_6772184_3210.html",
           "niveau": "moyen"
         },
         {
-          "titre": "Détroit d’Ormuz : le trafic maritime en nette baisse, l’Iran revendique une atta",
-          "analyse": "Téhéran revendique une frappe délibérée contre un navire battant pavillon togolais, sur fond de chute du trafic maritime régional et de nouveaux raids saoudiens au Yémen.",
+          "titre": "Donald Trump annonce un accord de sécurité avec le Groenland, mettant fin au con",
+          "analyse": "Le président américain a évoqué, vendredi, le développement d’une « large présence militaire » sur le territoire arctique, renonçant de fait aux velléités d’annexion qui avaient ouvert une crise avec ses alliés.",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/international/article/2026/09/18/moyen-orient-un-petrolier-vise-dans-le-detroit-d-ormuz-le-trafic-maritime-en-net-recul_6776765_3210.html",
+          "url": "https://www.lemonde.fr/international/article/2026/09/19/donald-trump-annonce-un-accord-de-securite-avec-le-groenland-mettant-fin-au-contentieux-avec-le-danemark-l-ue-et-l-otan_6777111_3210.html",
           "niveau": "moyen"
         },
         {
-          "titre": "Avant les élections législatives en Israël, l’opposition à Benyamin Nétanyahou f",
-          "analyse": "Yaïr Golan, général à la retraite et leader des Démocrates (gauche), dénonce, avant le scrutin législatif du 27 octobre, les dissensions au sein de l’opposition. La candidature au poste de premier ministre de Gadi Eisenkot, donné favori dans les sondages, fait l’objet de manœuvres de la part de ses ",
+          "titre": "Réprimés au Nicaragua, accueillis aux Etats-Unis puis arrêtés par l’ICE : le sor",
+          "analyse": "Alors que Washington dénonce régulièrement les dérives dictatoriales du régime nicaraguayen, la police migratoire américaine a arrêté, depuis un an, neuf opposants en exil qui attendaient que leur demande d’asile soit traitée.",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/international/article/2026/09/18/en-israel-l-opposition-a-benyamin-netanyahou-fragilisee-par-ses-divisions-nous-ne-devons-pas-nous-attaquer-les-uns-les-autres_6776666_3210.html",
+          "url": "https://www.lemonde.fr/international/article/2026/09/19/reprimes-au-nicaragua-accueillis-aux-etats-unis-puis-arretes-par-l-ice-le-sort-cruel-des-opposants-a-ortega_6777397_3210.html",
           "niveau": "moyen"
         }
       ]
@@ -75,73 +75,59 @@
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "At last, India is getting serious about selling state assets",
-          "analyse": "But proper privatisation is another matter",
-          "source": "Business",
-          "url": "https://www.economist.com/business/2026/09/17/at-last-india-is-getting-serious-about-selling-state-assets",
+          "titre": "Stocks face a growing list of threats — so why are investors staying so calm?",
+          "analyse": "Investors are well aware of the risks, but they have simply decided none are significant enough to force them out of the market.",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/stocks-face-a-growing-list-of-threats-so-why-are-investors-staying-so-calm-a6acd7e5?mod=mw_rss_topstories",
           "niveau": "moyen"
         },
         {
-          "titre": "Wall Street is betting Trump backs down on Iran — but what if the ‘TACO’ trade f",
-          "analyse": "For six months, investors had a playbook: when Trump threatens Iran, buy the dip, because he always backs down. But in September, the playbook stopped working.",
+          "titre": "‘I’m burned out’: I’m constantly helping my cousin who is running out of money. ",
+          "analyse": "“I spend a lot of time away from my family and spend money on gas, taking him out to eat.”",
           "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/wall-street-is-betting-trump-backs-down-on-iran-but-what-if-the-taco-trade-fails-this-time-53845c77?mod=mw_rss_topstories",
+          "url": "https://www.marketwatch.com/story/im-burned-out-im-constantly-helping-my-cousin-who-is-running-out-of-money-is-it-too-much-to-expect-his-sister-to-help-540def9a?mod=mw_rss_topstories",
           "niveau": "moyen"
         },
         {
-          "titre": "The 10-year Treasury is having its worst run in over 100 years. Why investors ar",
-          "analyse": "“The higher that yields go — for at least new money — it becomes more enticing to think about putting money into bonds,” one strategist notes.",
+          "titre": "Why investors shouldn’t be spooked by fears of an October stock-market crash",
+          "analyse": "You may be able to profit from investors’ irrational belief that crashes are especially likely to occur in October.",
           "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/the-bond-market-is-seeing-trouble-why-investors-are-buying-now-anyway-065a2f9f?mod=mw_rss_topstories",
+          "url": "https://www.marketwatch.com/story/why-investors-shouldnt-be-spooked-by-fears-of-an-october-stock-market-crash-ac0eb2e1?mod=mw_rss_topstories",
           "niveau": "moyen"
         },
         {
-          "titre": "A sideways market and rising earnings are presenting a buying opportunity for th",
-          "analyse": "A reset for technology makes the sector more attractive relative to the market, says Truist.",
+          "titre": "It’s almost impossible to sell a condo unit these days: ‘I feel trapped’",
+          "analyse": "Selling a condominium unit has become a challenge for many, as buyers get spooked at the prospect of bearing ever-rising HOA fees — even if the home comes with a lower price tag.",
           "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/a-sideways-market-and-rising-earnings-are-presenting-opportunities-not-seen-since-chatgpt-first-launched-0c37f89d?mod=mw_rss_topstories",
+          "url": "https://www.marketwatch.com/story/its-almost-impossible-to-sell-a-condo-these-days-i-feel-trapped-1f96ce37?mod=mw_rss_topstories",
           "niveau": "moyen"
         },
         {
-          "titre": "More Americans are about to get scammed by the coming peptide rush",
-          "analyse": "Patients will order these cheaper, unproven products via an 800-number or the internet, skipping appointments with real doctors who can provide accurate diagnoses and proven treatments.",
+          "titre": "Amazon, Palantir and 12 more top tech stock picks from UBS analysts",
+          "analyse": "The AI data-center buildout is still early, and UBS says investors can cash in through investments across the technology, media and telecommunications sectors.",
           "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/more-americans-are-about-to-get-scammed-by-the-coming-peptide-rush-c835bc3d?mod=mw_rss_topstories",
+          "url": "https://www.marketwatch.com/story/amazon-palantir-and-12-more-top-tech-stock-picks-from-ubs-analysts-435244bb?mod=mw_rss_topstories",
           "niveau": "moyen"
         },
         {
-          "titre": "Warren Buffett exits Berkshire Hathaway as his son Howard becomes chairman",
-          "analyse": "Warren Buffett, the investing legend that turned Berkshire Hathaway into an massive conglomerate, has officially stepped aside as chairman after leaving as CEO at the beginning of the year.",
+          "titre": "Stocks are failing the ‘breadth’ test, but options traders still see reason to b",
+          "analyse": "An options volatility tracker has produced a “spike peak” buy signal for stocks for the first time in months, at a time that internal market indicators are negative.",
           "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/warren-buffett-exits-as-berkshire-hathaway-as-his-son-howard-becomes-chairman-095cc4f9?mod=mw_rss_topstories",
+          "url": "https://www.marketwatch.com/story/stocks-are-failing-the-breadth-test-but-options-traders-still-see-reason-to-buy-ef78ef14?mod=mw_rss_topstories",
           "niveau": "moyen"
         },
         {
-          "titre": "The Fed’s never been so confident on economic growth. What investors should do n",
-          "analyse": "Members of the Federal Open Market Committee showed their lowest level of worry about gross domestic product growth since it first started releasing its outlook.",
+          "titre": "Most of what you know about data centers is wrong",
+          "analyse": "As AI hysteria reaches a fever pitch, it’s time to look at the evidence.",
           "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/the-feds-never-been-so-confident-on-economic-growth-what-investors-should-do-now-according-to-kkr-b2eef2ee?mod=mw_rss_topstories",
+          "url": "https://www.marketwatch.com/story/most-of-what-you-know-about-data-centers-is-wrong-e6e8936c?mod=mw_rss_topstories",
           "niveau": "moyen"
         },
         {
-          "titre": "The Fed hasn’t been this terse since 2007. What a 130-word statement signals for",
-          "analyse": "Bank of America calculates this week’s Federal Open Market Committee statement explaining the decision to lift interest rates by a quarter-point as its most terse, at just 130 words, since 2007.",
-          "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/the-fed-hasnt-been-this-terse-since-2007-what-a-130-word-statement-signals-for-market-stability-0fd31292?mod=mw_rss_topstories",
-          "niveau": "moyen"
-        }
-      ]
-    },
-    {
-      "titre": "Marches financiers",
-      "icone": "🏛️",
-      "niveau_global": "moyen",
-      "items": [
-        {
-          "titre": "Boris Vujčić: Interview with Reuters",
+          "titre": "Canada optimistic about concluding trade talks with India by year-end, minister ",
           "analyse": "",
-          "source": "ECB - European Central Bank",
-          "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260918~33f023fe26.en.html",
+          "source": "All News",
+          "url": "https://www.investing.com/news/commodities-news/canada-optimistic-about-concluding-trade-talks-with-india-by-yearend-minister-says-4908078",
           "niveau": "moyen"
         }
       ]
@@ -152,45 +138,59 @@
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "Cœur de Régions acquiert un terrain de 3 630 m² à Brétigny-sur-Orge",
-          "analyse": "SCPI Cœur de Régions investit à Brétigny-sur-Orge avec baux très longs. Quel impact sur la visibilité locative et le risque pour l’épargnant ?",
+          "titre": "Alderan nomme Laetitia Bernier directrice marketing et communication",
+          "analyse": "Pourquoi Alderan renforce son marketing avec Laetitia Bernier dans un marché SCPI en mutation ? Découvrez les enjeux stratégiques et impacts",
           "source": "MeilleureSCPI.com",
-          "url": "https://www.meilleurescpi.com/actualites/coeur-de-regions-acquiert-un-terrain-de-3-630-m2-a-bretigny-sur-orge/",
+          "url": "https://www.meilleurescpi.com/actualites/alderan-nomme-laetitia-bernier-directrice-marketing-et-communication/",
           "niveau": "moyen"
         },
         {
-          "titre": "Le fonds Last Mile Logistics acquiert le projet Massilia à Marseille",
-          "analyse": "Comment l’acquisition de Massilia à Marseille renforce-t-elle la stratégie logistique urbaine de Last Mile Logistics ? Découvrez ses atouts et enjeux clés.",
+          "titre": "Damien Pocas devient directeur commercial de Sogenial Immobilier",
+          "analyse": "Quel impact aura la nomination de Damien Pocas comme directeur commercial de Sogenial Immobilier sur la stratégie et les partenaires ? Analysez les enjeux.",
           "source": "MeilleureSCPI.com",
-          "url": "https://www.meilleurescpi.com/actualites/le-fonds-last-mile-logistics-acquiert-le-projet-massilia-a-marseille/",
+          "url": "https://www.meilleurescpi.com/actualites/damien-pocas-devient-directeur-commercial-de-sogenial-immobilier/",
           "niveau": "moyen"
         },
         {
-          "titre": "La SC Terres Invest étend son patrimoine agricole dans la Vienne",
-          "analyse": "Comment Terres Invest sécurise 126 ha irrigués dans la Vienne avec 2,58 % brut et bail 18 ans ? Découvrez les chiffres clés et l’intérêt patrimonial.",
+          "titre": "SCPI Linaclub : une revalorisation de 2 % du prix de la part",
+          "analyse": "SCPI Linaclub relève son prix de part à 204 € tout en restant décotée face à sa valeur de reconstitution. Découvrez l’impact réel sur votre rendement.",
           "source": "MeilleureSCPI.com",
-          "url": "https://www.meilleurescpi.com/actualites/la-sc-terres-invest-etend-son-patrimoine-agricole-dans-la-vienne/",
+          "url": "https://www.meilleurescpi.com/actualites/scpi-linaclub-une-revalorisation-de-2-du-prix-de-la-part/",
           "niveau": "moyen"
         },
         {
-          "titre": "SCPI : faut-il repenser les frais d’entrée ?",
-          "analyse": "Le marché des SCPI évolue, et avec lui les attentes des épargnants. Plus attentifs à la transparence, à la simplicité, et à l’alignement des intérêts, les investisseurs comme leurs conseillers regardent désormais de plus près la manière dont les frais sont structurés. Dans ce contexte, le modèle his",
-          "source": "Pierrepapier.fr",
-          "url": "https://www.pierrepapier.fr/scpi/scpi-faut-il-repenser-les-frais-dentree/",
+          "titre": "SCPI Principal Inside : une rentrée 2026 riche en nouveautés",
+          "analyse": "SCPI Principal Inside en 2026 : nouvelles acquisitions US, avance d’investissement, crédit possible. Comment ces leviers jouent sur rendement et risque ?",
+          "source": "MeilleureSCPI.com",
+          "url": "https://www.meilleurescpi.com/actualites/scpi-principal-inside-une-rentree-riche-en-nouveautes/",
           "niveau": "moyen"
         },
         {
-          "titre": "Immobilier Nantes : 50 logements neufs pour aider les primo-accédants à acheter",
-          "analyse": "À Doulon-Gohards, Cogedim lance 50 logements neufs, du studio au 5-pièces. Pour les primo-accédants éligibles à son offre Access, 500 € suffisent à la réservation.\nCet article Immobilier Nantes : 50 logements neufs pour aider les primo-accédants à acheter est apparu en premier sur MySweetimmo.",
+          "titre": "Mistral Sélection ajoute deux actifs portugais à son patrimoine",
+          "analyse": "Comment Mistral Sélection sécurise des loyers sur 15 ans au Portugal tout en visant un rendement cible supérieur à 7 % ? Découvrez les chiffres clés",
+          "source": "MeilleureSCPI.com",
+          "url": "https://www.meilleurescpi.com/actualites/la-scpi-mistral-selection-ajoute-deux-actifs-a-son-patrimoine/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Canicule : « L’épreuve de trop pour nos immeubles », François-Xavier Léoni",
+          "analyse": "La canicule met à l’épreuve des immeubles mal adaptés aux fortes chaleurs. François-Xavier Léoni, directeur de Bessé Immobilier &#038; Construction, appelle à repenser le DPE, la rénovation et l’assurance des bâtiments.\nCet article Canicule : « L’épreuve de trop pour nos immeubles », François-Xavier",
           "source": "MySweetimmo",
-          "url": "https://www.mysweetimmo.com/2026/09/18/immobilier-nantes-50-logements-neufs-pour-aider-les-primo-accedants-a-acheter/",
+          "url": "https://www.mysweetimmo.com/2026/09/19/canicule-lepreuve-de-trop-pour-nos-immeubles-francois-xavier-leoni/",
           "niveau": "moyen"
         },
         {
-          "titre": "Neuilly-sur-Seine : Un Français achète l’hôtel particulier de la famille royale ",
-          "analyse": "Propriété de la famille royale marocaine, un hôtel particulier de 1 325 m² à Neuilly-sur-Seine vient d’être acquis par un Français. Son prix reste confidentiel.\nCet article Neuilly-sur-Seine : Un Français achète l’hôtel particulier de la famille royale marocaine est apparu en premier sur MySweetimmo",
+          "titre": "Immobilier Paris 14e : Un ancien couvent transformé en 107 logements",
+          "analyse": "À partir de l’automne 2026, in’li transformera le site Paris Reille, ancien couvent de près de 9 000 m². Le projet prévoit 107 logements à prix maîtrisé, une structure pour enfants et un tiers-lieu ouvert au quartier.\nCet article Immobilier Paris 14e : Un ancien couvent transformé en 107 logements e",
           "source": "MySweetimmo",
-          "url": "https://www.mysweetimmo.com/2026/09/18/neuilly-sur-seine-un-francais-achete-lhotel-particulier-de-la-famille-royale-marocaine/",
+          "url": "https://www.mysweetimmo.com/2026/09/19/immobilier-paris-14e-un-ancien-couvent-transforme-en-107-logements/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Investissement immobilier : Quand l’attentisme devient un risque",
+          "analyse": "Avec 958 000 transactions dans l’ancien mais moins de 40 000 réservations dans le neuf, le marché immobilier se recompose. Pour Édouard Fourniau, président de Consultim Groupe, attendre la fin des incertitudes présente aussi un risque pour les investisseurs.\nCet article Investissement immobilier : Q",
+          "source": "MySweetimmo",
+          "url": "https://www.mysweetimmo.com/2026/09/19/investissement-immobilier-quand-lattentisme-devient-un-risque/",
           "niveau": "moyen"
         }
       ]
@@ -201,59 +201,59 @@
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "Retraite: ces raisons qui peuvent vous faire perdre le minimum vieillesse",
-          "analyse": "Le versement de l&#039;Allocation de solidarité aux personnes âgées (Aspa), autrement appelé minimum vieillesse, est soumis à des conditions de ressources et de résidence. Si elles ne sont pas respectées, son versement peut être modifié, voire interrompu.",
+          "titre": "Amazon renonce à la livraison gratuite de livres neufs dans ses casiers automati",
+          "analyse": "Amazon renonce à la livraison gratuite de livres neufs dans les casiers automatiques en France mais celle-ci reste gratuite pour les retraits à l&#039;accueil de commerces qui en vendent, a i...",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/retraite/comprendre/retraite-ces-raisons-pour-lesquelles-le-minimum-vieillesse-peut-cesser-d-etre-versee-138251",
+          "url": "https://www.notretemps.com/depeches/amazon-renonce-a-la-livraison-gratuite-de-livres-neufs-dans-ses-casiers-automatiques-en-france-138844",
           "niveau": "moyen"
         },
         {
-          "titre": "Macron reçoit les candidats à sa succession ou leur bras droit sur des crises qu",
-          "analyse": "Face à une \"dégradation rapide\" de la situation géopolitique et des prix du carburant \"devenus insupportables\", Emmanuel Macron a entamé vendredi une réunion confidentielle à l&#039;Elysée avec les princip...",
+          "titre": "Amazon renonce à la livraison gratuite de livres neufs dans ses casiers automati",
+          "analyse": "Amazon renonce à la livraison gratuite de livres neufs dans les casiers automatiques en France mais celle-ci reste gratuite pour les retraits à l&#039;accueil de commerces qui en vendent, a indiqué le géan...",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/depeches/macron-recoit-les-candidats-a-sa-succession-ou-leur-bras-droit-sur-des-crises-qui-risquent-de-durer-138789",
+          "url": "https://www.notretemps.com/depeches/amazon-renonce-a-la-livraison-gratuite-de-livres-neufs-dans-ses-casiers-automatiques-en-france-138841",
           "niveau": "moyen"
         },
         {
-          "titre": "France Télé devra économiser 90 millions d'euros en 2027, selon sa présidente",
-          "analyse": "La présidente de France Télévisions a révélé vendredi dans Le Monde que son groupe devra économiser 90 millions d&#039;euros en 2027, du fait notamment de la baisse des dotations de l&#039;Etat, e...",
+          "titre": "Amazon renonce à la livraison gratuite de livres neufs dans ses casiers automati",
+          "analyse": "Amazon renonce à la livraison gratuite de livres neufs dans les casiers automatiques en France mais celle-ci reste gratuite pour les retraits à l&#039;accueil de commerces qui en vendent, a i...",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/depeches/france-tele-devra-economiser-90-millions-d-euros-en-2027-selon-sa-presidente-138811",
+          "url": "https://www.notretemps.com/depeches/amazon-renonce-a-la-livraison-gratuite-de-livres-neufs-dans-ses-casiers-automatiques-en-france-138842",
           "niveau": "moyen"
         },
         {
-          "titre": "Carcassonne: Un aumônier militaire appelle \"les gauchistes\" à se calmer lors d'u",
-          "analyse": "Un aumônier militaire, attaché au 3e régiment de parachutistes d&#039;infanterie de marine basé à Carcassonne, appelle \"les gauchistes\" à se calmer lors d&#039;une messe en 2025, selon une vidéo r...",
+          "titre": "Le boeuf bourguignon",
+          "analyse": "Faire un boeuf bourguignon ne s&#039;improvise pas. Nous avons demandé sa recette à un spécialiste en la matière, Jean-Marc Cecconi, chef du bouillon Chartier.",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/depeches/carcassonne-un-aumonier-militaire-appelle-les-gauchistes-a-se-calmer-lors-d-une-messe-filmee-138810",
+          "url": "https://www.notretemps.com/vie-pratique/cuisine/le-boeuf-bourguignon-136725",
           "niveau": "moyen"
         },
         {
-          "titre": "\"Complètement fou\": un navire de guerre de Louis XIV en chantier dans le Nord",
-          "analyse": "\"On a montré que la folie pouvait mener à de grandes choses\": depuis bientôt un quart de siècle, une poignée d&#039;artisans et de bénévoles construisent dans le Nord une réplique grandeur nature d&#039;un gran...",
+          "titre": "Vous avez un sèche-linge à la maison? Ne jetez plus l’eau du réservoir, elle peu",
+          "analyse": "Après chaque cycle de séchage, il est recommandé de vider le réservoir du sèche-linge qui récupère l&#039;eau de condensation. Mais les utilisateurs sont nombreux à ignorer que cette eau peut-être réutilisée... Voici ce que vous pouvez en faire.",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/depeches/completement-fou-un-navire-de-guerre-de-louis-xiv-en-chantier-dans-le-nord-138791",
+          "url": "https://www.notretemps.com/vie-pratique/maison/vous-avez-un-seche-linge-a-la-maison-ne-jetez-pas-leau-du-reservoir-elle-est-tres-utile-138758",
           "niveau": "moyen"
         },
         {
-          "titre": "Pourquoi digère-t-on moins bien certains aliments avec l’âge?",
-          "analyse": "Ballonnements, reflux, sensation de trop-plein… Avec l&#039;âge, la digestion est souvent plus laborieuse. Pourtant, ce n&#039;est pas une fatalité. Explications et conseils de la Dre Élise Cabanes, gériatre.",
+          "titre": "De la Résistance à Trump : Saint-Pierre-et-Miquelon, 85 ans d'avant-poste face à",
+          "analyse": "En 1941, une poignée de marins de la France libre s&#039;emparent sans un coup de feu de Saint-Pierre-et-Miquelon, contre l&#039;avis des Etats-Unis. Ce dimanche, Emmanuel Macron et le Premier ministre canadien...",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/sante-bien-etre/nutrition/pourquoi-digere-t-on-moins-bien-certains-aliments-avec-lage-138033",
+          "url": "https://www.notretemps.com/depeches/de-la-resistance-a-trump-saint-pierre-et-miquelon-85-ans-d-avant-poste-face-a-washington-138840",
           "niveau": "moyen"
         },
         {
-          "titre": "Une femme et son bébé tués, le conjoint en garde à vue mais aucune piste n'est é",
-          "analyse": "Une femme et son bébé de deux mois ont été tués à l&#039;arme blanche jeudi à leur domicile de Drancy (Seine-Saint-Denis), le conjoint est en garde à vue mais \"aucune piste n&#039;est écartée\", a indiqué une so...",
+          "titre": "Les concerts de Céline Dion, un jackpot qui ne ruisselle pas, déplore la filière",
+          "analyse": "Du merchandising au tourisme, les concerts de Céline Dion sont une machine à cash. Ils doivent aussi générer environ quatre millions d&#039;euros de taxes de billetterie, que la profession regrette de voir...",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/depeches/une-femme-et-son-bebe-tues-le-conjoint-en-garde-a-vue-mais-aucune-piste-n-est-ecartee-138805",
+          "url": "https://www.notretemps.com/depeches/les-concerts-de-celine-dion-un-jackpot-qui-ne-ruisselle-pas-deplore-la-filiere-musicale-138839",
           "niveau": "moyen"
         },
         {
-          "titre": "La Bourse de Paris en léger recul",
-          "analyse": "La Bourse de Paris digère vendredi plusieurs informations, entre poursuite du reflux des prix du pétrole, hausse du taux directeur de la Banque du Japon et débat budgétaire en France, ap...",
+          "titre": "Compagnon artificiel, robot stimulateur... L’IA, au chevet des malades d’Alzheim",
+          "analyse": "Confortablement assise dans le fauteuil de sa chambre à l&#039;Ehpad de la Septfontoise dans le Tarn-et-Garonne, Mme R., 83 ans, s&#039;empare du téléphone qu&#039;une aide-soignante lui tend. À l&#039;autre bout du fil,...",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/depeches/la-bourse-de-paris-en-leger-recul-138800",
+          "url": "https://www.notretemps.com/depeches/compagnon-artificiel-robot-stimulateur-lia-au-chevet-des-malades-dalzheimer-138838",
           "niveau": "moyen"
         }
       ]
@@ -264,59 +264,10 @@
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "Les semi-conducteurs à 45,3 milliards, SpaceX en pre-IPO, l’Iran en WTI",
-          "analyse": "Deux des résultats les plus contre-intuitifs du rapport Token Terminal & OKX du 17 septembre 2026 concernent des actifs que personne n&rsquo;aurait associés aux marchés crypto il y a deux ans. Les contrats futures sur mémoires DRAM et semi-conducteurs — SK Hynix, Micron, SanDisk — ont atteint 45,3 m",
-          "source": "Finyear",
-          "url": "https://finyear.com/les-semi-conducteurs-a-453-milliards-spacex-en-pre-ipo-liran-en-wti/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "44,7 milliards de dollars en RWA tokenisés, 76% en fonds",
-          "analyse": "Le marché des actifs réels tokenisés a atteint 44,7 milliards de dollars au 26 août 2026 selon Token Terminal — une multiplication par vingt en trois ans depuis les 2,2 milliards de fin 2022. Mais derrière ce chiffre agrégé se cache une concentration extrême : 76,4% du marché est constitué de fonds ",
-          "source": "Finyear",
-          "url": "https://finyear.com/447-milliards-de-dollars-en-rwa-tokenises-76-en-fonds/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "En neuf mois, les RWA futures ont rattrapé Bitcoin",
-          "analyse": "Le 17 septembre 2026, Token Terminal et OKX publiaient un rapport documentant l&rsquo;un des basculements les plus rapides de l&rsquo;histoire des marchés dérivés crypto. En octobre 2025, les contrats futures sur actifs réels représentaient 760 millions de dollars de volume mensuel — un chiffre si m",
-          "source": "Finyear",
-          "url": "https://finyear.com/en-neuf-mois-les-rwa-futures-ont-rattrape-bitcoin/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Money Walkie ouvre son capital sur Crowdcube",
-          "analyse": "Money Walkie, la fintech française spécialisée dans le paiement sans contact pour les enfants et adolescents, ouvre son capital au grand public via une campagne de financement participatif sur Crowdcube, la plateforme européenne de référence pour l&rsquo;investissement participatif. L&rsquo;opératio",
-          "source": "Finyear",
-          "url": "https://finyear.com/money-walkie-ouvre-son-capital-sur-crowdcube/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Payhawk lance de nouveaux Playbooks agentiques et un Implementation Agent",
-          "analyse": "Payhawk, la plateforme de gestion des dépenses AI-native, annonce le lancement de son Édition Fall ’26 intitulée « Prompt your finance », qui permet aux équipes Finance d’exécuter des tâches récurrentes via Claude, ChatGPT ou n’importe quel assistant IA au travers de nouveaux Playbooks agentiques. C",
-          "source": "Finyear",
-          "url": "https://finyear.com/payhawk-lance-de-nouveaux-playbooks-agentiques-et-un-implementation-agent/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Services à l’environnement : un terreau fertile pour les fonds",
-          "analyse": "Porté par les exigences réglementaires et un vaste vivier de plateformes de consolidation, le secteur des services à l’environnement attire aussi bien des fonds généralistes que des acteurs de l’impact et de l’infra, avec un tri sélectif des niches les plus prometteuses.",
+          "titre": "Pinsent Masons, Colam Impact, CVC DIF… les nominations de la semaine",
+          "analyse": "ISABELLE FLAMENT (Panthéon Assas univ., univ. Paris Nanterre, EFB) a rejoint la pratique énergie et infrastructures de Pinsent Masons en tant que collaboratrice.",
           "source": "PE Magazine",
-          "url": "https://www.pemagazine.fr/services-a-lenvironnement-un-terreau-fertile-pour-les-fonds-2/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Broadfield arrive à Paris avec une ex-PwC Société d’avocats",
-          "analyse": "Un nouveau cabinet d'affaires anglo-saxon, Broadfield, a décidé de faire de Paris sa porte d’entrée en Europe continentale.",
-          "source": "PE Magazine",
-          "url": "https://www.pemagazine.fr/broadfield-arrive-a-paris-avec-une-ex-pwc-societe-davocats/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "I&S Adviser met un pied en Afrique",
-          "analyse": "Au gré de la pénétration du private equity sur le continent africain, la préoccupation liée à la performance opérationnelle des participations des fonds gagne du terrain.",
-          "source": "PE Magazine",
-          "url": "https://www.pemagazine.fr/is-adviser-met-un-pied-en-afrique/",
+          "url": "https://www.pemagazine.fr/pinsent-masons-colam-impact-cvc-dif-les-nominations-de-la-semaine/",
           "niveau": "moyen"
         }
       ]
@@ -327,24 +278,10 @@
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "Tribunal de Valence : « Vous avez conscience d’être de la chair à canon pour les",
-          "analyse": "Hocine et Lyes, 20 ans, comparaissent pour avoir cambriol&#233; un camion de terreau qui contenait de la coca&#239;ne fraichement saisie par les douanes. Ils habitent chez leurs parents et n&#8217;ont pas de casier. La justice va-t-elle leur offrir une seconde chance ?",
+          "titre": "Mort de F.M. Aramburu : Le surveillant pénitentaire maintient son témoignage sur",
+          "analyse": "Vendredi, la cour d&#8217;assises de Paris a entendu le surveillant p&#233;nitentiaire qui a fait un rapport en 2023 sur le fait qu&#8217;il aurait surpris Lo&#239;k Le Priol, au t&#233;l&#233;phone, d&#233;clarant &#224; son interlocuteur &#171; ce que j&#8217;ai pr&#233;f&#233;r&#233;, ce sont les",
           "source": "Actu-Juridique",
-          "url": "https://www.actu-juridique.fr/penal/tribunal-de-valence-vous-avez-conscience-detre-de-la-chair-a-canon-pour-les-trafiquants/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Mort de F.M. Aramburú : Le trouble post-traumatique « indiscutable » de L. Le Pr",
-          "analyse": "La cour d&#8217;assises a entendu hier apr&#232;s-midi la psychiatre Isabelle Teillet dont le rapport sur le principal accus&#233;, Lo&#239;k Le Priol, s&#8217;est plus apparent&#233; &#224; un r&#233;quisitoire qu&#8217;&#224; l&#8217;expertise classique du sachant. &#192; l&#8217;homme passible de",
-          "source": "Actu-Juridique",
-          "url": "https://www.actu-juridique.fr/penal/mort-de-f-m-aramburu-le-trouble-post-traumatique-indiscutable-de-l-le-priol-sattenue-mais-ne-disparait-pas/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Les conciliateurs de justice, bénévoles au service de la justice de proximité",
-          "analyse": "Alors que la politique de l&#8217;amiable s&#8217;est invit&#233;e dans les conflits des Fran&#231;ais, avant ou pendant la proc&#233;dure judiciaire, le r&#244;le des conciliateurs de justice &#8211; b&#233;n&#233;voles &#8211; est devenu capital. Ce sont des relations qui ne cessent de s&#8217;enl",
-          "source": "Actu-Juridique",
-          "url": "https://www.actu-juridique.fr/professions/les-conciliateurs-de-justice-benevoles-au-service-de-la-justice-de-proximite/",
+          "url": "https://www.actu-juridique.fr/penal/mort-de-f-m-aramburu-le-surveillant-penitentaire-maintient-son-temoignage-sur-les-quatre-bastos/",
           "niveau": "moyen"
         }
       ]
@@ -355,59 +292,38 @@
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "En Russie, Nestlé, Auchan et Leroy Merlin perdent le contrôle de leurs actifs",
-          "analyse": "Le Président russe Vladimir Poutine lors d'une allocution télévisée le 16 septembre. Mikhail Metzel / AFP\nLe décret est tombé jeudi 17 septembre. Signé par Vladimir Poutine, il place sous \"administration temporaire\" les participations russes de plusieurs groupes occidentaux. Parmi eux, le Suisse Nes",
+          "titre": "SFDR 2.0 : transition, fossiles, PAI… les dossiers chauds du trilogue",
+          "analyse": "La commission des affaires économiques du Parlement européen a adopté sa position sur le nouveau règlement SFDR le 10 septembre. @CCO\nLa réglementation SFDR entre dans sa dernière ligne droite. La commission des affaires économiques du Parlement européen a fait connaître sa position sur le nouveau t",
           "source": "Novethic",
-          "url": "https://www.novethic.fr/economie-et-social/transformation-de-leconomie/en-russie-nestle-auchan-et-leroy-merlin-perdent-le-controle-de-leurs-actifs",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Entreprises à impact : l’Europe avance, mais peine encore à changer d’échelle",
-          "analyse": "Les entreprises à impact confirment leur développement en Europe - Photo de Markus Spiske sur Unsplash\nIl était très attendu par les acteurs de l'économie à impact. La Commission européenne vient de dévoiler son rapport sur l'état des modèles d'affaires à impact positif dans l'Union. Le rapport de p",
-          "source": "Novethic",
-          "url": "https://www.novethic.fr/economie-et-social/transformation-de-leconomie/rapport-commission-europenne-entreprise-impact-europe",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "L’agenda de la transition énergétique",
-          "analyse": "Chaque semaine, GreenUnivers sélectionne les principaux événements professionnels de la transition énergétique. Des rendez-vous qui ont lieu en France et ailleurs dans les secteurs des énergies renouvelables, de l’hydrogène, de la rénovation ou encore de la mobilité électrique. Septembre 22 Congrès ",
-          "source": "GreenUnivers",
-          "url": "https://www.greenunivers.com/2026/09/lagenda-de-la-transition-energetique-281-431464/",
+          "url": "https://www.novethic.fr/finance-durable/reglementation/sfdr-2-0-transition-fossiles-pai-les-dossiers-chauds-du-trilogue",
           "niveau": "moyen"
         },
         {
           "titre": "Le gouvernement clarifie la révision des tarifs « S21 » et le « super AO neutre ",
-          "analyse": "Rebelotte. Après les tarifs «&#160;S6&#160;» et «&#160;S10&#160;», le gouvernement prévoit de revoir les tarifs du «&#160;S21&#160;» dans le projet de loi de finances (PLF) de 2027, confirmant une information de Contexte vérifiée par GreenUnivers.&#160; La mesure porte sur les 8 000 contrats des ins",
+          "analyse": "&#8211; Article actualisé le 18/09/2026.  Rebelotte. Après les tarifs «&#160;S6&#160;» et «&#160;S10&#160;», le gouvernement prévoit de revoir les tarifs du «&#160;S21&#160;» dans le projet de loi de finances (PLF) de 2027, confirmant une information de Contexte vérifiée par GreenUnivers.&#160; La m",
           "source": "GreenUnivers",
           "url": "https://www.greenunivers.com/2026/09/le-gouvernement-clarifie-la-revision-des-tarifs-s21-et-le-super-ao-neutre-433523/",
           "niveau": "moyen"
         },
         {
-          "titre": "Défendre le soutien public aux toitures solaires, une cause perdue ?",
-          "analyse": "« Les gentlemen ne défendent que les causes perdues », écrivait Jorge Luis Borges. La phrase pourrait résumer le sentiment d’un membre de la direction du syndicat des professionnels du photovoltaïque Enerplan, interrogé sur l’initiative d’un collectif d’entreprises* actives dans les toitures solaire",
+          "titre": "Les batteries encore refroidies par l’évolution du mécanisme de capacité",
+          "analyse": "La refonte du mécanisme de capacité français a fait miroiter la possibilité pour des batteries de sécuriser une partie de leurs revenus sur plusieurs années, grâce à des contrats long terme. Suite à la dernière réunion du groupe de travail de RTE consacré au sujet, cette perspective se réduit, déplo",
           "source": "GreenUnivers",
-          "url": "https://www.greenunivers.com/2026/09/defendre-le-soutien-public-aux-toitures-solaires-une-cause-perdue-433418/",
+          "url": "https://www.greenunivers.com/2026/09/les-batteries-encore-refroidies-par-levolution-du-mecanisme-de-capacite-433580/",
           "niveau": "moyen"
         },
         {
-          "titre": "Le nouveau PPA multiacheteurs en Nouvelle-Aquitaine fait le plein",
-          "analyse": "Son inauguration est prévue le 18 septembre mais la centrale solaire de Valeco à Durance (Lot-et-Garonne) a déjà commencé à produire. Ce parc photovoltaïque de 23,4 MWc fournit depuis le 1er août de l&#8217;électricité aux 9 entreprises ayant souscrit au premier power purchase agreement (PPA) multia",
+          "titre": "Bernard Fontana fait la tournée des candidats à la présidentielle",
+          "analyse": "– Article actualisé le 19/09/2026.  Depuis plusieurs semaines, le PDG d’EDF, Bernard Fontana, enchaîne les rendez-vous avec les candidats à la présidentielle de 2027. S’il a rencontré Marine Le Pen la semaine dernière, comme l&#8217;a révélé GreenUnivers, l’ingénieur à la tête de l’électricien natio",
           "source": "GreenUnivers",
-          "url": "https://www.greenunivers.com/2026/09/le-nouveau-ppa-multiacheteurs-en-nouvelle-aquitaine-fait-le-plein-433385/",
+          "url": "https://www.greenunivers.com/2026/09/bernard-fontana-fait-la-tournee-des-candidats-a-la-presidentielle-433577/",
           "niveau": "moyen"
         },
         {
-          "titre": "Electricité renouvelable : un « super appel d’offres neutre » se profile",
-          "analyse": "L&#8217;année 2027 approche sans appels d&#8217;offres annoncés. Ce silence devrait être brisé très prochainement, car, selon nos informations, les autorités\nL’article Electricité renouvelable : un « super appel d’offres neutre » se profile   est apparu en premier sur GreenUnivers.",
+          "titre": "Les documents de la semaine",
+          "analyse": "La sélection des documents parus cette semaine utiles aux acteurs de la transition énergétique. A retrouver tous les vendredis. Les nouveaux documents sont ajoutés à ceux rendus publics auparavant : textes réglementaires clés définitifs ou en consultation, documents de régulation, études pertinentes",
           "source": "GreenUnivers",
-          "url": "https://www.greenunivers.com/2026/09/electricite-renouvelable-un-super-appel-doffres-neutre-se-profile-433405/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Accélérateur industriel européen : l’Allemagne se déradicalise",
-          "analyse": "Les parlementaires européens chargés de travailler sur l’accélérateur industriel européen (IAA) ont fait évoluer le texte par rapport à la version transmise par la Commission européenne, en particulier sur la sélection des pays qui entrent dans la définition du « made in EU » ou « fabriqué dans l’Un",
-          "source": "GreenUnivers",
-          "url": "https://www.greenunivers.com/2026/09/accelerateur-industriel-europeen-lallemagne-se-deradicalise-433371/",
+          "url": "https://www.greenunivers.com/2026/09/les-documents-de-la-semaine-381215/",
           "niveau": "moyen"
         }
       ]
@@ -418,59 +334,59 @@
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "EUROPE, NEXT WEEK : de Paris à Berlin, l’IA quitte la scène pour entrer dans les",
-          "analyse": "Vingt-deux rendez-vous, dix-huit villes, dix pays. Cette semaine, l’innovation européenne ne cherchera pas seulement à produire de nouveaux modèles, mais à les faire travailler. À Paris, l’IA entrera dans la finance, l’ERP, le marketing et le développement logiciel. À Berlin et Hambourg, elle rencon",
+          "titre": "Matignon, OVHcloud, Google DeepMind, Back Market… les mouvements de la rentrée",
+          "analyse": "Souveraineté numérique, intelligence artificielle, développement commercial, gouvernance : les mouvements de la rentrée couvrent plusieurs priorités de l’écosystème tech. FrenchWeb.fr passe en revue seize nominations et changements de responsabilités, entre recrutements, promotions internes et prise",
           "source": "FRENCHWEB.FR : innovation, tech, network",
-          "url": "https://www.frenchweb.fr/europe-next-week-de-paris-a-berlin-lia-quitte-la-scene-pour-entrer-dans-les-metiers/463502",
+          "url": "https://www.frenchweb.fr/matignon-ovhcloud-google-deepmind-back-market-les-mouvements-de-la-rentree/463507",
           "niveau": "moyen"
         },
         {
-          "titre": "Isoskèle LineUp7 renforce ses positions dans la banque et l’assurance avec CNP A",
-          "analyse": "Isoskèle LineUp7 poursuit son développement dans les secteurs de la banque et de l’assurance avec deux nouvelles missions autour de ses expertises MarTech. Le groupe accompagne désormais CNP Assurances Protection sociale et BforBank dans la transformation de leur marketing, l’optimisation des parcou",
-          "source": "FRENCHWEB.FR : innovation, tech, network",
-          "url": "https://www.frenchweb.fr/isoskele-lineup7-renforce-ses-positions-dans-la-banque-et-lassurance-avec-cnp-assurances-et-bforbank/463497",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Présidentielle 2027 : financer la French Tech ne suffit pas à construire une pui",
-          "analyse": "À l’approche de l’élection présidentielle de 2027, la technologie revient dans le débat politique par son point d’entrée le plus familier : son financement. Mobilisation de l’épargne, nouveaux fonds, implication des banques et commande publique figurent parmi les propositions avancées. Mais le chang",
-          "source": "FRENCHWEB.FR : innovation, tech, network",
-          "url": "https://www.frenchweb.fr/presidentielle-2027-financer-la-french-tech-ne-suffit-pas-a-construire-une-puissance-technologique/463478",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Comment l'IA pédagogique bouscule le marché de la formation professionnelle",
-          "analyse": "De nouvelles plateformes proposent de transformer la base de connaissances d'une organisation en parcours pédagogiques personnalisés et interactifs. Tour d'horizon de ces éditeurs qui donnent un sérieux coup de jeune à l'e-learning.",
+          "titre": "Trophées de la Cybersécurité 2026 : les candidatures sont ouvertes",
+          "analyse": "La prochaine cérémonie de remise des Trophées de la Cybersécurité se tiendra le 19 novembre 2026 à Paris Expo Porte de Versailles. Le JDN est partenaire de l'événement.",
           "source": "JDN : Derniers contenus",
-          "url": "https://www.journaldunet.com/intelligence-artificielle/1554805-comment-l-ia-pedagogique-bouscule-la-formation-professionnelle/",
+          "url": "https://www.journaldunet.com/cybersecurite/1555103-trophees-de-la-cybersecurite-2026-les-candidatures-sont-ouvertes/",
           "niveau": "moyen"
         },
         {
-          "titre": "Budget 2027 : la gauche promet la censure au gouvernement Lecornu",
-          "analyse": "L'adoption du budget 2027 s'annonce incertaine, la gauche promettant la censure et le sort du gouvernement dépendant de la stratégie du Rassemblement national.",
-          "source": "JDN : Derniers contenus",
-          "url": "https://www.journaldunet.com/business/action-publique/1555095-la-gauche-annonce-une-motion-de-censure-contre-le-gouvernement-lecornu-lors-du-debat-sur-le-budget-2027/",
+          "titre": "Avec l’EU KIDS Act, prouver son âge pourrait devenir incontournable sur les rése",
+          "analyse": "La Commission européenne vient de présenter l&#8217;EU KIDS Act, une proposition de règlement qui prévoit notamment d&#8217;interdire aux moins de 13 ans l&#8217;accès aux réseaux sociaux. La Commission européenne lance l&#8217;EU KIDS Act Ces derniers mois, la Commission européenne s&#8217;est penc",
+          "source": "Siècle Digital",
+          "url": "https://siecledigital.fr/2026/09/18/avec-leu-kids-act-leurope-pourrait-obliger-tous-les-internautes-a-prouver-leur-age/",
           "niveau": "moyen"
         },
         {
-          "titre": "Vladimir Poutine place les actifs russes de Nestlé, Auchan et de l'ex-Leroy Merl",
-          "analyse": "Les actifs en Russie de Nestlé, Auchan et de l'ex-Leroy Merlin sont transférés à L.E.V. Management, selon un décret présidentiel publié jeudi 17 septembre 2026.",
-          "source": "JDN : Derniers contenus",
-          "url": "https://www.journaldunet.com/business/1555093-un-decret-de-vladimir-poutine-transfere-les-actifs-russes-de-nestle-auchan-et-de-l-ex-leroy-merlin-a-l-e-v-management/",
+          "titre": "Facebook franchit un nouveau cap en faisant payer la publication de certains lie",
+          "analyse": "Les entreprises ont longtemps exploité Facebook en redirigeant leur audience vers leurs sites. Ce mode opératoire pourrait être modifié par Meta pour les comptes professionnels. Depuis le déploiement de Meta One for Business, certaines gestionnaires de Pages constatent une restriction sur les public",
+          "source": "Siècle Digital",
+          "url": "https://siecledigital.fr/2026/09/18/facebook-franchit-un-nouveau-cap-en-faisant-payer-la-publication-de-certains-liens/",
           "niveau": "moyen"
         },
         {
-          "titre": "La diplomatie du silicium ou comment les semi-conducteurs sont devenue une arme ",
-          "analyse": "Donald Trump a fait de l'avance de son pays sur les technologies de frontière l'un des principaux ressorts de sa diplomatie.",
-          "source": "JDN : Derniers contenus",
-          "url": "https://www.journaldunet.com/economie/industrie/1554959-.../",
+          "titre": "Besoin de slides pour une réunion ? Claude peut désormais créer votre présentati",
+          "analyse": "Anthropic annonce l&#8217;ajout de nouvelles fonctionnalités à son assistant. Claude intègre désormais Claude Docs et Claude Slides. De quoi lui permettre de créer des documents et des présentations de A à Z à partir d&#8217;une simple conversation. L&#8217;assistant d&#8217;Anthropic est plus compl",
+          "source": "Siècle Digital",
+          "url": "https://siecledigital.fr/2026/09/18/besoin-de-slides-pour-une-reunion-claude-peut-desormais-creer-votre-presentation-de-a-a-z/",
           "niveau": "moyen"
         },
         {
-          "titre": "Quand votre carnet de commandes est écrit au Journal officiel",
-          "analyse": "Une taxe annoncée pour janvier 2026, reportée d'un an faute d'un développement informatique côté administration : des secteurs entiers se dimensionnent sur des dates qu'ils ne décident pas.",
-          "source": "JDN : Derniers contenus",
-          "url": "https://www.journaldunet.com/management/direction-generale/1555023-quand-votre-carnet-de-commandes-est-ecrit-au-journal-officiel/",
+          "titre": "Les marques dépensent toujours plus dans le marketing d’influence, mais peinent ",
+          "analyse": "Le marketing d&#8217;influence ne cesse de prendre de l&#8217;ampleur dans les budgets des sociétés européennes. Les marques multiplient les collaborations avec des créateurs. Elles prévoient même d&#8217;accroître leurs investissements. Cette progression cache en revanche une faiblesse. L&#8217;inf",
+          "source": "Siècle Digital",
+          "url": "https://siecledigital.fr/2026/09/18/les-marques-depensent-toujours-plus-dans-le-marketing-dinfluence-mais-peinent-encore-a-mesurer-son-efficacite/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "OpenAI pourrait bientôt valoir 1 500 milliards de dollars, soit plus que Tesla, ",
+          "analyse": "Quelques mois après une levée de fonds déjà importante, OpenAI réfléchit à un nouveau tour de table. Celui-ci pourrait valoriser le groupe autour de 1 500 milliards de dollars. Avec ce montant, l&#8217;entreprise se positionnerait au-dessus des groupes cotés tels que Tesla, Samsung et Netflix. Elle ",
+          "source": "Siècle Digital",
+          "url": "https://siecledigital.fr/2026/09/18/openai-pourrait-bientot-valoir-1-500-milliards-de-dollars-soit-plus-que-tesla-netflix-ou-samsung/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Amazon fait marche arrière et supprime la livraison gratuite des livres dans ses",
+          "analyse": "Mauvaise nouvelle pour ceux qui ont l&#8217;habitude d&#8217;acheter leurs livres sur Amazon. L&#8217;entreprise annonce la fin de la livraison gratuite dans ses lockers. Une manière d&#8217;apaiser les tensions avec les libraires. De vives tensions autour des frais de livraison dans le monde du liv",
+          "source": "Siècle Digital",
+          "url": "https://siecledigital.fr/2026/09/18/amazon-fait-marche-arriere-et-supprime-la-livraison-gratuite-des-livres-dans-ses-lockers/",
           "niveau": "moyen"
         }
       ]
