@@ -1,8 +1,8 @@
 {
-  "date_fr": "Sunday 20 September 2026",
-  "compte_articles": 146,
+  "date_fr": "Monday 21 September 2026",
+  "compte_articles": 241,
   "compte_forts": 0,
-  "compte_moyens": 146,
+  "compte_moyens": 241,
   "synthese_jour": "Synthese IA non disponible (fallback). Consultez les articles ci-dessous.",
   "chiffres_cles": [],
   "sections": [
@@ -12,59 +12,59 @@
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "Logement : à Paris comme dans les grandes métropoles, les tensions sur les locat",
-          "analyse": "La pénurie d’offres est telle que même les cadres ont désormais du mal à trouver un appartement à louer. La cause, selon les professionnels de l’immobilier, la hausse des taux d’intérêt, les restrictions liées au DPE, et la fin du dispositif Pinel.",
+          "titre": "Allemagne : l’impasse du repli nationaliste",
+          "analyse": "Alors que l’AfD, le parti d’extrême droite allemand qui vient de réaliser une nouvelle percée électorale, dimanche, a pour projet d’affaiblir l’Union européenne, le chancelier Friedrich Merz doit veiller à ne pas jouer cavalier seul et porter l’idée, avec la France, que l’Europe est plus forte unie ",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/societe/article/2026/09/20/logement-a-paris-comme-dans-les-grandes-metropoles-les-tensions-sur-les-locations-gagnent-toutes-les-categories-sociales_6777977_3224.html",
+          "url": "https://www.lemonde.fr/idees/article/2026/09/21/allemagne-l-impasse-du-repli-nationaliste_6778910_3232.html",
           "niveau": "moyen"
         },
         {
-          "titre": "Elections régionales en Allemagne : la CDU de Friedrich Merz menacée d’un revers",
-          "analyse": "L’Union chrétienne-démocrate du chancelier risque de disparaître du Parlement en Mecklembourg-Poméranie-Occidentale et est devancée par la gauche radicale dans les sondages à Berlin.",
+          "titre": "Présidentielle 2027 : l’Etat selon Jean-Luc Mélenchon, entre « révolution citoye",
+          "analyse": "Le candidat de LFI a présenté ses projets de réforme lors d’une conférence organisée mercredi 16 septembre à Saint-Denis (Seine-Saint-Denis) par l’Institut La Boétie. S’il veut renforcer les moyens du secteur public, sa volonté d’un « Etat impartial » soulève la question sensible du sort réservé à l",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/international/article/2026/09/20/elections-regionales-en-allemagne-la-cdu-de-friedrich-merz-menacee-d-un-revers-historique_6778330_3210.html",
+          "url": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/09/21/presidentielle-2027-fonction-publique-services-publics-impartialite-l-etat-que-veulent-lfi-et-jean-luc-melenchon_6778651_6205049.html",
           "niveau": "moyen"
         },
         {
-          "titre": "A New York, Zohran Mamdani et Emmanuel Grégoire s’affichent ensemble pour défend",
-          "analyse": "Les maires socialistes de New York et de Paris se sont rencontrés dans la plus grande ville des Etats-Unis pour plaider des intérêts communs.",
+          "titre": "Prix des carburants : le gouvernement évoque « de nouvelles aides pour les Franç",
+          "analyse": "Au lendemain d’un record du gazole à 2,41 euros le litre, une réunion à Matignon doit définir les contours d’un nouveau paquet d’aide, annoncé « dans les prochains jours ».",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/09/20/a-new-york-zohran-mamdani-et-emmanuel-gregoire-s-affichent-ensemble-pour-defendre-l-acces-au-logement-et-la-lutte-contre-le-rechauffement-climatique_6778297_823448.html",
+          "url": "https://www.lemonde.fr/economie/article/2026/09/21/carburants-le-gouvernement-evoque-de-nouvelles-aides-pour-les-francais-qui-travaillent-alors-que-les-prix-a-la-pompe-atteignent-des-records_6778907_3234.html",
           "niveau": "moyen"
         },
         {
-          "titre": "EN DIRECT, guerre en Ukraine : Kiev revendique les attaques visant Moscou et sa ",
-          "analyse": "Selon les autorités russes, au moins deux personnes ont été tuées au cours de cette attaque et une importante raffinerie a été endommagée. En Ukraine, un drone russe a touché une maison près de Kiev, tuant une femme et deux enfants.",
+          "titre": "Primaire à gauche : Raphaël Glucksmann, traité de « stagiaire » par Ségolène Roy",
+          "analyse": "A trois semaines du premier tour de la primaire, le ton monte entre les deux concurrents, alors que l’ancienne candidate socialiste à la présidentielle de 2007 a critiqué, dimanche, le manque d’expérience de l’eurodéputé.",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/international/live/2026/09/20/en-direct-guerre-en-ukraine-kiev-revendique-les-attaques-de-drones-visant-moscou-et-sa-region-au-dernier-jour-des-legislatives-en-russie_6777944_3210.html",
+          "url": "https://www.lemonde.fr/politique/article/2026/09/21/primaire-a-gauche-raphael-glucksmann-traite-de-stagiaire-par-segolene-royal-la-renvoie-a-des-postes-quemandes-pendant-quarante-cinq-ans_6778949_823448.html",
           "niveau": "moyen"
         },
         {
-          "titre": "A Gaza, les femmes seules désormais responsables de la survie de leur famille : ",
-          "analyse": "La guerre menée par Israël a bouleversé la structure des familles gazaouies : près d’un foyer sur quatre est désormais dirigé par une femme. Des dizaines de milliers de Palestiniennes se retrouvent ainsi seules à nourrir leurs enfants, à chercher de l’aide et un abri dans un environnement dangereux.",
+          "titre": "Un an après la reconnaissance de l’Etat de Palestine, l’initiative de la France ",
+          "analyse": "En ayant à cœur d’apaiser les relations avec Israël, le président français, Emmanuel Macron, a brouillé son message et déçu les défenseurs de la cause palestinienne.",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/international/article/2026/09/20/a-gaza-les-femmes-seules-desormais-responsables-de-la-survie-de-leur-famille-des-gens-etaient-tues-en-chemin-mais-il-fallait-que-j-avance-pour-trouver-a-manger-pour-les-enfants_6778046_3210.html",
+          "url": "https://www.lemonde.fr/international/article/2026/09/21/un-an-apres-la-reconnaissance-de-l-etat-de-palestine-l-initiative-francaise-a-perdu-de-son-panache_6778699_3210.html",
           "niveau": "moyen"
         },
         {
-          "titre": "De la tour Eiffel à Bussy-Saint-Georges, discordes autour du temple hindou et du",
-          "analyse": "Edifié sur l’Esplanade des religions et des cultures de la commune briarde, en Seine-et-Marne, le mandir qui vient d’être inauguré en grande pompe fait l’objet de plusieurs polémiques, inhabituelles dans ce lieu à vocation interconfessionnelle où concorde et harmonie sont les maîtres mots.",
+          "titre": "EN DIRECT, guerre en Ukraine : « Les prétendues élections à la Douma ont marqué ",
+          "analyse": "Les législatives en Russie ne représentent qu’un « vernis de démocratie », a déclaré, lundi, la cheffe de la diplomatie de l’Union européenne, Kaja Kallas. Le parti de Vladimir Poutine, Russie unie, a remporté un nombre record de sièges à la Douma (au moins 355 sur 450), selon les résultats prélimin",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/le-monde-des-religions/article/2026/09/20/de-la-tour-eiffel-a-bussy-saint-georges-discordes-autour-du-temple-hindou-et-du-rond-point-namaste_6778052_6038514.html",
+          "url": "https://www.lemonde.fr/international/live/2026/09/21/en-direct-guerre-en-ukraine-le-parti-de-poutine-serait-sans-surprise-largement-en-tete-des-elections-legislatives-russes-meme-si-volodymyr-zelensky-estime-que-les-frappes-ukrainiennes-ont-eu-un-impact-tres-important-dans-la-region-de-moscou_6777944_3210.html",
           "niveau": "moyen"
         },
         {
-          "titre": "Budget 2027 : Amélie de Montchalin alerte sur l’état de la dette : « Chaque mois",
-          "analyse": "Le gouvernement – qui table sur un déficit public de 5,4 % en 2026, en hausse par rapport aux 5,1 % de 2025 –, prévoit un effort de 54 milliards d’euros l’an prochain pour assainir les finances publiques.",
+          "titre": "Les médias CNN, MS NOW et « Politico » poursuivent l’administration Trump après ",
+          "analyse": "Donald Trump avait annoncé, vendredi, une interdiction « avec effet immédiat » d’accéder à la Maison Blanche pour les journalistes de ces trois médias américains accrédités, les accusant d’écrire « de fausses histoires tout le temps ».",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/09/20/budget-2027-amelie-de-montchalin-alerte-sur-l-etat-de-la-dette-chaque-mois-d-inaction-aggrave-l-asphyxie-financiere_6778365_823448.html",
+          "url": "https://www.lemonde.fr/international/article/2026/09/21/les-medias-cnn-ms-now-et-politico-poursuivent-l-administration-trump-apres-leur-interdiction-d-acces-a-la-maison-blanche_6779121_3210.html",
           "niveau": "moyen"
         },
         {
-          "titre": "Au Royaume-Uni, masques, cagoules… et burqas proscrits lors de manifestations an",
-          "analyse": "Après des rassemblements d’« hommes en noir », qui avaient défilé le visage dissimulé pour s’opposer à l’arrivée de « small boats » et provoqué des heurts avec les forces de l’ordre, plusieurs villes ont interdit le port de masques.",
+          "titre": "Après une nuit d’émeute à Saint-Pierre-des-Corps, des habitants en colère et des",
+          "analyse": "La collision entre une moto et une voiture de police dans la cité de la Rabaterie, samedi 19 septembre, a déclenché des affrontements ayant fait dix blessés dans les rangs des forces de l’ordre.",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/international/article/2026/09/20/au-royaume-uni-masques-cagoules-et-burqas-proscrits-lors-de-manifestations-antimigrants_6778371_3210.html",
+          "url": "https://www.lemonde.fr/societe/article/2026/09/21/apres-une-nuit-d-emeutes-pres-de-tours-des-habitants-en-colere-et-des-elus-desabuses-c-est-un-sentiment-de-relegation-qui-domine_6778583_3224.html",
           "niveau": "moyen"
         }
       ]
@@ -75,10 +75,10 @@
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "House prices survived the last interest-rate rise. Will they this time?",
-          "analyse": "Supports that shored up the housing market when borrowing costs last rose are gone",
-          "source": "Finance & economics",
-          "url": "https://www.economist.com/finance-and-economics/2026/09/20/house-prices-survived-the-last-interest-rate-rise-will-they-this-time",
+          "titre": "Record diesel prices are exposing pain points in the stock market and economy",
+          "analyse": "A major risks now is that diesel prices stay high — and continue to put upward pressure on inflation.",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/record-diesel-prices-are-exposing-pain-points-in-the-stock-market-and-economy-a2079b04?mod=mw_rss_topstories",
           "niveau": "moyen"
         },
         {
@@ -89,45 +89,66 @@
           "niveau": "moyen"
         },
         {
-          "titre": "It’s almost impossible to sell a condo unit these days: ‘I feel trapped’",
-          "analyse": "Selling a condominium unit has become a challenge for many, as buyers get spooked at the prospect of bearing ever-rising HOA fees — even if the home comes with a lower price tag.",
+          "titre": "Novo Nordisk’s stock tumbles as doubts persist about Ozempic maker’s goals for 2",
+          "analyse": "The weight-loss-drug manufacturer failed to excite investors hoping for a turnaround.",
           "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/its-almost-impossible-to-sell-a-condo-these-days-i-feel-trapped-1f96ce37?mod=mw_rss_topstories",
+          "url": "https://www.marketwatch.com/story/novo-nordisk-stock-tumbles-as-ozempic-maker-sets-out-2030-goals-8a5a8d2d?mod=mw_rss_topstories",
           "niveau": "moyen"
         },
         {
-          "titre": "90% of retirees are making this miscalculation with their savings",
-          "analyse": "The order in which you spend your money makes a difference for your taxes — and your enjoyment of life.",
+          "titre": "A sudden end to the Iran war would strike a blow against oil prices and energy s",
+          "analyse": "The implication is a belief among insiders that the stocks are going higher from here, not lower.",
           "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/90-of-retirees-are-making-this-miscalculation-with-their-savings-feb9db79?mod=mw_rss_topstories",
+          "url": "https://www.marketwatch.com/story/a-sudden-end-to-the-iran-war-would-strike-a-blow-against-oil-prices-and-energy-stocks-yet-company-insiders-are-buying-673899a0?mod=mw_rss_topstories",
           "niveau": "moyen"
         },
         {
-          "titre": "The future of retirement? Work until you die.",
-          "analyse": "Social Security, once seen as “old-age insurance,” will eventually disappear, this author predicts.",
+          "titre": "Why one Warren Buffett–inspired fund manager is betting big on Chinese stocks",
+          "analyse": "Low valuations and founder management are attractive to RV Capital’s Rob Vinall.",
           "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/the-future-of-retirement-work-until-you-die-6d0e5341?mod=mw_rss_topstories",
+          "url": "https://www.marketwatch.com/story/why-one-buffett-inspired-fund-manager-is-betting-big-on-chinese-stocks-b7b8a51e?mod=mw_rss_topstories",
           "niveau": "moyen"
         },
         {
-          "titre": "What happens if you never buy a house? What renters are gaining — and giving up.",
-          "analyse": "The high cost of buying a home means that many 20- and 30-somethings are re-evaluating traditional personal-finance advice that assumed homeownership to build wealth.",
+          "titre": "Corporate earnings are growing much faster than the economy. What Goldman strate",
+          "analyse": "A team at the bank, led by Ben Snider, wrote in a recent note that they see  S&P 500 earnings per share growth slowing to 11% in 2027 and 2028.",
           "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/what-happens-if-you-never-buy-a-house-what-renters-are-gaining-and-giving-up-45b69dcb?mod=mw_rss_topstories",
+          "url": "https://www.marketwatch.com/story/corporate-earnings-are-growing-much-faster-than-the-economy-what-goldman-strategists-say-about-bubble-concerns-1f625fb3?mod=mw_rss_topstories",
           "niveau": "moyen"
         },
         {
-          "titre": "It’s not a winner-take-all stock market. This hedge-fund manager favors three un",
-          "analyse": "There’s a winner-take-all fallacy in certain industries, says a hedge-fund manager.",
+          "titre": "Kylie Jenner sells California mansion for $5 million below asking",
+          "analyse": "Reality TV superstar and fashion mogul Kylie Jenner has finally found a buyer for her longtime California mansion, offloading the home for $15.3 million.",
           "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/its-not-a-winner-take-all-stock-market-this-hedge-fund-manager-favors-three-underdogs-a366ab6f?mod=mw_rss_topstories",
+          "url": "https://www.marketwatch.com/story/kylie-jenner-sells-california-mansion-for-5-million-below-asking-a6f2bb38?mod=mw_rss_topstories",
           "niveau": "moyen"
         },
         {
-          "titre": "San Francisco Tribune Releases List of Top Startups Shaping the Next Phase of En",
+          "titre": "Lion Group reaffirms holding of 195,000 Hyperliquid tokens",
           "analyse": "",
           "source": "All News",
-          "url": "https://www.investing.com/news/company-news/san-francisco-tribune-releases-list-of-top-startups-shaping-the-next-phase-of-enterprise-ai-4908166",
+          "url": "https://www.investing.com/news/company-news/lion-group-reaffirms-holding-of-195000-hyperliquid-tokens-93CH-4909175",
+          "niveau": "moyen"
+        }
+      ]
+    },
+    {
+      "titre": "Marches financiers",
+      "icone": "🏛️",
+      "niveau_global": "moyen",
+      "items": [
+        {
+          "titre": "ECB to invest part of own funds in tokenised securities, with settlement via Pon",
+          "analyse": "",
+          "source": "ECB - European Central Bank",
+          "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260921_1~5a011ecbea.en.html",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Eurosystem brings central bank money to tokenised finance",
+          "analyse": "",
+          "source": "ECB - European Central Bank",
+          "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260921~e754847a7b.en.html",
           "niveau": "moyen"
         }
       ]
@@ -138,17 +159,38 @@
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "Présidentielle 2027 : Le débat sur l’héritage s’intensifie mais les Français res",
-          "analyse": "À l’approche de la présidentielle 2027, 79 % des Français jugent les héritages trop taxés. Pourtant, 72 % n’ont engagé aucune démarche pour préparer leur succession, selon une étude Discurv pour Inovea\nCet article Présidentielle 2027 : Le débat sur l&rsquo;héritage s&rsquo;intensifie mais les França",
+          "titre": "Logement : 87 % des Français jugent nécessaire de l’adapter",
+          "analyse": "Alors que 81 % des Français jugent leur logement adapté, 87 % pensent qu’il devra évoluer. Factures, canicules et vieillissement redessinent leurs priorités, selon une étude OpinionWay pour Little Worker.\nCet article Logement : 87 % des Français jugent nécessaire de l’adapter est apparu en premier s",
           "source": "MySweetimmo",
-          "url": "https://www.mysweetimmo.com/2026/09/20/presidentielle-2027-le-debat-sur-lheritage-sintensifie-mais-les-francais-restent-mal-prepares/",
+          "url": "https://www.mysweetimmo.com/2026/09/21/logement-87-des-francais-jugent-necessaire-de-ladapter/",
           "niveau": "moyen"
         },
         {
-          "titre": "Immobilier Chambéry : 49 logements neufs accessibles sans apport",
-          "analyse": "Cogedim lance Reflet des Monts, une résidence de 49 appartements neufs près du centre de Chambéry. Grâce au PTZ et à des prêts négociés, certains primo-accédants peuvent acheter sans apport et ne commencer à rembourser qu’à la livraison, prévue fin 2028.\nCet article Immobilier Chambéry : 49 logement",
+          "titre": "Immobilier : Les annonces Orpi arrivent sur idealista.fr",
+          "analyse": "Une semaine après son lancement en France, idealista signe avec Orpi. Les annonces des 1 250 agences du réseau vont rejoindre le portail, qui revendique plus de 200 millions de visites mensuelles en Europe.\nCet article Immobilier : Les annonces Orpi arrivent sur idealista.fr est apparu en premier su",
           "source": "MySweetimmo",
-          "url": "https://www.mysweetimmo.com/2026/09/20/immobilier-chambery-49-logements-neufs-accessibles-sans-apport/",
+          "url": "https://www.mysweetimmo.com/2026/09/21/immobilier-les-annonces-orpi-arrivent-sur-idealista-fr/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Entre deux logements : Où stocker ses meubles pendant un déménagement ?",
+          "analyse": "Vendre avant d’avoir trouvé son prochain logement, attendre la fin des travaux, quitter une location avant d’avoir les clés du suivant : entre deux adresses, meubles et cartons n’ont parfois nulle part où aller. Garde-meuble, self-stockage, stockage mobile : tour d’horizon des solutions pour travers",
+          "source": "MySweetimmo",
+          "url": "https://www.mysweetimmo.com/2026/09/21/entre-deux-logements-ou-stocker-ses-meubles-pendant-un-demenagement/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Immobilier : MySweetImmo lance « L’Humeur du marché »",
+          "analyse": "Acheteurs, vendeurs, professionnels : comment vivez-vous le marché immobilier aujourd’hui ? Avec L’Humeur du marché, MySweetImmo confronte le regard de ceux qui le font à celui de ceux qui le vivent.\nCet article Immobilier : MySweetImmo lance « L’Humeur du marché » est apparu en premier sur MySweeti",
+          "source": "MySweetimmo",
+          "url": "https://www.mysweetimmo.com/2026/09/20/immobilier-mysweetimmo-lance-lhumeur-du-marche/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "A vendre à Bordeaux : Maison contemporaine avec piscine",
+          "analyse": "Cette maison contemporaine entièrement rénovée de 151 m² avec jardin, piscine et dépendance, située dans une rue calme de Primrose, à Bordeaux, est proposée à lavente par Barnes.\nCet article A vendre à Bordeaux : Maison contemporaine avec piscine  est apparu en premier sur MySweetimmo.",
+          "source": "MySweetimmo",
+          "url": "https://www.mysweetimmo.com/2026/09/20/a-vendre-a-bordeaux-maison-contemporaine-avec-piscine/",
           "niveau": "moyen"
         }
       ]
@@ -159,59 +201,248 @@
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "Droits télé: le président du PSG Nasser al-Khelaïfi visé en France par une enquê",
-          "analyse": "Nasser al-Khelaïfi, président du PSG et de beIN Media Group, est visé par une enquête préliminaire à Paris pour prise illégale d&#039;intérêts lors d&#039;une réunion en 2024 sur les droits télé avec la Ligue d...",
+          "titre": "\"Candidats, à table!\" ou \"Brevet présidentiel\": LCP à l'heure des élections",
+          "analyse": "\"Candidats, à table!\", \"Brevet présidentiel\", \"La République des lettres\"... La chaîne LCP-Assemblée nationale va multiplier les émissions avant l&#039;élection reine de 2027, ont annoncé lun...",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/depeches/droits-tele-le-president-du-psg-nasser-al-khelaifi-vise-en-france-par-une-enquete-pour-prise-illegale-d-interets-138864",
+          "url": "https://www.notretemps.com/depeches/candidats-a-table-ou-brevet-presidentiel-lcp-a-l-heure-des-elections-138891",
           "niveau": "moyen"
         },
         {
-          "titre": "France: le prix du gazole à près de 2,41 euros en moyenne, nouveau record (analy",
-          "analyse": "Le prix du gazole évolue dimanche à près de 2,41 euros en moyenne en France, selon une analyse par l&#039;AFP des données publiques, un nouveau record en pleine crise géopolitique où les appr...",
+          "titre": "La menace de guerre hybride par la Russie est \"réelle\" et \"documentée\", selon Nu",
+          "analyse": "\"La menace de guerre hybride que livre la Russie\" est \"réelle\" et \"documentée\", a assuré lundi Laurent Nuñez après l&#039;annonce par Emmanuel Macron d&#039;un plan de protection des infrastructures critiques e...",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/depeches/france-le-prix-du-gazole-a-pres-de-241-euros-en-moyenne-nouveau-record-analyse-afp-des-donnees-publiques-138863",
+          "url": "https://www.notretemps.com/depeches/la-menace-de-guerre-hybride-par-la-russie-est-reelle-et-documentee-selon-nunez-138880",
           "niveau": "moyen"
         },
         {
-          "titre": "L'Etat accorde un prêt de 2 millions d'euros à l'usine Fibre Excellence de Saint",
-          "analyse": "L&#039;Etat va accorder un prêt de deux millions d&#039;euros à la société Fibre Excellence Saint-Gaudens (Haute-Garonne), en redressement judiciaire depuis fin avril, selon un arrêté publié dimanche au Journal...",
+          "titre": "Assurances: face aux sinistres plus fréquents et plus coûteux, les tarifs grimpe",
+          "analyse": "Les tarifs d&#039;assurance habitation et automobile vont de nouveau augmenter l&#039;an prochain, et plus vite que l&#039;inflation. La profession, confrontée à des sinistres plus fréquents et plus coûteux à indemn...",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/depeches/l-etat-accorde-un-pret-de-2-millions-d-euros-a-l-usine-fibre-excellence-de-saint-gaudens-138862",
+          "url": "https://www.notretemps.com/depeches/assurances-face-aux-sinistres-plus-frequents-et-plus-couteux-les-tarifs-grimpent-138889",
           "niveau": "moyen"
         },
         {
-          "titre": "Budget: \"des crédits en moins au cas par cas\" dans le spectacle vivant, selon Pé",
-          "analyse": "La ministre de la Culture Catherine Pégard a affirmé dimanche que le budget de son ministère pour 2027 se traduirait pour les structures du spectacle vivant public par \"moins de crédits, au cas par ca...",
+          "titre": "Dette française: il faut \"faire des choix\" pour éviter \"une spirale\", dit Roland",
+          "analyse": "Le ministre de l&#039;Economie Roland Lescure a dit lundi \"aborder\" la situation de la France \"avec une certaine gravité\", soulignant qu&#039;il fallait \"faire des choix\" pour éviter \"une spirale\" de la dette,...",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/depeches/budget-des-credits-en-moins-au-cas-par-cas-dans-le-spectacle-vivant-selon-pegard-138861",
+          "url": "https://www.notretemps.com/depeches/dette-francaise-il-faut-faire-des-choix-pour-eviter-une-spirale-dit-roland-lescure-138884",
           "niveau": "moyen"
         },
         {
-          "titre": "Violences urbaines près de Tours après une collision entre une moto et un véhicu",
-          "analyse": "Des affrontements entre les forces de l&#039;ordre et \"plusieurs dizaines de jeunes\" ont éclaté dans la nuit de samedi à dimanche près de Tours, après qu&#039;un motard a été blessé à la jambe dans une collisio...",
+          "titre": "Carburants : l'exécutif sur tous les fronts",
+          "analyse": "Agir sur les aides mais aussi sur les approvisionnements : le couple exécutif se déploie cette semaine pour tenter de calmer la grogne sociale sur les carburants, dont les prix flambent et entament le...",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/depeches/violences-urbaines-pres-de-tours-apres-une-collision-entre-une-moto-et-un-vehicule-de-police-138860",
+          "url": "https://www.notretemps.com/depeches/carburants-l-executif-sur-tous-les-fronts-138871",
           "niveau": "moyen"
         },
         {
-          "titre": "En congrès à Bordeaux, le monde HLM veut placer le logement au coeur de la campa",
-          "analyse": "Face à l&#039;ampleur de la crise du logement en France, le mouvement HLM espère en faire un thème central de la campagne pour l&#039;élection présidentielle de 2027 avec comme premier rendez-vous son congrès a...",
+          "titre": "Violence urbaines près de Tours: le policier conducteur placé sous statut de tém",
+          "analyse": "Le policier qui conduisait le véhicule entré en collision avec un jeune motard lors d&#039;un rodéo près de Tours a été placé sous statut de témoin assisté, a annoncé lundi sur X la procureure de Tours.Sur...",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/depeches/en-congres-a-bordeaux-le-monde-hlm-veut-placer-le-logement-au-coeur-de-la-campagne-presidentielle-138859",
+          "url": "https://www.notretemps.com/depeches/violence-urbaines-pres-de-tours-le-policier-conducteur-place-sous-statut-de-temoin-assiste-138873",
           "niveau": "moyen"
         },
         {
-          "titre": "Le chorégraphe Thierry Malandain se détache de la création, mais pas de la danse",
-          "analyse": "Auteur de plus de 90 ballets donnés en France comme à l&#039;étranger, Thierry Malandain, chorégraphe multi-récompensé, tourne la page de la création pour se recentrer sur l&#039;\"accompagnement artistique\" et...",
+          "titre": "Gironde: après la \"guerre du feu\", l'urgente réparation des engins anti-incendie",
+          "analyse": "C&#039;est une \"guerre de l&#039;invisible\", aussi cruciale que la \"guerre du feu\" des pompiers cet été en Gironde: dans un vaste atelier du nord de Bordeaux, des dizaines d&#039;engins endommagés, tordus, fondus pa...",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/depeches/le-choregraphe-thierry-malandain-se-detache-de-la-creation-mais-pas-de-la-danse-138858",
+          "url": "https://www.notretemps.com/depeches/gironde-apres-la-guerre-du-feu-l-urgente-reparation-des-engins-anti-incendie-138876",
           "niveau": "moyen"
         },
         {
-          "titre": "Saint-Pierre-et-Miquelon est \"français\"  répond Macron à Trump à son arrivée dan",
-          "analyse": "\"C&#039;est une évidence\", \"pas de discussion\": Emmanuel Macron a martelé dès son arrivée samedi soir à Saint-Pierre-et-Miquelon, en plein Atlantique Nord, que ce territoire était bien \"français\" et \"attac...",
+          "titre": "Combien de café peut-on boire par jour sans risque pour la santé?",
+          "analyse": "Chaque matin, des millions de Français commencent leur journée par un café. Bonne nouvelle: en plus de nous réveiller, il pourrait protéger le cerveau, réduire le risque de diabète et apporter de précieux antioxydants. À condition de ne pas en abuser! Explications.",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/depeches/saint-pierre-et-miquelon-est-francais-repond-macron-a-trump-a-son-arrivee-dans-l-archipel-138857",
+          "url": "https://www.notretemps.com/sante-bien-etre/nutrition/combien-de-cafe-peut-on-boire-par-jour-sans-risque-pour-la-sante-137079",
+          "niveau": "moyen"
+        }
+      ]
+    },
+    {
+      "titre": "Finance_Pro",
+      "icone": "📰",
+      "niveau_global": "moyen",
+      "items": [
+        {
+          "titre": "IOPOLE lève 3 M€ pour équiper les éditeurs logiciels face à  l’obligation de fac",
+          "analyse": "Plateforme Agréée en marque blanche, IOPOLE (société basée à Pérols dans l’Hérault) revendique plus de 500 000 entreprises couvertes et un effectif multiplié par cinq en un an. La société lève 3 M€ auprès d&rsquo;IRDI Capital Investissement et SOFILARO pour accélérer\nson internationalisation, dévelo",
+          "source": "Finyear",
+          "url": "https://finyear.com/iopole-leve-3-me-pour-equiper-les-editeurs-logiciels-face-a-lobligation-de-facturation-electronique/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Eiffel Investment Group accélère dans la gestion obligataire avec le lancement d",
+          "analyse": "Eiffel Investment Group poursuit le développement de son activité de gestion obligataire cotée avec le lancement d’Eiffel Short Term Green Bonds, un fonds obligataire court terme Article 9 destiné notamment au placement des liquidités. Cette nouvelle stratégie vise à offrir aux investisseurs une alt",
+          "source": "Finyear",
+          "url": "https://finyear.com/eiffel-investment-group-accelere-dans-la-gestion-obligataire-avec-le-lancement-deiffel-short-term-green-bonds/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Morgan Stanley mise 49M€ sur Amber Electric pour décarboner les foyers européens",
+          "analyse": "Morgan Stanley Investment Management (MSIM) annonce ce 21 septembre 2026 que sa stratégie d&rsquo;investissement en capital-développement climatique 1GT a mené un tour de financement de Série E de 49 millions d&rsquo;euros en faveur d&rsquo;Amber Electric, une plateforme australienne de flexibilité ",
+          "source": "Finyear",
+          "url": "https://finyear.com/morgan-stanley-mise-49me-sur-amber-electric-pour-decarboner-les-foyers-europeens-e-on-co-investit/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "S&P rachète OpenZeppelin — la norme de sécurité de toute la finance on-chain rej",
+          "analyse": "S&P Global a annoncé cette semaine l&rsquo;acquisition d&rsquo;OpenZeppelin, dont les bibliothèques de contrats intelligents open-source constituent le standard de sécurité de l&rsquo;industrie blockchain. Ces standards sont déployés derrière 37 trillions de dollars de valeur on-chain. Les termes fi",
+          "source": "Finyear",
+          "url": "https://finyear.com/sp-rachete-openzeppelin-la-norme-de-securite-de-toute-la-finance-on-chain-rejoint-le-leader-des-indices/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Deutsche Bank garde Bitcoin et Ethereum pour ses clients institutionnels — lance",
+          "analyse": "Le 16 septembre 2026, Deutsche Bank — 2 217 milliards de dollars d&rsquo;actifs sous gestion — a confirmé ses plans pour lancer un service de custody d&rsquo;actifs numériques pour ses clients institutionnels et corporate européens avant la fin de l&rsquo;année. Le service supportera Bitcoin, Ether,",
+          "source": "Finyear",
+          "url": "https://finyear.com/deutsche-bank-garde-bitcoin-et-ethereum-pour-ses-clients-institutionnels-lancement-avant-fin-2026/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Circle allume Arc avec BlackRock, DTCC et Visa comme validateurs — Wall Street f",
+          "analyse": "Circle Internet Group (NYSE : CRCL) a lancé le mainnet public d&rsquo;Arc le 16 septembre 2026 — un jour après l&rsquo;échec du CLARITY Act au Sénat. Arc est une blockchain Layer 1 native USDC construite pour les marchés financiers institutionnels. Son consensus Malachite (dérivé de Tendermint) offr",
+          "source": "Finyear",
+          "url": "https://finyear.com/circle-allume-arc-avec-blackrock-dtcc-et-visa-comme-validateurs-wall-street-fait-tourner-sa-propre-blockchain/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Fintech et paiements x2 en M&A au premier semestre 2026 — McKinsey cartographie ",
+          "analyse": "Les données McKinsey M&A pour le premier semestre 2026 documentent une accélération de 40% de la valeur des transactions dans les services financiers vs S1 2025 — pour atteindre 499 milliards de dollars. Les Amériques ont capté 255 milliards soit 51% du total. Sur l&rsquo;ensemble de l&rsquo;économi",
+          "source": "Finyear",
+          "url": "https://finyear.com/fintech-et-paiements-x2-en-ma-au-premier-semestre-2026-mckinsey-cartographie-la-consolidation/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "GameStop lance une OPA hostile sur eBay à 55 milliards — eBay dit qu’il va exami",
+          "analyse": "GameStop Corp. (NYSE : GME) a soumis le 3 mai 2026 une proposition non contraignante visant à acquérir 100% du capital d&rsquo;eBay Inc. pour 125 dollars par action en numéraire et en actions, valorisant eBay à environ 55,5 milliards de dollars. 50% cash, 50% actions GameStop, avec droits d&rsquo;él",
+          "source": "Finyear",
+          "url": "https://finyear.com/gamestop-lance-une-opa-hostile-sur-ebay-a-55-milliards-ebay-dit-quil-va-examiner/",
+          "niveau": "moyen"
+        }
+      ]
+    },
+    {
+      "titre": "Reglementation",
+      "icone": "📋",
+      "niveau_global": "moyen",
+      "items": [
+        {
+          "titre": "Le Conseil national de la médiation : saison II",
+          "analyse": "Les nouveaux membres du Conseil national de la m&#233;diation (CNM) ont &#233;t&#233; nomm&#233;s par arr&#234;t&#233; du 16 septembre 2026. Fabrice Vert*, qui en fait partie, nous pr&#233;sente cette composition plac&#233;e entre continuit&#233; et renouvellement. Il &#233;tait tr&#232;s attendu pa",
+          "source": "Actu-Juridique",
+          "url": "https://www.actu-juridique.fr/marl/le-conseil-national-de-la-mediation-saison-ii/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Tania Jewczuk : « Essayer de contribuer à rétablir la confiance dans la justice ",
+          "analyse": "En mai dernier, dans un contexte de d&#233;fiance envers la justice et d&#8217;affaires politiques tr&#232;s m&#233;diatis&#233;es, la cour d&#8217;appel de Paris nommait pour la premi&#232;re fois une porte-parole. Sa mission : expliquer les d&#233;cisions de justice rendues, et ainsi contribuer &#",
+          "source": "Actu-Juridique",
+          "url": "https://www.actu-juridique.fr/professions/tania-jewczuk-essayer-de-contribuer-a-retablir-la-confiance-dans-la-justice-est-un-defi-motivant/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Analyser les documents juridiques comme un professionnel du droit : le nouveau p",
+          "analyse": "Un an apr&#232;s le lancement de Consult&#8217;IA, Lextenso enrichit son intelligence artificielle juridique d&#8217;une nouvelle fonctionnalit&#233; de synth&#232;se et d&#8217;analyse de documents. Contrats, actes notari&#233;s, conclusions, documents sociaux&#8230; Consult&#8217;IA intervient d&#",
+          "source": "Actu-Juridique",
+          "url": "https://www.actu-juridique.fr/professions/analyser-les-documents-juridiques-comme-un-professionnel-du-droit-le-nouveau-pari-de-consultia/",
+          "niveau": "moyen"
+        }
+      ]
+    },
+    {
+      "titre": "ESG",
+      "icone": "🌱",
+      "niveau_global": "moyen",
+      "items": [
+        {
+          "titre": "Omnibus X sur les pesticides : \"Un remake de la loi Duplomb à l’échelon européen",
+          "analyse": "Le Parlement européen va prochainement se prononcer sur l'Omnibus X sur les pesticides. @iStock\nSi la loi Duplomb, qui visait à réintroduire l'acétamipride, un néonicotinoïde interdit en France, a réussi à mobiliser plus de deux millions de Français, la loi européenne Omnibus X sur la sécurité alime",
+          "source": "Novethic",
+          "url": "https://www.novethic.fr/environnement/biodiversite/omnibus-x-sur-les-pesticides-un-remake-de-la-loi-duplomb-a-lechelon-europeen-en-mille-fois-pire",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Le nombre de directeurs durabilité en baisse pour la première fois depuis 15 ans",
+          "analyse": "Le nombre de directeurs RSE en baisse aux Etats-Unis - Photo de Steven Abrahamsur Unsplash\nC'est un chiffre qui traduit bien l'ampleur des reculs en matière de durabilité en cours aux Etats-Unis. Pour la première fois depuis 15 ans, le nombre de directeurs ou directrices de la durabilité dans les en",
+          "source": "Novethic",
+          "url": "https://www.novethic.fr/economie-et-social/transformation-de-leconomie/baisse-nombre-directeurs-durabilite-rse-etats-unis",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Maître Coq, Le Gaulois… : le nouveau logo \"bien-être animal\" dans la tourmente",
+          "analyse": "le nouveau logo sera déployé sur les produits à base de poulet. @Kevin Malik / Unsplash, Collectif Filière Agricole Engagée pour Élever le Bien-Être Animal\nL’appétit des Français pour le poulet ne décline pas. En moyenne, nous en avons mangé 25 kg par an et par personne en 2025, soit deux fois plus ",
+          "source": "Novethic",
+          "url": "https://www.novethic.fr/environnement/biodiversite/bien-etre-animal-associations-accusent-ldc-tromper-consommateurs",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Les prix des modules photovoltaïques en baisse",
+          "analyse": "Cette fois, l&#8217;inversion de tendance est avérée. Après l&#8217;accalmie entrevue en juillet, confirmée en août, le coût des modules photovoltaïques a \nL’article Les prix des modules photovoltaïques en baisse est apparu en premier sur GreenUnivers.",
+          "source": "GreenUnivers",
+          "url": "https://www.greenunivers.com/2026/09/les-prix-des-modules-photovoltaiques-en-baisse-433681/",
+          "niveau": "moyen"
+        }
+      ]
+    },
+    {
+      "titre": "Fintech",
+      "icone": "📰",
+      "niveau_global": "moyen",
+      "items": [
+        {
+          "titre": "Du CRM aux “buying signals” : la nouvelle bataille de la SalesTech",
+          "analyse": "Pendant plus de vingt ans, les logiciels commerciaux ont été conçus autour d’une logique simple : centraliser des contacts, suivre des opportunités et organiser les pipelines de vente. Le CRM est devenu l’infrastructure dominante des équipes commerciales modernes, structurant aussi bien la prospecti",
+          "source": "FRENCHWEB.FR : innovation, tech, network",
+          "url": "https://www.frenchweb.fr/du-crm-aux-buying-signals-la-nouvelle-bataille-de-la-salestech/463523",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "INDY, TIIME ou ABBY : quelle plateforme choisir pour sa facturation électronique",
+          "analyse": "Si la facture électronique n’est que la porte d’entrée, derrière le choix d’une plateforme agréée se joue désormais une part croissante de la gestion de l’indépendant : devis, encaissements, relances, compte professionnel, déclarations sociales, comptabilité et transmission des données à l’administr",
+          "source": "FRENCHWEB.FR : innovation, tech, network",
+          "url": "https://www.frenchweb.fr/indy-tiime-ou-abby-quelle-plateforme-choisir-pour-sa-facturation-electronique-quand-on-est-independant/463550",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "KHEOPS lève 12 millions d’euros pour passer du workflow à l’intelligence de l’as",
+          "analyse": "Kheops lève 12 millions d’euros auprès d’ODYSSÉE Venture, ISAI et Elaia. Fondée en 2021 par Caroline Poinsignon et Thibault Boyeux, la société française s’est d’abord attaquée à la complexité des achats réalisés directement entre magasins et fournisseurs. Avec plus de 500 magasins, 3 000 fournisseur",
+          "source": "FRENCHWEB.FR : innovation, tech, network",
+          "url": "https://www.frenchweb.fr/kheops-leve-15-millions-deuros-pour-passer-du-workflow-a-lintelligence-de-lassortiment/463552",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Outils pour produire des contenus GEO sélectionnés par les IA : publier dans les",
+          "analyse": "La recherche d&#8217;informations en ligne traverse une phase de transition importante, qui modifie les méthodes de travail des professionnels du marketing numérique et des marques. L&#8217;optimisation pour les moteurs de recherche traditionnels (SEO) laisse peu à peu la place à une nouvelle discip",
+          "source": "FRENCHWEB.FR : innovation, tech, network",
+          "url": "https://www.frenchweb.fr/outils-pour-produire-des-contenus-geo-selectionnes-par-les-ia-publier-dans-les-sources-citees/463546",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Commencez par le bas : pourquoi vos contenus doivent d’abord viser les prospects",
+          "analyse": "La majorité des stratégies de contenu B2B commencent à l’envers. Elles mobilisent des ressources pour séduire des audiences larges, peu qualifiées, en haut de l’entonnoir, au lieu de s’adresser d’abord à ceux qui sont prêts à acheter. C’est une erreur stratégique fréquente, amplifiée par l’obsession",
+          "source": "FRENCHWEB.FR : innovation, tech, network",
+          "url": "https://www.frenchweb.fr/commencez-par-le-bas-pourquoi-vos-contenus-doivent-dabord-viser-les-prospects-most-aware/453637",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Les levées de fonds de la French Tech du 14 au 18 septembre 2026 : 42,2 millions",
+          "analyse": "Après la levée hors norme de Mistral AI la semaine précédente, le marché français revient à des tickets plus resserrés. Du 14 au 18 septembre, neuf startups implantées en France ont annoncé 42,2 millions d’euros de financements. Six d’entre elles, qui utilisent l’intelligence artificielle au cœur de",
+          "source": "FRENCHWEB.FR : innovation, tech, network",
+          "url": "https://www.frenchweb.fr/les-levees-de-fonds-de-la-french-tech-du-14-au-18-septembre-2026-422-millions-deuros-lia-capte-82-des-capitaux/463537",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Prévention des risques : le droit du travail parle à des entreprises qui n'exist",
+          "analyse": "41 % des établissements de moins de dix salariés ont un document unique à jour, contre 91 % au-delà de 250 salariés. L'écart ne s'explique pas par la mauvaise volonté.",
+          "source": "JDN : Derniers contenus",
+          "url": "https://www.journaldunet.com/management/direction-generale/1555111-prevention-des-risques-le-droit-du-travail-parle-a-des-entreprises-qui-n-existent-pas/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Après le mythe du CDI, la nouvelle génération fait de l'entrepreneuriat une voie",
+          "analyse": "Le CDI reste une sécurité recherchée, mais il n'est plus l'unique horizon professionnel. Chez les 18-29 ans, entreprendre devient progressivement une option de carrière ordinaire.",
+          "source": "JDN : Derniers contenus",
+          "url": "https://www.journaldunet.com/management/emploi-cadres/1555169-apres-le-mythe-du-cdi-la-nouvelle-generation-fait-de-l-entrepreneuriat-une-voie-normale/",
           "niveau": "moyen"
         }
       ]
