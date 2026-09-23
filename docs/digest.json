@@ -1,5 +1,5 @@
 {
-  "date_fr": "Tuesday 22 September 2026",
+  "date_fr": "Wednesday 23 September 2026",
   "compte_articles": 250,
   "compte_forts": 0,
   "compte_moyens": 250,
@@ -12,59 +12,59 @@
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "Nicolas Mayer-Rossignol, le maire de Rouen atteint d’un cancer, a fait le choix ",
-          "analyse": "Le maire socialiste de Rouen a décidé de rendre publique sa maladie, rompant avec la figure infaillible de l’homme politique. A 49 ans, il assume de maintenir ses fonctions, et s’est engagé dans la campagne de Raphaël Glucksmann pour la prochaine élection présidentielle.",
+          "titre": "L’IA pour la première fois en débat au Conseil de sécurité de l’ONU",
+          "analyse": "Les dirigeants d’OpenAI et d’Anthropic, ainsi que le Français Clément Delangue, cofondateur de Hugging Face, doivent s’exprimer, mercredi, à New York. Mardi, la France s’est tenue à l’écart d’une « déclaration » portée par 20 pays, réclamant des mesures contraignantes face à la course à l’intelligen",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/09/22/face-au-cancer-le-maire-de-rouen-nicolas-mayer-rossignol-a-fait-le-choix-de-la-transparence_6779752_823448.html",
+          "url": "https://www.lemonde.fr/international/article/2026/09/23/l-ia-pour-la-premiere-fois-en-debat-au-conseil-de-securite-de-l-onu_6780876_3210.html",
           "niveau": "moyen"
         },
         {
-          "titre": "EN DIRECT, guerre en Ukraine : la Russie exige la levée des sanctions de l’UE co",
-          "analyse": "L’Union européenne n’a toujours pas répondu à la demande de la France et du Luxembourg de rayer les noms de ces deux oligarques russes de la liste de ses sanctions contre Moscou, et à la détermination de la Lettonie à s’y opposer.",
+          "titre": "Présidentielle 2027 : comment des propositions-clés du RN infusent les discours ",
+          "analyse": "Les pistes d’économie du Rassemblement national irriguent le projet de budget de Sébastien Lecornu, et d’autres figures médiatiques de droite comme de gauche reprennent des propositions jusqu’ici rejetées pour leur inapplicabilité.",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/international/live/2026/09/22/en-direct-guerre-en-ukraine-la-lettonie-bloque-un-compromis-europeen-concernant-les-sanctions-contre-la-russie_6777944_3210.html",
+          "url": "https://www.lemonde.fr/politique/article/2026/09/23/presidentielle-2027-comment-des-propositions-cles-du-rn-infusent-les-discours-de-la-campagne_6780885_823448.html",
           "niveau": "moyen"
         },
         {
-          "titre": "Carburants : Sébastien Lecornu propose d’inscrire une « règle d’or » dans le bud",
-          "analyse": "« Concrètement, si les prix devaient encore augmenter et alimenter un surplus de TVA, la hausse de TVA sera[it] neutralisée pour être restituée aux Français à la pompe », affirme l’entourage du premier ministre, sans donner plus de détail sur le mécanisme de cette restitution.",
+          "titre": "Guerre en Ukraine : des deux côtés du front, l’essor des drones dopés à l’IA",
+          "analyse": "L’armée ukrainienne effectue déjà quotidiennement des missions avec des aéronefs embarquant des modules d’intelligence artificielle pour reconnaître et atteindre leur cible. Côté russe, les développements sont massifs et rapides, permettant à des drones de moyenne portée d’effectuer des missions en ",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/09/22/carburants-sebastien-lecornu-propose-d-inscrire-une-regle-d-or-dans-le-budget-2027-pour-restituer-les-surplus-de-tva-aux-francais_6780071_823448.html",
+          "url": "https://www.lemonde.fr/international/article/2026/09/23/guerre-en-ukraine-des-deux-cotes-du-front-l-essor-des-drones-dopes-a-l-ia_6780882_3210.html",
           "niveau": "moyen"
         },
         {
-          "titre": "Pour Donald Trump, l’heure du choix face à la Russie",
-          "analyse": "Depuis dix-huit mois, la Maison Blanche a pu constater que la discussion sans rapport de force avec Vladimir Poutine ne conduisait nulle part. A l’heure où la Russie intensifie sa guerre hybride contre les alliés de l’Ukraine, Donald Trump aura plus à y perdre qu’il ne le pense si la passivité reste",
+          "titre": "Primaire à gauche : la valse-hésitation d’Olivier Faure",
+          "analyse": "La candidature à la primaire de l’espace social-démocrate du premier secrétaire du PS n’avait rien d’une évidence. Pour se distinguer de son principal rival, Raphaël Glucksmann, ce fin tacticien multiplie les marqueurs à gauche. Aux côtés de ses quatre concurrents, il a rendez-vous mercredi soir ave",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/idees/article/2026/09/22/pour-donald-trump-l-heure-du-choix-face-a-la-russie_6780078_3232.html",
+          "url": "https://www.lemonde.fr/politique/article/2026/09/23/primaire-a-gauche-la-valse-hesitation-d-olivier-faure_6780618_823448.html",
           "niveau": "moyen"
         },
         {
-          "titre": "Dans la défense, l’incroyable succès d’Exail Technologies, un spécialiste de la ",
-          "analyse": "L’entreprise, dont la production de centrales inertielles a triplé depuis 2022, prépare un nouveau doublement de celle-ci en deux ans, portée par la demande militaire. Thales a déboursé 3,9 milliards d’euros pour s’emparer de cette technologie critique et contrer Safran, également sur les rangs pour",
+          "titre": "« Le Liberia ? J’ai d’abord pensé que c’était le nom d’un autre Etat américain »",
+          "analyse": "Des citoyens sud-américains rencontrés par « Le Monde » disent avoir subi des violences physiques de la part des agents des services américains de l’immigration et des douanes présents à bord de l’avion qui les menaient au Liberia. Le pays s’est engagé à accueillir jusqu’à 1 200 personnes expulsées ",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/09/22/dans-la-defense-l-incroyable-succes-d-exail-technologies-un-specialiste-de-la-navigation-sans-gps-que-vient-de-rafler-thales_6779829_3234.html",
+          "url": "https://www.lemonde.fr/afrique/article/2026/09/23/le-liberia-j-ai-d-abord-pense-que-c-etait-le-nom-d-un-autre-etat-americain-la-stupefaction-de-migrants-sud-americains-expulses-en-afrique-par-trump_6780800_3212.html",
           "niveau": "moyen"
         },
         {
-          "titre": "A New York, Donald Trump et Zohran Mamdani affichent une improbable complicité",
-          "analyse": "Le président américain a rendu visite au maire démocrate de New York, au cours d’une journée marquée par le boycott des grandes chaînes de télévision américaines en soutien à l’éviction de CNN, « Politico » et MS Now de la Maison Blanche.",
+          "titre": "A Paris, un rempart gaulois découvert sur l’île de la Cité, une « avancée majeur",
+          "analyse": "Ce mur de pierre et de bois d’une vingtaine de mètres a été mis au jour sous l’Hôtel-Dieu, sur l’île de la Cité, a annoncé mercredi le ministère de la culture. Il pourrait être un fragment de rempart de la Lutèce de la tribu gauloise des Parisii, auquel Jules César faisait référence dans son récit d",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/international/article/2026/09/22/a-new-york-donald-trump-et-zohran-mamdani-affichent-une-improbable-complicite_6779934_3210.html",
+          "url": "https://www.lemonde.fr/sciences/article/2026/09/23/a-paris-un-rempart-gaulois-decouvert-sur-l-ile-de-la-cite-une-avancee-majeure-quant-aux-origines-de-la-capitale_6780889_1650684.html",
           "niveau": "moyen"
         },
         {
-          "titre": "Présidentielle 2027 : dans « Le Crépuscule des princes », Edouard Philippe multi",
-          "analyse": "Depuis plusieurs mois, le camp du patron de Renaissance distille auprès de la presse une comparaison peu flatteuse, caricaturant Edouard Philippe en un autre Edouard, Balladur. Le maire du Havre réplique dans un ouvrage des journalistes Jérémy Marot (AFP) et Pauline Théveniaud (RTL) à paraître mercr",
+          "titre": "L’inquiétude sur le mal-être des agriculteurs grandit après une année catastroph",
+          "analyse": "L’association Solidarité paysans, qui aide des exploitants en détresse depuis près de trente-cinq ans, publie, mercredi, son premier rapport annuel sur les difficultés du secteur, à partir de la cohorte de plus de 3 600 éleveurs ou cultivateurs qu’elle a accompagnés en 2025.",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/09/22/presidentielle-2027-dans-le-crepuscule-des-princes-edouard-philippe-multiplie-les-coups-de-griffe-a-l-egard-de-gabriel-attal_6780090_823448.html",
+          "url": "https://www.lemonde.fr/economie/article/2026/09/23/l-inquietude-sur-le-mal-etre-des-agriculteurs-grandit-apres-une-annee-catastrophique-les-gens-sont-a-bout_6780584_3234.html",
           "niveau": "moyen"
         },
         {
-          "titre": "Visite de Léon XIV : Emmanuel Macron a invité tous les dirigeants de l’UE au dis",
-          "analyse": "Pour cet événement prévu lundi, au quatrième jour de la visite apostolique du pape Léon XIV en France, un « format européen » a été privilégié, limité aux représentants des institutions de l’Union européenne et aux dirigeants des pays membres, selon l’Elysée.",
+          "titre": "En Ethiopie, les rebelles du Tigré disent repousser une « invasion » des forces ",
+          "analyse": "Les Forces de défense tigréennes ont, par ailleurs, pris le contrôle de l’aéroport de Makalé, capitale de l’Etat. Trois jours plus tôt, sept mouvements actifs dans différentes régions du pays avaient annoncé la création d’une alliance pour renverser les autorités fédérales.",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/international/article/2026/09/22/visite-de-leon-xiv-emmanuel-macron-a-invite-tous-les-dirigeants-de-l-ue-au-discours-du-pape-sur-l-europe-a-metz_6780092_3210.html",
+          "url": "https://www.lemonde.fr/afrique/article/2026/09/23/en-ethiopie-des-combats-entre-l-armee-et-les-forces-de-defense-tigreennes-signales-dans-l-etat-d-afar_6780893_3212.html",
           "niveau": "moyen"
         }
       ]
@@ -75,59 +75,59 @@
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "Donald Trump says China is opening up. American bosses disagree",
-          "analyse": "Chipmakers’ record sales disguise a gloomy picture",
+          "titre": "You can’t trade your way through the AI apocalypse",
+          "analyse": "It’s hard to price the threats posed by a misaligned superintelligence",
+          "source": "Finance & economics",
+          "url": "https://www.economist.com/finance-and-economics/2026/09/22/you-cant-trade-your-way-through-the-ai-apocalypse",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Bartleby newsletter: The T&Cs of the AI apocalypse",
+          "analyse": "Andrew Palmer, our Bartleby columnist, considers how the legalese of an AI subscription might deal with such risk",
           "source": "Business",
-          "url": "https://www.economist.com/business/2026/09/21/donald-trump-says-china-is-opening-up-american-bosses-disagree",
+          "url": "https://www.economist.com/business/2026/09/22/bartleby-newsletter-the-tandcs-of-the-ai-apocalypse",
           "niveau": "moyen"
         },
         {
-          "titre": "Meta’s stock is enjoying its best month in 13 years thanks to the company’s hot ",
-          "analyse": "Muse is gaining popularity and helping convince investors that Meta’s AI bets are paying off.",
+          "titre": "What the Trump-Xi meeting could do to strengthen the guardrails for AI",
+          "analyse": "Beyond discussions about artificial intelligence, other key topics are likely to be the Iran war, an ongoing trade truce and Chinese cars.",
           "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/metas-stock-is-enjoying-its-best-month-in-more-than-two-years-thanks-to-the-companys-hot-new-ai-assistant-bf106291?mod=mw_rss_topstories",
+          "url": "https://www.marketwatch.com/story/what-the-trump-xi-meeting-coulddo-to-strengthen-the-guardrails-for-ai-298a5432?mod=mw_rss_topstories",
           "niveau": "moyen"
         },
         {
-          "titre": "How this market-beating fund is constantly shifting to keep up with the AI trade",
-          "analyse": "An exchange-traded fund that is rebalanced quarterly is doing a better job of keeping up with the artificial-intelligence trade than the broader index.",
+          "titre": "The AI-infrastructure trade is still not over, says this top-performing fund man",
+          "analyse": "Brock Campbell, BNY Mellon’s Global Infrastructure Income exchange-traded fund manager, said some investors mistakenly believe the artificial-intelligence play has peaked. He flags what’s been overlooked.",
           "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/how-this-market-beating-fund-is-constantly-shifting-to-keep-up-with-the-ai-trade-cf8536e0?mod=mw_rss_topstories",
+          "url": "https://www.marketwatch.com/story/the-ai-infrastructure-trade-is-still-not-over-says-this-top-performing-fund-manager-where-hes-investing-8c61f6da?mod=mw_rss_topstories",
           "niveau": "moyen"
         },
         {
-          "titre": "Oil could top $150 a barrel if supplies further tighten, Bank of America warns",
-          "analyse": "If disruptions caused by fighting in the Middle East persist into spring 2027, Brent crude  could spike above $150 a barrel, strategists at the bank said.",
+          "titre": "Financial stocks are falling as rates rise. Why that’s a problem for the broader",
+          "analyse": "Higher interest rates could slow loan growth and raise banks’ funding costs",
           "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/oil-could-top-150-a-barrel-if-supplies-further-tighten-bank-of-america-warns-2fcd5bd3?mod=mw_rss_topstories",
+          "url": "https://www.marketwatch.com/story/financial-stocks-are-falling-as-rates-rise-why-thats-a-problem-for-the-broader-market-70bd9b04?mod=mw_rss_topstories",
           "niveau": "moyen"
         },
         {
-          "titre": "Bitcoin hits an 8-month high — and sends a clear message about risk appetite rig",
-          "analyse": "The lack of clarity around crypto’s regulatory framework hasn’t stopped bitcoin from surging, as investors haven’t abandoned hopes for clearer U.S. rules.",
-          "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/bitcoin-hits-an-8-month-high-and-sends-a-clear-message-about-risk-appetite-right-now-edc7b9a5?mod=mw_rss_topstories",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "What this machine-learning model with 65% accuracy says is coming next for the 1",
-          "analyse": "HSBC says it’s designed a machine-learning model to predict the direction of the most important financial instrument in global markets.",
-          "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/what-this-machine-learning-model-with-65-accuracy-says-is-coming-next-for-the-10-year-treasury-55d76b8f?mod=mw_rss_topstories",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "‘She gave a neighbor $2,000’: Social Security overpaid my mother, 82, by $20,000",
+          "titre": "Social Security overpaid my 82-year-old mother by $20,000. What else is hiding i",
           "analyse": "“My mother has a pension, Social Security, investments and a house probably worth over $1 million.”",
           "source": "MarketWatch.com - Top Stories",
           "url": "https://www.marketwatch.com/story/she-gave-a-neighbor-2-000-social-security-overpaid-my-mother-82-by-20-000-what-else-is-hiding-in-her-finances-1b54977f?mod=mw_rss_topstories",
           "niveau": "moyen"
         },
         {
-          "titre": "Amanda Seyfried splits with husband Thomas Sadoski, weeks after listing L.A. hom",
-          "analyse": "“Mamma Mia!” star Amanda Seyfried and her husband, Thomas Sadoski, have split after nine years of marriage—just weeks after the actress put her longtime Los Angeles home on the market.",
+          "titre": "‘I don’t begrudge them their money’: My husband and I have friends who spend, sp",
+          "analyse": "“A weekend away isn’t a weekend away. It’s a luxury hotel, expensive meals and a last-minute upgrade.”",
           "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/amanda-seyfried-splits-with-husband-thomas-sadoski-weeks-after-listing-l-a-home-for-3-2-million-2ed9b8ab?mod=mw_rss_topstories",
+          "url": "https://www.marketwatch.com/story/i-dont-begrudge-them-their-money-my-husband-and-i-have-friends-who-spend-spend-spend-how-do-we-keep-up-e10164dc?mod=mw_rss_topstories",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Why analysts say a diesel export ban could backfire",
+          "analyse": "A ban on U.S. diesel exports could reduce supplies and simultaneously lead to prices rising further, according to analysts.",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/why-analysts-say-a-diesel-export-ban-could-backfire-8b13cd51?mod=mw_rss_topstories",
           "niveau": "moyen"
         }
       ]
@@ -138,59 +138,59 @@
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "Edmond de Rothschild REIM dévoile sa nouvelle stratégie value-add",
-          "analyse": "Comment Edmond de Rothschild REIM cherche de l’alpha dans l’immobilier industriel léger européen ?",
+          "titre": "SCPI Remake Kross : Quels marchés vise la nouvelle venue ?",
+          "analyse": "Comment la SCPI Remake Kross investit-elle 100 % hors de France tout en visant 7,5 % de TRI net ? Découvrez sa stratégie, ses risques et ses atouts.",
           "source": "MeilleureSCPI.com",
-          "url": "https://www.meilleurescpi.com/actualites/edmond-de-rothschild-reim-devoile-sa-nouvelle-strategie-value-add/",
+          "url": "https://www.meilleurescpi.com/actualites/quelle-nouvelle-strategie-se-dessine-avec-la-scpi-remake-kross/",
           "niveau": "moyen"
         },
         {
-          "titre": "SCPI et allocation immobilière : 40 ans de performances comparées",
-          "analyse": "SCPI ou autres placements sur 40 ans ? Découvrez comment les SCPI se comparent aux actions, à l’immobilier résidentiel et aux produits de taux.",
-          "source": "MeilleureSCPI.com",
-          "url": "https://www.meilleurescpi.com/actualites/scpi-et-allocation-immobiliere-40-ans-de-performances-comparees/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Pourquoi Atream Hôtels choisit-elle d’investir sur la Costa Blanca ?",
-          "analyse": "Pourquoi Atream Hôtels mise sur la Costa Blanca pour sa première acquisition en Espagne ? Découvrez les critères clés et les enjeux pour les associés.",
-          "source": "MeilleureSCPI.com",
-          "url": "https://www.meilleurescpi.com/actualites/pourquoi-la-scpi-atream-hotels-choisit-elle-la-costa-blanca/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "SCPI Comète : un actif mixte acquis au cœur de Londres",
-          "analyse": "SCPI Comète investit dans un actif mixte à Londres avec 9 % de rendement AEM et 100 % d’occupation.",
-          "source": "MeilleureSCPI.com",
-          "url": "https://www.meilleurescpi.com/actualites/scpi-comete-un-actif-mixte-acquis-au-coeur-de-londres/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "AEW Diversification Allemagne acquiert son 1er data center au 1S 2026",
-          "analyse": "AEW Diversification Allemagne investit dans un 1er data center à Nuremberg. Quel impact sur le rendement, le risque et la diversification de votre SCPI ?",
-          "source": "MeilleureSCPI.com",
-          "url": "https://www.meilleurescpi.com/actualites/aew-diversification-allemagne-acquiert-son-premier-data-center-au-1s/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "La SCPI Immorente réalise 9 cessions pour 12,5 M€ au 2T 2026",
-          "analyse": "Immorente a cédé 9 actifs pour 12,5 M€ au 2T 2026 avec des plus-values. Quel impact sur le rendement, le risque locatif et la stratégie ?",
-          "source": "MeilleureSCPI.com",
-          "url": "https://www.meilleurescpi.com/actualites/la-scpi-immorente-realise-9-cessions-pour-12-5-meur-au-2t/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Urban Premium ouvre la souscription d’Urban Pierre 7",
-          "analyse": "La société de gestion lance le septième millésime de sa gamme dédiée au déficit foncier. Un prix sponsor de 475 euros court jusqu&#8217;au 16 novembre 2026. Depuis 2011, les six véhicules précédents ont réuni plus de 320 millions d&#8217;euros. Urban Premium a lancé le 15 septembre dernier Urban Pie",
-          "source": "Pierrepapier.fr",
-          "url": "https://www.pierrepapier.fr/scpi/urban-premium-ouvre-la-souscription-urban-pierre-7/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Accession abordable : « Sortons de la guerre froide des stocks », Sylvain Chatel",
-          "analyse": "Les logements abordables existent. Les ménages éligibles aussi. Mais les deux peinent à se rencontrer, faute d’une offre qui circule entre promoteurs privés, opérateurs publics et réseaux spécialisés. Sylvain Chatellier, président de Logikiz, dénonce un cloisonnement que personne n’a organisé et que",
+          "titre": "Immobilier de luxe : + 55 % de demandes chez Coldwell Banker cet été",
+          "analyse": "Les demandes reçues sur le site de Coldwell Banker ont augmenté de 55 % en juillet-août 2026 par rapport à l’été précédent. Antibes et Juan-les-Pins arrivent en tête des destinations recherchées par ses clients.\nCet article Immobilier de luxe : + 55 % de demandes chez Coldwell Banker cet été est app",
           "source": "MySweetimmo",
-          "url": "https://www.mysweetimmo.com/2026/09/22/accession-abordable-sortons-de-la-guerre-froide-des-stocks-sylvain-chatellier/",
+          "url": "https://www.mysweetimmo.com/2026/09/23/immobilier-de-luxe-55-de-demandes-chez-coldwell-banker-cet-ete/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Immobilier : La sécheresse a-t-elle fragilisé nos maisons ?",
+          "analyse": "La sécheresse peut faire bouger les sols argileux et fragiliser les maisons. Fissures, portes qui coincent : les signes à surveiller et les bons réflexes avant de réparer.\nCet article Immobilier : La sécheresse a-t-elle fragilisé nos maisons ? est apparu en premier sur MySweetimmo.",
+          "source": "MySweetimmo",
+          "url": "https://www.mysweetimmo.com/2026/09/23/immobilier-la-secheresse-a-t-elle-fragilise-nos-maisons/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Fiscalité immobilière : Laforêt lance un nouveau simulateur pour les bailleurs",
+          "analyse": "Laforêt lance un simulateur pour comparer la fiscalité d’une location vide ou meublée jusqu’à 30 ans. Avec Qlower, le réseau accompagne aussi les bailleurs dans leurs déclarations fiscales.\nCet article Fiscalité immobilière : Laforêt lance un nouveau simulateur pour les bailleurs est apparu en premi",
+          "source": "MySweetimmo",
+          "url": "https://www.mysweetimmo.com/2026/09/23/fiscalite-immobiliere-laforet-lance-un-nouveau-simulateur-pour-les-bailleurs/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Immobilier neuf : SeLoger met les programmes en tête d’affiche",
+          "analyse": "SeLoger neuf lance Top Position pour placer les programmes immobiliers en tête des recherches. Réservée aux promoteurs, cette option est limitée à quatre programmes par secteur.\nCet article Immobilier neuf : SeLoger met les programmes en tête d’affiche est apparu en premier sur MySweetimmo.",
+          "source": "MySweetimmo",
+          "url": "https://www.mysweetimmo.com/2026/09/23/immobilier-neuf-seloger-met-les-programmes-en-tete-daffiche/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Prime carburant : Jusqu’à 1 000 € pour les salariés, ce que les agents immobilie",
+          "analyse": "Le plafond de la prime carburant passe de 600 à 1 000 euros. Salariés, mandataires, cumul avec les frais de visites : ce que ça change pour les pros de l'immobilier.\nCet article Prime carburant : Jusqu&rsquo;à 1 000 € pour les salariés, ce que les agents immobiliers doivent savoir est apparu en prem",
+          "source": "MySweetimmo",
+          "url": "https://www.mysweetimmo.com/2026/09/22/prime-carburant-jusqua-1-000-e-pour-les-salaries-ce-que-les-agents-immobiliers-doivent-savoir/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Rénovation énergétique : La phrase qui devient obligatoire dans les publicités a",
+          "analyse": "Dès le 1er octobre, toute publicité pour des travaux de rénovation énergétique devra renvoyer vers France Rénov'. Supports, bandeau, agences, amendes : ce qui change.\nCet article Rénovation énergétique : La phrase qui devient obligatoire dans les publicités au 1er octobre 2026 est apparu en premier ",
+          "source": "MySweetimmo",
+          "url": "https://www.mysweetimmo.com/2026/09/22/renovation-energetique-la-phrase-qui-devient-obligatoire-dans-les-publicites-au-1er-octobre-2026/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Réseaux immobiliers : REGM rejoint Efficity pour accélérer son développement",
+          "analyse": "REGM s’appuie sur Efficity pour accélérer sa croissance. Sa centaine de mandataires bénéficiera de nouveaux outils et de demandes d’estimation, sans changement d’identité du réseau.\nCet article Réseaux immobiliers : REGM rejoint Efficity pour accélérer son développement est apparu en premier sur MyS",
+          "source": "MySweetimmo",
+          "url": "https://www.mysweetimmo.com/2026/09/22/reseaux-immobiliers-regm-rejoint-efficity-pour-accelerer-son-developpement/",
           "niveau": "moyen"
         }
       ]
@@ -201,59 +201,59 @@
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "Le gouvernement annonce un plan pour faire prendre le tournant de l'IA au monde ",
-          "analyse": "Former salariés et chômeurs, soutenir les apprentis qui se destinent à des métiers stratégiques, inciter les petites entreprises à s&#039;y mettre: le ministre du Travail a présenté mardi un plan pour aide...",
+          "titre": "Budget: Lecornu tend la main aux socialistes tentés par la censure",
+          "analyse": "Sébastien Lecornu propose aux socialistes de bâtir, comme l&#039;an dernier, un compromis sur le budget pour 2027, afin de déjouer les menaces de censure qu&#039;ils brandissent déjà dans la perspective de l&#039;él...",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/depeches/le-gouvernement-annonce-un-plan-pour-faire-prendre-le-tournant-de-l-ia-au-monde-du-travail-138938",
+          "url": "https://www.notretemps.com/depeches/budget-lecornu-tend-la-main-aux-socialistes-tentes-par-la-censure-138999",
           "niveau": "moyen"
         },
         {
-          "titre": "Malus, résiliation : les solutions pour continuer à conduire sereinement",
-          "analyse": "L’assurance auto est obligatoire en France pour circuler avec un véhicule. Si vous avez un malus élevé après plusieurs accidents responsables ou que votre assureur a résilié votre contrat, des solutions existent. Elles vous permettent de continuer à conduire tout en restant dans la légalité.",
+          "titre": "Carburants, gaz, fioul... l'exposition des ménages français à la hausse des prix",
+          "analyse": "Certains renoncent à se déplacer, d&#039;autres redoutent une explosion de leur facture de chauffage cet hiver: la hausse des prix du pétrole et du gaz, accentuée par la poursuite de la guerre au Moyen-Ori...",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/vie-pratique/voiture/malus-resiliation-les-solutions-pour-continuer-a-conduire-sereinement-138936",
+          "url": "https://www.notretemps.com/depeches/carburants-gaz-fioul-l-exposition-des-menages-francais-a-la-hausse-des-prix-138998",
           "niveau": "moyen"
         },
         {
-          "titre": "Visite du pape: un dispositif de sécurité XXL, un million de personnes attendues",
-          "analyse": "Un dispositif de sécurité hors norme sera déployé durant les quatre jours de la visite du pape Léon XIV en France, avec une attention toute particulière pour la séquence parisienne, vendredi et samedi...",
+          "titre": "Prix des carburants: \"Je n'ai pas envie d'embêter Total\", assure Papin",
+          "analyse": "\"Je n&#039;ai pas envie d&#039;embêter Total\", a déclaré mercredi sur BFM-RMC le ministre des PME et du Commerce, Serge Papin, interrogé sur l&#039;appel de certains partis à plus de transparence sur les marges du g...",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/depeches/visite-du-pape-un-dispositif-de-securite-xxl-un-million-de-personnes-attendues-138935",
+          "url": "https://www.notretemps.com/depeches/prix-des-carburants-je-n-ai-pas-envie-d-embeter-total-assure-papin-138995",
           "niveau": "moyen"
         },
         {
-          "titre": "Voiture sans permis : rouler tranquillement avec une assurance auto adaptée",
-          "analyse": "D&#039;après le bilan de la Sécurité routière de décembre 2025, les voiturettes ont été impliquées dans 445 accidents corporels en 2024. Un tel chiffre atteste de l&#039;importance d&#039;être assuré quand on conduit ce type de véhicule. Certains assureurs prévoient justement des contrats dédiés.",
+          "titre": "Pyrénées-Atlantiques: un nonagénaire tue ses deux voisins octogénaires au fusil ",
+          "analyse": "Un homme de 90 ans a été placé en garde à vue pour meurtres, après avoir tiré au fusil de chasse sur son couple de voisins octogénaires, à Lagor (Pyrénées-Atlantiques) mardi soir, a-t-on appris mercre...",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/vie-pratique/voiture/voiture-sans-permis-rouler-tranquillement-avec-une-assurance-auto-adaptee-138934",
+          "url": "https://www.notretemps.com/depeches/pyrenees-atlantiques-un-nonagenaire-tue-ses-deux-voisins-octogenaires-au-fusil-de-chasse-138994",
           "niveau": "moyen"
         },
         {
-          "titre": "Du Calvados à Cayenne, à la recherche de l'arrière-grand-oncle bagnard",
-          "analyse": "Sous le soleil accablant de septembre, Laetitia Riotte, venue du Calvados, arpente les allées du cimetière de Cayenne. Sur les pierres tombales, elle cherche le nom de Louis Grilly, son arrière-grand-...",
+          "titre": "L'Azerbaïdjan gracie un Français emprisonné après la levée de sanctions UE contr",
+          "analyse": "L&#039;Azerbaïdjan a gracié mercredi Martin Ryan, un Français emprisonné dans ce pays du Caucase depuis fin 2023 pour \"espionnage\", une décision intervenant peu après la levée des sanctions européennes vis...",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/depeches/du-calvados-a-cayenne-a-la-recherche-de-l-arriere-grand-oncle-bagnard-138932",
+          "url": "https://www.notretemps.com/depeches/l-azerbaidjan-gracie-un-francais-emprisonne-apres-la-levee-de-sanctions-ue-contre-un-oligarque-138991",
           "niveau": "moyen"
         },
         {
-          "titre": "Mélenchon, une campagne discrète mais jusqu'ici efficace",
-          "analyse": "Pour lui, pas de déambulations en public, de visites de sinistrés des incendies ou de vente de frites sous l&#039;oeil des caméras. Pour sa campagne présidentielle, Jean-Luc Mélenchon se fait plutôt discre...",
+          "titre": "Sur le plateau prisé de Saint-Émilion, un domaine multiséculaire à \"contre-coura",
+          "analyse": "Sur le plateau calcaire de Saint-Émilion, entourée de prestigieuses propriétés, une famille de viticulteurs préserve ses méthodes ancestrales et défend des choix \"à contre-courant\", dont elle récolte...",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/depeches/melenchon-une-campagne-discrete-mais-jusqu-ici-efficace-138931",
+          "url": "https://www.notretemps.com/depeches/sur-le-plateau-prise-de-saint-emilion-un-domaine-multiseculaire-a-contre-courant-138987",
           "niveau": "moyen"
         },
         {
-          "titre": "Face au prix des carburants, des automobilistes se convertissent au bioéthanol",
-          "analyse": "C&#039;est un simple boîtier qui lui permet d&#039;écraser sa facture de carburant : deux mois après avoir converti sa voiture au bioéthanol, Julien Landreau, un infirmier scolaire de Marseille, fait partie des...",
+          "titre": "La consommation de bio confirme son rebond, mais loin des objectifs",
+          "analyse": "Après plusieurs années difficiles, la consommation de produits de l&#039;agriculture biologique a confirmé au premier semestre son rebond, avec \"des signes encourageants\" pour la production, cependant loin...",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/depeches/face-au-prix-des-carburants-des-automobilistes-se-convertissent-au-bioethanol-138929",
+          "url": "https://www.notretemps.com/depeches/la-consommation-de-bio-confirme-son-rebond-mais-loin-des-objectifs-138990",
           "niveau": "moyen"
         },
         {
-          "titre": "\"C'est vraiment plus galère\": la généralisation du repas à 1 euro fait déborder ",
-          "analyse": "Files d&#039;attente interminables, personnels à bout de souffle... Victimes de leur succès depuis la généralisation du repas à 1 euro, les restaurants universitaires sont au cœur d&#039;un mouvement de grève m...",
+          "titre": "Les assurances à l'assaut des familles monoparentales",
+          "analyse": "Soutien scolaire, accompagnement psychologique, garde d&#039;enfants… Face aux difficultés rencontrées par les familles monoparentales, qui sont près de 2,4 millions en France, les assureurs cherchent à sé...",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/depeches/c-est-vraiment-plus-galere-la-generalisation-du-repas-a-1-euro-fait-deborder-les-restaurants-universitaires-138928",
+          "url": "https://www.notretemps.com/depeches/les-assurances-a-l-assaut-des-familles-monoparentales-138989",
           "niveau": "moyen"
         }
       ]
