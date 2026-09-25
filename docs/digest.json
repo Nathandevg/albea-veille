@@ -1,5 +1,5 @@
 {
-  "date_fr": "Thursday 24 September 2026",
+  "date_fr": "Friday 25 September 2026",
   "compte_articles": 250,
   "compte_forts": 0,
   "compte_moyens": 250,
@@ -12,59 +12,59 @@
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "Visite du pape : l’Eglise de France, une terre de reconquête et de polarisation ",
-          "analyse": "Le voyage en France de Léon XIV entend célébrer le regain de dynamisme du catholicisme dans le pays, où le nombre de baptêmes d’adolescents et d’adultes est en nette augmentation. Ce phénomène s’accompagne d’une affirmation des forces conservatrices.",
+          "titre": "EN DIRECT, visite du pape à Paris | Le programme de Léon XIV : balade en papamob",
+          "analyse": "Le pape effectue un voyage de quatre jours en France, à Paris, à Lourdes et à Metz. Au sein de la capitale, un programme chargé l’attend dès vendredi : après une rencontre avec Emmanuel Macron à l’Elysée, il se rendra à l’Unesco, à la cathédrale Notre-Dame de Paris et terminera par une veillée de pr",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/societe/article/2026/09/24/visite-du-pape-l-eglise-de-france-une-terre-de-reconquete-et-de-polarisation-croissante_6781329_3224.html",
+          "url": "https://www.lemonde.fr/societe/live/2026/09/25/en-direct-visite-du-pape-a-paris-leon-xiv-est-a-l-elysee-accueilli-par-emmanuel-macron-qui-attendait-plus-de-ce-voyage_6782008_3224.html",
           "niveau": "moyen"
         },
         {
-          "titre": "Un juge fédéral demande la levée temporaire du boycott imposé par Donald Trump c",
-          "analyse": "Accusés de publier des « fake news » par le président américain, les trois médias interdits d’accès à la Maison Blanche, le 18 septembre, invoquaient une violation flagrante du premier amendement de la Constitution américaine.",
+          "titre": "L’académie Goncourt supprime le roman de Thélyson Orélien de sa sélection pour l",
+          "analyse": "« Il s’agit d’envoyer un message clair » pour « affirmer que nous ne cautionnons ni n’adoubons d’une façon ou d’une autre la création de textes générés avec l’aide de l’IA », a justifié l’académie.",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/international/article/2026/09/24/etats-unis-un-juge-federal-demande-la-levee-temporaire-du-boycott-impose-par-donald-trump-contre-cnn-ms-now-et-politico_6781443_3210.html",
+          "url": "https://www.lemonde.fr/culture/article/2026/09/25/l-academie-goncourt-supprime-le-roman-de-thelyson-orelien-de-sa-selection-pour-le-prix_6782457_3246.html",
           "niveau": "moyen"
         },
         {
-          "titre": "La formation professionnelle, marqueur de la politique pour l’emploi d’Emmanuel ",
-          "analyse": "Le ministère du travail a annoncé, mercredi 23 septembre, une nouvelle augmentation du reste à charge pour les salariés mobilisant leur CPF pour des formations classées non prioritaire. La France réduit ainsi progressivement son effort de formation au moment où la structure même du travail est appel",
+          "titre": "Pourquoi le diesel français flambe plus que la moyenne européenne",
+          "analyse": "Sous la menace de Trump, le litre de gazole à l’échelle de l’Union européenne a déjà battu son record, à 2,23 euros en moyenne lundi 21 septembre contre 2,16 euros une semaine plus tôt, et contre 2,38 euros en moyenne dans l’Hexagone.",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/09/24/la-formation-professionnelle-marqueur-de-la-politique-pour-l-emploi-d-emmanuel-macron-subit-un-nouveau-tour-de-vis-de-la-part-du-gouvernement_6781510_823448.html",
+          "url": "https://www.lemonde.fr/economie/article/2026/09/25/pourquoi-le-diesel-francais-flambe-plus-que-la-moyenne-europeenne_6782465_3234.html",
           "niveau": "moyen"
         },
         {
-          "titre": "EN DIRECT, guerre en Ukraine : après Alicher Ousmanov et Mikhaïl Fridman, Kiev v",
-          "analyse": "L’Ukraine appelle l’Union européenne à sanctionner les milliardaires russes Vladimir Lissine et Vladimir Potanine, après la levée des sanctions visant Alicher Ousmanov et Mikhaïl Fridman, a déclaré à « Politico » Vladyslav Vlasiuk, conseiller de la présidence ukrainienne pour les sanctions.",
+          "titre": "Comment la Géorgie s’est détournée de ses partenaires occidentaux au profit de l",
+          "analyse": "La réorientation géopolitique de cette ex-république soviétique du Caucase est singulière dans la région, où les pays prennent au contraire leurs distances avec Moscou. L’Iran en profite pour accroître son influence.",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/international/live/2026/09/24/en-direct-guerre-en-ukraine-neuf-morts-dans-des-frappes-russes-a-kiev-et-dans-la-region-de-kharkiv_6777944_3210.html",
+          "url": "https://www.lemonde.fr/international/article/2026/09/25/comment-la-georgie-s-est-detournee-de-ses-partenaires-occidentaux-au-profit-de-la-russie_6782471_3210.html",
           "niveau": "moyen"
         },
         {
-          "titre": "En Turquie, le club d’Amedspor, porte-étendard de l’identité kurde et baromètre ",
-          "analyse": "Promue cette saison en première division, l’équipe de Diyarbakir occupe, à la surprise générale, la première place de la Süper Lig de football. Une gageure quand on sait les violentes oppositions qui ont jalonné son ascension.",
+          "titre": "EN DIRECT, Artificial Intelligence Marseille : IA américaine, chinoise… quelle m",
+          "analyse": "Pour cette « seconde période » au Stade-Vélodrome, sont présents Laurent Marcangelli (Horizons), le député européen (Les Ecologistes) David Cormand, et Paul Midy, qui représentera Gabriel Attal (Renaissance).",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/sport/article/2026/09/24/en-turquie-le-club-d-amedspor-porte-etendard-de-l-identite-kurde-et-barometre-malgre-lui-des-relations-avec-ankara_6781498_3242.html",
+          "url": "https://www.lemonde.fr/politique/live/2026/09/25/en-direct-artificial-intelligence-marseille-suivez-le-debat-entre-plusieurs-candidats-a-la-presidentielle-et-chefs-de-partis_6782350_823448.html",
           "niveau": "moyen"
         },
         {
-          "titre": "Nos 1 000 recettes pour cuisiner selon la saison, les ingrédients ou l’envie du ",
-          "analyse": "Vous ne savez que faire de cette aubergine qui traîne dans votre réfrigérateur ? Vous êtes toujours en quête des « vraies » pâtes à la carbonara ? Vous voulez préparer un couscous, mais vos invités sont végétariens ? Ce moteur de recherche compilant toutes les recettes du « Monde » va vous aider.",
+          "titre": "Au procès du réseau complotiste de Rémy Daillet, l’obsession antisémite d’un anc",
+          "analyse": "Présenté par les enquêteurs comme le chef de la « branche militaire » de l’organisation complotiste de Rémy Daillet, à l’origine de l’enlèvement d’une fillette en 2021, Francis M., ancien candidat Front national aux législatives de 2012, accumulait sur son ordinateur les propos et les matériaux raci",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/m-styles/article/2026/09/24/qu-est-ce-qu-on-mange-nos-1-000-recettes-pour-cuisiner-selon-la-saison-les-ingredients-ou-l-envie-du-moment_6781323_4497319.html",
+          "url": "https://www.lemonde.fr/societe/article/2026/09/25/au-proces-du-reseau-complotiste-de-remy-daillet-l-obsession-antisemite-d-un-ancien-militaire_6782386_3224.html",
           "niveau": "moyen"
         },
         {
-          "titre": "A l’arrivée de Xi Jinping aux Etats-Unis, Washington annonce prolonger la trêve ",
-          "analyse": "Avant même la rencontre prévue jeudi à la Maison Blanche entre Donald Trump et son homologue chinois, le ministre des finances américain, Scott Bessent, a annoncé la prolongation jusqu’en janvier de la « détente économique » entre les deux pays.",
+          "titre": "Rencontre entre Donald Trump et Xi Jinping : retrouvez les réponses de notre jou",
+          "analyse": "Taïwan, IA, droits de douane… Notre correspondant à Pékin, Harold Thibault, a répondu à vos questions sur la rencontre entre le président chinois et son homologue américain à Washington du 23 au 25 septembre.",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/international/article/2026/09/24/a-l-arrivee-de-xi-jinping-aux-etats-unis-washington-annonce-prolonger-la-treve-commerciale-avec-pekin_6781157_3210.html",
+          "url": "https://www.lemonde.fr/international/live/2026/09/25/en-direct-xi-jinping-rencontre-donald-trump-a-washington-posez-vos-questions-a-notre-journaliste_6782279_3210.html",
           "niveau": "moyen"
         },
         {
-          "titre": "Un calendrier parlementaire étriqué condamne le destin de plusieurs projets de l",
-          "analyse": "Alors que la session parlementaire, d’ici à la fin du mois de février, devrait laisser une large place à l’examen des textes budgétaires, seules la proposition de loi intégrale contre les violences sexistes et sexuelles, et celle sur le fonctionnement du titre-restaurant, ainsi que le projet de loi ",
+          "titre": "Le RN et LFI opposés à l’envoi de militaires français en Arabie saoudite, annonc",
+          "analyse": "Le chef de l’Etat a annoncé, jeudi soir, l’envoi de « moyens militaires, c’est-à-dire des soldats, des radars, des systèmes de défense », pour protéger le site de Yanbou, principal terminal saoudien d’exportation de brut sur la mer Rouge qui est la cible des houthistes du Yémen.",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/09/24/un-calendrier-parlementaire-etrique-condamne-le-destin-de-plusieurs-projets-de-loi-avant-la-presidentielle_6781486_823448.html",
+          "url": "https://www.lemonde.fr/politique/article/2026/09/25/le-rn-et-lfi-opposes-a-l-envoi-de-militaires-francais-annonce-par-emmanuel-macron-pour-proteger-le-port-petrolier-saoudien-de-yanbou_6782352_823448.html",
           "niveau": "moyen"
         }
       ]
@@ -75,73 +75,59 @@
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "How the Fed should measure inflation",
-          "analyse": "Pinning down the underlying rate may be harder than Kevin Warsh thinks",
-          "source": "Finance & economics",
-          "url": "https://www.economist.com/finance-and-economics/2026/09/24/how-the-fed-should-measure-inflation",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Israel’s war economy is thriving",
-          "analyse": "But conflict is worsening its industrial divide",
-          "source": "Finance & economics",
-          "url": "https://www.economist.com/finance-and-economics/2026/09/24/israels-war-economy-is-thriving",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "The battle between India’s stock exchanges is heating up again",
-          "analyse": "Number two is trying harder",
-          "source": "Finance & economics",
-          "url": "https://www.economist.com/finance-and-economics/2026/09/24/the-battle-between-indias-stock-exchanges-is-heating-up-again",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "How tech firms hope to beat the backlash against “pervert glasses”",
-          "analyse": "Creating a device for the AI era is hard",
+          "titre": "Business in the Gulf is making a slow recovery",
+          "analyse": "Companies that can are looking for profits elsewhere",
           "source": "Business",
-          "url": "https://www.economist.com/business/2026/09/24/how-tech-firms-hope-to-beat-the-backlash-against-pervert-glasses",
+          "url": "https://www.economist.com/business/2026/09/24/business-in-the-gulf-is-making-a-slow-recovery",
           "niveau": "moyen"
         },
         {
-          "titre": "My friend grosses $300,000 a year with her pet-sitting business. She pays hersel",
-          "analyse": "“She currently has about 15 sitters, all independent contractors.”",
+          "titre": "‘We made a bad, bad decision’: I learned the hard way how to manage my aging fat",
+          "analyse": "“When my father died, his trust was the Bible.”",
           "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/my-friend-grosses-300-000-a-year-with-her-pet-sitting-business-she-pays-herself-50-000-should-i-do-the-same-8ab5cba3?mod=mw_rss_topstories",
+          "url": "https://www.marketwatch.com/story/we-made-a-bad-bad-decision-i-learned-the-hard-way-how-to-manage-my-aging-fathers-money-c87cabed?mod=mw_rss_topstories",
           "niveau": "moyen"
         },
         {
-          "titre": "The stock market is ‘priced for perfection.’ Here’s what could drive a nearly 20",
-          "analyse": "Clocktower’s Eric Wallerstein believes stocks are headed for trouble next year, and safety-seeking investors could drive gold to $6,000 an ounce.",
+          "titre": "How to keep profiting from AI while shielding your portfolio against the risk of",
+          "analyse": "Jamie Wilhelm and Sunit Gogia of Fort Washington Investment Advisors expect the AI wave to continue, but describe leading indicators of an eventual downturn.",
           "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/the-stock-market-is-priced-for-perfection-heres-what-could-drive-a-nearly-20-slump-for-the-s-p-500-next-year-41e78c27?mod=mw_rss_topstories",
+          "url": "https://www.marketwatch.com/story/how-to-keep-profiting-from-ai-while-shielding-your-portfolio-against-the-risk-of-a-slowdown-a5801291?mod=mw_rss_topstories",
           "niveau": "moyen"
         },
         {
-          "titre": "The next phase of AI is here. Pay attention to this profound technological shift",
-          "analyse": "Meta’s Muse keeps working after users close the app, pointing to a potential growth opportunity for makers of server processors.",
+          "titre": "From $6 eggs to $50,000 cars, these charts show how inflation has defined the pa",
+          "analyse": "Rising prices have been crushing consumer confidence and biting at Americans’ wallets for more than five years now.",
           "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/the-next-phase-of-ai-is-here-pay-attention-to-this-profound-technological-shift-219cda30?mod=mw_rss_topstories",
+          "url": "https://www.marketwatch.com/story/from-6-eggs-to-50-000-cars-these-charts-show-how-inflation-has-defined-the-past-5-years-3c7b9ab9?mod=mw_rss_topstories",
           "niveau": "moyen"
         },
         {
-          "titre": "‘I don’t begrudge them their money’: My husband and I have friends who spend, sp",
-          "analyse": "“A weekend away isn’t a weekend away. It’s a luxury hotel, expensive meals and a last-minute upgrade.”",
+          "titre": "I spend my time and money caring for my aging mother — yet she gave my brother $",
+          "analyse": "“My mother started having more trouble getting around. First a knee replacement, then a fall.”",
           "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/i-dont-begrudge-them-their-money-my-husband-and-i-have-friends-who-spend-spend-spend-how-do-we-keep-up-e10164dc?mod=mw_rss_topstories",
+          "url": "https://www.marketwatch.com/story/i-spend-my-time-and-money-caring-for-my-aging-mother-yet-she-gave-my-brother-100-000-should-i-pull-back-7e4a3185?mod=mw_rss_topstories",
           "niveau": "moyen"
-        }
-      ]
-    },
-    {
-      "titre": "Marches financiers",
-      "icone": "🏛️",
-      "niveau_global": "moyen",
-      "items": [
+        },
         {
-          "titre": "The digitalisation of money, payments and finance",
-          "analyse": "",
-          "source": "ECB - European Central Bank",
-          "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260923~87850778f5.en.pdf",
+          "titre": "Why the alternative to the ‘clear and present’ danger from bond yields is this A",
+          "analyse": "U.S. stocks are facing hurdles and investors may need to consider looking elsewhere. Goldman Sachs’ global head of hedge fund coverage says Japan may be the answer.",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/why-the-alternative-to-the-clear-and-present-danger-from-bond-yields-is-this-ai-fueled-market-thats-quietly-outperformed-cea440af?mod=mw_rss_topstories",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "‘We were wrong.’ Why Morgan Stanley changed its tune on the U.S. dollar — and wh",
+          "analyse": "Rising bond yields and expected Fed rate hikes have wrecked the bank’s forecast for the buck",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/we-were-wrong-why-morgan-stanley-changed-its-tune-on-the-u-s-dollar-and-what-it-expects-now-7826fb96?mod=mw_rss_topstories",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "After capital-markets day flop, Novo strikes licensing deal that sends a Swedish",
+          "analyse": "Just days after a capital-markets day left investors wondering what’s next for Novo Nordisk, the Danish drug giant struck a licensing deal worth over $1 billion.",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/after-capital-markets-day-flop-novo-strikes-licensing-deal-that-sends-a-swedish-companys-stock-soaring-f3c99cbe?mod=mw_rss_topstories",
           "niveau": "moyen"
         }
       ]
@@ -152,59 +138,52 @@
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "Attraits Pierre : une plateforme logistique stratégique à Calais",
-          "analyse": "SCPI Attraits Pierre : ce nouvel actif logistique à Calais à 6,20 % est-il une opportunité ou un risque ? Découvrez les points clés avant d’investir.",
+          "titre": "Urban Pierre n°7 : nouvelle SCPI de déficit foncier avec parts sponsors",
+          "analyse": "SCPI Urban Pierre n°7 en déficit foncier : parts sponsors à 475 €, 54 % de travaux, 16 ans de durée, risque 6/7. Pour qui est-ce vraiment adapté ? Analysez avant d’agir.",
           "source": "MeilleureSCPI.com",
-          "url": "https://www.meilleurescpi.com/actualites/attraits-pierre-met-le-cap-sur-le-nord-avec-une-plateforme-logistique/",
+          "url": "https://www.meilleurescpi.com/actualites/urban-pierre-n-7-la-nouvelle-scpi-de-deficit-foncier-d-urban-premium-ouvre-ses-souscriptions/",
           "niveau": "moyen"
         },
         {
-          "titre": "GMA Essentialis : comprendre la liquidation d’une SCPI encore jeune",
-          "analyse": "GMA Essentialis vers la dissolution : quel impact réel pour vos parts et votre liquidité ? Découvrez les scénarios possibles et les points à surveiller.",
-          "source": "MeilleureSCPI.com",
-          "url": "https://www.meilleurescpi.com/actualites/gma-essentialis-vers-la-dissolution-quand-liquider-une-scpi-devient-une-decision-de-gestion/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Forêt de Caujous : CœurForest 2 renforce son patrimoine forestier",
-          "analyse": "Faut-il investir dans CœurForest 2 après l’achat de la forêt de Caujous ? Découvrez atouts, risques, gestion et fiscalité de ce GFI forestier. Analysez avant d’agir.",
-          "source": "MeilleureSCPI.com",
-          "url": "https://www.meilleurescpi.com/actualites/foret-de-caujous-coeurforest-2-plante-son-drapeau-au-pied-de-montsegur/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Litiges sur l’épargne : le bilan 2025 du médiateur de l’AMF, un record",
-          "analyse": "Explosion des litiges sur l’épargne en 2025, SCPI, PEA et crowdfunding en tête. Comment réagir et utiliser la médiation de l’AMF efficacement ? Découvrez les leviers.",
-          "source": "MeilleureSCPI.com",
-          "url": "https://www.meilleurescpi.com/actualites/litiges-sur-l-epargne-le-bilan-du-mediateur-de-l-amf-un-record-a-tous-les-niveaux/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Epsicap REIM : cap sur 1 milliard d’encours en 2030",
-          "analyse": "Epsicap REIM peut-elle vraiment atteindre 1 Md€ d’encours d’ici 2030 ? Forces, risques et potentiel de ses SCPI Nano et Explore. Analysez avant d’investir.",
-          "source": "MeilleureSCPI.com",
-          "url": "https://www.meilleurescpi.com/actualites/epsicap-reim-vise-le-milliard-d-encours-d-ici/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "« Il n’y a pas une SCPI sur le marché qui soit aussi mutualisée qu’Immorente… »",
-          "analyse": "Nicolas Van Den Hende, directeur de la distribution France de Tikehau IM, analyse sans détour la situation d’Immorente : le niveau réel des parts en attente, et l&#8217;horizon de retour à une liquidité naturelle. Mais aussi la solidité de ses loyers et les 450 M€ investis en deux ans. Sa conviction",
+          "titre": "« La SCPI n’est plus un produit : c’est un métier de conseil »",
+          "analyse": "Sébastien Morel, directeur commercial THÉSÉIS, revient sur la transformation du marché des SCPI depuis 2022. Liquidité, sélection des sociétés de gestion, pédagogie client, portage CIF et mutation des réseaux : une lecture sans détour des nouveaux équilibres de la pierre-papier. Interview. Alexandra",
           "source": "Pierrepapier.fr",
-          "url": "https://www.pierrepapier.fr/scpi/sofidy-pas-une-scpi-sur-le-marche-qui-soit-aussi-mutualisee-que-immorente/",
+          "url": "https://www.pierrepapier.fr/scpi/la-scpi-plus-un-produit-mais-un-metier-de-conseil/",
           "niveau": "moyen"
         },
         {
-          "titre": "Rénovation énergétique : Un nouvel institut voit le jour",
-          "analyse": "Un nouvel institut dédié à la rénovation énergétique voit le jour. Baptisé ISEEER, il réunira les métiers du logement, de l’immobilier et de l’énergie. Sa première rentrée est prévue à Paris en janvier 2027.\nCet article Rénovation énergétique : Un nouvel institut voit le jour est apparu en premier s",
+          "titre": "Portail immobilier : Après Orpi, c’est l’Adresse qui rejoint idealista.fr",
+          "analyse": "Les 360 agences du réseau l’Adresse pourront publier sans limite leurs annonces sur idealista.fr. Le portail, lancé en France en septembre, revendique 200 millions de visites par mois en Europe.\nCet article Portail immobilier : Après Orpi, c&rsquo;est l&rsquo;Adresse qui rejoint idealista.fr est app",
           "source": "MySweetimmo",
-          "url": "https://www.mysweetimmo.com/2026/09/24/renovation-energetique-un-nouvel-institut-voit-le-jour/",
+          "url": "https://www.mysweetimmo.com/2026/09/25/portail-immobilier-apres-orpi-cest-ladresse-qui-rejoint-idealista-fr/",
           "niveau": "moyen"
         },
         {
-          "titre": "Nomination : Benjamin Mondou élu président d’Amanda Alpes-Maritimes",
-          "analyse": "Benjamin Mondou prend la présidence d’Amanda dans les Alpes-Maritimes. Il succède à Jacques Agid et veut accélérer la coopération entre professionnels.\nCet article Nomination : Benjamin Mondou élu président d’Amanda Alpes-Maritimes est apparu en premier sur MySweetimmo.",
+          "titre": "HLM : 500 millions d’allègements reconduits en 2027",
+          "analyse": "Le gouvernement veut reconduire en 2027 les allègements de prélèvements des bailleurs sociaux appliqués en 2026. Il annonce aussi 10 milliards d’euros de prêts pour le logement intermédiaire.\nCet article HLM : 500 millions d’allègements reconduits en 2027 est apparu en premier sur MySweetimmo.",
           "source": "MySweetimmo",
-          "url": "https://www.mysweetimmo.com/2026/09/24/nomination-benjamin-mondou-elu-president-damanda-alpes-maritimes/",
+          "url": "https://www.mysweetimmo.com/2026/09/25/hlm-500-millions-dallegements-reconduits-en-2027/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Confort d’été : Vincent Jeanbrun voit dans la clim d’Altarea la future norme du ",
+          "analyse": "En visite à L'Haÿ-les-Roses, Vincent Jeanbrun a salué l'engagement d'Altarea : 26 °C garantis dans ses logements neufs, sans surcoût annoncé.\nCet article Confort d&rsquo;été : Vincent Jeanbrun voit dans la clim d&rsquo;Altarea la future norme du neuf est apparu en premier sur MySweetimmo.",
+          "source": "MySweetimmo",
+          "url": "https://www.mysweetimmo.com/2026/09/25/immobilier-lhay-les-roses-vincent-jeanbrun-visite-des-logements-penses-pour-la-chaleur/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Immobilier : 1 600 € pour se loger à la rentrée, la piste des chambres chez les ",
+          "analyse": "Plus de 1 600 euros sont nécessaires pour entrer dans un logement étudiant à la rentrée. I Loge You, la FNAIM et Cohabilis mobilisent les chambres libres chez les seniors.\nCet article Immobilier : 1 600 € pour se loger à la rentrée, la piste des chambres chez les seniors est apparu en premier sur My",
+          "source": "MySweetimmo",
+          "url": "https://www.mysweetimmo.com/2026/09/25/logement-etudiant-la-fnaim-fait-appel-aux-seniors/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Vol New York-Marseille : Un atout pour l’immobilier en Provence",
+          "analyse": "Le futur vol direct New York-Marseille pourrait conforter les projets des acheteurs américains en Provence. Selon Janssens Immobilier, cette clientèle privilégie les maisons de caractère sans travaux.\nCet article Vol New York-Marseille : Un atout pour l’immobilier en Provence est apparu en premier s",
+          "source": "MySweetimmo",
+          "url": "https://www.mysweetimmo.com/2026/09/25/vol-new-york-marseille-un-atout-pour-limmobilier-en-provence/",
           "niveau": "moyen"
         }
       ]
@@ -215,59 +194,59 @@
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "Vente de SFR: les salariés appelés à la grève jeudi après-midi",
-          "analyse": "Les salariés du groupe Altice France, maison-mère de l&#039;opérateur SFR qui va être vendu à ses concurrents, sont appelés à la grève jeudi après-midi pour défendre leurs emplois à l&#039;heure o...",
+          "titre": "Affaire Crépol: onze jeunes renvoyés aux assises pour meurtre aggravé par du rac",
+          "analyse": "La justice a renvoyé aux assises onze suspects pour le meurtre de Thomas Perotto en novembre 2023 dans le village drômois de Crépol, avec la circonstance aggravante de racisme, ont indiqué vendredi à...",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/depeches/vente-de-sfr-les-salaries-appeles-a-la-greve-jeudi-apres-midi-139044",
+          "url": "https://www.notretemps.com/depeches/affaire-crepol-onze-jeunes-renvoyes-aux-assises-pour-meurtre-aggrave-par-du-racisme-139096",
           "niveau": "moyen"
         },
         {
-          "titre": "Vente de SFR: les salariés appelés à la grève jeudi après-midi",
-          "analyse": "Les salariés du groupe Altice France, maison-mère de l&#039;opérateur SFR qui va être vendu à ses concurrents, sont appelés à la grève jeudi après-midi pour défendre leurs emplois à l&#039;heure où s&#039;annonce un...",
+          "titre": "A l'Elysée, le pape Léon XIV offensif sur la laïcité, l'IA et la fin de vie",
+          "analyse": "Le pape Léon XIV s&#039;est montré offensif, vendredi à l&#039;Elysée, sur la laïcité, les dangers de l&#039;intelligence artificielle et la fin de vie, fustigeant le risque d&#039;un \"paradis des machines\" et \"l&#039;offre d...",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/depeches/vente-de-sfr-les-salaries-appeles-a-la-greve-jeudi-apres-midi-139043",
+          "url": "https://www.notretemps.com/depeches/a-l-elysee-le-pape-leon-xiv-offensif-sur-la-laicite-l-ia-et-la-fin-de-vie-139080",
           "niveau": "moyen"
         },
         {
-          "titre": "Ile-de-France: série de blocus de lycées par des élèves",
-          "analyse": "Une dizaine de lycées ont été bloqués depuis le début de la semaine en Ile-de-France, notamment jeudi à Saint-Ouen (Seine-Saint-Denis), des élèves protestant contre la surcharge d&#039;emploi...",
+          "titre": "L'antidépresseur Prozac en tension d'approvisionnement",
+          "analyse": "Les antidépresseurs à base de fluoxétine, plus connue sous le nom de Prozac, rencontrent des difficultés temporaires de production qui perturbent sa disponibilité, a prévenu vendredi l&#039;A...",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/depeches/ile-de-france-serie-de-blocus-de-lycees-par-des-eleves-139042",
+          "url": "https://www.notretemps.com/depeches/l-antidepresseur-prozac-en-tension-d-approvisionnement-139095",
           "niveau": "moyen"
         },
         {
-          "titre": "Enseignante agressée par un élève de 8 ans: Geffray évoque un enfant en situatio",
-          "analyse": "Après l&#039;agression mi-septembre d&#039;une enseignante à Evry-Courcouronnes par un élève, le ministre de l&#039;Éducation a affirmé jeudi que l&#039;enfant, atteint d&#039;un \"handicap très lourd\", était en...",
+          "titre": "\"On doit pousser les bateaux\": le lac d'Annecy se vide à vitesse grand V",
+          "analyse": "Des bancs de sable blanc se dévoilent et les bateaux restent à quai, faute de fond suffisant dans les eaux cristallines du lac d&#039;Annecy qui, sous un soleil bleu persistant, baisse d&#039;un centimètre par...",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/depeches/enseignante-agressee-par-un-eleve-de-8-ans-geffray-evoque-un-enfant-en-situation-de-handicap-tres-lourd-139041",
+          "url": "https://www.notretemps.com/depeches/on-doit-pousser-les-bateaux-le-lac-d-annecy-se-vide-a-vitesse-grand-v-139093",
           "niveau": "moyen"
         },
         {
-          "titre": "Sècheresse et betterave sucrière: quand ce n'est même plus la peine de récolter",
-          "analyse": "\"Mon père a 87 ans. De sa vie, il n&#039;avait jamais vu de champ où les betteraves ne seraient pas arrachées\". Cyrille Milard, qui a repris l&#039;exploitation depuis plusieurs décennies, se tient devant un ch...",
+          "titre": "\"Ça l'a rendu fou\": E. Jean Carroll, la seule femme qui a fait condamner Trump p",
+          "analyse": "A 82 ans, E. Jean Carroll savoure le moment: l&#039;ex-journaliste américaine est la seule femme à avoir fait condamner Donald Trump pour agression sexuelle mais a dû, pour cela, livrer une bataille sans m...",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/depeches/secheresse-et-betterave-sucriere-quand-ce-n-est-meme-plus-la-peine-de-recolter-139035",
+          "url": "https://www.notretemps.com/depeches/ca-l-a-rendu-fou-e-jean-carroll-la-seule-femme-qui-a-fait-condamner-trump-pour-agression-sexuelle-139092",
           "niveau": "moyen"
         },
         {
-          "titre": "Face à la sécheresse, un village de Chartreuse en mode \"survie\"",
-          "analyse": "Une poignée de maisons dans un cadre alpin enchanteur avec vue sur le mont Blanc : depuis fin juillet, Sainte-Marie-du-Mont, petit village de Chartreuse, est pourtant en mode \"survie\", contraint de s&#039;...",
+          "titre": "Affaire Thélyson Orélien: un de ses accusateurs se dévoile, la promotion du livr",
+          "analyse": "L&#039;affaire Thélyson Orélien n&#039;en finit pas de faire des vagues: la promotion de son roman à succès a été suspendue au Canada, tandis que l&#039;une des personnes qui l&#039;accusent d&#039;avoir utilisé l&#039;IA est sort...",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/depeches/face-a-la-secheresse-un-village-de-chartreuse-en-mode-survie-139040",
+          "url": "https://www.notretemps.com/depeches/affaire-thelyson-orelien-un-de-ses-accusateurs-se-devoile-la-promotion-du-livre-suspendue-au-canada-139087",
           "niveau": "moyen"
         },
         {
-          "titre": "Prix du carburant : nouvelle vague d'aide pour les transporteurs routiers",
-          "analyse": "Un décret paru jeudi renouvelle le dispositif d&#039;aides aux carburants pour les transporteurs routiers pour les mois de juin à août, une mesure pour laquelle 50 millions d&#039;euros ont déjà é...",
+          "titre": "Le club des \"grands-parents anonymes\": \"Je donne des Chocapic au goûter alors qu",
+          "analyse": "Pas toujours simple, la vie de grand‑parent. Au club des Grands‑Parents Anonymes (CGPA), on rit, on décrypte, on se reconnaît. Et on garde notre humour. Une question, une bourde, un conflit, une scène familiale? Cette rubrique est la vôtre… partagez‑la, n&#039;hésitez pas à commenter!",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/depeches/prix-du-carburant-nouvelle-vague-d-aide-pour-les-transporteurs-routiers-139038",
+          "url": "https://www.notretemps.com/famille/petits-enfants-grands-parents/le-club-des-grands-parents-anonymes-je-donne-des-chocapic-au-gouter-alors-que-ma-fille-les-interdit-137938",
           "niveau": "moyen"
         },
         {
-          "titre": "Auchan en passe de céder 17 supermarchés à Lidl",
-          "analyse": "Le distributeur Auchan a annoncé jeudi être en passe de céder ses 17 supermarchés, qui n&#039;avaient pas trouvé repreneur, à l&#039;enseigne Lidl, finalisant ainsi la transformation de son réseau de 266 superm...",
+          "titre": "Ces 5 aliments se conservent mal au réfrigérateur",
+          "analyse": "Vous pensez prolonger leur durée de vie en les mettant au frais? Erreur! Certains aliments perdent saveur, texture ou qualité lorsqu&#039;ils séjournent au réfrigérateur.",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/depeches/auchan-en-passe-de-ceder-17-supermarches-a-lidl-139037",
+          "url": "https://www.notretemps.com/sante-bien-etre/nutrition/les-aliments-qui-se-conservent-mal-au-refrigerateur-138252",
           "niveau": "moyen"
         }
       ]
