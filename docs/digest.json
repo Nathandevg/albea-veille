@@ -1,8 +1,8 @@
 {
-  "date_fr": "Monday 28 September 2026",
-  "compte_articles": 168,
+  "date_fr": "Tuesday 29 September 2026",
+  "compte_articles": 250,
   "compte_forts": 0,
-  "compte_moyens": 168,
+  "compte_moyens": 250,
   "synthese_jour": "Synthese IA non disponible (fallback). Consultez les articles ci-dessous.",
   "chiffres_cles": [],
   "sections": [
@@ -12,59 +12,59 @@
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "EN DIRECT, voyage du pape à Metz : Léon XIV commence à célébrer la messe dans la",
-          "analyse": "Léon XIV a effectué, lundi, la quatrième et dernière étape de son voyage avec une visite à Metz, sur le thème de l’Europe. Il quittera la France à 19 heures à partir de l’aéroport de Metz-Nancy-Lorraine.",
+          "titre": "A Gaza, « usines à cibles » et « dommages collatéraux » : les méthodes de l’armé",
+          "analyse": "Des officiers israéliens détaillent au « Monde », en collaboration avec l’ONG Breaking The Silence, les règles d’engagement de l’armée à Gaza, le nombre assumé de victimes civiles provoqué par ses opérations et l’utilisation massive de l’intelligence artificielle.",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/societe/live/2026/09/28/en-direct-voyage-du-pape-a-metz-leon-xiv-explique-regulierement-que-ses-valeurs-ne-sont-pas-compatibles-avec-les-idees-pronees-par-l-extreme-droite_6784945_3224.html",
+          "url": "https://www.lemonde.fr/international/article/2026/09/29/a-gaza-usines-a-cibles-et-dommages-collateraux-les-methodes-de-l-armee-israelienne-racontees-par-ses-militaires_6785614_3210.html",
           "niveau": "moyen"
         },
         {
-          "titre": "« Mediapart » rapporte des propos antisémites de Jordan Bardella, qui dénonce de",
-          "analyse": "Le président du Rassemblement national aurait tenu de manière répétée des propos antisémites et complotistes dans des conversations privées datant de ses débuts au Front national, en 2013, deux ans avant sa première élection.",
+          "titre": "Grève du 29 septembre : les premiers cortèges défilent pour demander davantage d",
+          "analyse": "Plus de 170 rassemblements sont attendus à l’appel d’une large intersyndicale. Un peu plus d’un enseignant sur dix en grève, selon le ministère de l’éducation nationale.",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/09/28/mediapart-rapporte-des-propos-antisemites-de-jordan-bardella-qui-denonce-des-faux-grossiers_6785064_823448.html",
+          "url": "https://www.lemonde.fr/societe/article/2026/09/29/greve-du-29-septembre-les-premiers-corteges-defilent-pour-demander-davantage-de-moyens_6785560_3225.html",
           "niveau": "moyen"
         },
         {
-          "titre": "Quel est vraiment le niveau de vie des retraités en France ?",
-          "analyse": "Alors que le gouvernement envisage de faire contribuer les retraités à l’effort budgétaire, Les Décodeurs font le point sur leur niveau de vie et comment celui-ci se compare à l’ensemble de la population et aux pays voisins.",
+          "titre": "« Le pape révèle, en miroir, un certain nombre de nos failles » en ces temps de ",
+          "analyse": "Léon XIV, tout en rappelant les positions traditionnelles de l’Eglise, a invité à faire vivre la devise républicaine. Un discours calme et serein qui résonne particulièrement dans un pays polarisé avant une échéance électorale majeure, analyse Solenn de Royer, journaliste au « Monde ».",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/les-decodeurs/article/2026/09/28/quel-est-vraiment-le-niveau-de-vie-des-retraites-en-france_6785049_4355770.html",
+          "url": "https://www.lemonde.fr/politique/article/2026/09/29/le-pape-revele-en-miroir-un-certain-nombre-de-nos-failles-en-ces-temps-de-campagne-presidentielle_6785612_823448.html",
           "niveau": "moyen"
         },
         {
-          "titre": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky dénonce des attaques russes vi",
-          "analyse": "Selon M. Zelensky, une entreprise pharmaceutique et des stations-service ont été touchées à Kiev, ainsi qu’un centre d’affaires à Dnipro et des infrastructures civiles, des entreprises et des installations de télécommunications dans d’autres villes et régions du pays. Le président ukrainien et le ma",
+          "titre": "Au Maroc, l’attente anormalement longue de la nomination d’un nouveau premier mi",
+          "analyse": "Lors des deux précédentes élections législatives, le roi Mohammed VI a désigné le nouveau chef du gouvernement en moins de trois jours. Une semaine après la victoire du Parti Authenticité et modernité (PAM) aux législatives du 23 septembre, le silence du palais relance les interrogations sur la sant",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/international/live/2026/09/28/en-direct-guerre-en-ukraine-volodymyr-zelensky-denonce-des-attaques-russes-visant-des-civils-dans-toute-l-ukraine-notamment-contre-l-academie-nationale-des-sciences-a-kiev_6783795_3210.html",
+          "url": "https://www.lemonde.fr/afrique/article/2026/09/29/au-maroc-l-attente-anormalement-longue-de-la-nomination-du-nouveau-premier-ministre_6785607_3212.html",
           "niveau": "moyen"
         },
         {
-          "titre": "Au procès de Rachida Dati pour « corruption », quatre ans de prison, dont deux f",
-          "analyse": "Cinq ans d’inéligibilité et d’interdiction de la fonction publique, avec exécution provisoire, ont également été demandés. Quant à Carlos Ghosn, l’ancien PDG de Renault en fuite au Liban, le ministère public a aussi requis quatre ans de prison.",
+          "titre": "Carburants : l’Union européenne approuve l’aide de 25 millions d’euros de l’Etat",
+          "analyse": "Cette aide, qui représente une réponse à la flambée des prix du carburant liée à la guerre au Moyen-Orient, représente 0,25 euro par litre de gazole, et doit couvrir 70 % des surcoûts liés à l’inflation des carburants pour la période courant de juin à octobre 2026.",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/societe/article/2026/09/28/proces-de-rachida-dati-quatre-ans-de-prison-requis-contre-l-ancienne-ministre-accusee-d-avoir-noue-un-pacte-de-corruption-avec-carlos-ghosn_6785050_3224.html",
+          "url": "https://www.lemonde.fr/international/article/2026/09/29/carburants-l-union-europeenne-approuve-l-aide-de-25-millions-d-euros-de-l-etat-francais-aux-pecheurs_6785610_3210.html",
           "niveau": "moyen"
         },
         {
-          "titre": "Dette publique : « Le réflexe bien français consistant à transformer chaque prob",
-          "analyse": "La France ne traverse pas une énième mauvaise passe. Le mal étant plus profond, le débat politique devrait davantage porter sur les leviers pour améliorer la productivité, analyse dans sa chronique Stéphane Lauer, éditorialiste au « Monde ».",
+          "titre": "Parcoursup : des universités franciliennes rémunérées si elles acceptent des can",
+          "analyse": "Au moins 2 000 néobacheliers franciliens sont toujours en attente d’une place dans l’enseignement supérieur. Le ministère de l’enseignement supérieur a proposé aux universités une rémunération de 3 000 euros par étudiant si elles acceptent de les admettre dans leurs effectifs, notamment dans des lic",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/idees/article/2026/09/28/dette-publique-le-reflexe-bien-francais-consistant-a-transformer-chaque-probleme-economique-en-nouvelle-depense-publique-n-est-plus-possible_6785063_3232.html",
+          "url": "https://www.lemonde.fr/campus/article/2026/09/29/parcoursup-des-universites-franciliennes-remunerees-si-elles-acceptent-des-candidats-restes-sans-proposition_6785619_4401467.html",
           "niveau": "moyen"
         },
         {
-          "titre": "L’« accusation de racisme est une insulte » : Sébastien Lecornu réagit à Jean-Lu",
-          "analyse": "Des actions, organisées sur les réseaux sociaux, se sont étendues vendredi dans certains établissements de la banlieue de Paris et, selon M. Geffray, qui s’exprimait lundi sur RMC, « une dizaine » de lycées étaient bloqués.",
+          "titre": "EN DIRECT, guerre en Ukraine : l’Estonie accuse la Russie d’avoir commis « un ac",
+          "analyse": "« Nous pouvons conclure avec certitude que l’attaque incendiaire contre les locaux de Milrem Robotics (…) a été un acte de sabotage commandité par les services spéciaux de la Fédération de Russie », a déclaré le ministre des affaires étrangères estonien à propos de cet incident qui a eu lieu en août",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/societe/article/2026/09/28/sebastien-lecornu-accuse-lfi-de-surenchere-irresponsable-autour-du-blocage-de-lycees-jean-luc-melenchon-denonce-la-repression-du-gouvernement_6785039_3224.html",
+          "url": "https://www.lemonde.fr/international/live/2026/09/29/en-direct-guerre-en-ukraine-l-estonie-accuse-la-russie-d-avoir-commis-un-acte-de-sabotage-en-incendiant-les-locaux-d-un-fabricant-de-drones_6783795_3210.html",
           "niveau": "moyen"
         },
         {
-          "titre": "Elections sénatoriales 2026 : l’inquiétant signal d’un groupe RN",
-          "analyse": "A sept mois de la présidentielle, le parti de Marine Le Pen et son alliée l’UDR, sont parvenus à constituer un groupe au Palais du Luxembourg. Ce résultat montre que l’extrême droite a su approfondir son implantation locale.",
+          "titre": "Enquête de « Mediapart » : Jordan Bardella nie en bloc les propos antisémites et",
+          "analyse": "« Mediapart » a publié, lundi, des messages antisémites datant de 2013 attribués à Jordan Bardella, alors jeune militant du Front national. Le président du Rassemblement national, qui nie en bloc, a annoncé une plainte en diffamation.",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/idees/article/2026/09/28/elections-senatoriales-2026-l-inquietant-signal-d-un-groupe-rn_6785021_3232.html",
+          "url": "https://www.lemonde.fr/politique/article/2026/09/29/enquete-de-mediapart-sur-jordan-bardella-le-rn-nie-en-bloc-les-propos-antisemites-alors-que-les-appels-a-la-demission-du-president-du-rn-se-multiplient_6785580_823448.html",
           "niveau": "moyen"
         }
       ]
@@ -75,38 +75,17 @@
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "Nvidia makes a statement with historic $150 billion buyback announcement",
-          "analyse": "The company intends to repurchase a large amount of shares through January 2028, reflecting its “confidence in the long-term opportunity ahead.”",
-          "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/nvidia-makes-a-statement-with-historic-150-billion-buyback-announcement-bfab5a22?mod=mw_rss_topstories",
+          "titre": "Big law is being shaken up—and not by AI",
+          "analyse": "A wave of poaching may presage a transformation of American law firms’ business model",
+          "source": "Business",
+          "url": "https://www.economist.com/business/2026/09/28/big-law-is-being-shaken-up-and-not-by-ai",
           "niveau": "moyen"
         },
         {
-          "titre": "These surprising risk factors may explain why some older people are more vulnera",
-          "analyse": "Criminals use sophisticated techniques to form deep emotional attachments to their victims",
+          "titre": "Two stock picks from a money manager who expects small-caps to roar in 2027",
+          "analyse": "Calamos Investments manager Brandon Nelson’s four-star fund is betting on financial services apps.",
           "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/these-under-the-radar-risk-factors-may-explain-why-some-older-people-are-more-vulnerable-to-scams-865182dc?mod=mw_rss_topstories",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "SpaceX sends its Starship rocket to orbit for the first time",
-          "analyse": "The company is getting closer to making the rocket fully reusable.",
-          "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/spacex-is-moments-away-from-monumental-starship-launch-4f34767b?mod=mw_rss_topstories",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "MongoDB’s stock is down more than 20% as CEO decamps to Meta",
-          "analyse": "Meta is creating an enterprise platform business that aims to make it easier for developers to use its products. CJ Desai, formerly of MongoDB, will head up the initiative.",
-          "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/mongodbs-stock-is-down-more-than-20-as-ceo-decamps-to-meta-ad66a942?mod=mw_rss_topstories",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "The stock market usually booms in the November-to-April stretch. This indicator ",
-          "analyse": "Jim Paulsen thinks lagged indicators suggest the usual ‘best buying season’ for stocks may not be applicable this time and backtesting his model to 1970 shows meagre returns.",
-          "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/the-stock-market-usually-booms-in-the-november-to-april-stretch-this-indicator-suggests-otherwise-f30a744e?mod=mw_rss_topstories",
+          "url": "https://www.marketwatch.com/story/two-stock-picks-from-a-money-manager-who-expects-small-caps-to-roar-in-2027-70de9c4d?mod=mw_rss_topstories",
           "niveau": "moyen"
         },
         {
@@ -117,31 +96,38 @@
           "niveau": "moyen"
         },
         {
-          "titre": "The history of this market’s bad-breadth signal points to risks ahead",
-          "analyse": "Not since the dot-com bubble have stocks thrown up this concerning metric.",
-          "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/the-history-of-this-market-bad-breadth-signal-points-to-ominous-risks-ahead-ad77e065?mod=mw_rss_topstories",
-          "niveau": "moyen"
-        },
-        {
           "titre": "‘I’d rather be on a beach in Bali’: My husband resents my $8 million net worth. ",
           "analyse": "“We have an ironclad prenup.”",
           "source": "MarketWatch.com - Top Stories",
           "url": "https://www.marketwatch.com/story/i-feel-like-hes-holding-me-back-i-have-8-million-my-husband-resents-my-success-should-i-pay-for-more-things-08a4221b?mod=mw_rss_topstories",
           "niveau": "moyen"
-        }
-      ]
-    },
-    {
-      "titre": "Marches financiers",
-      "icone": "🏛️",
-      "niveau_global": "moyen",
-      "items": [
+        },
         {
-          "titre": "Christine Lagarde: Hearing of the Committee on Economic and Monetary Affairs of ",
-          "analyse": "",
-          "source": "ECB - European Central Bank",
-          "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260928~a875675544.en.html",
+          "titre": "Morgan Stanley’s Mike Wilson says an S&P 500 correction may be exactly what the ",
+          "analyse": "The chief U.S. equity strategist at the investment bank favors large-capitalization quality companies.",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/morgan-stanleys-mike-wilson-says-an-s-p-500-correction-may-be-exactly-what-the-market-needs-a6baf54e?mod=mw_rss_topstories",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Novo Nordisk strikes second licensing deal since frosty capital-markets day",
+          "analyse": "Novo Nordisk said Tuesday the company struck its second licensing deal since it received a poor reception from investors after presenting its long-term strategy.",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/novo-nordisk-strikes-second-licensing-deal-since-frosty-capital-markets-day-cc0db878?mod=mw_rss_topstories",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Here’s where TSMC is reportedly eyeing a second U.S. site for a chip-making hub",
+          "analyse": "Taiwan Semiconductor Manufacturing Co., the Taiwanese contract chip maker that makes semiconductors for Nvidia among others, is reportedly eyeing a second site in the U.S.",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/heres-where-tsmc-is-reportedly-eyeing-a-second-u-s-site-for-a-chip-making-hub-828e4488?mod=mw_rss_topstories",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "‘I have a low interest rate’: I’m 80 years old. Should I move out of my house be",
+          "analyse": "“I could rent the property and generate $800 a month in positive cash flow.”",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/i-have-a-low-interest-rate-im-80-years-old-should-i-move-out-of-my-house-because-of-dangerous-stairs-389c3c7b?mod=mw_rss_topstories",
           "niveau": "moyen"
         }
       ]
@@ -152,38 +138,59 @@
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "Remake UK 2025 s’installe à Édimbourg avec un actif santé",
-          "analyse": "Remake UK 2025 achète un immeuble santé à Édimbourg avec 7,5 % de rendement net. Quels atouts et risques pour les associés ? Analyse et points de vigilance.",
+          "titre": "Remake Kross : la SCPI internationale avec parts sponsors à 90 €",
+          "analyse": "SCPI Remake Kross hors de France, parts sponsors à 90 € et objectif de 6,5 % de rendement : opportunité ou risque ? Découvrez atouts, frais et fiscalité.",
           "source": "MeilleureSCPI.com",
-          "url": "https://www.meilleurescpi.com/actualites/remake-uk-s-installe-a-edimbourg/",
+          "url": "https://www.meilleurescpi.com/actualites/remake-kross-la-scpi-100-hors-de-france-de-remake-avec-des-parts-sponsors-a-90-eur/",
           "niveau": "moyen"
         },
         {
-          "titre": "L’IA va-t-elle remplacer les agents immobiliers ?",
-          "analyse": "Selon une enquête Xerfi, 28 % des acquéreurs interrogés ont utilisé l’IA pour chercher un logement mais les agents immobiliers et mandataires conservent une place centrale dans les parcours d’achat et de vente des ménages. \nCet article L’IA va-t-elle remplacer les agents immobiliers ? est apparu en ",
-          "source": "MySweetimmo",
-          "url": "https://www.mysweetimmo.com/2026/09/28/lia-va-t-elle-remplacer-les-agents-immobiliers/",
+          "titre": "Transitions Europe se positionne au nord de Madrid",
+          "analyse": "Transitions Europe investit dans une plateforme frigorifique près de Madrid. Atouts, risques locatifs, impact sur le rendement et la diversification. Analysez.",
+          "source": "MeilleureSCPI.com",
+          "url": "https://www.meilleurescpi.com/actualites/transitions-europe-s-offre-une-plateforme-frigorifique-au-nord-de-madrid/",
           "niveau": "moyen"
         },
         {
-          "titre": "Taux d’usure en hausse : Comment éviter un refus de prêt ?",
-          "analyse": "Le taux d’usure passe à 5,40 % pour les prêts immobiliers de 20 ans et plus au 1er octobre. Assurance et frais peuvent pourtant faire dépasser ce plafond. Quels réflexes adopter avant de déposer son dossier ? Les conseils de Vousfinancer.\nCet article Taux d’usure en hausse : Comment éviter un refus ",
-          "source": "MySweetimmo",
-          "url": "https://www.mysweetimmo.com/2026/09/28/taux-dusure-en-hausse-comment-eviter-un-refus-de-pret/",
+          "titre": "Inter Gestion REIM lance Cristal Care, une SCPI santé tournée vers l’internation",
+          "analyse": "Cristal Care est la troisième SCPI de la gamme Cristal. Elle associe une dominante santé, prise au sens large, à une diversification vers l&#8217;Amérique du Nord et l&#8217;Europe. Elle a été conçue avec l&#8217;américain Sphere Investments, dont Inter Gestion détient la moitié du capital. Inter Ge",
+          "source": "Pierrepapier.fr",
+          "url": "https://www.pierrepapier.fr/scpi/inter-gestion-reim-lance-cristal-care-une-scpi-sante-tournee-vers-linternational/",
           "niveau": "moyen"
         },
         {
-          "titre": "Immobilier en stations alpines : Des prix en hausse de +3 % en un an dans les Al",
-          "analyse": "+3 % sur un an, +18,1 % sur cinq ans : les prix immobiliers montent dans les stations alpines, selon Cimalpes. Mais entre Courchevel et des stations villages, les budgets n’ont rien de comparable. Voici les chiffres et les points à vérifier avant d’acheter.\nCet article Immobilier en stations alpines",
+          "titre": "Anticiper les travaux en copropriété grâce au plan pluriannuel",
+          "analyse": "Comment anticiper les travaux en copropriété grâce au plan pluriannuel ? Diagnostic, priorités, financement, calendrier : les clés pour programmer les interventions et lisser les dépenses.\nCet article Anticiper les travaux en copropriété grâce au plan pluriannuel est apparu en premier sur MySweetimm",
           "source": "MySweetimmo",
-          "url": "https://www.mysweetimmo.com/2026/09/28/immobilier-en-stations-alpines-des-prix-en-hausse-de-3-en-un-an-dans-les-alpes/",
+          "url": "https://www.mysweetimmo.com/2026/09/29/anticiper-les-travaux-en-copropriete-grace-au-plan-pluriannuel/",
           "niveau": "moyen"
         },
         {
-          "titre": "A vendre à Paris 6e : Appartement avec terrasse panoramique de 30 m²",
-          "analyse": "Cet appartement de 4 pièces, 2 chambres et 86 m², avec une terrasse panoramique de 30 m², situé à quelques minutes à pied du Bon Marché, est proposé à la vente par Varenne.\nCet article A vendre à Paris 6e : Appartement avec terrasse panoramique de 30 m² est apparu en premier sur MySweetimmo.",
+          "titre": "Immobilier : iad connecte ses annonces à ChatGPT avec Omny",
+          "analyse": "iad et Omny s’associent pour connecter les biens des conseillers iad aux nouveaux parcours de recherche immobilière par l’IA. Les particuliers pourront décrire leur projet avec leurs propres mots avant d’être orientés vers un bien et un conseiller.\nCet article Immobilier : iad connecte ses annonces ",
           "source": "MySweetimmo",
-          "url": "https://www.mysweetimmo.com/2026/09/27/a-vendre-a-paris-6e-appartement-avec-terrasse-panoramique-de-30-m%c2%b2/",
+          "url": "https://www.mysweetimmo.com/2026/09/29/immobilier-iad-connecte-ses-annonces-a-chatgpt-avec-omny/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Crédit immobilier : En route vers des taux à 4%",
+          "analyse": "Les barèmes des banques partenaires de Meilleurtaux approchent 4 %. Si les taux dépassent ce seuil, le courtier estime qu’environ 20 % des clients actuels du crédit pourraient perdre l’accès au prêt.\nCet article Crédit immobilier : En route vers des taux à 4%   est apparu en premier sur MySweetimmo.",
+          "source": "MySweetimmo",
+          "url": "https://www.mysweetimmo.com/2026/09/29/credit-immobilier-en-route-vers-des-taux-a-4/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Achat immobilier : Votre quartier vous protège-t-il de la chaleur ?",
+          "analyse": "Avant d’acheter, la fraîcheur d’un logement se vérifie aussi dehors. Une carte permet de regarder, adresse par adresse, les arbres autour du bien et la couverture arborée du quartier.\nCet article Achat immobilier : Votre quartier vous protège-t-il de la chaleur ? est apparu en premier sur MySweetimm",
+          "source": "MySweetimmo",
+          "url": "https://www.mysweetimmo.com/2026/09/29/achat-immobilier-votre-quartier-vous-protege-t-il-de-la-chaleur/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Immobilier : Les acheteurs reviennent, mais les ventes reculent",
+          "analyse": "À l’entrée du dernier trimestre, le marché immobilier montre des signes d’amélioration : la demande repart, l’offre se reconstitue, mais les transactions restent en retrait de -1,8 % et les délais de vente atteignent désormais 101 jours. Le point avec Laforêt.\nCet article Immobilier : Les acheteurs ",
+          "source": "MySweetimmo",
+          "url": "https://www.mysweetimmo.com/2026/09/29/immobilier-les-acheteurs-reviennent-mais-les-ventes-reculent/",
           "niveau": "moyen"
         }
       ]
@@ -194,17 +201,59 @@
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "Avez-vous droit à cette aide exceptionnelle d’Engie pour régler une partie de vo",
-          "analyse": "Bonne nouvelle pour votre budget ! Engie a annoncé verser un chèque énergie de 75 € à plusieurs centaines de milliers de clients. Cette aide viendra directement alléger votre facture. Vous vous demandez si vous y avez droit ? Voici tout ce qu’il faut savoir sur ce coup de pouce bienvenu.",
-          "source": "Merci pour l’info",
-          "url": "https://www.mercipourlinfo.fr/actualites/conso/bon-plan-engie-vous-offre-un-cheque-energie-pour-reduire-votre-facture-1157443",
+          "titre": "La majorité des supermarchés Auchan s'apprêtent à passer sous bannière Intermarc",
+          "analyse": "\"Il paraît qu&#039;Intermarché est moins cher\": à l&#039;aube d&#039;une bascule inédite des supermarchés Auchan sous une bannière concurrente, les clients de l&#039;enseigne à l&#039;oiseau rouge interrogés par l&#039;AFP espèren...",
+          "source": "notretemps.com",
+          "url": "https://www.notretemps.com/depeches/la-majorite-des-supermarches-auchan-s-appretent-a-passer-sous-banniere-intermarche-139192",
           "niveau": "moyen"
         },
         {
-          "titre": "Médiation financière : une forte hausse des litiges",
-          "analyse": "Litiges financiers&#160;: + 37 % de saisines en plus «&#160;Sur le plan quantitatif, l’année 2025...\nThe post Médiation financière : une forte hausse des litiges appeared first on La finance pour tous.",
-          "source": "La finance pour tous",
-          "url": "https://www.lafinancepourtous.com/2026/09/28/mediation-financiere-une-forte-hausse-des-litiges/",
+          "titre": "Blocus des lycées : la mobilisation se poursuit et s'amplifie, 40 interpellation",
+          "analyse": "Les forces de l&#039;ordre ont procédé mardi à 40 interpellations lors des manifestations et blocages aux abords des lycées pour réclamer davantage de moyens dans l&#039;éducation, un mouvement soutenu par La F...",
+          "source": "notretemps.com",
+          "url": "https://www.notretemps.com/depeches/blocus-des-lycees-la-mobilisation-se-poursuit-et-s-amplifie-40-interpellations-139199",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Pétards et sirènes hurlantes, plusieurs milliers de pompiers manifestent à Paris",
+          "analyse": "Plusieurs milliers de pompiers, \"en grève\" scratché à leur polo, défilaient mardi à Paris à l&#039;appel de syndicats dans un concert continu de pétards pour faire entendre leurs revendications et leur \"co...",
+          "source": "notretemps.com",
+          "url": "https://www.notretemps.com/depeches/petards-et-sirenes-hurlantes-plusieurs-milliers-de-pompiers-manifestent-a-paris-139213",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Budget : enquête ouverte après un signalement de Lecornu sur des fuites dans la ",
+          "analyse": "Le parquet de Paris a indiqué mardi à l&#039;AFP avoir ouvert une enquête pour violation du secret professionnel sur des fuites dans la presse autour de la préparation du budget 2027, après avoir reçu un s...",
+          "source": "notretemps.com",
+          "url": "https://www.notretemps.com/depeches/budget-enquete-ouverte-apres-un-signalement-de-lecornu-sur-des-fuites-dans-la-presse-139207",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Ecrits antisémites : Bardella dénonce \"une guerre totale\" contre le RN, première",
+          "analyse": "Jordan Bardella a dénoncé mardi \"les prémices d&#039;une guerre totale\" contre le RN au lendemain de la publication de l&#039;article de Mediapart l&#039;accusant d&#039;avoir tenu des propos antisémites, une affaire qui...",
+          "source": "notretemps.com",
+          "url": "https://www.notretemps.com/depeches/ecrits-antisemites-bardella-denonce-une-guerre-totale-contre-le-rn-premiere-crise-de-campagne-pour-le-pen-139206",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Chez les enseignants, le sentiment d'un grand déclassement",
+          "analyse": "Malgré son ancienneté, Emmanuelle, professeure d&#039;espagnole en Haute-Savoie, roule 35 km par jour pour aller enseigner, contrainte par les coûts de l&#039;immobilier de se loger loin de son collège. Une \"im...",
+          "source": "notretemps.com",
+          "url": "https://www.notretemps.com/depeches/chez-les-enseignants-le-sentiment-d-un-grand-declassement-139205",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Accusations d'antisémitisme: Bardella dénonce \"une guerre totale\" contre le RN e",
+          "analyse": "Jordan Bardella a dénoncé mardi \"une guerre totale\" contre le Rassemblement national après la publication d&#039;un article de Mediapart l&#039;accusant d&#039;avoir tenu des propos antisémites en 2013, Marine Le Pe...",
+          "source": "notretemps.com",
+          "url": "https://www.notretemps.com/depeches/accusations-d-antisemitisme-bardella-denonce-une-guerre-totale-contre-le-rn-et-attaque-mediapart-139204",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Légère baisse des permis de construire de logements en août",
+          "analyse": "Le nombre de permis de construire accordés en août pour les logements a légèrement baissé par rapport à juillet, tandis que les ouvertures de chantiers ont progressé pour le troisième mo...",
+          "source": "notretemps.com",
+          "url": "https://www.notretemps.com/depeches/legere-baisse-des-permis-de-construire-de-logements-en-aout-139200",
           "niveau": "moyen"
         }
       ]
@@ -215,52 +264,52 @@
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "Jeune actif : comment choisir une banque en ligne économique ?",
-          "analyse": "Premier salaire, nouveau logement, abonnements, déplacements : le début de la vie professionnelle s’accompagne rapidement de nouvelles dépenses à gérer. Le compte bancaire devient alors un outil du quotidien, et quelques frais mal anticipés peuvent finir par peser sur le budget. Une banque en ligne ",
+          "titre": "BDO France annonce son rapprochement avec Wise Advisory",
+          "analyse": "BDO France annonce son rapprochement avec Wise Advisory, cabinet d’expertise comptable et de conseil opérationnel spécialisé en consolidation et reporting. Son fondateur, Frédérik Schulmeister, rejoint BDO France en qualité d’Associé, au sein des activités de conseil aux directions financières.\nUne ",
           "source": "Finyear",
-          "url": "https://finyear.com/jeune-actif-comment-choisir-une-banque-en-ligne-economique/",
+          "url": "https://finyear.com/bdo-france-annonce-son-rapprochement-avec-wise-advisory/",
           "niveau": "moyen"
         },
         {
-          "titre": "Étude exclusive Lise – “Les Français et la Bourse : une  culture financière enco",
-          "analyse": "Alors que 66 % des Français n&rsquo;ont jamais investi en Bourse, 56 % ne sauraient pas concrètement par où commencer pour investir. Un tiers des Français intérrogés pointent le manque de connaissance et de compréhension comme le premier frein à l’investissement en bourse. 37 % associent spontanémen",
+          "titre": "Marble lève 6,5 M€ en Série A pour rendre la conformité financière plus agile",
+          "analyse": "Marble, plateforme d’infrastructure open source dédiée à la détection de la fraude et à la conformité LCB-FT, annonce aujourd’hui une levée de fonds de 6,5 millions d’euros en Série A pour accélérer l’automatisation de la conformité et permettre aux institutions financières d’adapter leurs dispositi",
           "source": "Finyear",
-          "url": "https://finyear.com/etude-exclusive-lise-les-francais-et-la-bourse-une-culture-financiere-encore-trop-limitee/",
+          "url": "https://finyear.com/marble-leve-65-me-en-serie-a-pour-rendre-la-conformite-financiere-plus-agile/",
           "niveau": "moyen"
         },
         {
-          "titre": "Clearstream dévoile une infrastructure post-trade hybride pour titres traditionn",
-          "analyse": "La filiale post-trade de Deutsche Börse Group vient d&rsquo;annoncer une infrastructure capable de traiter simultanément des titres traditionnels, des titres numériques et des liquidités dans un portefeuille unique. Ce n&rsquo;est pas une annonce de pilote. C&rsquo;est un plan de déploiement industr",
+          "titre": "Capgemini chiffre à 230 milliards les revenus bancaires menacés par les stableco",
+          "analyse": "Capgemini a chiffré l&rsquo;exposition des banques à la disruption de l&rsquo;argent intelligent avec une précision que peu de cabinets s&rsquo;autorisent. Quatre catégories de revenus sont dans le viseur : les marges de change et de conversion de devises, les commissions de correspondent banking, l",
           "source": "Finyear",
-          "url": "https://finyear.com/clearstream-devoile-une-infrastructure-post-trade-hybride-pour-titres-traditionnels-et-tokenises/",
+          "url": "https://finyear.com/capgemini-chiffre-a-230-milliards-les-revenus-bancaires-menaces-par-les-stablecoins-et-depots-tokenises/",
           "niveau": "moyen"
         },
         {
-          "titre": "BNB Chain dépasse Ethereum sur les actions tokenisées — 1,2 milliard en 80 jours",
-          "analyse": "La ligne de fracture dans le marché des actions tokenisées vient de se déplacer. BNB Chain détient désormais la plus grande part du marché des titres tokenisés, avec une supply totale de tokenized stocks dépassant 1,2 milliard de dollars. Au sein de cet ensemble, bStocks — le programme lancé par Bin",
+          "titre": "RYDGE Conseil et Comptastar unissent leurs expertises pour accompagner les entre",
+          "analyse": "RYDGE Conseil, cabinet de conseil auprès des entrepreneurs, annonce que Comptastar, plateforme française de comptabilité en ligne dédiée aux créateurs d&rsquo;entreprise et aux petites structures, rejoint son groupe. Cette opération a été finalisée le 24 septembre 2026.\nUne évolution structurelle du",
           "source": "Finyear",
-          "url": "https://finyear.com/bnb-chain-depasse-ethereum-sur-les-actions-tokenisees-12-milliard-en-80-jours-de-bstocks/",
+          "url": "https://finyear.com/rydge-conseil-et-comptastar-unissent-leurs-expertises-pour-accompagner-les-entrepreneurs-a-chaque-etape-de-leur-developpement/",
           "niveau": "moyen"
         },
         {
-          "titre": "La Fed relève ses taux pour la première fois en 3 ans — Bitcoin tient, le marché",
-          "analyse": "Le 16 septembre 2026, la Réserve fédérale américaine a relevé son taux directeur de 25 points de base, à 3,75%-4,00%. Vote unanime, 12-0. Premier relèvement depuis juillet 2023. Le même scenario qui, en 2022, avait précédé une chute de plus de 70% de Bitcoin. Cette fois, Bitcoin a brièvement reculé ",
+          "titre": "60% des entreprises iraient chez des non-banques pour les stablecoins",
+          "analyse": "Le chiffre le plus dérangeant du World Payments Report 2027 de Capgemini n&rsquo;est pas le coût de l&rsquo;inaction, ni l&rsquo;ampleur du capital immobilisé. C&rsquo;est la menace qui s&rsquo;exprime dans l&rsquo;enquête auprès de 1 110 directeurs financiers : près de 60% seraient prêts à sourcer ",
           "source": "Finyear",
-          "url": "https://finyear.com/la-fed-releve-ses-taux-pour-la-premiere-fois-en-3-ans-bitcoin-tient-le-marche-retient-son-souffle/",
+          "url": "https://finyear.com/60-des-entreprises-iraient-chez-des-non-banques-pour-les-stablecoins/",
           "niveau": "moyen"
         },
         {
-          "titre": "MD Start IV doté de 82 M€ à son closing final",
-          "analyse": "MD Start IV a démarré son déploiement cette année mais les noms et nationalités de ses premières réalisations restent pour l’heure confidentiels.",
+          "titre": "Capgemini 2027 : 60% des banques ont investi dans les paiements B2B, 32% des cli",
+          "analyse": "Le World Payments Report 2027 de Capgemini, publié le 24 septembre 2026, pose un diagnostic sévère sur la décennie de modernisation des paiements B2B. Soixante pourcent des banques ont fait de l&rsquo;innovation dans les paiements inter-entreprises leur priorité absolue sur les trois dernières année",
+          "source": "Finyear",
+          "url": "https://finyear.com/capgemini-2027-60-des-banques-ont-investi-dans-les-paiements-b2b-32-des-clients-sont-satisfaits/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "La cleantech française tente un timide rebond",
+          "analyse": "Au premier semestre 2026, 946 millions d’euros ont été investis dans des entreprises de la cleantech en France, à l’occasion de 66 levées.",
           "source": "PE Magazine",
-          "url": "https://www.pemagazine.fr/md-start-iv-dote-de-82-me-a-son-closing-final/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Educapital est sur la route avec son troisième fonds",
-          "analyse": "Depuis presque dix ans, Educapital creuse son sillon en tant que fonds de capital-risque early stage spécialiste du secteur de l’edtech et de la formation. Portant une thèse européenne et avec une forte coloration d’impact, il a démarré au printemps la levée de son troisième vintage avec pour object",
-          "source": "PE Magazine",
-          "url": "https://www.pemagazine.fr/educapital-est-sur-la-route-avec-son-troisieme-fonds/",
+          "url": "https://www.pemagazine.fr/la-cleantech-francaise-tente-un-timide-rebond/",
           "niveau": "moyen"
         }
       ]
@@ -271,10 +320,10 @@
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "Donner de l’argent à un enfant pour créer son entreprise : comment ce geste est-",
-          "analyse": "Par un arr&#234;t du 1er juillet 2026, la Cour de cassation indique que l&#8217;argent donn&#233; pour cr&#233;er une soci&#233;t&#233;, quelle que soit sa forme juridique, doit &#234;tre rapport&#233; &#224; la succession &#224; hauteur de la valeur des titres sociaux au jour du partage, et non du ",
+          "titre": "Salons du chiot : vers une interdiction ?",
+          "analyse": "Chaque mois, partout en France, des salons du chiot s&#8217;installent dans les salles des f&#234;tes, parcs des expositions ou espaces sportifs pour pr&#233;senter des animaux et les vendre. Une pratique tr&#232;s controvers&#233;e qui explose depuis l&#8217;interdiction de vente de chiots et de ch",
           "source": "Actu-Juridique",
-          "url": "https://www.actu-juridique.fr/fiscalite/fiscal-finances/donner-de-largent-a-un-enfant-pour-creer-son-entreprise-comment-ce-geste-est-il-traite-au-moment-de-la-succession-du-donateur/",
+          "url": "https://www.actu-juridique.fr/environnement/salons-du-chiot-vers-une-interdiction/",
           "niveau": "moyen"
         }
       ]
@@ -285,108 +334,24 @@
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "TotalEnergies : derrière la prolongation de Patrick Pouyanné, la continuité d’un",
-          "analyse": "Le conseil d'administration de TotalEnergies veut renouveler le mandat de Patrick Pouyanné à la tête du groupe - Crédit _ THIBAUD MORITZ _ AFP\nPatrick Pouyanné n’est pas près de quitter TotalEnergies. Le conseil d’administration a annoncé son intention de proposer, en mai 2027, le renouvellement de ",
+          "titre": "ODD : l'ISO dévoile sa première norme sur les Objectifs du développement durable",
+          "analyse": "Les objectifs de développement durable ont désormais leur norme ISO - Photo de Priscila Oliveirasur Unsplash\nPour la première fois depuis leur création en 2015, les ODD ont leur norme internationale. Issue d'un partenariat entre l'ISO (Organisation internationale de normalisation) et le Programme de",
           "source": "Novethic",
-          "url": "https://www.novethic.fr/economie-et-social/transformation-de-leconomie/totalenergies-derriere-la-prolongation-de-patrick-pouyanne-la-continuite-dun-modele-sous-pression-climatique",
+          "url": "https://www.novethic.fr/economie-et-social/transformation-de-leconomie/iso53001-norme-odd-objectifs-developpement-durable-devoilee",
           "niveau": "moyen"
         },
         {
-          "titre": "Crise énergétique : l’Europe toujours piégée par sa dépendance aux fossiles",
-          "analyse": "Le président français Emmanuel Macron (à droite) et le Premier ministre canadien Mark Carney (à gauche) affichent leur alliance à Saint-Pierre-et-Miquelon le 20 septembre 2026. @AFP\nDes marins-pêcheurs qui bloquent des dépôts pétroliers sur le littoral méditerranéen, des transporteurs routiers en gr",
+          "titre": "Les directions RSE sont-elles vouées à disparaître ?",
+          "analyse": "RSE : les professionnels sur la sellette - Photo de Marc Mintelsur Unsplash\nDepuis quelques mois, c'est l'hécatombe chez les professionnels de la durabilité. Dans les plus grandes entreprises mondiales, les directions de la durabilité ou les directions RSE (Responsabilité sociale des entreprises), n",
           "source": "Novethic",
-          "url": "https://www.novethic.fr/environnement/transition-energetique/crise-energetique-leurope-toujours-piegee-par-sa-dependance-aux-fossiles",
+          "url": "https://www.novethic.fr/economie-et-social/transformation-de-leconomie/disparition-rse-direction-durabilite-ia-backlash",
           "niveau": "moyen"
         },
         {
-          "titre": "Les syndicats professionnels soutiennent la manifestation des salariés des EnR",
-          "analyse": "En fanfare ! Au rythme des cuivres et des percussions, les salariés des énergies renouvelables électriques, menés par leurs Conseils sociaux et économiques (CSE), manifesteront demain mardi 29 septembre à Paris. A Montpellier, ce sera un pique-nique. Le tout forme le deuxième rassemblement du genre ",
-          "source": "GreenUnivers",
-          "url": "https://www.greenunivers.com/2026/09/les-syndicats-professionnels-soutiennent-la-manifestation-des-salaries-des-enr-434266/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "TotalEnergies veut gagner de l’argent dans l’électricité en 2027",
-          "analyse": "D’ici 2030, TotalEnergies compte bien rester une machine à cash dans le pétrole et le gaz et tenter de le devenir dans l’électricité. Le groupe surtout pétro-gazier a confirmé aujourd&#8217;hui que sa production d‘électricité doit augmenter de 20% par an et\nL’article TotalEnergies veut gagner de l&r",
-          "source": "GreenUnivers",
-          "url": "https://www.greenunivers.com/2026/09/totalenergies-veut-gagner-de-largent-dans-lelectricite-en-2027-434284/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "« Code réseau » : ce que prépare Bruxelles",
-          "analyse": "Véritable code de la route des réseaux électriques, le « code réseau »* devrait évoluer prochainement, sous l&#8217;impulsion de la Commission européenne. Les consultations des gestionnaires de réseau se\nL’article « Code réseau » : ce que prépare Bruxelles est apparu en premier sur GreenUnivers.",
-          "source": "GreenUnivers",
-          "url": "https://www.greenunivers.com/2026/09/code-reseau-ce-que-prepare-bruxelles-434141/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Une salve d’acquisitions pour JPEE",
-          "analyse": "&#160; JPEE a acheté beaucoup de projets solaires et éoliens au premier semestre et compte continuer. Il n’est pas le seul et la raison de l&#8217;appétit est connue : de moins en moins de visibilité sur les soutiens publics futurs. Le phénomène a conduit ce développeur et exploitant EnR normand à s",
-          "source": "GreenUnivers",
-          "url": "https://www.greenunivers.com/2026/09/une-salve-dacquisitions-pour-jpee-434229/",
-          "niveau": "moyen"
-        }
-      ]
-    },
-    {
-      "titre": "Fintech",
-      "icone": "📰",
-      "niveau_global": "moyen",
-      "items": [
-        {
-          "titre": "Spécialiste de la gestion et du paiement des factures fournisseurs, LIBEO rejoin",
-          "analyse": "SHINE acquiert LIBEO, spécialiste français de la gestion et du paiement des factures fournisseurs, pour un montant non communiqué. La fintech, qui annonce accompagner près de 3 000 PME et cabinets d’expertise comptable, rejoint le groupe CEGID avec l’ensemble de ses équipes. Rentable depuis 2025 sel",
-          "source": "FRENCHWEB.FR : innovation, tech, network",
-          "url": "https://www.frenchweb.fr/specialiste-de-la-gestion-et-du-paiement-des-factures-fournisseurs-libeo-rejoint-shine-cegid/463715",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "GRANEET lève 7 millions d’euros pour faire de la facture électronique le point d",
-          "analyse": "Graneet annonce une levée de 7 millions d’euros pour accélérer son ERP destiné aux PME du bâtiment. Depuis le 1er septembre 2026, toutes les entreprises doivent être capables de recevoir des factures électroniques ; les PME devront, à leur tour, les émettre à partir de septembre 2027. La startup veu",
-          "source": "FRENCHWEB.FR : innovation, tech, network",
-          "url": "https://www.frenchweb.fr/graneet-leve-7-millions-deuros-pour-faire-de-la-facture-electronique-le-point-dentree-de-lerp-de-chantier/463674",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "ai-PULSE, Teratec, UAV Show : cinq rendez-vous tech à suivre en octobre, et notr",
-          "analyse": "IA, commerce, drones, calcul intensif et spatial : en octobre, FRENCHWEB.FR retient cinq rendez-vous pour la pertinence de leur programme, l’expertise des intervenants annoncés et la possibilité d’échanger avec ceux qui mettent ces technologies en œuvre. Dans un calendrier encombré, les conférences ",
-          "source": "FRENCHWEB.FR : innovation, tech, network",
-          "url": "https://www.frenchweb.fr/ai-pulse-teratec-uav-show-cinq-rendez-vous-tech-a-suivre-en-octobre-et-notre-agenda-en-france/463708",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Plongée dans le dark web #2 : comment j'ai failli attaquer Crypto.com",
-          "analyse": "Un cybercriminel m'a proposé un poste de téléconseiller pour escroquer les utilisateurs de Crypto.com. Deuxième volet de l'enquête sur le vaste marché du travail cybercriminel.",
-          "source": "JDN : Derniers contenus",
-          "url": "https://www.journaldunet.com/cybersecurite/1555497-plongee-dans-le-dark-web-comment-un-cybercriminel-voulait-me-recruter-pour-attaquer-crypto-com/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "ChatGPT Ads en France ouvre une nouvelle bataille pour le choix du consommateur",
-          "analyse": "La publicité crée un nouvel espace dans ChatGPT, entre découverte et intention. Son succès dépendra de sa capacité à générer des ventes additionnelles sans compromettre la confiance.",
-          "source": "JDN : Derniers contenus",
-          "url": "https://www.journaldunet.com/adtech/1555279-chatgpt-ads-en-france-ouvre-une-nouvelle-bataille-pour-le-choix-du-consommateur/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Claude Code vs Codex : le comparatif complet en septembre 2026",
-          "analyse": "Avec GPT-6 et Claude Opus 5.5, les agents de code d'OpenAI et d'Anthropic offrent, sur le papier, des performances proches. Dans la réalité, les usages peuvent différer.",
-          "source": "JDN : Derniers contenus",
-          "url": "https://www.journaldunet.com/intelligence-artificielle/1555487-claude-code-vs-codex-le-comparatif-complet-en-septembre-2026/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Grève de la fonction publique du 29 septembre 2026 : un impact limité sur les tr",
-          "analyse": "La grève de la fonction publique du 29 septembre devrait entraîner peu de perturbations dans les transports, selon les prévisions de la RATP et de la SNCF.",
-          "source": "JDN : Derniers contenus",
-          "url": "https://www.journaldunet.com/economie/industrie/1555473-greve-de-la-fonction-publique-du-29-septembre-2026-un-impact-limite-sur-les-transports/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Le pape Léon XIV mène un voyage très politique en France",
-          "analyse": "Le souverain pontife multiplie les prises de position sur des sujets de société sensibles et les tensions internationales lors de sa visite.",
-          "source": "JDN : Derniers contenus",
-          "url": "https://www.journaldunet.com/business/action-publique/1555471-le-pape-leon-xiv-mene-un-voyage-tres-politique-en-france/",
+          "titre": "Silicon Valley, quand la Tech veut refaire le monde... et l’univers (Episode 2/3",
+          "analyse": "Comment la Silicon Valley imagine un nouvel ordre mondial - Emre Aytekin Anadolu via AFP\nDans le premier épisode, nous avons vu comment le mythe de la Silicon Valley s’est construit sur un paradoxe : une industrie qui se raconte comme émancipatrice, mais dont l’histoire est profondément liée à l’arm",
+          "source": "Novethic",
+          "url": "https://www.novethic.fr/economie-et-social/transformation-de-leconomie/silicon-valley-quand-la-tech-veut-refaire-le-monde",
           "niveau": "moyen"
         }
       ]
