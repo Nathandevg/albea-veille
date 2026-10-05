@@ -1,8 +1,8 @@
 {
-  "date_fr": "Sunday 04 October 2026",
-  "compte_articles": 142,
+  "date_fr": "Monday 05 October 2026",
+  "compte_articles": 246,
   "compte_forts": 0,
-  "compte_moyens": 142,
+  "compte_moyens": 246,
   "synthese_jour": "Synthese IA non disponible (fallback). Consultez les articles ci-dessous.",
   "chiffres_cles": [],
   "sections": [
@@ -12,59 +12,59 @@
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "Blocage des lycées : entre « 400 et 500 » lycées vont suspendre des cours ce lun",
-          "analyse": "Les fermetures interviennent lorsque « les conditions de sécurité ne sont pas remplies », soit pour des raisons matérielles, soit parce que des personnels « ont été directement visés », a-t-il dit.",
+          "titre": "EN DIRECT, blocage des lycées : Edouard Geffray estime « humainement dramatique ",
+          "analyse": "Lundi, 589 établissements ont été perturbés, contre 735 vendredi, selon les chiffres annoncés par le ministre de l’éducation nationale. Les lycéens ont prévu de manifester mardi. Ils ont reçu le soutien de plusieurs hommes politiques et de syndicats.",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/societe/article/2026/10/04/blocage-des-lycees-edouard-geffray-estime-qu-entre-400-et-500-etablissements-vont-suspendre-les-cours-lundi_6788263_3224.html",
+          "url": "https://www.lemonde.fr/societe/live/2026/10/05/en-direct-blocage-des-lycees-edouard-geffray-estime-humainement-dramatique-le-fait-qu-un-lyceen-de-15-ans-ait-eu-une-main-arrachee-a-lens_6788487_3224.html",
           "niveau": "moyen"
         },
         {
-          "titre": "Présidentielle 2027 : pourquoi la CSG divise autant les candidats",
-          "analyse": "La contribution sociale généralisée revient souvent dans le débat politique et budgétaire. Et pour cause : de petites variations dans son calcul sont susceptibles de coûter ou de rapporter des milliards d’euros à la Sécurité sociale.",
+          "titre": "Le coût de la canicule de l’été 2026 évalué à 16 milliards d’euros par une missi",
+          "analyse": "A l’approche du débat budgétaire, le député (LFI) Eric Coquerel présente une évaluation très élevée des conséquences des fortes températures de l’été. Pour mieux justifier d’augmenter les crédits alloués à l’adaptation du pays au réchauffement climatique.",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/les-decodeurs/article/2026/10/04/presidentielle-2027-pourquoi-la-csg-divise-autant-les-candidats_6788112_4355770.html",
+          "url": "https://www.lemonde.fr/politique/article/2026/10/05/le-cout-de-la-canicule-evalue-a-16-milliards-d-euros-par-une-mission-de-l-assemblee-nationale_6788537_823448.html",
           "niveau": "moyen"
         },
         {
-          "titre": "L’absence de ventes du fabricant ASML en Europe, symbole du manque d’investissem",
-          "analyse": "L’industriel néerlandais ne vend aucune de ses machines de fabrication de semi-conducteurs en Europe. De quoi jeter une lumière crue sur les lacunes du premier Chips Act de la Commission européenne, à l’heure où elle planche sur un nouveau volet de ce plan censé assurer sa souveraineté dans ce domai",
+          "titre": "Grande distribution face à agro-industrie, la bataille de récits fait rage autou",
+          "analyse": "Pressurés par la hausse des coûts des produits agricoles, des emballages et de l’énergie, les industriels de l’agro-alimentaire réclament des augmentations de prix que refusent les grandes enseignes, au nom de la défense du pouvoir d’achat.",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/10/04/l-absence-de-ventes-du-fabricant-asml-en-europe-symbole-du-manque-d-investissements-dans-les-puces-electroniques_6788218_3234.html",
+          "url": "https://www.lemonde.fr/economie/article/2026/10/05/grande-distribution-face-a-agro-industrie-la-bataille-de-recits-fait-rage-autour-des-prix-de-l-alimentation_6788481_3234.html",
           "niveau": "moyen"
         },
         {
-          "titre": "EN DIRECT, guerre en Ukraine : la Russie annonce qu’elle va « intensifier » ses ",
-          "analyse": "L’armée russe a visé, dimanche, un nouveau pont à Kiev, alors que le chancelier allemand, Friedrich Merz, était dans la capitale ukrainienne.",
+          "titre": "Violences dans le périscolaire parisien : les auditions du Sénat illustrent la g",
+          "analyse": "Alors que le secteur du périscolaire parisien est appelé à la grève mardi 6 octobre, les auditions de la commission d’enquête du Palais du Luxembourg censées faire la lumière sur les chaînes de responsabilités dans le scandale des violences contre les enfants patinent.",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/international/live/2026/10/04/en-direct-guerre-en-ukraine-la-russie-annonce-qu-elle-va-intensifier-ses-attaques-sur-les-infrastructures-ukrainiennes_6787996_3210.html",
+          "url": "https://www.lemonde.fr/politique/article/2026/10/05/violences-dans-le-periscolaire-parisien-les-auditions-du-senat-illustrent-la-grande-difficulte-a-determiner-les-responsabilites_6788541_823448.html",
           "niveau": "moyen"
         },
         {
-          "titre": "Le parcours de Marine et Maëlle, devenues propriétaires d’un appartement au Mans",
-          "analyse": "Les deux jeunes femmes, dans leur vingtaine, ont décidé d’acheter au Mans pour se rapprocher de leurs familles et bénéficier d’un logement spacieux à prix abordable, à une heure de train de Paris.",
+          "titre": "Meurtre de Federico Martin Aramburu : Loïk Le Priol et Romain Bouvier font appel",
+          "analyse": "Loïk Le Priol et Romain Bouvier, respectivement condamnés à vingt-six et dix-neuf ans de réclusion pour avoir tué l’ancien rugbyman argentin en 2022 à Paris, seront rejugés.",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/argent/article/2026/10/04/le-parcours-de-marine-et-maelle-devenues-proprietaires-d-un-appartement-au-mans_6788215_1657007.html",
+          "url": "https://www.lemonde.fr/societe/article/2026/10/05/meurtre-de-federico-martin-aramburu-loik-le-priol-et-romain-bouvier-font-appel_6788534_3224.html",
           "niveau": "moyen"
         },
         {
-          "titre": "De la Renaissance aux années 1980, les bulles temporelles de la fashion week de ",
-          "analyse": "Chez Acne Studios, Ann Demeulemeester et Maison Margiela, les vêtements sont usés, patinés ou évocateurs du passé.",
+          "titre": "« Jordan Bardella appartient à cette “génération Soral”, entrée en politique dan",
+          "analyse": "A la suite des révélations de « Mediapart » sur les écrits antisémites du président du RN, la philosophe Perrine Simon-Nahum analyse, dans une tribune au « Monde », comment cette haine singulière structure des imaginaires radicaux et menace les fondements du débat politique.",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/m-styles/article/2026/10/04/de-la-renaissance-aux-annees-1980-les-bulles-temporelles-de-la-fashion-week-de-paris_6788256_4497319.html",
+          "url": "https://www.lemonde.fr/idees/article/2026/10/05/jordan-bardella-appartient-a-cette-generation-soral-entree-en-politique-dans-les-annees-2010_6788518_3232.html",
           "niveau": "moyen"
         },
         {
-          "titre": "En Lettonie, le parti du premier ministre, Andris Kulbergs, obtient un succès hi",
-          "analyse": "Avec 35,3 % des voix, un score inédit pour une formation politique depuis 1990, le dirigeant centriste pro-européen et pro-ukrainien aura les coudées franches pour former une coalition.",
+          "titre": "Le gouvernement va « prélever » les 2,1 milliards d’euros d’excédent du régime d",
+          "analyse": "En trois ans, l’Etat a déjà prélevé 12 milliards d’euros de l’Unédic qui comptait sur ces nouvelles recettes pour réduire son lourd endettement, prévu pour atteindre 61,5 milliards d’euros à la fin de 2026.",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/international/article/2026/10/04/en-lettonie-le-parti-du-premier-ministre-andris-kulbergs-obtient-un-succes-historique-qui-eloigne-le-danger-populiste_6788216_3210.html",
+          "url": "https://www.lemonde.fr/politique/article/2026/10/05/le-gouvernement-va-prelever-les-2-1-milliards-d-euros-d-excedent-du-regime-de-l-assurance-chomage-en-2027-selon-le-ministre-du-travail-jean-pierre-farandou_6788516_823448.html",
           "niveau": "moyen"
         },
         {
-          "titre": "Marche des fiertés LGBTQ + à Paris : retour en images sur le cortège",
-          "analyse": "La Marche des fiertés a eu lieu ce samedi à Paris, réunissant des dizaines de milliers de personnes dans un cortège reliant la Place d’Italie à la place de la Bastille.",
+          "titre": "« A cause des perturbations autour du détroit d’Ormuz, les pétroliers géants son",
+          "analyse": "Ces dernières semaines, des supertankers d’occasion, capables de transporter 2 millions de barils, ont été achetés plus cher que leur équivalent flambant neuf, constate Isabelle Chaperon, chroniqueuse au service Economie du « Monde ».",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/politique/video/2026/10/04/marche-des-fiertes-lgbtq-a-paris-retour-en-images-sur-le-cortege_6788221_823448.html",
+          "url": "https://www.lemonde.fr/economie/article/2026/10/05/a-cause-des-perturbations-autour-du-detroit-d-ormuz-les-petroliers-geants-sont-devenus-des-mines-d-or-flottantes_6788512_3234.html",
           "niveau": "moyen"
         }
       ]
@@ -75,59 +75,59 @@
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "Fed minutes coming this week could give markets important clues about future rat",
-          "analyse": "Minutes from the September meeting may provide extra context, as the real fed-funds rate is now surprisingly low.",
-          "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/fed-minutes-coming-this-week-could-give-markets-important-clues-about-future-rate-hikes-31bfba5b?mod=mw_rss_topstories",
+          "titre": "The world is facing an almighty LNG crunch",
+          "analyse": "In time it could bring about an equally disruptive glut",
+          "source": "Finance & economics",
+          "url": "https://www.economist.com/finance-and-economics/2026/10/04/the-world-is-facing-an-almighty-lng-crunch",
           "niveau": "moyen"
         },
         {
-          "titre": "The government can take 15% of Social Security benefits to repay student loans. ",
-          "analyse": "Debt among older Americans is rising, both in terms of the number of older households carrying debt and the amount borrowed.",
-          "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/the-government-can-take-15-of-social-security-benefits-to-repay-student-loans-these-proposals-seek-to-stop-it-102622fa?mod=mw_rss_topstories",
+          "titre": "Bartleby newsletter: How to fire a chicken into a jet engine",
+          "analyse": "Andrew Palmer, our Bartleby columnist, reads up on testing regimes",
+          "source": "Business",
+          "url": "https://www.economist.com/business/2026/10/05/bartleby-newsletter-how-to-fire-a-chicken-into-a-jet-engine",
           "niveau": "moyen"
         },
         {
-          "titre": "Falling wages, soaring energy prices and inflation: It’s beginning to look a lot",
-          "analyse": "Is it time to dust off the financial playbook from that dismal decade?",
-          "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/falling-wages-soaring-energy-prices-and-inflation-its-beginning-to-look-a-lot-like-the-1970s-d645cbca?mod=mw_rss_topstories",
+          "titre": "Record labels are in a spin over AI music",
+          "analyse": "Should they fight upstart labs, or co-operate with them?",
+          "source": "Business",
+          "url": "https://www.economist.com/business/2026/10/05/record-labels-are-in-a-spin-over-ai-music",
           "niveau": "moyen"
         },
         {
-          "titre": "My wife never went back to work after raising our kids. Do I have to share my re",
-          "analyse": "“For 14 years I have gotten up every morning and gone to work while she has been free to pursue whatever interested her.”",
+          "titre": "I’m in my 20s and keep getting laid off. Should I invest in my employer’s 401(k)",
+          "analyse": "“I have lost faith that the traditional career spanning decades at one company even exists anymore.”",
           "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/my-wife-never-went-back-to-work-after-raising-our-kids-do-i-have-to-share-my-retirement-savings-50-50-f0727f82?mod=mw_rss_topstories",
+          "url": "https://www.marketwatch.com/story/im-in-my-20s-and-keep-getting-laid-off-should-i-invest-in-my-employers-401-k-or-look-into-other-options-387b34d3?mod=mw_rss_topstories",
           "niveau": "moyen"
         },
         {
-          "titre": "These bond strategies can help you get a safe 5% return on your cash",
-          "analyse": "With U.S. Treasury yields on the rise, financial planners say they’re seeing a growing interest in bonds, especially among investors looking to secure fixed income in retirement.",
+          "titre": "‘People in the U.S. need to wake up’: As a mortgage loan officer, I rejected wea",
+          "analyse": "A reader writes: “We’d better get real quick or we’re going to have a financial crisis that makes the Great Recession of 2008 look like a picnic.”",
           "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/these-bond-strategies-can-help-you-get-a-safe-5-return-on-your-cash-5fa45ccd?mod=mw_rss_topstories",
+          "url": "https://www.marketwatch.com/story/people-in-the-u-s-need-to-wake-up-as-a-mortgage-loan-officer-i-rejected-wealthy-couples-due-to-overspending-were-all-heading-for-trouble-6a52e04e?mod=mw_rss_topstories",
           "niveau": "moyen"
         },
         {
-          "titre": "A tough job market is pushing more young Americans to make a big bet: on themsel",
-          "analyse": "There has been a rise in entrepreneurship among young Americans as the entry-level labor market has become tougher to join.",
+          "titre": "I bought a $126 concert ticket for my sister and now she can’t go. What’s the la",
+          "analyse": "“I’m having trouble accepting that I’ll probably lose some money.”",
           "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/a-tough-job-market-is-pushing-more-young-americans-to-make-a-big-bet-on-themselves-1aaddeca?mod=mw_rss_topstories",
+          "url": "https://www.marketwatch.com/story/i-bought-a-126-concert-ticket-for-my-sister-and-now-she-cant-go-will-i-be-able-to-make-a-profit-selling-the-ticket-1dd5cbe9?mod=mw_rss_topstories",
           "niveau": "moyen"
         },
         {
-          "titre": "Switching jobs to get higher pay works best in these industries",
-          "analyse": "Finding a new job is one way to get a pay increase at a time when inflation has been outpacing wage growth.",
+          "titre": "Intel’s stock drops after Musk hints at an additional partner for big chip ventu",
+          "analyse": "Intel may not be the only semiconductor company tapped to help with chip manufacturing for the Terafab project, as Elon Musk said discussions with TSMC are ongoing.",
           "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/the-best-industry-to-change-jobs-to-get-paid-more-money-and-the-worst-ae33a3a7?mod=mw_rss_topstories",
+          "url": "https://www.marketwatch.com/story/musk-hints-tsmc-may-join-his-mega-chip-venture-and-intels-stock-is-taking-a-hit-61c67ef9?mod=mw_rss_topstories",
           "niveau": "moyen"
         },
         {
-          "titre": "Yemen leader announces major military operations against Iran-backed Houthis",
-          "analyse": "",
-          "source": "All News",
-          "url": "https://www.investing.com/news/commodities-news/head-of-yemens-presidential-council-announces-military-operations-to-retake-territory-4930932",
+          "titre": "I got a $499 body scan to see if I have cancer. Here’s what I learned.",
+          "analyse": "Our healthcare system is designed to diagnose the presence or absence of disease, one organ at a time. That means people have no baseline against which to make broader lifestyle decisions.",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/i-got-a-499-body-scan-to-see-if-i-have-cancer-heres-what-i-learned-09cfca29?mod=mw_rss_topstories",
           "niveau": "moyen"
         }
       ]
@@ -138,31 +138,59 @@
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "Immobilier : Nestenn et l’ESPI renforcent leur partenariat pour favoriser l’alte",
-          "analyse": "Nestenn et l’ESPI étendent leur partenariat aux huit campus français de l’école. L’objectif : faciliter l’alternance en agence et permettre aux étudiants de découvrir les métiers auprès des professionnels.\nCet article Immobilier : Nestenn et l’ESPI renforcent leur partenariat pour favoriser l’altern",
-          "source": "MySweetimmo",
-          "url": "https://www.mysweetimmo.com/2026/10/04/immobilier-nestenn-et-lespi-renforcent-leur-partenariat-pour-favoriser-lalternance/",
+          "titre": "GFI Vatel II : acquisition du Bois de la Coupe pour 530 000 €",
+          "analyse": "Comment le GFI Vatel II renforce sa diversification forestière avec le Bois de la Coupe acquis 530 000 € ? Découvrez les détails",
+          "source": "MeilleureSCPI.com",
+          "url": "https://www.meilleurescpi.com/actualites/le-gfi-vatel-ii-acquiert-le-bois-de-la-coupe-pour-530-000-eur/",
           "niveau": "moyen"
         },
         {
-          "titre": "Immobilier Canada : Guy Hoquet s’installe à Montréal",
-          "analyse": "Ouverte en avril, la première agence québécoise de Guy Hoquet a été inaugurée le 24 septembre. Porté par deux Français expatriés, le projet vise 80 courtiers immobiliers d’ici septembre 2027 et un déploiement au Québec.\nCet article Immobilier Canada : Guy Hoquet s’installe à Montréal est apparu en p",
-          "source": "MySweetimmo",
-          "url": "https://www.mysweetimmo.com/2026/10/04/immobilier-canada-guy-hoquet-sinstalle-a-montreal/",
+          "titre": "SCPI Novaxia NEO : un actif acquis pour 4,5 M€ cédé pour 5,5 M€",
+          "analyse": "Comment la SCPI Novaxia NEO a-t-elle généré une plus-value de 1 M€ sur un actif à La Haye ? Découvrez la stratégie d’arbitrage et ses effets",
+          "source": "MeilleureSCPI.com",
+          "url": "https://www.meilleurescpi.com/actualites/scpi-novaxia-neo-un-actif-acquis-pour-4-5-meur-cede-pour-5-5-meur/",
           "niveau": "moyen"
         },
         {
-          "titre": "Santé mentale : 86 % des entrepreneurs jugent leur travail positif",
-          "analyse": "Selon l’Observatoire iad 2026 du bien-être entrepreneurial, réalisé avec Selvitys, 86 % des entrepreneurs interrogés jugent leur travail positif pour leur santé mentale, contre 60 % des salariés. Autonomie, sens et équilibre de vie occupent une place centrale dans leurs attentes.\nCet article Santé m",
-          "source": "MySweetimmo",
-          "url": "https://www.mysweetimmo.com/2026/10/04/sante-mentale-86-des-entrepreneurs-jugent-leur-travail-positif/",
+          "titre": "SCPI Principal Inside : près de 40 M€ collectés en un an",
+          "analyse": "Comment la SCPI Principal Inside a collecté 40 M€ en 1 an et construit un portefeuille international ? Découvrez les détails",
+          "source": "MeilleureSCPI.com",
+          "url": "https://www.meilleurescpi.com/actualites/scpi-principal-inside-pres-de-40-meur-collectes-en-un-an/",
           "niveau": "moyen"
         },
         {
-          "titre": "Immobilier 3ème trimestre 2026 : Les prix baissent, les acheteurs hésitent",
-          "analyse": "Selon l’étude Foncia Transaction du troisième trimestre 2026, les compromis de vente reculent de 18 % malgré des prix en baisse de 4 %. La raison ? Les acheteurs prennent davantage de temps pour concrétiser leur projet.\nCet article Immobilier 3ème trimestre 2026 : Les prix baissent, les acheteurs hé",
+          "titre": "SCPI : et si Jules Verne avait raison ?",
+          "analyse": "L’histoire des SCPI est l’une des plus étonnantes parmi les placements. D’abord la beauté de l’idée simple : participer, avec une épargne personnelle, à la sécurité et aux revenus d’un grand portefeuille d’immeubles. Ensuite une aventure pleine de rebondissements. Un long chemin, avant d’être reconn",
+          "source": "Pierrepapier.fr",
+          "url": "https://www.pierrepapier.fr/scpi/scpi-jules-verne-avait-raison/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Investir en immobilier : « Ce qui a disparu en 2026, ce n’est pas le rendement, ",
+          "analyse": "Le cash-flow s’est tendu, mais le rendement immobilier n’a pas disparu. Taux, prix, loyers, négociation : Romain Isel, associé fondateur de Montclair, décrypte le marché de l’investissement en 2026.\nCet article Investir en immobilier : « Ce qui a disparu en 2026, ce n&rsquo;est pas le rendement, c&r",
           "source": "MySweetimmo",
-          "url": "https://www.mysweetimmo.com/2026/10/04/immobilier-3eme-trimestre-2026-les-prix-baissent-les-acheteurs-hesitent/",
+          "url": "https://www.mysweetimmo.com/2026/10/05/investir-en-immobilier-ce-qui-a-disparu-en-2026-ce-nest-pas-le-rendement-cest-le-cash-flow/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Agents immobiliers : Transformez vos annonces en vidéos sans montage",
+          "analyse": "Modelo, Cadastre.com et Danim s’associent pour transformer les biens et les données des agents immobiliers en vidéos personnalisées, sans montage ni double saisie. \nCet article Agents immobiliers : Transformez vos annonces en vidéos sans montage est apparu en premier sur MySweetimmo.",
+          "source": "MySweetimmo",
+          "url": "https://www.mysweetimmo.com/2026/10/05/agent-immobilier-transformez-vos-annonces-en-videos-sans-montage/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Immobilier Paris : Les moins de 40 ans prennent le pouvoir",
+          "analyse": "Selon Century 21, les moins de 40 ans et les primo-accédants deviennent majoritaires parmi les acheteurs parisiens. Au troisième trimestre 2026, les ventes progressent de 3,5 % et les prix reculent de 1,6 %.\nCet article Immobilier Paris : Les moins de 40 ans prennent le pouvoir est apparu en premier",
+          "source": "MySweetimmo",
+          "url": "https://www.mysweetimmo.com/2026/10/05/immobilier-a-paris-les-moins-de-40-ans-prennent-le-pouvoir/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "PLF 2027 : Ce qui changerait pour les propriétaires de logements loués meublés",
+          "analyse": "Le PLF 2027 prévoit de plafonner l’amortissement des locations meublées et de supprimer son report. Voici ce qui changerait pour les propriétaires concernés et leurs déductions fiscales.\nCet article PLF 2027 : Ce qui changerait pour les propriétaires de logements loués meublés est apparu en premier ",
+          "source": "MySweetimmo",
+          "url": "https://www.mysweetimmo.com/2026/10/05/plf-2027-ce-qui-changerait-pour-les-proprietaires-de-logements-loues-meubles/",
           "niveau": "moyen"
         }
       ]
@@ -173,59 +201,59 @@
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "Blocages des lycées: Nuñez réfute toute intervention \"disproportionnée\"",
-          "analyse": "Les forces de l&#039;ordre \"ne répriment pas la jeunesse\" mais \"protègent\" élèves et étudiants désireux de \"porter pacifiquement leurs revendications\", a assuré dimanche le ministre de l&#039;Intérieur Laurent...",
+          "titre": "Téléphone au volant: vous risquez désormais jusqu'à 6 mois de suspension du perm",
+          "analyse": "Attention aux mauvaises surprises. Utiliser son téléphone portable au volant expose désormais à la suspension temporaire du permis de conduire sur l&#039;ensemble du territoire, a annoncé la ministre déléguée Marie-Pierre Vedrenne. Et cela entre en application dès le lundi 5 octobre. Les explication",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/depeches/blocages-des-lycees-nunez-refute-toute-intervention-disproportionnee-139406",
+          "url": "https://www.notretemps.com/vie-pratique/voiture/telephone-au-volant-une-nouvelle-sanction-rentre-en-vigueur-partout-en-france-139420",
           "niveau": "moyen"
         },
         {
-          "titre": "Podcasts politiques : l'Arcom réfléchit à \"de nouvelles règles\" avant 2027",
-          "analyse": "Le régulateur de l&#039;audiovisuel (Arcom) envisage de \"nouvelles règles\" pour encadrer les podcasts dans lesquels sont invitées des personnalités politiques, a indiqué son président au jour...",
+          "titre": "Des associations anti-IA appellent à manifester jeudi pour une convention citoye",
+          "analyse": "Des associations et des personnalités préoccupées par le développement \"foudroyant\" de l&#039;intelligence artificielle organisent un rassemblement jeudi pour réclamer la création d&#039;une conve...",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/depeches/podcasts-politiques-l-arcom-reflechit-a-de-nouvelles-regles-avant-2027-139405",
+          "url": "https://www.notretemps.com/depeches/des-associations-anti-ia-appellent-a-manifester-jeudi-pour-une-convention-citoyenne-139438",
           "niveau": "moyen"
         },
         {
-          "titre": "Aidants: voici toutes les aides et solutions qui peuvent vraiment vous soulager ",
-          "analyse": "Devenir l&#039;aidant d&#039;un proche ne signifie pas devoir tout assumer seul. Congés spécifiques, aides à domicile, appui financier et solutions de répit permettent de l&#039;accompagner sans s&#039;épuiser.",
+          "titre": "Habillement: rentrée \"catastrophique\", alertent les grandes enseignes",
+          "analyse": "Pénalisé par les fortes chaleurs et l&#039;inflation, le marché de l&#039;habillement a connu une rentrée \"catastrophique\", avec des ventes en chute de 17,6% le mois dernier sur un an, mettant les...",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/droit-argent/demarches-administratives/aidants-ces-aides-et-solutions-qui-peuvent-vraiment-vous-soulager-au-quotidien-138202",
+          "url": "https://www.notretemps.com/depeches/habillement-rentree-catastrophique-alertent-les-grandes-enseignes-139437",
           "niveau": "moyen"
         },
         {
-          "titre": "Quelles sont les expos et spectacles à voir absolument en octobre partout en Fra",
-          "analyse": "Envie d&#039;une sortie culturelle cet automne? Grandes expositions, chefs-d&#039;œuvre de musée et spectacles grand format: notre sélection musarde de Toulouse à Versailles en passant par Paris, Roubaix et la Gironde.",
+          "titre": "Un lycéen gravement blessé à la veille d'un \"acte III\" mardi",
+          "analyse": "A la veille d&#039;un acte III du mouvement lycéen auquel se joindront mardi des syndicats, la mobilisation est restée forte lundi en France avec des centaines d&#039;établissements fermés et plusieurs incident...",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/loisirs/musees/quelles-sont-les-expos-et-spectacles-a-voir-absolument-en-octobre-partout-en-france-137055",
+          "url": "https://www.notretemps.com/depeches/un-lyceen-gravement-blesse-a-la-veille-d-un-acte-iii-mardi-139411",
           "niveau": "moyen"
         },
         {
-          "titre": "Peut-on faire une cure thermale en cas de maladies cardio-artérielles?",
-          "analyse": "Encadrée médicalement, la cure thermale dédiée aux affections cardio-artérielles aide à apaiser les tensions du cœur et à relancer la circulation. Le Dr Denis Hours, médecin thermal aux Thermes de Bourbon-Lancy, nous éclaire.",
+          "titre": "Messageries chiffrées : un rapport préconise l'abandon d'un article de la loi \"r",
+          "analyse": "Le rapport de l&#039;ex-député Florent Boudié, chargé de démêler un imbroglio politique sur les messageries chiffrées, recommande d&#039;abandonner l&#039;article d&#039;un projet de loi qui pourrait entrav...",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/sante-bien-etre/prevention/quels-sont-les-bienfaits-d-une-cure-thermale-en-cas-de-maladies-cardio-arterielles-125675",
+          "url": "https://www.notretemps.com/depeches/messageries-chiffrees-un-rapport-preconise-l-abandon-d-un-article-de-la-loi-resilience-risque-pour-le-renseignement-139435",
           "niveau": "moyen"
         },
         {
-          "titre": "Vieillissement: la science identifie deux âges clefs où notre corps change bruta",
-          "analyse": "Le vieillissement ne serait pas un processus continu. Selon une étude américaine publiée dans Nature Aging, notre organisme connaîtrait deux périodes de transformations biologiques majeures, autour de 44 ans, puis de 60 ans. Explications.",
+          "titre": "Migrations : deux nouveaux morts dans une tentative de traversée de la Manche",
+          "analyse": "Deux hommes ont péri à bord d&#039;un canot surchargé lors d&#039;une tentative de traversée clandestine de la Manche dans la nuit de dimanche à lundi au large de Berck-sur-Mer (Pas-de-Calais), selon les autori...",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/sante-bien-etre/medecine/vieillissement-la-science-identifie-deux-ages-clefs-ou-notre-corps-change-brutalement-139195",
+          "url": "https://www.notretemps.com/depeches/migrations-deux-nouveaux-morts-dans-une-tentative-de-traversee-de-la-manche-139434",
           "niveau": "moyen"
         },
         {
-          "titre": "Quiz féminin/masculin: dit-on un ou une? Révisez votre grammaire avec ces 10 mot",
-          "analyse": "On dit un ou une neurone, un ou une scolopendre? Saurez-vous choisir le bon genre pour ces 10 mots? A vous de jouer!",
+          "titre": "Quels sont les cinq facteurs déterminants d'un syndrome métabolique?",
+          "analyse": "Si le métabolisme, c&#039;est la vie, le dérèglement de son équilibre expose à bien des risques pour la santé. On parle alors de syndrome métabolique. Qu&#039;est-ce que c&#039;est? Et comment savoir où nous en sommes sur l&#039;échelle des risques?",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/loisirs/langue-francaise/quiz-femininmasculin-dit-on-un-ou-une-revisez-votre-grammaire-avec-ces-10-mots-138945",
+          "url": "https://www.notretemps.com/sante-bien-etre/nutrition/quels-sont-les-cinq-facteurs-determinants-d-un-syndrome-metabolique-136807",
           "niveau": "moyen"
         },
         {
-          "titre": "Un dernier débat pour départager les candidats de la primaire de la gauche",
-          "analyse": "Qui réussira à s&#039;imposer? A quelques jours du premier tour, les cinq candidats de la primaire de la gauche sociale-démocrate s&#039;affrontent dimanche lors d&#039;un dernier débat télévisé pour tenter de se dé...",
+          "titre": "Migrations : deux morts dans une tentative de traversée de la Manche",
+          "analyse": "Deux hommes ont péri lors d&#039;une tentative de traversée clandestine de la Manche dans la nuit de dimanche à lundi au large de Berck-sur-Mer (Pas-de-Calais), selon les autorités françaises, confirmant d...",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/depeches/un-dernier-debat-pour-departager-les-candidats-de-la-primaire-de-la-gauche-139404",
+          "url": "https://www.notretemps.com/depeches/migrations-deux-morts-dans-une-tentative-de-traversee-de-la-manche-139415",
           "niveau": "moyen"
         }
       ]
@@ -236,10 +264,164 @@
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "Effet de levier immobilier : il ne crée pas de valeur seul",
-          "analyse": "Comprendre pourquoi l&#8217;effet de levier ne crée pas, à lui seul, de valeur dans un investissement locatif. Et savoir repérer, chiffres en main, les conditions dans lesquelles il en crée vraiment en 2026. L&#8217;effet de levier ne crée rien : il multiplie un écart. « Dans l&#8217;immobilier, on ",
-          "source": "Epargnant 3.0",
-          "url": "https://www.epargnant30.fr/effet-de-levier-immobilier/",
+          "titre": "ESMA veut réguler les passerelles DeFi et le staking — MiCA 2 prend forme",
+          "analyse": "Le 30 septembre 2026, l&rsquo;ESMA a transmis à la Commission européenne ses recommandations pour la révision de MiCA. Le régulateur des marchés financiers de l&rsquo;UE ne se contente pas d&rsquo;ajustements techniques : il propose de créer une nouvelle catégorie réglementée pour les entreprises qu",
+          "source": "Finyear",
+          "url": "https://finyear.com/esma-veut-reguler-les-passerelles-defi-et-le-staking-mica-2-prend-forme/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Ondo Finance lance 7 portefeuilles tokenisés dont 3 signés BlackRock — disponibl",
+          "analyse": "Le 24 septembre, Ondo Finance a lancé une nouvelle catégorie de produits on-chain : des portefeuilles d&rsquo;investissement entiers, packagés dans un seul token transférable. Trois d&rsquo;entre eux utilisent des stratégies développées par BlackRock spécifiquement pour Ondo. Le 1er octobre, quatre ",
+          "source": "Finyear",
+          "url": "https://finyear.com/ondo-finance-lance-7-portefeuilles-tokenises-dont-3-signes-blackrock-disponibles-en-defi/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Tibi 3 poursuit son déploiement",
+          "analyse": "Douze nouveaux fonds d’investissement en non coté ont reçu le label Tibi le 30 septembre dernier.",
+          "source": "PE Magazine",
+          "url": "https://www.pemagazine.fr/tibi-3-poursuit-son-deploiement/",
+          "niveau": "moyen"
+        }
+      ]
+    },
+    {
+      "titre": "Reglementation",
+      "icone": "📋",
+      "niveau_global": "moyen",
+      "items": [
+        {
+          "titre": "FLASH : Le collège de déontologie des magistrats rend un avis sur la liberté d’e",
+          "analyse": "Dans un avis dat&#233; du 18 septembre, mais diffus&#233; seulement aujourd&#8217;hui, le Coll&#232;ge de d&#233;ontologie des magistrats de l&#8217;ordre judiciaire estime qu&#8217;un magistrat porte atteinte &#224; son devoir de r&#233;serve, &#224; son impartialit&#233; et &#224; l&#8217;image de",
+          "source": "Actu-Juridique",
+          "url": "https://www.actu-juridique.fr/professions/magistrats/flash-le-college-de-deontologie-des-magistrats-rend-un-avis-sur-la-liberte-dexpression-et-lapparence-dimpartialite/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Colère des lycéens : deux visions de la magistrature s’affrontent en marge des v",
+          "analyse": "Vendredi dernier, le Syndicat de la magistrature a publi&#233; un communiqu&#233; d&#233;non&#231;ant la r&#233;pression du mouvement lyc&#233;en ainsi que les consignes de fermet&#233; du ministre de la Justice. Dimanche, Unit&#233; Magistrats FO a r&#233;pondu &#224; ses coll&#232;gues. &#171; Ces",
+          "source": "Actu-Juridique",
+          "url": "https://www.actu-juridique.fr/justice/justice-justice/colere-des-lyceens-deux-visions-de-la-magistrature-saffrontent-en-marge-des-violences/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "L’accès dérogatoire à la profession d’avocat pour les juristes d’entreprise",
+          "analyse": "Les voies d&#233;rogatoires d&#8217;acc&#232;s &#224; la profession d&#8217;avocat demeurent mal identifi&#233;es. Le 3&#176; de l&#8217;article 98 du d&#233;cret du 27 novembre 1991 en ouvre pourtant une aux juristes d&#8217;entreprise justifiant de huit ann&#233;es de pratique professionnelle au s",
+          "source": "Actu-Juridique",
+          "url": "https://www.actu-juridique.fr/professions/lacces-derogatoire-a-la-profession-davocat-pour-les-juristes-dentreprise/",
+          "niveau": "moyen"
+        }
+      ]
+    },
+    {
+      "titre": "ESG",
+      "icone": "🌱",
+      "niveau_global": "moyen",
+      "items": [
+        {
+          "titre": "Bruxelles sur le point de déréguler un pilier de la protection de l'eau en Europ",
+          "analyse": "L'industrie minière pousse depuis des années pour un assouplissement de la directive-cadre sur l'eau. @ Picas Joe/Pexels\nLa goutte de trop ? Après les règles de durabilité appliquées aux entreprises, les produits chimiques ou encore les pesticides, la Commission européenne entend également s’attaque",
+          "source": "Novethic",
+          "url": "https://www.novethic.fr/environnement/biodiversite/bruxelles-sur-le-point-de-dereguler-un-pilier-de-la-protection-de-leau-en-europe",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Face aux événements climatiques, les obligations catastrophes ont le vent en pou",
+          "analyse": "Les émissions d'obligations catastrophes ont atteint 18 milliards de dollars au premier semestre 2026. @Pixabay\nLes obligations catastrophes volent de record en record. Les émissions de \"cat bonds\" ont atteint 11,3 milliards de dollars au deuxième trimestre de l’année, avec 48 opérations, soit le tr",
+          "source": "Novethic",
+          "url": "https://www.novethic.fr/finance-durable/finance-verte/face-evenements-climatiques-obligations-catastrophes-vent-poupe",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Climat : Stellantis, Schneider Electric et Sanofi perdent leur position de leade",
+          "analyse": "Le palmarès climat du CAC40 2026, réalisé par les Ateliers du futur, révèle que seulement 9 groupes sur 40 obtiennent une note d’au moins 7/10. @Szcze Hoo /Pexels\nSanofi, Schneider Electric et Stellantis, trio de tête dans le palmarès des trajectoires climat du CAC40 en 2025, se retrouvent cette ann",
+          "source": "Novethic",
+          "url": "https://www.novethic.fr/environnement/climat/climat-stellantis-schneider-electric-et-sanofi-perdent-leur-position-de-leader-au-sein-du-cac40",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "« Les énergo-intensifs vont vraiment écrêter en 2027 » [Marchés]",
+          "analyse": "La semaine dernière, le prix de l’électricité a progressé plus vite en France qu’en Allemagne. La faute au nucléaire et à l’hydraulique, particulièrement indisponibles du fait de la sécheresse. La France a même été\nL’article « Les énergo-intensifs vont vraiment écrêter en 2027 » [Marchés] est apparu",
+          "source": "GreenUnivers",
+          "url": "https://www.greenunivers.com/2026/10/les-energo-intensifs-vont-vraiment-ecreter-en-2027-marches-434982/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "D’importantes transactions à venir dans la petite hydroélectricité",
+          "analyse": "« Je n’ai pas vu de mouvement comme cela depuis 2022 », assure Antoine Guibert. Ce spécialiste des transactions dans la petite et moyenne hydroélectricité, co-fondateur du cabinet Envinergy, évoque les opérations bouclées et en cours dans son domaine. Il vient de\nL’article D&rsquo;importantes transa",
+          "source": "GreenUnivers",
+          "url": "https://www.greenunivers.com/2026/10/dimportantes-transactions-a-venir-dans-la-petite-hydroelectricite-434984/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Enervivo, Épopée Gestion et Urbeez s’associent pour investir dans le biométhane",
+          "analyse": "Quelques semaines après la recharge électrique des poids-lourds, la société d&#8217;investissement Epopée Gestion se tourne vers la méthanisation. Elle fait équipe avec Urbeez et Enervivo pour financer « une\nL’article Enervivo, Épopée Gestion et Urbeez s&rsquo;associent pour investir dans le biométh",
+          "source": "GreenUnivers",
+          "url": "https://www.greenunivers.com/2026/10/enervivo-epopee-gestion-et-urbeez-sassocient-pour-investir-dans-le-biomethane-434705/",
+          "niveau": "moyen"
+        }
+      ]
+    },
+    {
+      "titre": "Fintech",
+      "icone": "📰",
+      "niveau_global": "moyen",
+      "items": [
+        {
+          "titre": "La Cour des comptes estime que la vente de participations de la Caisse des dépôt",
+          "analyse": "L'institution recommande de céder certains actifs de la Caisse des dépôts pour soutenir les finances de l'Etat, en recentrant sa stratégie d'investissement.",
+          "source": "JDN : Derniers contenus",
+          "url": "https://www.journaldunet.com/business/action-publique/1555825-la-cour-des-comptes-estime-que-la-vente-de-participations-de-la-caisse-des-depots-pourrait-contribuer-au-redressement-des-finances-publiques/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "IA : comment j'ai recruté un employé virtuel avec Delos",
+          "analyse": "La scale-up parisienne promet des collaborateurs IA à onboarder comme des humains. Nous avons confié à Lucia, journaliste IA, la veille et la rédaction d'articles.",
+          "source": "JDN : Derniers contenus",
+          "url": "https://www.journaldunet.com/intelligence-artificielle/1555809-ia-comment-j-ai-recrute-un-employe-virtuel-avec-delos/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Sécurité de l'IA : la posture défensive n'a plus sa place",
+          "analyse": "Face à des cyberattaques amplifiées par l'IA, les entreprises doivent dépasser la posture défensive et adopter une sécurité proactive, automatisée et pilotée par l'ingénierie.",
+          "source": "JDN : Derniers contenus",
+          "url": "https://www.journaldunet.com/cybersecurite/1555695-securite-de-l-ia-la-posture-defensive-n-a-plus-sa-place/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Le camp de Raphaël Glucksmann rejette la proposition de coalition de Gabriel Att",
+          "analyse": "Les soutiens de Raphaël Glucksmann ferment la porte à toute alliance avec Gabriel Attal, refusant une coalition entre gauche sociale-démocrate et majorité présidentielle.",
+          "source": "JDN : Derniers contenus",
+          "url": "https://www.journaldunet.com/business/action-publique/1555791-le-camp-de-raphael-glucksmann-rejette-la-proposition-de-coalition-de-gabriel-attal-pour-la-presidentielle-de-2027/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Renault conditionne plus de 10 milliards d'euros d'investissements en France à l",
+          "analyse": "Le constructeur lie son engagement à la situation du pays, alors que la préparation du budget 2027 s'accompagne d'une forte incertitude.",
+          "source": "JDN : Derniers contenus",
+          "url": "https://www.journaldunet.com/economie/industrie/1555789-renault-conditionne-plus-de-10-milliards-d-euros-d-investissements-en-france-a-la-stabilite-politique-et-sociale/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "\"Les prestations technologiques vendues par Ouest-France avoisinent déjà les 5 m",
+          "analyse": "Plateforme numérique, outil de captation d'infos locales ou de gestion de newsletters… Fabrice Bazard, directeur général d'Ouest-France, mise sur les prestations technologiques pour se diversifier.",
+          "source": "JDN : Derniers contenus",
+          "url": "https://www.journaldunet.com/publishers/1555593-les-prestations-vendues-par-ouest-france-avoisinent-deja-les-5-millions-d-euros/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Les Etats-Unis poursuivent leur offensive en Arctique",
+          "analyse": "Le chef de la diplomatie américaine Marco Rubio se rend lundi en Islande, dans le sillage de l'accord de sécurité sur le Groenland, pour renforcer la coopération économique et sécuritaire.",
+          "source": "JDN : Derniers contenus",
+          "url": "https://www.journaldunet.com/business/action-publique/1555785-les-etats-unis-poursuivent-leur-offensive-en-arctique/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Primaire socialiste : Olivier Faure estime que \"100 000 votants, ça serait un su",
+          "analyse": "Olivier Faure, candidat et premier secrétaire du PS, affirme qu'une participation de 100 000 votants à la primaire socialiste constituerait un succès à l'approche du premier tour.",
+          "source": "JDN : Derniers contenus",
+          "url": "https://www.journaldunet.com/business/action-publique/1555783-primaire-socialiste-olivier-faure-estime-qu-100-000-votants-ca-serait-un-succes/",
           "niveau": "moyen"
         }
       ]
