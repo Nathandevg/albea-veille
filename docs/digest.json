@@ -1,8 +1,8 @@
 {
-  "date_fr": "Wednesday 14 October 2026",
-  "compte_articles": 213,
+  "date_fr": "Thursday 15 October 2026",
+  "compte_articles": 250,
   "compte_forts": 0,
-  "compte_moyens": 213,
+  "compte_moyens": 250,
   "synthese_jour": "Synthese IA non disponible (fallback). Consultez les articles ci-dessous.",
   "chiffres_cles": [],
   "sections": [
@@ -12,59 +12,59 @@
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "« On veut servir de catapulte au mouvement lycéen » : la mobilisation prend de l",
-          "analyse": "Les étudiants des établissements d’élite ont rejoint le mouvement lycéen début octobre. Même si leurs conditions d’études sont favorables, ils se disent solidaires des revendications.",
+          "titre": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky demande aux Etats-Unis de ne p",
+          "analyse": "Le président ukrainien a réclamé de l’« honnêteté » à ses alliés dans la guerre contre la Russie, sur fond de regain de tension avec les Américains.",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/campus/article/2026/10/14/je-suis-une-privilegiee-mais-je-revendique-un-systeme-plus-egalitaire-le-mouvement-lyceen-inspire-les-etudiants-des-grandes-ecoles_6793711_4401467.html",
+          "url": "https://www.lemonde.fr/international/live/2026/10/15/en-direct-guerre-en-ukraine-volodymyr-zelensky-demande-aux-etats-unis-de-ne-pas-se-tenir-au-cote-de-l-agresseur_6791198_3210.html",
           "niveau": "moyen"
         },
         {
-          "titre": "L’usine Duralex aux verres iconiques reprise par Tomé, déjà propriétaire de Tupp",
-          "analyse": "Le tribunal de commerce d’Orléans a choisi, mercredi, la mieux-disante des deux offres industrielle pour la cession de l’entreprise placée en redressement judiciaire depuis juin, deux ans après avoir été reprise en SCOP par ses salariés. Seuls 155 de ses 220 salariés pourront conserver leur emploi.",
+          "titre": "Une jeune Marseillaise soupçonnée d’un double meurtre à Ivry-sur-Seine, signe de",
+          "analyse": "Deux hommes, dont l’un était connu pour des faits liés aux stupéfiants, ont été abattus lundi 12 octobre dans un bar à chicha. Placée en garde à vue à la brigade criminelle de Paris, une Marseillaise de 29 ans est suspectée d’être la tireuse, soulevant la question de l’évolution du rôle des femmes d",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/10/14/l-usine-duralex-aux-verres-iconiques-reprise-par-tome-deja-proprietaire-de-tupperware-france_6793735_3234.html",
+          "url": "https://www.lemonde.fr/societe/article/2026/10/15/une-jeune-femme-soupconnee-d-un-double-meurtre-a-ivry-sur-seine-signe-de-l-implication-croissante-des-femmes-dans-le-crime-organise_6794319_3224.html",
           "niveau": "moyen"
         },
         {
-          "titre": "EN DIRECT, guerre en Ukraine : les trois centrales thermiques de Kiev ciblées pa",
-          "analyse": "Volodymyr Zelensky a dénoncé « une démonstration de mépris de la part de la Russie envers l’Amérique » inédite.",
+          "titre": "Mouvement lycéen : Edouard Geffray, ministre de l’éducation nationale, reçoit le",
+          "analyse": "A l’issue de la précédente réunion, le 8 octobre, les associations Les Lycéens ! et l’Union syndicale lycéenne s’étaient dites insatisfaites et avaient appelé à la poursuite des actions.",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/international/live/2026/10/14/en-direct-guerre-en-ukraine-les-trois-centrales-thermiques-de-kiev-ciblees-par-la-russie-cette-nuit-malgre-l-appel-au-cessez-le-feu-de-donald-trump_6791198_3210.html",
+          "url": "https://www.lemonde.fr/societe/article/2026/10/15/mouvement-lyceen-edouard-geffray-ministre-de-l-education-nationale-recoit-les-organisations-lyceennes-ce-jeudi_6794358_3224.html",
           "niveau": "moyen"
         },
         {
-          "titre": "Les collectivités mènent une offensive judiciaire contre les meublés touristique",
-          "analyse": "Marseille et Paris ont communiqué récemment sur des amendes aux montants exceptionnels prononcées contre des propriétaires louant illégalement leur logement sur des plateformes en ligne. Une politique qui porte localement ses fruits, même si, dans l’ensemble du pays, les offres sur des sites comme A",
+          "titre": "Les créanciers des activités internationales de Patrick Drahi dans les télécoms ",
+          "analyse": "Inquiets de ne pas être remboursés, plusieurs fonds d’investissement, qui ont prêté des milliards d’euros à l’homme d’affaires franco-israélien pour ses opérateurs en Europe comme aux Etats-Unis, ont récemment porté plainte.",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/societe/article/2026/10/14/logement-les-collectivites-menent-une-offensive-judiciaire-contre-les-meubles-touristiques-de-type-airbnb_6793677_3224.html",
+          "url": "https://www.lemonde.fr/economie/article/2026/10/15/les-creanciers-des-activites-internationales-de-patrick-drahi-dans-les-telecoms-l-attaquent-en-justice_6794432_3234.html",
           "niveau": "moyen"
         },
         {
-          "titre": "Aubagne : l’adolescent de 14 ans reconnaît les faits, mais conteste « avoir voul",
-          "analyse": "Le suspect a invoqué une « volonté de vengeance en raison d’un harcèlement des professeurs et de ses camarades » non corroboré à ce stade. Il est présenté mercredi à trois juges d’instruction du Parquet national antiterroriste.",
+          "titre": "Malgré les scandales, le président de la FIFA, Gianni Infantino, joue son va-tou",
+          "analyse": "Le patron fragilisé de la Fédération internationale de football a proposé, lors de la réunion de son conseil organisée jeudi, de modifier les procédures disciplinaires de l’instance après l’« affaire Balogun », ainsi qu’un plan de développement de plus de 6 milliards de dollars distribués aux fédéra",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/societe/article/2026/10/14/aubagne-l-adolescent-de-14-ans-reconnait-les-faits-mais-conteste-avoir-voulu-tuer-les-personnes-ciblees_6793727_3224.html",
+          "url": "https://www.lemonde.fr/sport/article/2026/10/15/malgre-les-scandales-le-president-de-la-fifa-gianni-infantino-joue-son-va-tout-et-mise-sur-le-clientelisme_6794393_3242.html",
           "niveau": "moyen"
         },
         {
-          "titre": "A Bruxelles, les pays « frugaux » sont à l’offensive pour rétrécir le budget eur",
-          "analyse": "Emmenés par l’Allemagne, les six pays les plus opposés à une augmentation du budget communautaire comptent faire entendre leurs arguments lors de la réunion des chefs d’Etat et de gouvernement européens, prévue les 15 et 16 octobre. La discussion avec les « amis de la cohésion », du camp d’en face, ",
+          "titre": "Les principales idées reçues sur les fonctionnaires, trop nombreux, trop absents",
+          "analyse": "L’édition 2026 du « rapport annuel sur l’état de la fonction publique », publié jeudi, établit que, sur plusieurs points, les écarts entre secteur public et secteur privé sont quasiment inexistants, alors même que certaines approximations alimentent les débats à l’approche de la présidentielle.",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/international/article/2026/10/14/a-bruxelles-les-frugaux-sont-a-l-offensive-pour-retrecir-le-budget-europeen_6793636_3210.html",
+          "url": "https://www.lemonde.fr/politique/article/2026/10/15/fonction-publique-un-rapport-de-reference-dement-les-principales-idees-recues_6794429_823448.html",
           "niveau": "moyen"
         },
         {
-          "titre": "« Les futurs incidents seront bien plus dommageables » : plus de 200 chercheurs ",
-          "analyse": "Cette lettre paraît après une série d’incidents au cours desquels des IA d’OpenAI, d’Anthropic et de Meta sont sorties de leur milieu confiné pour pirater d’autres organisations.",
+          "titre": "La cour d’appel de Paris inquiète après des attaques contre un magistrat de Bobi",
+          "analyse": "Le magistrat Youssef Badr, comme deux autres collègues, est visé par des attaques sur les réseaux sociaux depuis la condamnation, en juin, du fondateur du média identitaire Frontières, Erik Tegnér.",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/pixels/article/2026/10/14/ia-plus-de-200-chercheurs-reclament-des-changements-immediats-pour-prevenir-des-incidents-majeurs_6793717_4408996.html",
+          "url": "https://www.lemonde.fr/societe/article/2026/10/15/la-cour-d-appel-de-paris-inquiete-apres-des-attaques-contre-un-magistrat-de-bobigny_6794438_3224.html",
           "niveau": "moyen"
         },
         {
-          "titre": "« Une dame a contracté 60 crédits à la consommation sans que personne l’arrête »",
-          "analyse": "Le nombre de dossiers de surendettement a augmenté de 11 % sur les neuf premiers mois de l’année par rapport à la même période de l’année 2025. Les créances des personnes concernées prennent des formes variées : prêts personnels, paiements fractionnés, découverts, minicrédits…",
+          "titre": "Plan de relance agricole : entre 500 et 700 millions d’euros annoncés par Sébast",
+          "analyse": "Au début septembre, quelque 1,2 milliard d’euros ont déjà été débloqués pour aider un secteur touché par les canicules à répétition mais aussi l’augmentation du prix des carburants.",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/10/14/une-dame-a-contracte-60-credits-a-la-consommation-sans-que-personne-l-arrete-toujours-plus-de-francais-frappes-par-le-surendettement_6793397_3234.html",
+          "url": "https://www.lemonde.fr/politique/article/2026/10/15/plan-de-relance-agricole-entre-500-et-700-millions-d-euros-annonces-par-sebastien-lecornu_6794441_823448.html",
           "niveau": "moyen"
         }
       ]
@@ -75,59 +75,59 @@
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "How to lose money betting against Europe",
-          "analyse": "In a sovereign-debt crisis, even understanding politics may not be enough",
+          "titre": "How Ukraine’s biggest bank is run in a war zone",
+          "analyse": "PrivatBank is a case study in adaptation",
           "source": "Finance & economics",
-          "url": "https://www.economist.com/finance-and-economics/2026/10/13/how-to-lose-money-betting-against-europe",
+          "url": "https://www.economist.com/finance-and-economics/2026/10/15/how-ukraines-biggest-bank-is-run-in-a-war-zone",
           "niveau": "moyen"
         },
         {
-          "titre": "Elon Musk's foundation is opaque, miserly and self-serving",
-          "analyse": "The world’s richest man disdains charity. His money is where his mouth is",
+          "titre": "Another warning sign for China’s economy: falling consumer credit",
+          "analyse": "A crackdown on aggressive debt collectors is good news and bad news",
+          "source": "Finance & economics",
+          "url": "https://www.economist.com/finance-and-economics/2026/10/14/another-warning-sign-for-chinas-economy-falling-consumer-credit",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Is the semiconductor industry headed for an almighty crash?",
+          "analyse": "There are reasons to believe a bust, if it comes, will be less vertiginous than the boom",
           "source": "Business",
-          "url": "https://www.economist.com/business/2026/10/13/elon-musks-foundation-is-opaque-miserly-and-self-serving",
+          "url": "https://www.economist.com/business/2026/10/15/is-the-semiconductor-industry-headed-for-an-almighty-crash",
           "niveau": "moyen"
         },
         {
-          "titre": "My sister moved in with our mother, 78, and now says she deserves the $925,000 f",
-          "analyse": "“The house is worth $925,000 and mom owns it outright. She also has $480,000 in investments.”",
-          "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/my-sister-moved-in-with-our-widowed-mother-78-and-says-she-deserves-the-family-home-is-she-right-7981835d?mod=mw_rss_topstories",
+          "titre": "The AI boom is threatened by an epidemic of unreliable numbers",
+          "analyse": "Investors can no longer put their trust in data",
+          "source": "Business",
+          "url": "https://www.economist.com/business/2026/10/14/the-ai-boom-is-threatened-by-an-epidemic-of-unreliable-numbers",
           "niveau": "moyen"
         },
         {
-          "titre": "Charles Schwab and DoorDash ranked among bargain stocks that could lead the mark",
-          "analyse": "Third-quarter earnings growth is expected to be driven by energy and semiconductor companies, but what if the rest of the market shows up? HSBC envisages a stock market finally broadening out.",
+          "titre": "There’s a ‘monstrous bull market’ developing under the surface of the S&P 500. T",
+          "analyse": "The index may not move much because the stocks with the biggest weightings lag, but there’s a bull market starting to bubble elsewhere, says a hedge-fund manager.",
           "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/from-charles-schwab-to-doordash-why-these-bargain-stocks-could-lead-the-market-higher-4d99fb97?mod=mw_rss_topstories",
+          "url": "https://www.marketwatch.com/story/theres-a-monstrous-bull-market-developing-under-the-surface-of-the-s-p-500-this-hedge-fund-manager-tells-you-where-its-at-98450ef4?mod=mw_rss_topstories",
           "niveau": "moyen"
         },
         {
-          "titre": "What analysts are watching with key semiconductor maker TSMC set to report resul",
-          "analyse": "Analysts at JPMorgan and Citigroup see further revenue growth for the semiconductor foundry, even after already posting a record-breaking figure for the third quarter.",
+          "titre": "This 30-year market veteran is alarmed by a record-chasing S&P 500. Here’s where",
+          "analyse": "Steven Jon Kaplan sees a completely irrational stock market right now, and investors ignoring a perfectly safe way to play that.",
           "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/what-analysts-are-watching-with-key-semiconductor-maker-tsmc-set-to-report-results-c161e86b?mod=mw_rss_topstories",
+          "url": "https://www.marketwatch.com/story/this-30-year-market-veteran-is-alarmed-by-a-near-record-s-p-500-heres-where-hes-investing-instead-c6611143?mod=mw_rss_topstories",
           "niveau": "moyen"
         },
         {
-          "titre": "Bank of America adds a profit miss to the misery of a $1.2 billion government fi",
-          "analyse": "Bank of America’s stock falls as investor disappointment over the $1.2 billion government fine added to the bank’s downbeat earnings report.",
+          "titre": "CoreWeave’s AI bonds tumble, raising red flags for the wider market",
+          "analyse": "CoreWeave’s bonds issued a few months ago fell to 81 cents on the dollar earlier Wednesday, yielding more than 15%.",
           "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/bank-of-america-adds-a-profit-miss-to-the-misery-of-a-1-2-billion-government-fine-d4420bfa?mod=mw_rss_topstories",
+          "url": "https://www.marketwatch.com/story/coreweave-sparks-worry-about-broader-credit-market-stress-as-its-bonds-tumble-887458e4?mod=mw_rss_topstories",
           "niveau": "moyen"
         },
         {
-          "titre": "Here’s how much the AI boom is really contributing to inflation, according to Go",
-          "analyse": "Goldman believes the core inflation rate will revert toward the Fed’s 2% target in 2027.",
+          "titre": "‘Some people did everything right’: I lost my home in the Great Recession. I ren",
+          "analyse": "”I earn $110,000 a year.”",
           "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/heres-how-much-the-ai-boom-is-contributing-to-inflation-according-to-goldman-sachs-calculations-5ec717ff?mod=mw_rss_topstories",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "‘I am a pretty cautious person’: My financial adviser wants me to invest $350,00",
-          "analyse": "“I like my life, but I also like the idea of a big return after years of putting money into my 401(k).”",
-          "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/the-prospectus-looks-impressive-my-financial-adviser-wants-me-to-invest-350-000-in-a-uae-data-center-is-this-risky-d5d3747c?mod=mw_rss_topstories",
+          "url": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
           "niveau": "moyen"
         }
       ]
@@ -138,52 +138,59 @@
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "SCPI thématiques ou diversifiées : comment trancher ?",
-          "analyse": "SCPI thématiques ou diversifiées pour structurer une stratégie immobilière ? Découvrir comment conviction et diversification peuvent s’articuler. Explorer.",
+          "titre": "La SCPI Telamon Borea acquiert un actif industriel à Frontonas",
+          "analyse": "Quel est le profil de l’actif acquis à Frontonas ? Surface, bail et rendement éclairent les caractéristiques de l’opération.",
           "source": "MeilleureSCPI.com",
-          "url": "https://www.meilleurescpi.com/actualites/scpi-thematiques-ou-diversifiees-faut-il-encore-choisir/",
+          "url": "https://www.meilleurescpi.com/actualites/scpi-telamon-borea-un-actif-industriel-de-plus-de-3-400-m2-acquis-a-frontonas/",
           "niveau": "moyen"
         },
         {
-          "titre": "SCPI Remake UK 2025 : une troisième acquisition au cœur de Londres",
-          "analyse": "Comment Remake UK 2025 déploie-t-elle sa collecte à Londres ? Les données clés de l’actif du Strand éclairent cette troisième acquisition.",
+          "titre": "GFI Vatel : la forêt de Peyrilhac face aux canicules de l'été 2026",
+          "analyse": "Comment la forêt de Peyrilhac a-t-elle résisté aux canicules ? Le point détaille l’état des peuplements, les coupes et les prochaines étapes.",
           "source": "MeilleureSCPI.com",
-          "url": "https://www.meilleurescpi.com/actualites/scpi-remake-uk-une-troisieme-acquisition-au-coeur-de-londres/",
+          "url": "https://www.meilleurescpi.com/actualites/gfi-vatel-la-foret-de-peyrilhac-resiste-aux-canicules/",
           "niveau": "moyen"
         },
         {
-          "titre": "Cœur de Régions acquiert un actif commercial loué à B&M à Sens",
-          "analyse": "Comment cette acquisition renforce-t-elle Cœur de Régions ? Surface, locataire et accessibilité éclairent les caractéristiques de l’actif.",
+          "titre": "Amundi Immobilier : THE CROWN, 10 577 m² de bureaux cédés à Nice",
+          "analyse": "Quels éléments caractérisent la cession de THE CROWN à Nice ? Surface, occupation et calendrier éclairent les enjeux de cette opération.",
           "source": "MeilleureSCPI.com",
-          "url": "https://www.meilleurescpi.com/actualites/scpi-coeur-de-regions-b-m-au-coeur-d-une-nouvelle-acquisition/",
+          "url": "https://www.meilleurescpi.com/actualites/amundi-immobilier-the-crown-10-577-m2-de-bureaux-cedes-a-nice/",
           "niveau": "moyen"
         },
         {
-          "titre": "OPCI : quelles performances, quelles collectes au 2T 2026 ?",
+          "titre": "OPCI : quelles performances, quelles collectes au 2T 2026 (suite…) ?",
           "analyse": "Les OPCI grand public repassent -tout juste- dans le vert au 30 juin 2026, avec une performance de +0,04 % depuis le début de l&#8217;année. Une embellie portée par une décollecte qui fond, et par une poignée de véhicules en net progrès. Mais l&#8217;écart entre les premiers et les derniers ne cesse",
           "source": "Pierrepapier.fr",
-          "url": "https://www.pierrepapier.fr/opci/opci-quelles-performances-quelles-collectes-au-2t-2026-part-one/",
+          "url": "https://www.pierrepapier.fr/opci/opci-quelles-performances-quelles-collectes-au-2t-2026-part-two/",
           "niveau": "moyen"
         },
         {
-          "titre": "Rachat de Stéphane Plaza Immobilier : « Seuls les résultats compteront ! », Stép",
-          "analyse": "Stéphane Plaza avait envisagé de retirer son nom des agences. Xavier Belvaux a pourtant choisi de miser sur cette enseigne fragilisée. Au micro d'Ariane Artinian dans Mon Podcast Immo, les deux hommes racontent leur rencontre, les coulisses de leur association et leur pari commun : regagner la confi",
+          "titre": "Agences immobilières : Belles Demeures lance Boost Social Immo pour cibler les a",
+          "analyse": "Belles Demeures lance Boost Social Immo pour diffuser les biens de prestige sur Facebook et Instagram. L’outil combine reciblage des visiteurs du portail et ciblage de nouveaux acheteurs, avec jusqu’à trois biens mis en avant chaque mois.\nCet article Agences immobilières : Belles Demeures lance Boos",
           "source": "MySweetimmo",
-          "url": "https://www.mysweetimmo.com/2026/10/14/rachat-de-stephane-plaza-immobilier-seuls-les-resultats-compteront-stephane-plaza-et-xavier-belvaux-wif-group/",
+          "url": "https://www.mysweetimmo.com/2026/10/15/immobilier-belles-demeures-lance-boost-social-immo-pour-cibler-les-acheteurs-sur-les-reseaux-sociaux/",
           "niveau": "moyen"
         },
         {
-          "titre": "Copropriété : qui répond des dégâts d’une terrasse commune ?",
-          "analyse": "Un copropriétaire peut être tenu d’entretenir une terrasse commune dont il a la jouissance exclusive. Mais en cas de dommages liés à un défaut d’entretien, le syndicat des copropriétaires reste responsable de plein droit, rappelle la Cour de cassation dans un arrêt du 17 septembre 2026.\nCet article ",
+          "titre": "Taxe foncière : Ces travaux qui peuvent réduire la facture pendant 3 ans",
+          "analyse": "Des travaux de rénovation énergétique peuvent ouvrir droit à une exonération de taxe foncière pendant trois ans. Logements concernés, dépenses à prévoir et demande aux impôts : voici les règles à connaître.\nCet article Taxe foncière : Ces travaux qui peuvent réduire la facture pendant 3 ans est appa",
           "source": "MySweetimmo",
-          "url": "https://www.mysweetimmo.com/2026/10/14/copropriete-qui-repond-des-degats-dune-terrasse-commune/",
+          "url": "https://www.mysweetimmo.com/2026/10/15/taxe-fonciere-ces-travaux-qui-peuvent-reduire-la-facture-pendant-3-ans/",
           "niveau": "moyen"
         },
         {
-          "titre": "Bail Rénov’ : Déjà 45 000 bailleurs conseillés ou sensibilisés",
-          "analyse": "Bail Rénov’ a conseillé ou sensibilisé 45 000 bailleurs depuis février 2024. Son bilan révèle les freins à la rénovation et ouvre la voie à un suivi renforcé dans deux départements.\nCet article Bail Rénov’ : Déjà 45 000 bailleurs conseillés ou sensibilisés est apparu en premier sur MySweetimmo.",
+          "titre": "Logement : Plus cher, plus difficile, un avenir qui inquiète",
+          "analyse": "Le logement pèse davantage dans le budget des Français selon le 10ème Baromètre QUALITEL. Recherches difficiles, projets familiaux reportés : un Français sur cinq craint de devoir quitter son domicile pour des raisons financières.\nCet article Logement : Plus cher, plus difficile, un avenir qui inqui",
           "source": "MySweetimmo",
-          "url": "https://www.mysweetimmo.com/2026/10/14/bail-renov-deja-45-000-bailleurs-conseilles-ou-sensibilises/",
+          "url": "https://www.mysweetimmo.com/2026/10/15/logement-plus-cher-plus-difficile-un-avenir-qui-inquiete/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Immobilier Etats-Unis : eXp Realty propose jusqu’à 50 000 dollars pour préparer ",
+          "analyse": "Et si les propriétaires pouvaient rénover leur logement avant de le vendre, sans avancer un centime ? Aux États-Unis, eXp Realty lance eXp Ready, un dispositif permettant d'emprunter jusqu'à 50 000 dollars pour financer les travaux et le home staging, avec un remboursement différé. Une nouvelle arme",
+          "source": "MySweetimmo",
+          "url": "https://www.mysweetimmo.com/2026/10/14/immobilier-etats-unis-exp-realty-propose-jusqua-50-000-dollars-pour-preparer-une-vente/",
           "niveau": "moyen"
         }
       ]
@@ -194,199 +201,59 @@
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "Tours : le lycéen éborgné de retour chez lui, un policier mis en examen",
-          "analyse": "Près de deux semaines après avoir été éborgné lors du blocage de son lycée à Tours, Maël, 16 ans, est sorti de l&#039;hôpital et un policier a été mis en examen pour \"violences aggravées\" et placé sous con...",
+          "titre": "\"Très vive inquiétude\" du président de la cour d'appel de Paris après des attaqu",
+          "analyse": "Le premier président de la cour d&#039;appel de Paris exprime jeudi sa \"très vive inquiétude\" face aux attaques visant un magistrat de Bobigny depuis la condamnation du fondateur du média ide...",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/depeches/tours-le-lyceen-eborgne-de-retour-chez-lui-un-policier-mis-en-examen-139803",
+          "url": "https://www.notretemps.com/depeches/tres-vive-inquietude-du-president-de-la-cour-d-appel-de-paris-apres-des-attaques-visant-un-magistrat-de-bobigny-140254",
           "niveau": "moyen"
         },
         {
-          "titre": "Paris : incendie près de la gare d'Austerlitz",
-          "analyse": "Un \"violent feu de toiture\" s&#039;est déclaré mercredi matin dans un bâtiment en rénovation dans le secteur de la gare d&#039;Austerlitz, dans le centre-est de la capitale, sans faire de victimes et il est dés...",
+          "titre": "Budget : les députés rejettent le plafonnement d'un abattement fiscal pour les r",
+          "analyse": "Les députés ont rejeté jeudi le plafonnement d&#039;un abattement fiscal pour les retraités prévu dans le projet de budget pour 2027, une mesure qui devait en théorie rapporter 1,4 milliard d&#039;euros à l&#039;Eta...",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/depeches/paris-incendie-pres-de-la-gare-d-austerlitz-139799",
+          "url": "https://www.notretemps.com/depeches/budget-les-deputes-rejettent-le-plafonnement-d-un-abattement-fiscal-pour-les-retraites-140253",
           "niveau": "moyen"
         },
         {
-          "titre": "Fusillade d'Aubagne: le suspect de 14 ans reconnaît les faits mais conteste \"avo",
-          "analyse": "Le collégien de 14 ans qui a tiré sur un principal et une enseignante à Aubagne (Bouches-du-Rhône) reconnaît \"la matérialité des faits\" mais conteste \"avoir voulu tuer les personnes ciblées\", a indiqu...",
+          "titre": "Le club des \"grands-parents anonymes\": \"Garder mes petit-enfants malades, oui ma",
+          "analyse": "Pas toujours simple, la vie de grand‑parent. Au club des Grands‑Parents Anonymes (CGPA), on rit, on décrypte, on se reconnaît. Et on garde notre humour. Une question, une bourde, un conflit, une scène familiale? Cette rubrique est la vôtre… partagez‑la, n&#039;hésitez pas à commenter!",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/depeches/fusillade-d-aubagne-le-suspect-de-14-ans-reconnait-les-faits-mais-conteste-avoir-voulu-tuer-139798",
+          "url": "https://www.notretemps.com/famille/petits-enfants-grands-parents/le-club-des-grands-parents-anonymes-garder-mes-petit-enfants-malades-oui-mais-139781",
           "niveau": "moyen"
         },
         {
-          "titre": "La Cour des comptes recommande de conditionner la prolongation de l'encadrement ",
-          "analyse": "La Cour des comptes recommande de conditionner la prolongation de l&#039;encadrement des loyers à une \"réforme structurelle\" pour améliorer la fiabilité des données servant à fixer les plafon...",
+          "titre": "Fonctionnaires : les absences pour maladie au niveau du privé, sauf à l'hôpital",
+          "analyse": "Les agents publics se sont absentés en moyenne 11 jours pour raison de santé en 2025, à peine plus que les salariés du privé, mais les absences repartent à la hausse à l&#039;hôpital, selon l...",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/depeches/la-cour-des-comptes-recommande-de-conditionner-la-prolongation-de-l-encadrement-des-loyers-a-une-amelioration-de-sa-fiabilite-139797",
+          "url": "https://www.notretemps.com/depeches/fonctionnaires-les-absences-pour-maladie-au-niveau-du-prive-sauf-a-l-hopital-140251",
           "niveau": "moyen"
         },
         {
-          "titre": "Encadrement des loyers: le Sénat opte pour une prolongation de l'expérimentation",
-          "analyse": "Le Sénat a voté mercredi en commission pour prolonger de deux ans l&#039;encadrement des loyers à périmètre constant, refusant une pérennisation totale de ce dispositif qui permet de plafonne...",
+          "titre": "Petites retraites: combien de personnes ont bénéficié de la revalorisation excep",
+          "analyse": "Présentée comme l&#039;un des principaux coups de pouce de la réforme des retraites de 2023, la revalorisation des petites pensions a finalement rapporté 52€ bruts par mois en moyenne à 1,3 million de retraités. Plus nombreuses à en bénéficier, les femmes ont perçu une somme moyenne plus élevée que ",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/depeches/encadrement-des-loyers-le-senat-opte-pour-une-prolongation-de-l-experimentation-139796",
+          "url": "https://www.notretemps.com/retraite/ma-pension/petites-retraites-combien-de-personnes-ont-beneficie-de-la-revalorisation-exceptionnelle-et-pour-quel-gain-140249",
           "niveau": "moyen"
         },
         {
-          "titre": "Le mont Blanc mesuré à 4.807,47 mètres, 1,88 mètre de plus qu'en 2023, selon des",
-          "analyse": "Le mont Blanc, sommet de l&#039;Europe occidentale dans les Alpes, a été mesuré en septembre 2026 à 4.807,47 mètres, soit 1,88 mètre de plus que lors de la précédente mesure communiquée en 2023, ont annonc...",
+          "titre": "Présidentielle : le président des Entrepreneurs assure qu'il restera en France s",
+          "analyse": "Le président de l&#039;organisation patronale des Entrepreneurs (ex-CPME) Amir Reza-Tofighi a assuré jeudi qu&#039;il Le président de l&#039;organisation patronale des Entrepreneurs (ex-CPME) Amir Reza-Tofighirester...",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/depeches/le-mont-blanc-mesure-a-480747-metres-188-metre-de-plus-qu-en-2023-selon-des-geometres-experts-139795",
+          "url": "https://www.notretemps.com/depeches/presidentielle-le-president-des-entrepreneurs-assure-qu-il-restera-en-france-si-lfi-l-emporte-140246",
           "niveau": "moyen"
         },
         {
-          "titre": "Comment stopper et soigner la chute des cheveux?",
-          "analyse": "Votre chevelure perd du volume et de la densité? Routine de lavage, nutriments, molécules efficaces… On vous dit comment freiner le processus et l&#039;aider à retrouver de la vigueur.",
+          "titre": "Edouard Geffray à Bordeaux avant une nouvelle réunion avec les organisations lyc",
+          "analyse": "Après plusieurs semaines de mobilisation, des établissements sont encore bloqués jeudi avant la troisième réunion, dans l&#039;après-midi, entre les organisations lycéennes et le ministre de l&#039;Education na...",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/sante-bien-etre/beaute/comment-stopper-et-soigner-la-chute-des-cheveux-136853",
+          "url": "https://www.notretemps.com/depeches/edouard-geffray-a-bordeaux-avant-une-nouvelle-reunion-avec-les-organisations-lyceennes-140231",
           "niveau": "moyen"
         },
         {
-          "titre": "Tours : le lycéen éborgné de retour chez lui, un policier mis en examen",
-          "analyse": "Près de deux semaines après avoir été éborgné lors du blocage de son lycée à Tours, Maël, 16 ans, est sorti de l&#039;hôpital et un policier a été mis en examen pour \"violences aggravées\" et placé sous con...",
+          "titre": "Le clipping, puissant outil d'influence numérique aux mains des responsables pol",
+          "analyse": "Avec des réseaux sociaux saturés de contenus, comment sortir du lot? Le clipping, qui consiste à publier en masse des courts extraits vidéo pour doper leur visibilité, s&#039;impose comme une...",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/depeches/tours-le-lyceen-eborgne-de-retour-chez-lui-un-policier-mis-en-examen-139803",
-          "niveau": "moyen"
-        }
-      ]
-    },
-    {
-      "titre": "Reglementation",
-      "icone": "📋",
-      "niveau_global": "moyen",
-      "items": [
-        {
-          "titre": "Présomption de démission : le ministère du Travail apporte de nouvelles précisio",
-          "analyse": "Dans son nouveau guide relatif aux salari&#233;s prot&#233;g&#233;s, mis &#224; jour en juin 2026, le minist&#232;re du Travail apporte deux nouvelles pr&#233;cisions importantes concernant la pr&#233;somption de d&#233;mission : ce dispositif peut &#234;tre mis en &#339;uvre sans autorisation pr&#2",
-          "source": "Actu-Juridique",
-          "url": "https://www.actu-juridique.fr/social/travail/presomption-de-demission-le-ministere-du-travail-apporte-de-nouvelles-precisions-importantes-pour-les-salaries-proteges/",
-          "niveau": "moyen"
-        }
-      ]
-    },
-    {
-      "titre": "ESG",
-      "icone": "🌱",
-      "niveau_global": "moyen",
-      "items": [
-        {
-          "titre": "Aux Etats-Unis, le gendarme financier s’en prend à Climate Action 100+",
-          "analyse": "La SEC s'est penché sur le rôle de Climate Action 100+ lors de l'assemblée générale d'ExxonMobil de 2021. @CCO\nLa vengeance est un plat qui se mange (très) froid ! La Securities and exchange commission (SEC) a publié un long rapport sur l’engagement actionnarial en choisissant un angle très particul",
-          "source": "Novethic",
-          "url": "https://www.novethic.fr/finance-durable/engagement-actionnarial/etats-unis-gendarme-financier-prend-climate-action-100",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Défense et finance durable : les nouvelles frontières de l'investissement respon",
-          "analyse": "Si la défense s'invite dans l'investissement responsable, les lignes rouges des fonds dédiés demeurent fragiles et en décalage avec le droit international humanitaire (crédit : Maya Carrasco).\nLa défense s’invite dans l’investissement responsable Face à la fragmentation géopolitique et à l’aggravati",
-          "source": "Novethic",
-          "url": "https://www.novethic.fr/decryptages-dexpert/etudes/defense-et-finance-durable-les-nouvelles-frontieres-de-linvestissement-responsable",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "TikTok, Meta : pourquoi les géants des réseaux sociaux acceptent de modifier leu",
-          "analyse": "Tiktok a signé un accord avec l'Alabama le 25 septembre dernier. @CHRIS DELMAS / AFP\nAux Etats-Unis, les procès se succèdent, les accords aussi. Après Meta le 26 août dernier, TikTok a annoncé le 25 septembre signer un accord avec l’Alabama afin de clore les poursuites judiciaires menées par l’Etat.",
-          "source": "Novethic",
-          "url": "https://www.novethic.fr/economie-et-social/transformation-de-leconomie/tiktok-meta-pourquoi-les-geants-des-reseaux-sociaux-acceptent-de-modifier-leur-algorithme",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Recrutement : l’IA, une compétence clé à double tranchant [2/3]",
-          "analyse": "Deuxième volet de notre dossier Recrutement &#38; Salaires &#8211; Dans un contexte très morose pour le recrutement dans la transition énergétique, les profils tech restent prisés. Lorsque les entreprises prévoient d’élargir leurs équipes informatiques, les développeurs sont en ligne de mire. C’étai",
-          "source": "GreenUnivers",
-          "url": "https://www.greenunivers.com/2026/10/recrutement-lia-une-competence-cle-a-double-tranchant-2-3-435892/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Le conseil d’administration de Voltalia évolue encore",
-          "analyse": "Les banquiers se renforcent au conseil d’administration de Voltalia, qui évolue encore avec notamment une nomination à la tête du comité d’audit. Il sera\nL’article Le conseil d&rsquo;administration de Voltalia évolue encore est apparu en premier sur GreenUnivers.",
-          "source": "GreenUnivers",
-          "url": "https://www.greenunivers.com/2026/10/le-conseil-dadministration-de-voltalia-evolue-encore-436027/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Solaire : Solstyce accélère son plan anticrise, étend son offre",
-          "analyse": "Corrections apportées le 14/10/2026 &#8211; L&#8217;année 2026 confirme la transformation de Solstyce en un « opérateur de transition énergétique ». Historiquement positionné sur les toitures solaires, le groupe présidé par Guillaume David mise plus que jamais sur d&#8217;autres filières dans un con",
-          "source": "GreenUnivers",
-          "url": "https://www.greenunivers.com/2026/10/solaire-solstyce-accelere-son-plan-anticrise-etend-son-offre-435962/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Engie et CMA CGM relancent la production de biométhane au Havre, pour moins cher",
-          "analyse": "Après avoir renoncé au projet Salamandre, censé produire du biométhane par pyrogazéfication, Engie relance sur le même site, au Havre, un nouveau\nL’article Engie et CMA CGM relancent la production de biométhane au Havre, pour moins cher est apparu en premier sur GreenUnivers.",
-          "source": "GreenUnivers",
-          "url": "https://www.greenunivers.com/2026/10/engie-et-cma-cgm-relancent-la-production-de-biomethane-au-havre-pour-moins-cher-435991/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Stratégies prix, Agregio, EEX… : les coulisses de Gazélec 2026",
-          "analyse": "Lieu d’échanges entre les acheteurs professionnels de gaz et d’électricité et leurs fournisseurs, le congrès Gazélec, organisé à Paris du 12 au 15 octobre et fréquenté par 1 200 personnes, ne manque pas d’animation cette année : les prix sont en pleine remontada et certains consultants prédisent déj",
-          "source": "GreenUnivers",
-          "url": "https://www.greenunivers.com/2026/10/strategies-prix-agregio-eex-les-coulisses-de-gazelec-2026-435970/",
-          "niveau": "moyen"
-        }
-      ]
-    },
-    {
-      "titre": "Fintech",
-      "icone": "📰",
-      "niveau_global": "moyen",
-      "items": [
-        {
-          "titre": "Jensen Huang en tournée en Europe : entre business, lobbying et investissements",
-          "analyse": "À Paris le 13 octobre, Jensen Huang a annoncé des investissements dans Doctolib, Genesis AI, Pigment et Entalpic, avant de poursuivre sa tournée européenne. Ce déplacement s’inscrit dans une stratégie mondiale qui associe diplomatie industrielle, financement et développement commercial. De Riyad à S",
-          "source": "FRENCHWEB.FR : innovation, tech, network",
-          "url": "https://www.frenchweb.fr/jensen-huang-en-tournee-en-europe-entre-business-lobbying-et-investissements/463934",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "La croissance de votre scale-up va trop vite pour vos équipes finances, voici l",
-          "analyse": "Les chiffres d’affaires des entreprises d’IA atteignent des sommets qu’on n’avait pas observés depuis la bulle Internet. Certaines entreprises dépassent la barre des 100 millions d’euros de chiffre d&#8217;affaires annuel récurrent après à peine deux ans d’existence. Cette vitesse est impressionnant",
-          "source": "FRENCHWEB.FR : innovation, tech, network",
-          "url": "https://www.frenchweb.fr/la-croissance-de-votre-scale-up-va-trop-vite-pour-vos-equipes-finances-voici-la-marche-a-suivre/463930",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Nvidia investit dans DOCTOLIB : retour sur une success story française",
-          "analyse": "Jensen Huang a annoncé hier, mardi 13 octobre, l’entrée de Nvidia au capital de Doctolib lors d’un événement organisé à Paris. Treize ans après ses débuts, la société française revendique 520 000 professionnels de santé et 90 millions de patients dans cinq pays européens. Le financement doit accélér",
-          "source": "FRENCHWEB.FR : innovation, tech, network",
-          "url": "https://www.frenchweb.fr/nvidia-investit-dans-doctolib-retour-sur-une-success-story-francaise/463926",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Comment ouvrir votre site aux agents IA avec WebMCP",
-          "analyse": "Le protocole permet aux sites d'exposer leurs actions directement aux agents d'IA, sans passer par le computer use. Explications et tutoriel.",
-          "source": "JDN : Derniers contenus",
-          "url": "https://www.journaldunet.com/intelligence-artificielle/1556619-comment-ouvrir-votre-site-aux-agents-ia-avec-webmcp/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Le gouvernement franchit l'obstacle de la motion socialiste sur le budget 2027",
-          "analyse": "Le rejet de la motion socialiste sur le budget 2027 a été marqué par le soutien du Rassemblement national au gouvernement et des débats vifs sur la dette et la justice fiscale.",
-          "source": "JDN : Derniers contenus",
-          "url": "https://www.journaldunet.com/business/action-publique/1556577-le-gouvernement-franchit-l-obstacle-de-la-motion-socialiste-sur-le-budget-2027/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Le gouvernement promet de ramener le déficit public à 2,8% du PIB en 2029",
-          "analyse": "Malgré un déficit prévu à 5,4% en 2026, l'exécutif réaffirme sa trajectoire de réduction, en réponse à la procédure européenne pour déficit excessif.",
-          "source": "JDN : Derniers contenus",
-          "url": "https://www.journaldunet.com/business/action-publique/1556575-le-gouvernement-promet-de-ramener-le-deficit-public-a-2-8-du-pib-en-2029/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Les agents d'IA requièrent plus qu'un garde-fou humain",
-          "analyse": "Maîtriser les actions des agents d'IA, et les risques qu'ils peuvent causer, reste complexe, même avec la présence d'un humain.",
-          "source": "JDN : Derniers contenus",
-          "url": "https://www.journaldunet.com/intelligence-artificielle/1556447-les-agents-d-ia-requierent-plus-qu-un-garde-fou-humain/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Après le clic : pourquoi, sur mobile, l'IA passe par les apps",
-          "analyse": "Selon l'ACPM, deux mois après l'arrivée des résumés IA de Google en France, les sites d'information ont perdu près d'un quart de leurs visites en un an, leurs applications beaucoup moins. Être cité par une IA ne suffit plus.",
-          "source": "JDN : Derniers contenus",
-          "url": "https://www.journaldunet.com/intelligence-artificielle/1556465-apres-le-clic-pourquoi-sur-mobile-l-ia-passe-par-les-apps/",
+          "url": "https://www.notretemps.com/depeches/le-clipping-puissant-outil-d-influence-numerique-aux-mains-des-responsables-politiques-140245",
           "niveau": "moyen"
         }
       ]
