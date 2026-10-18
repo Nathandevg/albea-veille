@@ -1,8 +1,8 @@
 {
-  "date_fr": "Saturday 17 October 2026",
-  "compte_articles": 203,
+  "date_fr": "Sunday 18 October 2026",
+  "compte_articles": 124,
   "compte_forts": 0,
-  "compte_moyens": 203,
+  "compte_moyens": 124,
   "synthese_jour": "Synthese IA non disponible (fallback). Consultez les articles ci-dessous.",
   "chiffres_cles": [],
   "sections": [
@@ -12,59 +12,59 @@
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "EN DIRECT, manifestations du 17 octobre : plusieurs actions contestataires se me",
-          "analyse": "A Paris, deux « cortèges sauvages » se sont formés samedi matin, entraînant l’intervention des forces de l’ordre pour les disperser, a annoncé la Préfecture de police. Selon la même source, à 11 heures, 61 interpellations et 589 contrôles préventifs avaient été réalisés, et quatre amendes forfaitair",
+          "titre": "EN DIRECT, mobilisation du 17 octobre : Emmanuel Macron s’adressera aux Français",
+          "analyse": "Le chef de l’Etat réunira auparavant « à 17 h 30 au palais de l’Elysée le premier ministre et les ministres du gouvernement concernés », a également annoncé la présidence de la République, alors que le gouvernement se retrouve sous la pression des oppositions et de certains maires concernant la gest",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/societe/live/2026/10/17/en-direct-manifestations-du-17-octobre-plusieurs-actions-contestaires-se-mettent-en-place-a-travers-la-france-avec-une-forte-presence-policiere_6795855_3224.html",
+          "url": "https://www.lemonde.fr/societe/live/2026/10/18/en-direct-mobilisation-du-17-octobre-emmanuel-macron-s-adressera-aux-francais-a-20-heures-annonce-l-elysee_6795855_3224.html",
           "niveau": "moyen"
         },
         {
-          "titre": "Pour les vacances de la Toussaint, ces Français trop contraints par leur budget ",
-          "analyse": "La pause automnale est souvent la première sacrifiée lorsque le pouvoir d’achat est entamé, comme en cet automne soumis à l’inflation et à l’envolée du prix du carburant. Les réservations s’annoncent contrastées en fonction des régions et des types d’hébergement.",
+          "titre": "Comment l’industrie allemande a changé de position face à la Chine",
+          "analyse": "En prenant conscience que le sacro-saint libre-échange atteignait ses limites, l’industrie d’outre-Rhin, confrontée à une perte massive d’emplois, a joué un rôle décisif dans les derniers accords scellés entre Paris et Berlin pour protéger l’Europe face à la concurrence déloyale de Pékin.",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/10/17/pour-les-vacances-de-la-toussaint-ces-francais-trop-contraints-par-leur-budget-j-ai-du-renoncer-a-ce-bol-d-air_6795889_3234.html",
+          "url": "https://www.lemonde.fr/idees/article/2026/10/18/comment-l-industrie-allemande-a-change-de-position-face-a-la-chine_6797048_3232.html",
           "niveau": "moyen"
         },
         {
-          "titre": "EN DIRECT, guerre en Ukraine : Donald Trump exempte la Russie de nouvelles sanct",
-          "analyse": "Dans un décret publié vendredi soir par la Maison Blanche, le président américain « exempte l’application des sanctions, restrictions et droits de douane prévue dans le Graham Act ». Cette loi constituait la première action majeure du Congrès contre Moscou depuis le retour au pouvoir de Donald Trump",
+          "titre": "COP17 d’Erevan : face à l’effondrement de la biodiversité, des efforts « inégaux",
+          "analyse": "Alors que la planète est au seuil d’une extinction de masse, les Etats doivent agir plus fortement pour atteindre les objectifs qu’ils se sont fixés en 2022, et espérer inverser la tendance au déclin d’ici à 2030. La COP17 en Arménie est l’occasion de tirer un bilan à mi-parcours.",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/international/live/2026/10/17/en-direct-guerre-en-ukraine-donald-trump-exempte-la-russie-de-nouvelles-sanctions-suivez-les-reactions-internationales_6791198_3210.html",
+          "url": "https://www.lemonde.fr/planete/article/2026/10/18/cop17-d-erevan-face-a-l-effondrement-de-la-biodiversite-des-efforts-inegaux-et-insuffisants-de-l-humanite_6796960_3244.html",
           "niveau": "moyen"
         },
         {
-          "titre": "True Crime Community : un deuxième adolescent, âgé de 13 ans, mis en examen aprè",
-          "analyse": "Selon les informations du « Monde », ce jeune, mis en examen pour complicité de tentatives d’assassinats, discutait avec l’auteur de l’attaque de son projet de tuerie scolaire depuis le mois d’août. Cet attentat, sans arrière-fond idéologique, est caractéristique de la mouvance True Crime Community,",
+          "titre": "A Madagascar, un an après avoir été renversé, l’ex-président Andry Rajoelina rêv",
+          "analyse": "« Madagascar, un an après le coup d’Etat » (3/4). Vivant en exil depuis octobre 2025, l’ancien chef de l’Etat s’efforce de mobiliser son réseau diplomatique loin de son pays, même si ses leviers d’action demeurent limités.",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/societe/article/2026/10/17/c-est-parti-je-t-aime-apres-l-attentat-dans-un-college-d-aubagne-un-deuxieme-adolescent-mis-en-examen-pour-complicite-de-tentatives-d-assassinats_6796058_3224.html",
+          "url": "https://www.lemonde.fr/afrique/article/2026/10/18/a-madagascar-un-an-apres-avoir-ete-renverse-l-ex-president-andry-rajoelina-reve-encore-d-un-retour-sur-la-grande-ile_6797032_3212.html",
           "niveau": "moyen"
         },
         {
-          "titre": "Fin de l’ère Orban en Hongrie : « Le niveau de vie est aujourd’hui une préoccupa",
-          "analyse": "Spécialiste des relations internationales à la Central European University, Zsuzsanna Szelényi tire, dans un entretien au « Monde », un premier bilan des six mois au pouvoir de Péter Magyar, élu sur la promesse de mettre fin à l’illibéralisme de Viktor Orban.",
+          "titre": "Inquiétudes autour de l’avenir de la Halle Saint-Pierre, haut lieu parisien de l",
+          "analyse": "Privé brutalement de sa subvention en 2026 par la Ville de Paris, avec laquelle le dialogue s’est fortement dégradé, le centre culturel est en attente d’une nouvelle direction.",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/10/17/fin-de-l-ere-orban-en-hongrie-le-niveau-de-vie-est-aujourd-hui-une-preoccupation-majeure-de-la-population_6796097_3234.html",
+          "url": "https://www.lemonde.fr/culture/article/2026/10/18/inquietudes-autour-de-l-avenir-de-la-halle-saint-pierre-haut-lieu-parisien-de-l-art-brut_6797046_3246.html",
           "niveau": "moyen"
         },
         {
-          "titre": "« On me dit toujours que je fais 25 ans » : en quête d’une peau parfaite, ces Fr",
-          "analyse": "Une peau éclatante, c’est la promesse de la K-beauty, la cosmétique coréenne, dont la promotion inonde les réseaux sociaux. Des milliers de Françaises s’offrent un séjour « soins cutanés » à Séoul, où cette approche de l’esthétique, aux rituels séculaires et aux techniques innovantes, est un levier ",
+          "titre": "Mohamed Amer Meziane, philosophe : « L’orientalisme a permis d’engendrer le réci",
+          "analyse": "L’Occident a édifié sa supériorité intellectuelle en créant un monopole sur une « raison » présumée universelle grâce au courant orientaliste et sa relecture de la Bible, au moment des Lumières, explique le philosophe, dans un entretien au « Monde ».",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/m-perso/article/2026/10/17/on-me-dit-toujours-que-je-fais-25-ans-en-quete-d-une-peau-parfaite-elles-partent-en-coree-du-sud-pour-des-traitements-dermatologiques-de-pointe_6795853_4497916.html",
+          "url": "https://www.lemonde.fr/le-monde-des-religions/article/2026/10/18/mohamed-amer-meziane-philosophe-l-orientalisme-a-permis-d-engendrer-le-recit-des-origines-de-la-modernite_6796956_6038514.html",
           "niveau": "moyen"
         },
         {
-          "titre": "Au sommet européen de Bruxelles, la surenchère sans fin du Danemark et de l’Ital",
-          "analyse": "Malgré les résultats probants du pacte sur la migration et l’asile, les premières ministres danoise, Mette Frederiksen, et italienne, Giorgia Meloni, sont reparties en croisade au Conseil européen, vendredi 16 octobre, pour demander à la Commission européenne une meilleure coordination des politique",
+          "titre": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky affirme que le partage de rens",
+          "analyse": "Les Etats-Unis transmettent de nouveau des renseignements à l’Ukraine après une interruption pendant « un certain temps », a déclaré le président ukrainien dans un entretien à l’émission « Meet the Press » de NBC, diffusé dimanche. M. Zelensky a également dit espérer que des discussions avec Washing",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/international/article/2026/10/17/au-sommet-europeen-de-bruxelles-la-surenchere-sans-fin-du-danemark-et-de-l-italie-sur-l-immigration_6796203_3210.html",
+          "url": "https://www.lemonde.fr/international/live/2026/10/18/en-direct-guerre-en-ukraine-volodymyr-zelensky-denonce-76-attaques-russes-contre-le-secteur-energetique-depuis-l-annonce-d-une-treve-par-donald-trump_6796922_3210.html",
           "niveau": "moyen"
         },
         {
-          "titre": "La cyberattaque des frigos de supermarché, un signal d’alarme pour tous les indu",
-          "analyse": "L’incident qui a touché plus de 700 magasins démontre la vulnérabilité de nombreux équipements, parfois anodins, connectés à Internet. Il met aussi en lumière le retard qu’a pris la France à transposer dans son droit national deux directives européennes sur la cybersécurité.",
+          "titre": "Alain Rouquié, diplomate : « Pour l’avenir de l’Amérique latine, je suis toujour",
+          "analyse": "L’ancien président de la Maison de l’Amérique latine, aujourd’hui mise en danger par la mise en vente des locaux qu’elle loue à la Banque de France, revient sur les raisons de l’avancée de l’extrême droite dans la région, terrain d’affrontement entre la Chine et les Etats-Unis.",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/10/17/la-cyberattaque-des-frigos-de-supermarche-un-signal-d-alarme-pour-tous-les-industriels-et-un-rappel-a-la-loi-europeenne-pour-la-france_6795846_3234.html",
+          "url": "https://www.lemonde.fr/international/article/2026/10/18/alain-rouquie-diplomate-pour-l-avenir-de-l-amerique-latine-je-suis-toujours-optimiste_6797054_3210.html",
           "niveau": "moyen"
         }
       ]
@@ -75,73 +75,59 @@
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "It’s not just Commerzbank: Italians are eating up German business",
-          "analyse": "The takeover of the bank by UniCredit is only the start",
-          "source": "Finance & economics",
-          "url": "https://www.economist.com/finance-and-economics/2026/10/16/its-not-just-commerzbank-italians-are-eating-up-german-business",
+          "titre": "Can a $55,000 robot load the dishwasher? Inside my afternoon with two humanoid h",
+          "analyse": "Tau Robotics’ humanoids vacuumed my floors and wiped my counters — with some help from humans behind the scenes.",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/can-a-55-000-plus-robot-load-the-dishwasher-inside-my-afternoon-with-two-humanoid-housekeepers-0a9569ab?mod=mw_rss_topstories",
           "niveau": "moyen"
         },
         {
-          "titre": "I’m 63 and diagnosed with lymphoma. Should I take my Social Security next year?",
-          "analyse": "“My plan is to continue working as long as I’m able to do so and invest my Social Security benefits while I’m still earning a paycheck.”",
+          "titre": "Fake shopping sprees and ‘happiness insurance’: The latest fintech apps reveal o",
+          "analyse": "Fintech companies are catching on to how Americans are altering their financial habits, and they’ve created new products to try to meet the moment.",
           "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/its-a-wait-and-see-situation-im-63-and-diagnosed-with-lymphoma-should-i-take-my-social-security-next-year-ea88b419?mod=mw_rss_topstories",
+          "url": "https://www.marketwatch.com/story/fake-shopping-sprees-and-happiness-insurance-the-latest-fintech-apps-reveal-our-financial-anxieties-77770a46?mod=mw_rss_topstories",
           "niveau": "moyen"
         },
         {
-          "titre": "Fed interest-rate decision this month is a closer call than markets think",
-          "analyse": "Here are some of the arguments against a Fed rate hike — and why some economists disagree with them.",
+          "titre": "Investing, not homeownership, is the No. 1 milestone that makes Gen Z renters fe",
+          "analyse": "“Instead of focusing on homeownership, many are prioritizing financial freedom and debt-free living.”",
           "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/fed-interest-rate-decision-this-month-is-a-closer-call-than-markets-think-f96ccf95?mod=mw_rss_topstories",
+          "url": "https://www.marketwatch.com/story/gen-z-renters-are-the-only-group-more-likely-to-feel-successful-by-investing-than-buying-a-house-30ac5344?mod=mw_rss_topstories",
           "niveau": "moyen"
         },
         {
-          "titre": "Nowhere to hide: Tech selloff hits software and chip stocks alike",
-          "analyse": "The software and semiconductor sectors haven’t been trading in tandem much this year, but they collectively fell Friday as AI and interest-rate fears hit the market.",
+          "titre": "Is Apple’s foldable iPhone Duo worth $2,000? See how it stacks up against other ",
+          "analyse": "Preorders for the iPhone Duo began Friday, marking Apple’s debut in a foldable phone market largely dominated by Samsung and Google.",
           "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/nowhere-to-hide-tech-selloff-hits-software-and-chip-stocks-alike-6d96773c?mod=mw_rss_topstories",
+          "url": "https://www.marketwatch.com/story/is-apples-foldable-iphone-duo-worth-2-000-see-how-it-stacks-up-against-other-foldable-phones-c9066b13?mod=mw_rss_topstories",
           "niveau": "moyen"
         },
         {
-          "titre": "This Senate race where data centers are a crucial issue has more spending than a",
-          "analyse": "Money is pouring in and funding intense, negative ads: “It’s everywhere, and you can’t escape it.”",
+          "titre": "‘Some people did everything right’: I lost my home in the Great Recession. I ren",
+          "analyse": "”I earn $110,000 a year.”",
           "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/this-senate-race-where-data-centers-are-a-crucial-issue-has-more-spending-than-any-other-midterm-clash-5152b43d?mod=mw_rss_topstories",
+          "url": "https://www.marketwatch.com/story/i-earn-110-000-a-year-i-lost-my-home-in-the-great-recession-im-renting-in-my-50s-why-is-that-judged-as-failure-d1371d67?mod=mw_rss_topstories",
           "niveau": "moyen"
         },
         {
-          "titre": "Could an Anthropic IPO put your 401(k) at risk? The AI safety debate hits a new ",
-          "analyse": "Anthropic and New York City’s comptroller have opened a line of communication to discuss “existential risks” posed by AI and what that could mean for the company’s future stock.",
+          "titre": "Influencers and biohackers swear by fasting. Here’s what the science says.",
+          "analyse": "Fasting can help some people reduce how many calories they eat — but it’s not “effortless” as some would have you believe.",
           "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/could-an-anthropic-ipo-put-your-401-k-at-risk-the-ai-safety-debate-hits-a-new-dimension-db3f09f7?mod=mw_rss_topstories",
+          "url": "https://www.marketwatch.com/story/influencers-and-biohackers-swear-by-fasting-heres-what-the-science-says-3318191f?mod=mw_rss_topstories",
           "niveau": "moyen"
         },
         {
-          "titre": "The bond market shrugged off two inflation shocks. Why stock investors should pa",
-          "analyse": "Hot CPI and PPI data should have pushed Treasury yields higher. Instead, bond buyers stepped in to suggest yields have risen high enough to become attractive for investors.",
+          "titre": "Silver’s recent 50% drop from a record high hints that an economic slowdown loom",
+          "analyse": "There’s a relatively off-the-radar commodity that can provide hints on where the economy is headed — and it’s seen its value drop more than 50% from a record high earlier this year.",
           "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/the-bond-market-shrugged-off-two-inflation-shocks-why-stock-investors-should-pay-attention-5da4f771?mod=mw_rss_topstories",
+          "url": "https://www.marketwatch.com/story/silvers-recent-50-drop-from-a-record-high-hints-that-an-economic-slowdown-looms-e9fdfaf1?mod=mw_rss_topstories",
           "niveau": "moyen"
         },
         {
-          "titre": "New SEC rules would fleece everyday investors to enrich Wall Street",
-          "analyse": "New proposals from the Securities and Exchange Commission will tilt the scales in favor of Wall Street and against a huge group of retail investors.",
+          "titre": "Microsoft, Shopify and 3 more AI stocks that are favorite Wall Street earnings p",
+          "analyse": "As earnings season kicks off, select tech companies have the opportunity to deliver big positive surprises for investors.",
           "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/new-sec-rules-would-fleece-everyday-investors-to-enrich-wall-street-0a00fe03?mod=mw_rss_topstories",
-          "niveau": "moyen"
-        }
-      ]
-    },
-    {
-      "titre": "Marches financiers",
-      "icone": "🏛️",
-      "niveau_global": "moyen",
-      "items": [
-        {
-          "titre": "Christine Lagarde: IMFC Statement",
-          "analyse": "",
-          "source": "ECB - European Central Bank",
-          "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261017~7015ea3099.en.html",
+          "url": "https://www.marketwatch.com/story/microsoft-shopify-and-3-more-ai-stocks-that-are-favorite-wall-street-earnings-plays-0bb61e81?mod=mw_rss_topstories",
           "niveau": "moyen"
         }
       ]
@@ -152,59 +138,17 @@
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "SCPI PERIAL Opportunités Territoires : 4 actifs au cœur des régions",
-          "analyse": "Comment se compose cette SCPI régionale ? Ses actifs, ses modalités de détention et ses risques éclairent son positionnement.",
-          "source": "MeilleureSCPI.com",
-          "url": "https://www.meilleurescpi.com/actualites/scpi-perial-opportunites-territoires-4-actifs-au-coeur-des-regions/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "SCPI Elevation Tertiom : que retenir après deux ans d’activité ?",
-          "analyse": "Après deux ans, la SCPI Elevation Tertiom affiche une capitalisation de 51,6 M€. Analyse de sa collecte, de ses acquisitions et de ses perspectives 2026.",
-          "source": "MeilleureSCPI.com",
-          "url": "https://www.meilleurescpi.com/actualites/scpi-elevation-tertiom-que-retenir-apres-deux-ans-d-activite/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Prix de l’immobilier en 2026 : que révèlent les données de l’IGEDD ?",
-          "analyse": "Prix de l’immobilier en 2026 : quels signaux derrière les ventes et le crédit ? Les données de l’IGEDD éclairent les tendances du marché.",
-          "source": "MeilleureSCPI.com",
-          "url": "https://www.meilleurescpi.com/actualites/prix-de-l-immobilier-en-que-revelent-les-donnees-de-l-igedd/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Urban Cœur Commerce : un label ISR renouvelé, quels enjeux ?",
-          "analyse": "Que change le renouvellement du label ISR d’Urban Cœur Commerce ? La démarche combine suivi des actifs, enjeux locaux et mobilisation collective.",
-          "source": "MeilleureSCPI.com",
-          "url": "https://www.meilleurescpi.com/actualites/urban-coeur-commerce-un-label-isr-renouvele-quels-enjeux/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "SCPI de FIDUCIAL Gérance : 7 acquisitions entre santé et restauration",
-          "analyse": "Quels actifs ont rejoint les SCPI de FIDUCIAL Gérance ? Répartition entre santé et restauration, avec les principaux critères d’analyse à considérer.",
-          "source": "MeilleureSCPI.com",
-          "url": "https://www.meilleurescpi.com/actualites/fiducial-gerance-quelles-acquisitions-pour-ses-scpi/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Immobilier Bordeaux : La Grande Maison de Bernard Magrez vendue autour de 5,4 mi",
-          "analyse": "À Bordeaux, La Grande Maison de Bernard Magrez change de propriétaire. Acquise par Nicolas Leroy-Fleuriot pour un prix autour de 5,4 millions d’euros, cette demeure de 700 m² située à Labottière deviendra La Grande Maison CHEOPS.\nCet article Immobilier Bordeaux : La Grande Maison de Bernard Magrez v",
+          "titre": "Immobilier Gassin : Une pépite avec plage privée à vendre 7,8 millions d’euros",
+          "analyse": "À deux kilomètres de Saint-Tropez, cette villa de 170 m² à Gassin dispose d’un accès direct à la plage, d’un garage à bateau et d’une piscine à débordement. Son prix : 7,8 millions d’euros.\nCet article Immobilier Gassin : Une pépite avec plage privée à vendre 7,8 millions d’euros est apparu en premi",
           "source": "MySweetimmo",
-          "url": "https://www.mysweetimmo.com/2026/10/17/immobilier-bordeaux-la-grande-maison-de-bernard-magrez-vendue-autour-de-54-millions-deuros/",
+          "url": "https://www.mysweetimmo.com/2026/10/18/immobilier-gassin-une-pepite-avec-plage-privee-a-vendre-78-millions-deuros/",
           "niveau": "moyen"
         },
         {
-          "titre": "DPE : 64 % des Français croient à tort qu’il garantit le confort d’été",
-          "analyse": "64 % des Français pensent qu’un bon DPE signifie un logement plus confortable l’été, selon une étude Jinka. Pourtant, l’étiquette énergétique ne garantit pas la fraîcheur. Voici les points à vérifier avant d’acheter ou de louer.\nCet article DPE : 64 % des Français croient à tort qu’il garantit le co",
+          "titre": "Taxe foncière : +93,4 % en 20 ans, l’UNPI alerte",
+          "analyse": "La taxe foncière a augmenté de 93,4 % en vingt ans, bien plus vite que l’inflation et les loyers. Malgré une accalmie en 2026, les écarts entre villes restent considérables. L’UNPI réclame une réforme, quitte à faire contribuer les locataires.\nCet article Taxe foncière : +93,4 % en 20 ans, l’UNPI al",
           "source": "MySweetimmo",
-          "url": "https://www.mysweetimmo.com/2026/10/17/dpe-64-des-francais-croient-a-tort-quil-garantit-le-confort-dete/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Immobilier : Les Français préfèrent être propriétaires plutôt que gagner deux fo",
-          "analyse": "Selon une enquête Immonot, la majorité des Français préfère 2 500 € nets par mois avec un logement payé à 5 000 € en location. Leur priorité : la sécurité financière, plus que le montant de leur salaire.\nCet article Immobilier : Les Français préfèrent être propriétaires plutôt que gagner deux fois p",
-          "source": "MySweetimmo",
-          "url": "https://www.mysweetimmo.com/2026/10/17/immobilier-les-francais-preferent-etre-proprietaires-plutot-que-gagner-deux-fois-plus/",
+          "url": "https://www.mysweetimmo.com/2026/10/18/taxe-fonciere-934-en-20-ans-lunpi-alerte/",
           "niveau": "moyen"
         }
       ]
@@ -215,185 +159,59 @@
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "Journée nationale de mobilisation: premiers rassemblements et quelques tensions",
-          "analyse": "Plusieurs dizaines d&#039;interpellations ont eu lieu samedi matin à Paris tandis que la tension montait dans plusieurs villes de France avec de premières actions et manifestations, à l&#039;appel d&#039;anciens gil...",
+          "titre": "\"Comme si on avait eu la guerre\": Paris se réveille sidéré après les violences",
+          "analyse": "Une riveraine s&#039;immobilise devant un amas de vélos calcinés en plein coeur de Paris. Il est 08H00 dimanche, l&#039;air sent encore le brûlé et le verre crisse sous les pas des ouvriers qui dégagent les déb...",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/depeches/journee-nationale-de-mobilisation-premiers-rassemblements-et-quelques-tensions-140331",
+          "url": "https://www.notretemps.com/depeches/comme-si-on-avait-eu-la-guerre-paris-se-reveille-sidere-apres-les-violences-140351",
           "niveau": "moyen"
         },
         {
-          "titre": "Le siège de CNews ciblé par des manifestants, 21 interpellations",
-          "analyse": "Le siège parisien de CNews a été pris pour cible par une centaine de personnes samedi, à l&#039;orée d&#039;une journée nationale de mobilisation, a indiqué la préfecture de police de Paris, qui fait état de 21...",
+          "titre": "Journée de mobilisation contre la \"vie chère\" : les derniers développements",
+          "analyse": "Voici les derniers développements de la journée de mobilisation contre la \"vie chère\", à l&#039;appel notamment d&#039;anciens gilets jaunes et de jeunes, émaillée dans plusieurs villes par de violents affronte...",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/depeches/le-siege-de-cnews-cible-par-des-manifestants-21-interpellations-140336",
+          "url": "https://www.notretemps.com/depeches/journee-de-mobilisation-contre-la-vie-chere-les-derniers-developpements-140338",
           "niveau": "moyen"
         },
         {
-          "titre": "17 octobre: l'influenceur Rayan psn placé en garde à vue",
-          "analyse": "Rayan psn, un influenceur contre lequel le préfet de police de Paris a saisi la justice en raison de ses appels à \"participer à des émeutes\" samedi, a été interpellé et placé en garde à...",
+          "titre": "La France face aux stigmates d'une journée de chaos \"inédite\"",
+          "analyse": "Le jour s&#039;est levé dimanche sur un spectacle de désolation dans les rues des principales villes de France, au lendemain du chaos qui a éclipsé la mobilisation contre la \"vie chère\", à six mois de la p...",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/depeches/17-octobre-l-influenceur-rayan-psn-place-en-garde-a-vue-140335",
+          "url": "https://www.notretemps.com/depeches/la-france-face-aux-stigmates-d-une-journee-de-chaos-inedite-140347",
           "niveau": "moyen"
         },
         {
-          "titre": "Europlasma dit se tenir \"à la disposition des autorités compétentes\" après un si",
-          "analyse": "Europlasma se \"tient naturellement à la disposition des autorités compétentes\", a affirmé le groupe vendredi soir, confirmant la saisine de la procureure de la République par la Directio...",
+          "titre": "Exosens affûte sa vue face aux drones et vise les microréacteurs nucléaires amér",
+          "analyse": "Voir un drone avant qu&#039;il ne frappe : le français Exosens, l&#039;un des leaders mondiaux des technologies qui détectent l&#039;invisible, multiplie les acquisitions et accélère la production de c...",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/depeches/europlasma-dit-se-tenir-a-la-disposition-des-autorites-competentes-apres-un-signalement-de-la-dga-140334",
+          "url": "https://www.notretemps.com/depeches/exosens-affute-sa-vue-face-aux-drones-et-vise-les-microreacteurs-nucleaires-americains-140348",
           "niveau": "moyen"
         },
         {
-          "titre": "Quiz Clint Eastwood: êtes-vous un fan inconditionnel? Testez-vous!",
-          "analyse": "Clint Eastwood fait partie des stars du cinéma américain à la très longue carrière. Acteur, réalisateur, producteur, il a exploré quantité de sujets pour notre plus grand bonheur. Mais connaissez-vous vraiment toute sa filmographie?",
+          "titre": "Pour choisir un poulet, je peux me fier aux labels: vrai ou faux?",
+          "analyse": "Votre poulet du dimanche a-t-il grandi en plein air? Pas si sûr. En vingt ans, notre appétit pour cette volaille a doublé et l&#039;offre de qualité se raréfie. Avant d&#039;acheter, repérez les labels vraiment sérieux.",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/loisirs/cinema/quiz-clint-eastwood-etes-vous-un-fan-inconditionnel-139208",
+          "url": "https://www.notretemps.com/droit-argent/droit-du-consommateur/peut-on-vraiment-se-fier-aux-labels-pour-acheter-son-poulet-138677",
           "niveau": "moyen"
         },
         {
-          "titre": "Vous voulez acheter français? Ces outils permettent de vérifier l’origine réelle",
-          "analyse": "Entre mentions imprécises, symboles tricolores et formulations ambiguës, il n&#039;est pas toujours simple de savoir si un produit est vraiment fabriqué en France. Des labels, applications et plateformes spécialisées permettent toutefois de vérifier ces informations avant d&#039;acheter.",
+          "titre": "La tarte normande de Nina Métayer",
+          "analyse": "Un dessert rustique et authentique de la cheffe pâtissière Nina Métayer.",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/droit-argent/droit-du-consommateur/vous-voulez-acheter-francais-ces-outils-permettent-de-verifier-lorigine-reelle-des-produits-140297",
+          "url": "https://www.notretemps.com/vie-pratique/cuisine/la-tarte-normande-de-nina-metayer-139165",
           "niveau": "moyen"
         },
         {
-          "titre": "Mini fléchés gratuits - 17 octobre 2026 Grille n°3707",
-          "analyse": "Remplissez la grille de mini fléchés ci-dessous. Il vous suffit de cliquer sur une case pour pouvoir y entrer la lettre de votre choix. Grille n°3707  du 17 octobre 2026.",
+          "titre": "Philippe Besson: \"Mon père m’a poussé vers les livres\"",
+          "analyse": "Dans La Première Phrase du premier livre,Philippe Besson, né en 1967, raconte comment son enfance et sa jeunesse l&#039;ont conduit vers l&#039;écriture. Et balaye, ce faisant, les trois dernières décennies du XXe siècle pour notre plus grand bonheur.",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/jeux/jeux-en-ligne/mini-fleches/mini-fleches-gratuits-17-octobre-2026-grille-3707",
+          "url": "https://www.notretemps.com/loisirs/livres/philippe-besson-mon-pere-ma-pousse-vers-les-livres-138183",
           "niveau": "moyen"
         },
         {
-          "titre": "Mini fléchés gratuits - 17 octobre 2026 Grille n°3706",
-          "analyse": "Remplissez la grille de mini fléchés ci-dessous. Il vous suffit de cliquer sur une case pour pouvoir y entrer la lettre de votre choix. Grille n°3706  du 17 octobre 2026.",
+          "titre": "Plantes grimpantes, vignes, maisons médiévales… Ce village de la Drôme compte pa",
+          "analyse": "Châtillon-en-Diois (Drôme) est l&#039;un des \"Plus beaux villages de France\". Située aux portes du Vercors, cette cité médiévale a su séduire Jean Giono par son charme caractéristique. Elle a également réussi à sauvegarder son vignoble du phylloxéra.",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/jeux/jeux-en-ligne/mini-fleches/mini-fleches-gratuits-17-octobre-2026-grille-3706",
-          "niveau": "moyen"
-        }
-      ]
-    },
-    {
-      "titre": "Finance_Pro",
-      "icone": "📰",
-      "niveau_global": "moyen",
-      "items": [
-        {
-          "titre": "Altaroc lance Altaroc Wealth",
-          "analyse": "Altaroc étoffe sa palette de services destinés à ses partenaires distributeurs en structurant une équipe baptisée Altaroc Wealth.",
-          "source": "PE Magazine",
-          "url": "https://www.pemagazine.fr/altaroc-lance-altaroc-wealth/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Serena, Andera Partners, Nexia S&A… les nominations de la semaine",
-          "analyse": "Serena a nommé JEEHANNE REBOUD (univ. Paris-Saclay, Sorbonne univ.) en tant qu’associate au sein de l’équipe Serena data ventures pour renforcer son équipe deep tech.",
-          "source": "PE Magazine",
-          "url": "https://www.pemagazine.fr/serena-andera-partners-nexia-sa-les-nominations-de-la-semaine/",
-          "niveau": "moyen"
-        }
-      ]
-    },
-    {
-      "titre": "Reglementation",
-      "icone": "📋",
-      "niveau_global": "moyen",
-      "items": [
-        {
-          "titre": "Violences sexuelles à l’école : Trois ans de prison avec sursis pour le compagno",
-          "analyse": "Le compagnon d&#8217;une professeure des &#233;coles a &#233;t&#233; condamn&#233;, vendredi 16 octobre, &#224; trois ans de prison avec sursis probatoire pour l&#8217;agression sexuelle de deux enfants de trois ans, &#224; l&#8217;&#233;cole maternelle des Grands-champs, dans le 20e arrondissement ",
-          "source": "Actu-Juridique",
-          "url": "https://www.actu-juridique.fr/droit-penal/violences-sexuelles/violences-sexuelles-a-lecole-trois-ans-de-prison-avec-sursis-pour-le-compagnon-dune-professeure-de-maternelle/",
-          "niveau": "moyen"
-        }
-      ]
-    },
-    {
-      "titre": "ESG",
-      "icone": "🌱",
-      "niveau_global": "moyen",
-      "items": [
-        {
-          "titre": "Guillaume Pitron : \"Nous ne sommes qu'aux prémices de l’industrialisation des oc",
-          "analyse": "Ce troisième livre, sur les océans, est Avec ce dernier opus sur les océans, Guillaume Pitron clôt sa trilogie sur les ressources. @Jean-Philippe Baltel\nLe concept d’économie bleue a commencé à émerger en 2012. Comment a-t-elle évolué ces dernières années ? On parle d’accélération bleue depuis une d",
-          "source": "Novethic",
-          "url": "https://www.novethic.fr/environnement/biodiversite/guillaume-pitron-nous-ne-sommes-quaux-premices-de-lindustrialisation-des-oceans",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Comment RTE veut raccorder les data centers en Île-de-France",
-          "analyse": "En plus de sa réforme des règles de raccordement autour de « premier prêt, premier servi », dont la consultation arrive à sa fin et que GreenUnivers a détaillée, RTE prépare des plans spécifiques pour l’Île-de-France. Ce territoire est confronté aux\nL’article Comment RTE veut raccorder les data cent",
-          "source": "GreenUnivers",
-          "url": "https://www.greenunivers.com/2026/10/comment-rte-veut-raccorder-les-data-centers-en-ile-de-france-436284/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Recrutement & Salaires 2026 : les profils qui tirent leur épingle du jeu [Dossie",
-          "analyse": "Alors que les plans de sauvegarde de l’emploi (PSE) se multiplient dans la filière des énergies renouvelables, les perspectives d’embauche des entreprises se sont réduites comme peau de chagrin.&#160;Mais il existe des exceptions : en plein développement, les marchés du stockage et de la flexibilité",
-          "source": "GreenUnivers",
-          "url": "https://www.greenunivers.com/2026/10/recrutement-salaires-2026-les-profils-qui-tirent-leur-epingle-du-jeu-dossier-436248/",
-          "niveau": "moyen"
-        }
-      ]
-    },
-    {
-      "titre": "Fintech",
-      "icone": "📰",
-      "niveau_global": "moyen",
-      "items": [
-        {
-          "titre": "Intelligence artificielle et anglais professionnel : pourquoi savoir traduire ne",
-          "analyse": "L'intelligence artificielle révolutionne la communication internationale, mais savoir traduire ne suffit plus. Pour les entreprises, la véritable compétence réside désormais dans la capacité des collaborateurs",
-          "source": "JDN : Derniers contenus",
-          "url": "https://www.journaldunet.com/management/formation/1556761-intelligence-artificielle-et-anglais-professionnel-pourquoi-savoir-traduire-ne-suffit-plus-pour-reussir-a-l-international/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Paris et Berlin s'accordent sur une industrie automobile \"Made in Europe\"",
-          "analyse": "Paris et Berlin s'accordent sur une moindre réduction des émissions de CO2 d'ici 2035 et un \"Made in Europe\" renforcé.",
-          "source": "JDN : Derniers contenus",
-          "url": "https://www.journaldunet.com/economie/industrie/1556755-paris-et-berlin-s-accordent-sur-une-baisse-de-90-des-emissions-de-co2-en-2035/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "\"J'ai revendu de la drogue et des armes grâce aux réseaux criminels du dark web\"",
-          "analyse": "Plongée dans le dark web #8. Sous le pseudonyme The Last Judgement (TLJ), cet homme de 30 ans, qui dissimule son identité derrière une cagoule, raconte au JDN comment il a introduit les pires réseaux criminels du dark web.",
-          "source": "JDN : Derniers contenus",
-          "url": "https://www.journaldunet.com/cybersecurite/1556747-j-ai-revendu-de-la-drogue-et-des-armes-grace-aux-reseaux-criminels-du-dark-web/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Attaquer son employeur aux prud'hommes devient plus simple (mais pas gratuit)",
-          "analyse": "Depuis le 1er octobre 2026, saisir les prud'hommes ne demande plus de joindre ses pièces : un bordereau et le dernier bulletin de salaire suffisent. Mais un timbre de 50 euros est exigé depuis mars.",
-          "source": "JDN : Derniers contenus",
-          "url": "https://www.journaldunet.com/management/emploi-cadres/1556737-attaquer-son-employeur-aux-prud-hommes-devient-plus-simple-mais-pas-gratuit/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Des revenus et des compétences : les vraies raisons de la stratégie chinoise de ",
-          "analyse": "Depuis cet été, Mistral sert sur sa plateforme le modèle GLM de Zhipu AI. Derrière la polémique, un pari financier et technique qui a préparé l'arrivée de Mistral Large 4, son nouveau modèle de 1 000 milliards de paramètres.",
-          "source": "JDN : Derniers contenus",
-          "url": "https://www.journaldunet.com/intelligence-artificielle/1556507-des-revenus-et-des-competences-les-vraies-raisons-de-la-strategie-chinoise-de-mistral/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Alstom prolonge de quinze ans son contrat d'entretien avec Greater Anglia",
-          "analyse": "Le constructeur ferroviaire français consolide sa présence outre-Manche en prolongeant un contrat majeur d'entretien de trains, sur fond de renationalisation du rail britannique.",
-          "source": "JDN : Derniers contenus",
-          "url": "https://www.journaldunet.com/economie/industrie/1556735-alstom-prolonge-de-quinze-ans-son-contrat-d-entretien-avec-greater-anglia/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Les sites web voient leur trafic provenant de ChatGPT s’effondrer à cause d’un c",
-          "analyse": "Le trafic provenant de ChatGPT enregistre une baisse significative dans les statistiques. Les visites ne sont pas moins nombreuses pour autant. ChatGPT a temporairement cessé d&#8217;ajouter des paramètres UTM à certains liens, ce qui complique la mesure du trafic qu&#8217;il génère. Il est donc dif",
-          "source": "Siècle Digital",
-          "url": "https://siecledigital.fr/2026/10/16/le-trafic-provenant-de-chatgpt-seffondre-dans-les-statistiques-mais-les-visites-nont-pas-forcement-disparu/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Les startups françaises ont levé 58,5 millions d'euros cette semaine",
-          "analyse": "L’article Les startups françaises ont levé 58,5 millions d&#039;euros cette semaine est apparu en premier sur Maddyness - Le média pour comprendre l&#039;économie de demain.",
-          "source": "Maddyness - Le média pour comprendre l'économie de demain",
-          "url": "https://www.maddyness.com/2026/10/16/les-startups-francaises-ont-leve-585-millions-deuros-cette-semaine/",
+          "url": "https://www.notretemps.com/loisirs/tourisme/plantes-grimpantes-vignes-maisons-medievales-ce-village-de-la-drome-compte-parmi-les-plus-beaux-de-france-140309",
           "niveau": "moyen"
         }
       ]
