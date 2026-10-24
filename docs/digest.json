@@ -1,8 +1,8 @@
 {
-  "date_fr": "Friday 23 October 2026",
-  "compte_articles": 250,
+  "date_fr": "Saturday 24 October 2026",
+  "compte_articles": 190,
   "compte_forts": 0,
-  "compte_moyens": 250,
+  "compte_moyens": 190,
   "synthese_jour": "Synthese IA non disponible (fallback). Consultez les articles ci-dessous.",
   "chiffres_cles": [],
   "sections": [
@@ -12,59 +12,59 @@
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "EN DIRECT, manifestations du 24 octobre : Laurent Nuñez promet d’être « intraita",
-          "analyse": "Le ministre de l’intérieur a évoqué des messages diffusés sur les réseaux sociaux qu’il attribue à « la mouvance ultragauche et l’extrême gauche radicale ».",
+          "titre": "Attentat raciste de Trappes : le tireur présumé a dit avoir voulu venger les com",
+          "analyse": "D’après les informations du « Monde », l’homme soupçonné d’avoir tué une personne et blessé cinq autres, dans les Yvelines, a déclaré aux policiers vouloir s’en prendre aux « Noirs » et aux « Arabes ». Un exemplaire de « Mein Kampf » a été découvert à son domicile.",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/societe/live/2026/10/23/en-direct-manifestations-du-24-octobre-plusieurs-partis-et-syndicats-denoncent-les-interdictions-de-manifester_6795855_3224.html",
+          "url": "https://www.lemonde.fr/societe/article/2026/10/24/attentat-raciste-de-trappes-le-tireur-presume-a-dit-avoir-voulu-venger-les-commercants-pilles-le-17-octobre-et-avoir-cible-des-personnes-de-couleur_6799689_3224.html",
           "niveau": "moyen"
         },
         {
-          "titre": "A Trappes et à La Verrière, un tireur tue une personne et en blesse quatre autre",
-          "analyse": "Un individu a tiré dans la rue à Trappes et à La Verrière, avant d’être interpellé et placé en garde à vue, selon le premier ministre.",
+          "titre": "EN DIRECT, manifestations du 24 octobre : à Paris, les manifestants se rassemble",
+          "analyse": "L’intersyndicale a accepté samedi midi le nouveau parcours, qui mène à la porte de Vincennes, alors que la Préfecture avait précédemment accepté un tracé entre Bastille et Nation. Une cellule de crise a été réunie par le cabinet du premier ministre à Beauvau avec les services de renseignement, de po",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/societe/article/2026/10/23/dans-les-yvelines-un-mort-et-quatre-blesses-dans-une-fusillade-le-parquet-national-antiterroriste-en-observation-annonce-sebastien-lecornu_6799057_3224.html",
+          "url": "https://www.lemonde.fr/societe/live/2026/10/24/en-direct-manifestations-du-24-octobre-a-paris-le-parcours-entre-la-porte-d-italie-et-la-porte-de-vincennes-reste-le-seul-autorise-apres-le-rejet-d-un-recours-par-le-tribunal-administratif_6799445_3224.html",
           "niveau": "moyen"
         },
         {
-          "titre": "Tempête Austen : 23 départements du nord et de l’ouest de la France en vigilance",
-          "analyse": "La tempête Austen entraîne la fermeture du village de la Route du rhum, à Saint-Malo, et perturbe fortement la circulation ferroviaire dans l’ouest et le nord du pays.",
+          "titre": "Dix ans après la fin de la « jungle » de Calais, l’errance des migrants se pours",
+          "analyse": "En une décennie, la volonté des autorités françaises et britanniques d’empêcher la reconstitution d’un bidonville comme celui démantelé en octobre 2016 a redessiné la géographie de l’exil dans le nord de la France : les campements se sont dispersés et les traversées pour rejoindre le Royaume-Uni son",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/planete/article/2026/10/23/tempete-austen-23-departements-du-nord-et-de-l-ouest-de-la-france-en-vigilance-orange-plus-de-160-000-foyers-prives-d-electricite_6799023_3244.html",
+          "url": "https://www.lemonde.fr/societe/article/2026/10/23/en-cartes-dix-ans-apres-la-fin-de-la-jungle-de-calais-l-errance-des-migrants-se-poursuit-sur-la-cote-nord-de-la-france_6799133_3224.html",
           "niveau": "moyen"
         },
         {
-          "titre": "Le budget de la Sécurité sociale pour 2027 rejeté à la quasi-unanimité par l’Ass",
-          "analyse": "Le rejet du projet de loi de financement de la Sécurité sociale était attendu depuis l’ouverture des débats en séance, mardi 20 octobre.",
+          "titre": "Présidentielle au Brésil : Flavio Bolsonaro plus policé, Lula plus offensif lors",
+          "analyse": "Alors que les deux candidats sont à égalité dans les sondages, le dernier débat télévisé pouvait faire basculer les indécis avant le second tour, dimanche 25 octobre. Si Flavio Bolsonaro a pu développer ses propositions économiques, il a aussi trébuché sur une attaque personnelle contre Luiz Inacio ",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/10/23/le-budget-de-la-securite-sociale-pour-2027-rejete-a-la-quasi-unanimite-par-l-assemblee-nationale-en-premiere-lecture-le-texte-transmis-au-senat_6799067_823448.html",
+          "url": "https://www.lemonde.fr/international/article/2026/10/24/presidentielle-au-bresil-flavio-bolsonaro-plus-police-lula-plus-offensif-lors-d-un-second-debat-crucial_6799678_3210.html",
           "niveau": "moyen"
         },
         {
-          "titre": "Qui viendra sauver la France en cas de crise de la dette ?",
-          "analyse": "Alors que les taux d’intérêt des obligations françaises ont dépassé 5 % pour la première fois depuis 2002, le spectre d’une vraie crise budgétaire se rapproche. La principale digue est celle de la BCE, tandis qu’une intervention du Fonds monétaire international est presque certainement exclue.",
+          "titre": "En Israël, les impasses de la campagne des législatives",
+          "analyse": "Les électeurs israéliens votent le 27 octobre. Gadi Eisenkot, l’adversaire centriste de Benyamin Nétanyahou, désapprouve le projet de colonisation E1, qui couperait en deux le plus grand territoire palestinien. Mais il s’oppose avec autant de fermeté que le premier ministre à la création d’un Etat p",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/10/23/qui-viendra-sauver-la-france-en-cas-de-crise-de-la-dette_6798902_3234.html",
+          "url": "https://www.lemonde.fr/idees/article/2026/10/24/en-israel-les-impasses-de-la-campagne-des-legislatives_6799681_3232.html",
           "niveau": "moyen"
         },
         {
-          "titre": "L’armée israélienne mène des « opérations antiterroristes » en Cisjordanie, aprè",
-          "analyse": "Une attaque armée a fait cinq blessés, dont deux sont dans un état critique, vendredi près de Hébron. Le premier ministre israélien, Benyamin Nétanyahou, a annulé les événements électoraux du Likoud prévus pour vendredi, et a annoncé qu’il avait ordonné à l’armée de se préparer à « un bouclage total",
+          "titre": "Le biologiste Olivier Hamant, chantre de la robustesse face au « burn-out planét",
+          "analyse": "Le chercheur, spécialiste de la biophysique des plantes, plaide pour que le culte de la performance cède le pas à une recherche de robustesse des systèmes inspirée du vivant. Une invitation à la « bifurcation » reflétée par son parcours.",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/international/article/2026/10/23/apres-une-attaque-en-cisjordanie-benyamin-netanyahou-annule-des-evenements-electoraux-du-likoud-avant-les-legislatives-en-israel_6799033_3210.html",
+          "url": "https://www.lemonde.fr/sciences/article/2026/10/24/le-biologiste-olivier-hamant-chantre-de-la-robustesse-face-au-burn-out-planetaire_6799587_1650684.html",
           "niveau": "moyen"
         },
         {
-          "titre": "Face à une actualité anxiogène, puis-je faire la politique de l’autruche en fami",
-          "analyse": "Couper les infos en ces temps chaotiques le temps d’un film peut être une mesure « de protection de notre santé mentale », assure à Clara Georges Virginie Sassoon, qui éduque aux médias et à l’information, pour la newsletter « Darons daronnes ».",
+          "titre": "Tempête Austen : le Pas-de-Calais maintenu en vigilance orange pluie-inondation,",
+          "analyse": "Le département entrera en alerte orange à 21 heures samedi jusqu’à 4 heures dimanche, en raison du passage de la perturbation Boelo, à la suite de la tempête Austen.",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/intimites/article/2026/10/23/face-a-une-actualite-anxiogene-puis-je-faire-la-politique-de-l-autruche-en-famille_6798947_6190330.html",
+          "url": "https://www.lemonde.fr/planete/article/2026/10/24/tempete-austen-le-pas-de-calais-maintenu-en-vigilance-orange-pluie-inondation-120-000-foyers-sans-electricite-dans-l-ouest-et-le-nord_6799655_3245.html",
           "niveau": "moyen"
         },
         {
-          "titre": "Jean-Paul Huchon, ancien président socialiste de la région Ile-de-France, est mo",
-          "analyse": "Le socialiste a aussi été maire de Conflans-Sainte-Honorine (Yvelines) entre 1994 et 2001, ainsi que directeur de cabinet de Michel Rocard à Matignon entre 1988 et 1991.",
+          "titre": "EN DIRECT, guerre en Ukraine : Kiev dit avoir de nouveau une « connexion stable ",
+          "analyse": "« Nous enregistrons des vitesses supérieures à 400 km/h et la connexion [au système Starlink de SpaceX] est stable », s’est félicité le ministre de la défense ukrainien, samedi matin, après plusieurs jours de bridage de sa vitesse sur fond de tensions avec Washington.",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/10/23/jean-paul-huchon-ancien-president-socialiste-de-la-region-ile-de-france-est-mort_6799030_823448.html",
+          "url": "https://www.lemonde.fr/international/live/2026/10/24/en-direct-guerre-en-ukraine-des-negociations-directes-avec-la-russie-sous-mediation-americaine-prevues-pour-novembre-confirme-volodymyr-zelensky_6796922_3210.html",
           "niveau": "moyen"
         }
       ]
@@ -75,59 +75,73 @@
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "Sam Bankman-Fried says he has paid his debts",
-          "analyse": "The crypto tycoon speaks with The Economist from prison in California",
-          "source": "Finance & economics",
-          "url": "https://www.economist.com/finance-and-economics/2026/10/22/sam-bankman-fried-says-he-has-paid-his-debts",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Multinational businesses are losing confidence in Indonesia",
-          "analyse": "Its bountiful resources and vast population are attractive, but its government is a nightmare",
-          "source": "Business",
-          "url": "https://www.economist.com/business/2026/10/22/multinational-businesses-are-losing-confidence-in-indonesia",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "If AI displaces human workers, they will lose more than just pay",
-          "analyse": "Work has value beyond the income it provides",
-          "source": "Business",
-          "url": "https://www.economist.com/business/2026/10/22/if-ai-displaces-human-workers-they-will-lose-more-than-just-pay",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "The mobile ambitions of SpaceX see telecom stocks get hit again. What the latest",
-          "analyse": "Reports of Starlink’s discussions with cell-tower owners were noticed by shareholders of Verizon, AT&T and T-Mobile.",
+          "titre": "‘Non-answers’ aren’t working. This is what investors really need from the Fed.",
+          "analyse": "What really matters to investors, economists say, is for Fed Chairman Kevin Warsh to prove he can successfully communicate the central bank’s strategy.",
           "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/the-mobile-ambitions-of-spacex-see-telecom-stocks-get-hit-again-what-the-latest-developments-mean-9a4159b5?mod=mw_rss_topstories",
+          "url": "https://www.marketwatch.com/story/non-answers-arent-working-this-is-what-investors-really-need-from-the-fed-673a9dce?mod=mw_rss_topstories",
           "niveau": "moyen"
         },
         {
-          "titre": "The stock market is splitting in two. Is that signaling trouble ahead, or just a",
-          "analyse": "Tech stocks are slumping — even as more than 300 S&P 500 constituents rose Thursday — and Treasurys are rallying. Here’s what may be changing.",
+          "titre": "Do machines have feelings? AI has philosophers and tech leaders rethinking consc",
+          "analyse": "As AI models become more advanced, tech leaders and philosophers are mulling the relationship between humanity and technology.",
           "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/the-stock-market-is-splitting-in-two-is-that-signaling-trouble-ahead-or-just-a-new-set-of-winners-f51aaeab?mod=mw_rss_topstories",
+          "url": "https://www.marketwatch.com/story/do-machines-have-feelings-ai-has-philosophers-and-tech-leaders-rethinking-consciousness-00e5ad78?mod=mw_rss_topstories",
           "niveau": "moyen"
         },
         {
-          "titre": "Treasury yields log biggest drop since the 2023 banking crisis. Here’s what’s go",
-          "analyse": "‘It’s a take-back trade,’ says PGIM’s Tipp. ‘Not an all-out fear of recession type of situation.’",
+          "titre": "‘She’s living the dream’: My stepmother said I can buy my childhood home for $85",
+          "analyse": "“My late father bought our house for $250,000 in the 1990s.”",
           "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/treasury-yields-see-extreme-plunge-why-investors-are-ducking-for-cover-60044c66?mod=mw_rss_topstories",
+          "url": "https://www.marketwatch.com/story/shes-living-the-dream-my-stepmother-said-i-can-buy-my-childhood-home-for-850-000-is-she-taking-advantage-of-me-1fdda7b5?mod=mw_rss_topstories",
           "niveau": "moyen"
         },
         {
-          "titre": "France is getting its credit rating reviewed. The French debt turmoil has helped",
-          "analyse": "Moody’s is set to update its rating on France’s debt after U.S. markets close on Friday.",
+          "titre": "My spouse was awarded $90,000 from my 401(k) in our divorce. How is that fair?",
+          "analyse": "“I retired in 2020 and subsequently went through a divorce a few years later.”",
           "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/france-is-getting-its-credit-rating-reviewed-by-moodys-what-to-expect-as-french-debt-turmoil-spills-overseas-e39de111?mod=mw_rss_topstories",
+          "url": "https://www.marketwatch.com/story/my-spouse-was-awarded-90-000-from-my-401-k-in-our-divorce-how-is-that-fair-dc839aa3?mod=mw_rss_topstories",
           "niveau": "moyen"
         },
         {
-          "titre": "The U.S. stock market is fracturing into two camps, and it’s leaving investors w",
-          "analyse": "The artificial-intelligence trade is on the ropes. CNN’s “Fear & Greed” index is screaming fear, and the yield on the 10-year Treasury note just clinched its biggest daily drop since the collapse of Silicon Valley Bank.",
+          "titre": "‘I don’t feel sorry for myself’: I’m 64 and will be renting for the rest of my l",
+          "analyse": "“I married a wonderful man with a good income. He left his job due to health issues and suffered a massive stroke at 53.”",
           "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/the-u-s-stock-market-is-fracturing-into-two-camps-and-its-leaving-investors-with-a-brutal-case-of-whiplash-e8580a99?mod=mw_rss_topstories",
+          "url": "https://www.marketwatch.com/story/my-husband-suffered-a-massive-stroke-at-53-im-64-and-will-rent-for-the-rest-of-my-life-but-im-still-hopeful-46bd6ce9?mod=mw_rss_topstories",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Will Anthropic pull off a November IPO? Time is running out to file key paperwor",
+          "analyse": "If market pressures keep building, Anthropic “could reasonably decide it is better to stay private and wait for a better opportunity,” one portfolio manager says.",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/will-anthropic-pull-off-a-november-ipo-time-is-running-out-to-file-key-paperwork-52677343?mod=mw_rss_topstories",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Investors piled a record sum into a leveraged semiconductor ETF last week. Thing",
+          "analyse": "Traders making bullish bets on chip stocks are getting walloped this month, as renewed fears emerged about investment returns on the buildout of artificial intelligence.",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/investors-piled-a-record-sum-into-a-leveraged-semiconductor-etf-last-week-things-didnt-work-out-4680b2f3?mod=mw_rss_topstories",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "This hot AI-fueled stock has been in a rut. It just beat earnings expectations b",
+          "analyse": "A company beating earnings expectations by 36% and revenue expectations by 15% would usually see a postresults bump. But not for Bloom Energy, the fuel-cell maker that has flourished due to data-center demand.",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/this-hot-ai-fueled-stock-has-been-in-a-rut-it-just-beat-earnings-expectations-by-36-4a4188cb?mod=mw_rss_topstories",
+          "niveau": "moyen"
+        }
+      ]
+    },
+    {
+      "titre": "Marches financiers",
+      "icone": "🏛️",
+      "niveau_global": "moyen",
+      "items": [
+        {
+          "titre": "Piero Cipollone: Interview with Milano Finanza",
+          "analyse": "",
+          "source": "ECB - European Central Bank",
+          "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261024~ee2ba73cf3.en.html",
           "niveau": "moyen"
         }
       ]
@@ -138,59 +152,59 @@
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "SCPI Métronome : un immeuble de bureaux acquis à Saint-Herblain",
-          "analyse": "Que révèle l’acquisition de Novawest à Saint-Herblain ? Emplacement, usages et critères environnementaux éclairent la stratégie de Métronome.",
+          "titre": "SCPI Épargne Pierre : deux distributions exceptionnelles à venir",
+          "analyse": "Qui percevra les deux versements exceptionnels ? Les dates et règles de détention précisent le calendrier avant la mensualisation.",
           "source": "MeilleureSCPI.com",
-          "url": "https://www.meilleurescpi.com/actualites/scpi-metronome-un-immeuble-de-bureaux-acquis-a-saint-herblain/",
+          "url": "https://www.meilleurescpi.com/actualites/scpi-epargne-pierre-deux-distributions-exceptionnelles-a-venir/",
           "niveau": "moyen"
         },
         {
-          "titre": "La SCPI Edmond de Rothschild Europa franchit le cap des 200 M€",
-          "analyse": "Comment mesurer cette étape de croissance ? Les données de collecte, d’actifs et d’occupation apportent des repères pour évaluer le développement.",
+          "titre": "La valeur de reconstitution de NCap Continent progresse au 1S 2026",
+          "analyse": "Pourquoi la valeur de reconstitution de NCap Continent progresse-t-elle ? Les marchés européens et la stratégie d’investissement éclairent cette évolution.",
           "source": "MeilleureSCPI.com",
-          "url": "https://www.meilleurescpi.com/actualites/la-scpi-edmond-de-rothschild-europa-franchit-le-cap-des-200-meur/",
+          "url": "https://www.meilleurescpi.com/actualites/scpi-ncap-continent-la-valeur-de-reconstitution-progresse-de-2-85-au-s1/",
           "niveau": "moyen"
         },
         {
-          "titre": "SCPI PPG PremEurope : cap sur l'Écosse pour sa première acquisition",
-          "analyse": "La SCPI PPG PremEurope réalise sa première acquisition à Aberdeen, en Écosse : deux bâtiments de 2 522 m², loués à 100 %, pour 4,2 M€ hors droits.",
+          "titre": "Comète en tête du classement des SCPI prometteuses du Particulier",
+          "analyse": "Que révèle la première place de Comète ? Les critères, la collecte et sa stratégie éclairent cette distinction.",
           "source": "MeilleureSCPI.com",
-          "url": "https://www.meilleurescpi.com/actualites/scpi-ppg-premeurope-cap-sur-l-ecosse-pour-sa-premiere-acquisition/",
+          "url": "https://www.meilleurescpi.com/actualites/comete-en-tete-du-classement-des-scpi-prometteuses-du-particulier/",
           "niveau": "moyen"
         },
         {
-          "titre": "Foncières cotées : quelles performances au premier semestre 2026 ?",
-          "analyse": "Entre remontée des taux, décote persistante et résultats opérationnels solides, les foncières cotées ont traversé un premier semestre contrasté. Forvis Mazars fait le point sur un panel de dix acteurs.   Dans sa newsletter de septembre 2026, Forvis Mazars dresse le bilan des résultats du premier sem",
-          "source": "Pierrepapier.fr",
-          "url": "https://www.pierrepapier.fr/fonciere/foncieres-cotees-quelles-performances-au-premier-semestre-2026/",
+          "titre": "AEW Commerces Europe : un retail park acquis off-market en Espagne",
+          "analyse": "La SCPI AEW Commerces Europe acquiert 26 677 m² au sein du Granaita Retail Park à Grenade, en Espagne. Découvrez les caractéristiques de cet actif.",
+          "source": "MeilleureSCPI.com",
+          "url": "https://www.meilleurescpi.com/actualites/aew-commerces-europe-acquiert-le-granaita-retail-park-a-grenade/",
           "niveau": "moyen"
         },
         {
-          "titre": "ChatGPT, Google, Instagram : Comment RealAdvisor booste la visibilité des agents",
-          "analyse": "Comment être l'agent immobilier que les vendeurs trouvent et choisissent ? RealAdvisor multiplie les points de contact, de Google à Instagram en passant par ChatGPT, pour renforcer la visibilité de ses partenaires et les aider à décrocher des mandats.\nCet article ChatGPT, Google, Instagram : Comment",
+          "titre": "SCPI Telamon Borea : un TD de 7,5 % sur ses 12 premiers mois",
+          "analyse": "SCPI Telamon Borea : que révèle son taux de 7,5 % ? Les premiers actifs et les limites de ce résultat éclairent l’analyse.",
+          "source": "MeilleureSCPI.com",
+          "url": "https://www.meilleurescpi.com/actualites/scpi-telamon-borea-un-taux-de-distribution-de-7-5-sur-ses-12-premiers-mois/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Transitions Europe se renforce en Italie et y investit en logistique",
+          "analyse": "Comment Transitions Europe étend-elle son portefeuille italien ? Les éléments clés d’une acquisition associant commerces et logistique",
+          "source": "MeilleureSCPI.com",
+          "url": "https://www.meilleurescpi.com/actualites/transitions-europe-un-portefeuille-mixte-de-plus-de-33-000-m2-acquis-en-italie/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Reconnaissance de dette : Au-delà de 1 500 €, un écrit s’impose",
+          "analyse": "Prêter de l’argent à un proche demande quelques précautions. Au-delà de 1 500 €, un écrit s’impose. Mentions à prévoir, déclaration fiscale et délai pour réclamer son dû : les règles à connaître.\nCet article Reconnaissance de dette : Au-delà de 1 500 €, un écrit s’impose est apparu en premier sur My",
           "source": "MySweetimmo",
-          "url": "https://www.mysweetimmo.com/2026/10/23/chatgpt-google-instagram-comment-realadvisor-booste-la-visibilite-des-agents-immobiliers/",
+          "url": "https://www.mysweetimmo.com/2026/10/24/reconnaissance-de-dette-au-dela-de-1-500-e-un-ecrit-simpose/",
           "niveau": "moyen"
         },
         {
-          "titre": "Cohabitation intergénérationnelle : L’exonération fiscale menacée fin 2026",
-          "analyse": "L’exonération fiscale des loyers d’une chambre meublée chez soi arrive à échéance le 31 décembre 2026. Ensemble2générations demande son maintien pour préserver la cohabitation entre seniors et jeunes en recherche de logement.\nCet article Cohabitation intergénérationnelle : L’exonération fiscale mena",
+          "titre": "Réseaux de mandataires : Pourquoi l’expertise des conseillers devient décisive",
+          "analyse": "Après le rebond de 2025, les réseaux de mandataires affrontent un marché plus incertain. Pour Expertimo, la croissance repose désormais autant sur l’expertise des conseillers que sur la capacité à recruter.\nCet article Réseaux de mandataires : Pourquoi l’expertise des conseillers devient décisive es",
           "source": "MySweetimmo",
-          "url": "https://www.mysweetimmo.com/2026/10/23/cohabitation-intergenerationnelle-lexoneration-fiscale-menacee-fin-2026/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Crédit immobilier : OAT à 5%, faut-il s’inquiéter ?",
-          "analyse": "L’OAT à 5 % pourrait accentuer la hausse des taux immobiliers, sans entraîner un blocage automatique du crédit. Pour les acheteurs, le budget et les conditions du prêt restent décisifs. \nCet article Crédit immobilier : OAT à 5%, faut-il s&rsquo;inquiéter ? est apparu en premier sur MySweetimmo.",
-          "source": "MySweetimmo",
-          "url": "https://www.mysweetimmo.com/2026/10/23/credit-immobilier-oat-a-5-faut-il-sinquieter/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Immobilier : Les prix baissent mais la reprise s’essouffle",
-          "analyse": "Les prix des logements anciens reculent de 0,8 % sur un an, tandis que la reprise des ventes ralentit. Les notaires anticipent une stabilisation des prix à l’automne, mais le financement reste décisif pour les acheteurs.\nCet article Immobilier : Les prix baissent mais la reprise s’essouffle est appa",
-          "source": "MySweetimmo",
-          "url": "https://www.mysweetimmo.com/2026/10/23/immobilier-les-prix-baissent-mais-la-reprise-sessouffle/",
+          "url": "https://www.mysweetimmo.com/2026/10/24/reseaux-de-mandataires-pourquoi-lexpertise-des-conseillers-devient-decisive/",
           "niveau": "moyen"
         }
       ]
@@ -201,59 +215,59 @@
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "Tempête Austen : 288.600 foyers sans électricité, 23 départements en vigilance o",
-          "analyse": "Austen, première tempête automnale de l&#039;année, balaye vendredi la façade nord-ouest de la France, jusqu&#039;en région parisienne, avec 23 départements en vigilance orange pour vent et plus de 288.000 foye...",
+          "titre": "Mobilisation du 24 octobre : choses vues, choses entendues",
+          "analyse": "Des commerces déjà barricadés ou contraints d&#039;improviser, des blindés Centaure, la place de la Bastille évacuée quand la porte d&#039;Italie se remplit, un manifestant qui appelle à s&#039;aimer, ...Choses vues...",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/depeches/tempete-austen-288600-foyers-sans-electricite-23-departements-en-vigilance-orange-140558",
+          "url": "https://www.notretemps.com/depeches/mobilisation-du-24-octobre-choses-vues-choses-entendues-140583",
           "niveau": "moyen"
         },
         {
-          "titre": "Perturbateurs endocriniens : prévention, information et surveillance au menu d'u",
-          "analyse": "Pour réduire l&#039;impact des perturbateurs endocriniens sur la santé et l&#039;environnement, une troisième stratégie nationale (2026-2030) affiche l&#039;objectif de mieux informer et protéger les F...",
+          "titre": "Crise sociale : mobilisation sous très haute sécurité, la justice autorise plusi",
+          "analyse": "Syndicats, lycéens, étudiants et gilets jaunes ont commencé à se rassembler samedi pour le pouvoir d&#039;achat et la défense des services publics, la justice ayant levé certaines interdictions de manifest...",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/depeches/perturbateurs-endocriniens-prevention-information-et-surveillance-au-menu-d-une-nouvelle-strategie-nationale-140556",
+          "url": "https://www.notretemps.com/depeches/crise-sociale-mobilisation-sous-tres-haute-securite-la-justice-autorise-plusieurs-manifestations-140577",
           "niveau": "moyen"
         },
         {
-          "titre": "Prix en rayon: les distributeurs menacent de boycotter une réunion à Bercy avec ",
-          "analyse": "Les principaux distributeurs ont menacé vendredi de boycotter une réunion organisée mercredi à Bercy à un mois du début de leurs négociations tarifaires annuelles avec les industriels de...",
+          "titre": "Fusillade dans les Yvelines: la garde à vue du suspect prolongée après une premi",
+          "analyse": "La garde à vue de l&#039;homme ayant tué une personne et fait cinq blessés vendredi dans les Yvelines a été prolongée samedi matin après une première audition, tandis que trois personnes de son entourage s...",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/depeches/prix-en-rayon-les-distributeurs-menacent-de-boycotter-une-reunion-a-bercy-avec-les-agro-industriels-140553",
+          "url": "https://www.notretemps.com/depeches/fusillade-dans-les-yvelines-la-garde-a-vue-du-suspect-prolongee-apres-une-premiere-audition-140585",
           "niveau": "moyen"
         },
         {
-          "titre": "Mort de Jean-Paul Huchon, figure rocardienne et de l'Île-de-France",
-          "analyse": "Figure du Parti socialiste ayant évolué dans le sillage de son mentor Michel Rocard, réputé fin tacticien, Jean-Paul Huchon, qui a présidé la région Île-de-France pendant plus de 15 ans, est mort dans...",
+          "titre": "Mairie de Limoges incendiée : les deux suspects mis en examen et placés en déten",
+          "analyse": "Les deux suspects déférés dans le cadre de l&#039;information judiciaire ouverte après l&#039;incendie de la mairie de Limoges, pendant la mobilisation du 17 octobre, ont été mis en examen et placés en détentio...",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/depeches/mort-de-jean-paul-huchon-figure-rocardienne-et-de-l-ile-de-france-140551",
+          "url": "https://www.notretemps.com/depeches/mairie-de-limoges-incendiee-les-deux-suspects-mis-en-examen-et-places-en-detention-provisoire-140584",
           "niveau": "moyen"
         },
         {
-          "titre": "Le club des \"grands-parents anonymes\": \"J'ai peur que mon petit-fils manifeste\"",
-          "analyse": "Pas toujours simple, la vie de grand‑parent. Au club des Grands‑Parents Anonymes (CGPA), on rit, on décrypte, on se reconnaît. Et on garde notre humour. Une question, une bourde, un conflit, une scène familiale? Cette rubrique est la vôtre… partagez‑la, n&#039;hésitez pas à commenter!",
+          "titre": "Des milliers de manifestants défilent à Orléans contre le congrès du RN",
+          "analyse": "Point d&#039;orgue d&#039;un nouveau samedi de mobilisation sous haute surveillance partout en France, des milliers de personnes manifestent à Orléans contre le congrès du Rassemblement national, à la veille du...",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/famille/petits-enfants-grands-parents/le-club-des-grands-parents-anonymes-j-ai-peur-que-mon-petit-fils-manifeste-140546",
+          "url": "https://www.notretemps.com/depeches/des-milliers-de-manifestants-defilent-a-orleans-contre-le-congres-du-rn-140578",
           "niveau": "moyen"
         },
         {
-          "titre": "UCPVax: ce vaccin thérapeutique français pourrait agir contre plus de 90% des ca",
-          "analyse": "Développé au CHU de Besançon, UCPVax stimule l&#039;immunité de patients déjà atteints d&#039;un cancer. Les premiers essais montrent des réponses immunitaires et des signaux cliniques encourageants, à confirmer sur de plus grandes cohortes.",
+          "titre": "Le gouvernement interdit officiellement l'installation d'airbags de réemploi",
+          "analyse": "Le gouvernement a interdit l&#039;installation dans les véhicules de coussins gonflables (airbags) issus d&#039;une opération de réemploi ou de réutilisation, selon un décret publié samedi au Jour...",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/sante-bien-etre/medecine/ucpvax-ce-vaccin-therapeutique-francais-pourrait-agir-contre-plus-de-90-des-cancers-140511",
+          "url": "https://www.notretemps.com/depeches/le-gouvernement-interdit-officiellement-l-installation-d-airbags-de-reemploi-140582",
           "niveau": "moyen"
         },
         {
-          "titre": "Avec \"Modern Warfare 4\", Call of Duty renoue avec la guerre à grand spectacle po",
-          "analyse": "Invasion d&#039;une ville sud-coréenne, course-poursuite dans les rues de Paris... Le nouvel opus de la saga de jeux vidéo Call of Duty, disponible vendredi, renoue avec les explosions et les...",
+          "titre": "Un décret publié en vue de la libération de stocks stratégiques de gazole",
+          "analyse": "Un décret fixant les conditions économiques de la libération de stocks stratégiques de gazole annoncée début octobre par le Premier ministre Sébastien Lecornu a été publié samedi au Jour...",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/depeches/avec-modern-warfare-4-call-of-duty-renoue-avec-la-guerre-a-grand-spectacle-pour-retrouver-ses-fans-140545",
+          "url": "https://www.notretemps.com/depeches/un-decret-publie-en-vue-de-la-liberation-de-stocks-strategiques-de-gazole-140581",
           "niveau": "moyen"
         },
         {
-          "titre": "Cancers pédiatriques: comment le chercheur Franck Bourdeaut travaille pour soign",
-          "analyse": "Le cancer ne concerne pas que les adultes: peu fréquent chez les plus jeunes, il touche malgré tout quelque 2 000 enfants chaque année en France. Heureusement, les travaux de ce pédiatre sur un cancer rare laissent pointer de beaux espoirs pour tous les cancers. Car mieux comprendre les tumeurs de l",
+          "titre": "Avec ses maisons Renaissance et son château médiéval, ce village de Touraine est",
+          "analyse": "Crissay-sur-Manse (Indre-et-Loire) est l&#039;un des \"Plus beaux villages de France\". Ce bourg, qui domine la vallée de la Manse depuis plus de 1 000 ans, a su garder et cultiver son caractère médiéval grâce à son église, son château et ses maisons construits avec la même pierre: le tuffeau.",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/sante-bien-etre/medecine/cancers-pediatriques-comment-le-chercheur-franck-bourdeaut-ouvre-des-portes-pour-soigner-tous-les-cancers-138937",
+          "url": "https://www.notretemps.com/loisirs/tourisme/avec-ses-maisons-renaissance-et-son-chateau-medieval-ce-village-de-touraine-est-l-un-des-plus-beaux-de-france-140552",
           "niveau": "moyen"
         }
       ]
@@ -264,17 +278,73 @@
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "Biologie médicale : quand le levier à 7,5x rencontre l’indépendance professionne",
-          "analyse": "L’arrêt Imapole du 2 octobre 2026 a remis au premier plan une question structurelle que le private equity préférait tenir à distance : dans les professions de santé réglementées, la détention du capital ne suffit pas à garantir le contrôle effectif. La radiologie a eu son Conseil d’État. La biologie",
-          "source": "Finyear",
-          "url": "https://finyear.com/biologie-medicale-quand-le-levier-a-75x-rencontre-lindependance-professionnelle/",
+          "titre": "Supernova Invest, Argos Fund, Stephenson Harwood Paris… les nominations de la se",
+          "analyse": "L’ancienne vice-présidente de Big Idea Ventures, HENRIETTA HEARTH (Newcastle Univ., Insead), a été nommée directrice d’investissement énergie et environnement chez Supernova Invest.",
+          "source": "PE Magazine",
+          "url": "https://www.pemagazine.fr/supernova-invest-argos-fund-stephenson-harwood-paris-les-nominations-de-la-semaine/",
+          "niveau": "moyen"
+        }
+      ]
+    },
+    {
+      "titre": "ESG",
+      "icone": "🌱",
+      "niveau_global": "moyen",
+      "items": [
+        {
+          "titre": "Appel d’offres solaire au sol : EDF a-t-il cassé les prix ?",
+          "analyse": "&#160; Enquête &#8211; Que s’est-il passé lors de l’appel d’offres qui a attribué, il y a deux semaines, un soutien financier public de 61,33€/MWh en moyenne à 125 centrales photovoltaïques au sol représentant 931 MW de puissance ? Sa première bizarrerie : le prix moyen s’est effondré de 18,15€ depu",
+          "source": "GreenUnivers",
+          "url": "https://www.greenunivers.com/2026/10/appel-doffres-solaire-au-sol-edf-a-t-il-casse-les-prix-436738/",
           "niveau": "moyen"
         },
         {
-          "titre": "Satys Electric poursuit son développement et s’associe à Siparex Midcap, aux côt",
-          "analyse": "Siparex Midcap devient actionnaire minoritaire de Satys Electric, acteur de référence des solutions électriques industrielles, aux côtés de Bpifrance et de Crédit Agricole Régions Investissement (Carvest) qui réinvestissent à cette occasion, et du management qui prend le contrôle majoritaire du Grou",
-          "source": "Finyear",
-          "url": "https://finyear.com/satys-electric-poursuit-son-developpement-et-sassocie-a-siparex-midcap-aux-cotes-de-bpifrance-et-carvest/",
+          "titre": "Peu de chances de voir des projets éoliens à l’appel d’offres « neutre »",
+          "analyse": "L’appel d’offres « technologiquement neutre » clos le 16 octobre dernier semble destiné encore une fois à voir les projets solaires remporter la plupart du volume. Différents développeurs \nL’article Peu de chances de voir des projets éoliens à l&rsquo;appel d&rsquo;offres « neutre » est apparu en pr",
+          "source": "GreenUnivers",
+          "url": "https://www.greenunivers.com/2026/10/peu-de-chances-de-voir-des-projets-eoliens-a-lappel-doffres-neutre-436737/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Osborn Metals, un cas d’école de la décarbonation par l’électrification [3]",
+          "analyse": "GreenUnivers publie une série de quatre articles sur la décarbonation chez les industriels. Quels secteurs sont les plus porteurs ? Que proposent les financeurs ? Comment les producteurs d&#8217;énergies renouvelables peuvent s&#8217;organiser pour profiter de ce relais de croissance qui est surtout",
+          "source": "GreenUnivers",
+          "url": "https://www.greenunivers.com/2026/10/osborn-metals-un-cas-decole-de-la-decarbonation-par-lelectrification-3-436433/",
+          "niveau": "moyen"
+        }
+      ]
+    },
+    {
+      "titre": "Fintech",
+      "icone": "📰",
+      "niveau_global": "moyen",
+      "items": [
+        {
+          "titre": "Quels sont les VPN les plus adaptés pour le gaming ?",
+          "analyse": "Un VPN gaming peut aider à protéger une connexion ou à contourner certaines contraintes réseau, mais il peut aussi augmenter le ping. Proton VPN, CyberGhost, Surfshark et ExpressVPN méritent d'être comparés selon votre façon de jouer.",
+          "source": "JDN : Derniers contenus",
+          "url": "https://www.journaldunet.com/cybersecurite/vpn/1556943-quels-sont-les-vpn-les-plus-adaptes-pour-le-gaming/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Interactive Brokers étend ses capacités IA au trading autonome",
+          "analyse": "L’info. Le courtier en ligne étatsunien Interactive Brokers officialise sa solution IBKR Autonomous Trading, qui étend les capacités d’IA accessibles à sa clientèle au trading autonome, d’après un communiqué du 21 octobre 2026. Si IBKR avait déjà intégré l’IA à sa plateforme pour permettre à ses cli",
+          "source": "Fintech",
+          "url": "https://www.mind.eu.com/fintech/article/interactive-brokers-etend-ses-capacites-ia-au-trading-autonome/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Dépôt tokenisé : la réponse de SoFi à l’interdit de rémunérer les stablecoins",
+          "analyse": "L&#8217;info. Le challenger am&#233;ricain SoFi lance SoFi Earn (SOFIE), pr&#233;sent&#233; comme le premier d&#233;p&#244;t tokenis&#233; grand public &#233;mis par une banque nationale am&#233;ricaine, selon un communiqu&#233; dat&#233; du 22 octobre 2026. Chaque jeton vaut 1 dollar d&#233;pos&#23",
+          "source": "Fintech",
+          "url": "https://www.mind.eu.com/fintech/article/depot-tokenise-la-reponse-de-sofi-a-linterdit-de-remunerer-les-stablecoins/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "HSBC lance son stablecoin de détail à Hong Kong",
+          "analyse": "L&#8217;info. HSBC a annonc&#233; le 23 octobre 2026 le lancement de son stablecoin HSBC RedCoin. Autoris&#233; et r&#233;gul&#233; par le r&#233;gulateur de Hong Kong, ce stablecoin en dollar hongkongais est accessible d&#232;s le lancement aux 3,3 millions d&#8217;utilisateurs actifs de PayMe, le ",
+          "source": "Fintech",
+          "url": "https://www.mind.eu.com/fintech/article/hsbc-lance-son-stablecoin-de-detail-a-hong-kong/",
           "niveau": "moyen"
         }
       ]
