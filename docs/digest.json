@@ -1,8 +1,8 @@
 {
-  "date_fr": "Monday 26 October 2026",
-  "compte_articles": 197,
+  "date_fr": "Tuesday 27 October 2026",
+  "compte_articles": 250,
   "compte_forts": 0,
-  "compte_moyens": 197,
+  "compte_moyens": 250,
   "synthese_jour": "Synthese IA non disponible (fallback). Consultez les articles ci-dessous.",
   "chiffres_cles": [],
   "sections": [
@@ -12,59 +12,59 @@
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "« A la veille des ventes de Noël, les mauvaises nouvelles s’accumulent » : la co",
-          "analyse": "Dans un contexte d’inflation énergétique, de baisse du pouvoir d’achat et de hausse des taux obligataires, le projet de budget pour 2027, qui doit rétablir la confiance sur les marchés grâce à une réduction du déficit public, repose sur une hypothèse de croissance de 1 %, plus fragile que jamais.",
+          "titre": "Trappes, reflet des crises sociales et des bouleversements de la France contempo",
+          "analyse": "L’attentat terroriste raciste du 23 octobre a remis cette ville pauvre des Yvelines sous le feu des projecteurs. Berceau de la main-d’œuvre immigrée durant les « trente glorieuses », la commune de quelque 35 000 habitants raconte aussi trois quarts de siècle d’histoire contemporaine.",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/10/26/la-colere-sociale-fragilise-encore-davantage-les-perspectives-economiques-de-la-france_6800426_3234.html",
+          "url": "https://www.lemonde.fr/societe/article/2026/10/27/trappes-reflet-des-crises-sociales-et-des-bouleversements-de-la-france-contemporaine_6801264_3224.html",
           "niveau": "moyen"
         },
         {
-          "titre": "Attentat de Trappes : des tracts du RN retrouvés dans la voiture du suspect, déc",
-          "analyse": "Selon les informations du « Monde », de nombreux éléments établissent la motivation raciste de l’attaque qui a fait un mort et cinq blessés, vendredi, dans les Yvelines. La garde à vue du suspect, qui a déclaré souffrir de schizophrénie, a été suspendue le temps d’une observation psychiatrique.",
+          "titre": "EN DIRECT, législatives en Israël : participation en nette hausse, paroles d’éle",
+          "analyse": "Le taux de participation s’élevait à 31,5 % à 12 heures, heure locale (11 heures à Paris), a annoncé la Commission électorale centrale israélienne. Un taux inégalé à ce stade de la journée depuis 1973.",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/societe/article/2026/10/26/attentat-de-trappes-des-tracts-du-rassemblement-national-retrouves-dans-la-voiture-du-suspect-decrit-par-ses-proches-comme-raciste_6800776_3224.html",
+          "url": "https://www.lemonde.fr/international/live/2026/10/27/en-direct-legislatives-en-israel-suivez-la-journee-d-election-avec-nos-correspondants-et-posez-vos-questions_6801217_3210.html",
           "niveau": "moyen"
         },
         {
-          "titre": "EN DIRECT, Lula réélu au Brésil : le président élu « est un négociateur hors pai",
-          "analyse": "Le président sortant a réussi à inverser le rapport de force entre les deux tours et à s’imposer, dimanche, au terme d’un scrutin très serré. Notre journaliste Anne-Dominique Correa, envoyée spéciale à Brasilia, répond à vos questions à partir de 14 heures.",
+          "titre": "Mobilisations sociales : le Sénat et le gouvernement comptent durcir le projet d",
+          "analyse": "Le texte, mis en avant depuis les violences du 17 octobre, sera examiné en séance publique, mardi 27 octobre, au Sénat. Les sénateurs l’ont déjà durci en commission des lois.",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/international/live/2026/10/26/en-direct-lula-reelu-au-bresil-la-russie-salue-la-reelection-de-lula_6800074_3210.html",
+          "url": "https://www.lemonde.fr/politique/article/2026/10/27/mobilisations-sociales-apres-le-17-octobre-le-senat-durcit-le-projet-de-loi-casseurs-payeurs_6801095_823448.html",
           "niveau": "moyen"
         },
         {
-          "titre": "Raphaël Glucksmann, un candidat à la présidentielle à la recherche de la jeuness",
-          "analyse": "Le candidat du Parti socialiste et de Place publique se retrouve régulièrement conspué par des jeunes, alors qu’il était autrefois populaire dans une partie de cette catégorie d’âge, notamment à la suite de son engagement en faveur des Ouïgours.",
+          "titre": "Cyberattaques par des IA de pointe : le casse-tête de la responsabilité pénale",
+          "analyse": "Après le tournant du piratage de Hugging Face par des agents d’intelligence artificielle d’OpenAI, se pose la question de la responsabilité aux yeux de la loi des IA en partie autonomes et, surtout, de ceux qui les conçoivent. Le droit pénal français n’est pas totalement démuni en la matière.",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/10/26/raphael-glucksmann-un-candidat-a-la-presidentielle-a-la-recherche-de-la-jeunesse-perdue_6800424_823448.html",
+          "url": "https://www.lemonde.fr/pixels/article/2026/10/27/cyberattaques-par-des-ia-de-pointe-le-casse-tete-de-la-responsabilite-penale_6801140_4408996.html",
           "niveau": "moyen"
         },
         {
-          "titre": "Cisjordanie : à Hébron, entre les barricades érigées par l’armée israélienne, l’",
-          "analyse": "Après une attaque qui a tué à deux soldats israéliens, le 23 octobre, l’armée israélienne a bouclé plusieurs secteurs de la ville de Cisjordanie occupée et procédé au déplacement forcé de plus de 2 000 Palestiniens.",
+          "titre": "EN DIRECT, guerre en Ukraine : Vladimir Poutine accuse l’UE et l’OTAN de prolong",
+          "analyse": "Le président russe a estimé, lors de son appel téléphonique avec son homologue finlandais, Alexander Stubb, et le premier ministre norvégien, Jonas Gahr Store, que la « politique de confrontation » de l’Union européenne et de l’Organisation du traité de l’Atlantique Nord (OTAN) entraînait un « prolo",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/international/article/2026/10/26/cisjordanie-a-hebron-entre-les-barricades-erigees-par-l-armee-israelienne-l-amer-sentiment-de-subir-une-punition-collective_6800779_3210.html",
+          "url": "https://www.lemonde.fr/international/live/2026/10/27/en-direct-guerre-en-ukraine-pres-de-200-affrontements-entre-russes-et-ukrainiens-sur-le-front-lundi-26-octobre_6799896_3210.html",
           "niveau": "moyen"
         },
         {
-          "titre": "Cancers du poumon à petites cellules : une nouvelle immunothérapie permet un gai",
-          "analyse": "Dans les formes avancées de cette maladie très agressive, combiner une immunothérapie innovante à une immunothérapie classique, sans attendre la rechute, réduit le risque de décès de 58 %.",
+          "titre": "La frustration de Kylian Mbappé, dauphin de Harry Kane au Ballon d’or 2026, malg",
+          "analyse": "Le capitaine de l’équipe de France a terminé 2ᵉ derrière Harry Kane, primé à Londres, lundi. A 27 ans, l’attaquant madrilène attend toujours d’inscrire son nom au palmarès d’un trophée qu’il convoite depuis son plus jeune âge.",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/sciences/article/2026/10/26/cancers-du-poumon-a-petites-cellules-une-nouvelle-immunotherapie-permet-un-gain-de-survie-jamais-vu_6800675_1650684.html",
+          "url": "https://www.lemonde.fr/sport/article/2026/10/27/la-frustration-de-kylian-mbappe-dauphin-de-harry-kane-au-ballon-d-or-2026-malgre-une-intense-campagne-de-communication_6801266_3242.html",
           "niveau": "moyen"
         },
         {
-          "titre": "Michèle Barzach, ancienne ministre de la santé de Jacques Chirac, est morte",
-          "analyse": "Cette gynécologue, figure de la droite libérale et sociale, auréolée d’un engagement sans faille dans la lutte contre le sida et dans l’humanitaire, mais dont l’image a été ternie par l’affaire Matzneff, s’est éteinte lundi 26 octobre, à l’âge de 83 ans.",
+          "titre": "Le débat sur l’imprescriptibilité des crimes sexuels sur les mineurs arrive au S",
+          "analyse": "Lors du passage à l’Assemblée nationale du projet de loi relatif à la protection de l’enfance, un amendement étendant l’imprescriptibilité, réservée aux crimes contre l’humanité, aux crimes commis sur les mineurs, avait été adopté. La mesure, supprimée en commission des lois au Sénat, devrait être d",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/disparitions/article/2026/10/26/michele-barzach-ancienne-ministre-de-la-sante-de-jacques-chirac-est-morte_6800783_3382.html",
+          "url": "https://www.lemonde.fr/societe/article/2026/10/27/le-debat-sur-l-imprescriptibilite-des-crimes-sexuels-sur-les-mineurs-arrive-au-senat_6801103_3224.html",
           "niveau": "moyen"
         },
         {
-          "titre": "Dette française : « Le seul signal donné par Moody’s, c’est que le moment est tr",
-          "analyse": "L’agence américaine a maintenu la notation de la France à Aa3, vendredi, malgré l’incapacité du pays à redresser sa trajectoire budgétaire. Depuis la crise grecque de 2010, où elles avaient été accusées de jouer les pyromanes, les agences préfèrent prendre leur temps, analyse Isabelle Chaperon, chro",
+          "titre": "Injure raciste contre un journaliste de « Ouest-France » : trois hommes condamné",
+          "analyse": "En 2024, la cour d’appel avait considéré que ces propos avaient été prononcés « sur un mode satirique, dans un contexte polémique » et ne dépassaient pas « les limites admissibles de la liberté d’expression ». L’arrêt n’est pas définitif, les personnes condamnées ayant la possibilité de se pourvoir ",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/10/26/dette-francaise-le-seul-signal-donne-par-moody-s-c-est-que-le-moment-est-trop-inflammable-pour-craquer-une-allumette_6800674_3234.html",
+          "url": "https://www.lemonde.fr/politique/article/2026/10/27/injures-racistes-contre-un-journaliste-de-ouest-france-trois-hommes-condamnes-dont-une-figure-de-l-extreme-droite_6801269_823448.html",
           "niveau": "moyen"
         }
       ]
@@ -75,59 +75,59 @@
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "Bartleby newsletter: In praise of praise",
-          "analyse": "Andrew Palmer, our Bartleby columnist, thinks you did a great job today",
+          "titre": "American bosses are desperately trying to de-MAGAfy",
+          "analyse": "Ahead of the midterms, corporations want to win back favour with the Democrats",
           "source": "Business",
-          "url": "https://www.economist.com/business/2026/10/26/bartleby-newsletter-in-praise-of-praise",
+          "url": "https://www.economist.com/business/2026/10/27/american-bosses-are-desperately-trying-to-de-magafy",
           "niveau": "moyen"
         },
         {
-          "titre": "The stock market’s biggest test in weeks is here",
-          "analyse": "Here’s what’s I’m watching this morning: A week chockablock with enough catalysts that we might finally get some answers about the direction of the market by the end of it.",
-          "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/the-stock-markets-biggest-test-in-weeks-is-here-256f5a37?mod=mw_rss_topstories",
+          "titre": "Don’t expect supersize profits from Anthropic soon",
+          "analyse": "Lurking in its IPO prospectus are warnings of challenges ahead",
+          "source": "Business",
+          "url": "https://www.economist.com/business/2026/10/26/dont-expect-supersize-profits-from-anthropic-soon",
           "niveau": "moyen"
         },
         {
-          "titre": "The 5 big voting issues in the midterm elections that will impact your wallet",
-          "analyse": "America won’t be picking a president Nov. 3, but this is how the voting results could affect fuel prices, taxes and more.",
+          "titre": "Why SoFi’s stock is soaring after earnings",
+          "analyse": "SoFi’s early 2027 forecast is impressing Wall Street after a tough stretch for the stock.",
           "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/the-5-big-voting-issues-in-the-midterm-elections-that-will-impact-your-wallet-4a93291c?mod=mw_rss_topstories",
+          "url": "https://www.marketwatch.com/story/sofis-stock-climbs-as-lending-surge-drives-an-earnings-beat-and-rosy-outlook-0c978535?mod=mw_rss_topstories",
           "niveau": "moyen"
         },
         {
-          "titre": "Musk says SpaceX’s AI rivals are in trouble, sending their stocks lower",
-          "analyse": "SpaceX just landed a $40 billion debt deal, but Musk says lenders won’t be so hospitable to less-diversified competitors.",
+          "titre": "Here’s the question three tech-sector earnings reports raise about the future of",
+          "analyse": "Celestica, Cadence Design Systems and Rambus all posted estimate-beating results for the third quarter.",
           "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/musk-says-spacex-landed-a-40-billion-debt-deal-and-forecasts-doom-for-some-ai-rivals-a0a4991e?mod=mw_rss_topstories",
+          "url": "https://www.marketwatch.com/story/heres-the-question-three-tech-sector-earnings-reports-raise-about-the-future-of-ai-5676248b?mod=mw_rss_topstories",
           "niveau": "moyen"
         },
         {
-          "titre": "Nvidia, AMD and Broadcom could buy Meta shares as part of $35 billion stock offe",
-          "analyse": "Meta is looking to raise a total of $95 billion through stock-related deals that stretch into early next year.",
+          "titre": "‘Just watch Judge Judy’: I’m in my 70s. Why do people keep making the same avoid",
+          "analyse": "“Consider some familiar examples of poor decisions: accumulating credit-card debt or failing to plan for retirement.”",
           "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/nvidia-amd-and-broadcom-could-buy-meta-shares-as-part-of-35-billion-stock-offering-d816fec2?mod=mw_rss_topstories",
+          "url": "https://www.marketwatch.com/story/you-need-only-watch-episodes-of-judge-judy-im-in-my-70s-why-do-people-keep-making-the-same-avoidable-financial-mistakes-bbf60fe4?mod=mw_rss_topstories",
           "niveau": "moyen"
         },
         {
-          "titre": "My husband wants to sell our $1.5 million home and invest the proceeds. But this",
-          "analyse": "“He wants to buy something for $600,000 now that we are empty-nesters.”",
+          "titre": "Why reported Khamenei call for end to ‘neither war nor peace’ moved markets — a ",
+          "analyse": "Iran’s supreme leader was quoted as saying it’s time for a deal. There’s a long way to go.",
           "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/my-husband-wants-to-sell-our-1-5-million-home-and-invest-the-proceeds-but-this-is-where-we-raised-our-kids-and-i-cant-bear-to-leave-4feb46ed?mod=mw_rss_topstories",
+          "url": "https://www.marketwatch.com/story/why-reported-khamenei-call-for-end-to-neither-war-nor-peace-moved-markets-a-bit-dd94b602?mod=mw_rss_topstories",
           "niveau": "moyen"
         },
         {
-          "titre": "Verizon’s stock rises as subscriber surge impresses Wall Street",
-          "analyse": "Verizon’s performance on a key measure of subscriber growth was more than double what analysts had expected",
+          "titre": "AI debt trouble could help Fed’s Warsh get his way with fewer rate hikes",
+          "analyse": "AI financing has been harder and more expensive to come by as the capital-spending boom comes under more scrutiny.",
           "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/verizons-stock-rises-as-subscriber-surge-impresses-wall-street-2be3ef2c?mod=mw_rss_topstories",
+          "url": "https://www.marketwatch.com/story/ai-debt-trouble-could-help-feds-warsh-get-his-way-with-fewer-rate-hikes-b3dc4525?mod=mw_rss_topstories",
           "niveau": "moyen"
         },
         {
-          "titre": "These four shocks could hand investors an unexpected buying window, strategists ",
-          "analyse": "Yardeni Research said a surprise interest-rate decision by the Federal Reserve or increasing constraints in the artificial-intelligence trade could provide valuable entry points for investors.",
+          "titre": "Big Tech’s earnings are on deck. There’s more for investors to watch than AI spe",
+          "analyse": "As Microsoft, Alphabet and Amazon prepare to report quarterly results, workforce cuts are raising questions about how AI will reshape jobs at the top-tier tech companies.",
           "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/these-four-shocks-could-hand-investors-an-unexpected-buying-window-strategists-say-5ae7c4db?mod=mw_rss_topstories",
+          "url": "https://www.marketwatch.com/story/big-techs-earnings-are-on-deck-theres-more-for-investors-to-watch-than-ai-spending-bb566c90?mod=mw_rss_topstories",
           "niveau": "moyen"
         }
       ]
@@ -138,17 +138,10 @@
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "Survey on the Access to Finance of Enterprises: lending conditions tightened",
+          "titre": "October 2026 euro area bank lending survey",
           "analyse": "",
           "source": "ECB - European Central Bank",
-          "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261026~bde7b6d11a.en.html",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Frank Elderson: Taking action for nature – investing in economic resilience and ",
-          "analyse": "",
-          "source": "ECB - European Central Bank",
-          "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261026~d903d7ad85.en.html",
+          "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261027~506ef03145.en.html",
           "niveau": "moyen"
         }
       ]
@@ -159,38 +152,59 @@
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "SCPI Épargne Pierre Europe : 77 M€ investis dans 3 pays au 3T 2026",
-          "analyse": "Quels actifs composent les acquisitions du 3T 2026 ? Les implantations, rendements et risques précisent les choix immobiliers de la SCPI.",
+          "titre": "SCPI de FIDUCIAL Gérance : que retenir des dividendes au T3 2026 ?",
+          "analyse": "Quel montant les SCPI de FIDUCIAL Gérance ont-elles distribué au T3 2026 ? Les écarts et les limites de comparaison éclairent l’analyse.",
           "source": "MeilleureSCPI.com",
-          "url": "https://www.meilleurescpi.com/actualites/scpi-epargne-pierre-europe-77-meur-investis-dans-3-pays-au-3t/",
+          "url": "https://www.meilleurescpi.com/actualites/scpi-de-fiducial-gerance-que-retenir-des-dividendes-au-t3/",
           "niveau": "moyen"
         },
         {
-          "titre": "La SCPI CRISTAL Life investit près de 2,8M€ à Perpignan",
-          "analyse": "Quels éléments caractérisent l’achat de CRISTAL Life à Perpignan ? Emplacement, fréquentation et données clés permettent d’en comprendre les enjeux.",
+          "titre": "SCPI Upêka : acquisition de deux commerces à Paris pour environ 7 M€",
+          "analyse": "Comment Upêka renforce-t-elle son patrimoine à Paris ? Les chiffres et critères de l’opération permettent d’en cerner la portée.",
           "source": "MeilleureSCPI.com",
-          "url": "https://www.meilleurescpi.com/actualites/cristal-life-investit-pres-de-2-8-meur-dans-un-actif-commercial-a-perpignan/",
+          "url": "https://www.meilleurescpi.com/actualites/scpi-upeka-acquisition-de-deux-commerces-a-paris-pour-environ-7-meur/",
           "niveau": "moyen"
         },
         {
-          "titre": "Immobilier commercial : Avec le rachat d’Advantail, Evoriel devient le numéro 2 ",
-          "analyse": "Evoriel rachète Advantail, spécialiste des centres commerciaux et des magasins d’usine. Le groupe revendique ainsi la deuxième place en France dans la gestion immobilière des commerces.\nCet article Immobilier commercial : Avec le rachat d&rsquo;Advantail, Evoriel devient le numéro 2 en France est ap",
-          "source": "MySweetimmo",
-          "url": "https://www.mysweetimmo.com/2026/10/26/immobilier-commercial-avec-le-rachat-dadvantail-evoriel-devient-le-numero-2-en-france/",
+          "titre": "SCPI Wemo One : que retenir des résultats du 3e trimestre 2026 ?",
+          "analyse": "Quels chiffres marquent le 3e trimestre 2026 de Wemo One ? Capitalisation, distribution et acquisition précisent les tendances à suivre.",
+          "source": "MeilleureSCPI.com",
+          "url": "https://www.meilleurescpi.com/actualites/scpi-wemo-one-que-retenir-des-resultats-du-3e-trimestre/",
           "niveau": "moyen"
         },
         {
-          "titre": "Immobilier Alpes : Les prix du luxe ne montent plus partout",
-          "analyse": "Dans les Alpes, les prix de l'immobilier haut de gamme progressent à Courchevel Village et à Val d’Isère, stagnent à Megève et reculent à Morzine. Knight Frank décrypte un marché où les écarts se creusent entre les stations.\nCet article Immobilier Alpes : Les prix du luxe ne montent plus partout est",
-          "source": "MySweetimmo",
-          "url": "https://www.mysweetimmo.com/2026/10/26/immobilier-alpes-les-prix-du-luxe-ne-montent-plus-partout/",
+          "titre": "Cap Foncières & Territoires acquiert un centre hospitalier vétérinaire",
+          "analyse": "Quel est l’intérêt de cette acquisition pour la SCPI ? Montant, bail et caractéristiques du centre éclairent sa place dans le patrimoine.",
+          "source": "MeilleureSCPI.com",
+          "url": "https://www.meilleurescpi.com/actualites/cap-foncieres-territoires-acquiert-un-centre-hospitalier-veterinaire/",
           "niveau": "moyen"
         },
         {
-          "titre": "Immobilier : Le projet de décret sur la formation des agents et mandataires se p",
-          "analyse": "42 heures de formation pour entrer dans l’immobilier ? Le décret attendu depuis douze ans avance. Négociateurs, mandataires, nouvelles recrues. Le point sur ce qui pourrait changer, et ce qui n’est pas encore décidé.\nCet article Immobilier : Le projet de décret sur la formation des agents et mandata",
+          "titre": "Investissements en immobilier résidentiel : un troisième trimestre attentiste",
+          "analyse": "Avec 3,1 milliards d’euros investis depuis le début de l’année, le résidentiel en bloc progresse de 14% sur un an glissant. Mais ce chiffre repose en grande partie sur une seule opération. Hors cette transaction, le marché recule, dans un contexte de remontée des taux. Au troisième trimestre 2026, l",
+          "source": "Pierrepapier.fr",
+          "url": "https://www.pierrepapier.fr/marche-immobilier/investissements-en-immobilier-residentiel-un-troisieme-trimestre-2026-attentiste/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Immobilier à Manhattan : Les entreprises d’IA font le plein de bureaux",
+          "analyse": "Les entreprises d’IA ont loué près de 280 000 m² de bureaux à Manhattan en 9 mois, soit plus de trois fois le total de l’année 2025. Les immeubles les plus recherchés se raréfient et les loyers moyens demandés progressent de 7,1 % sur un an, selon une étude Newmark.\nCet article Immobilier à Manhatta",
           "source": "MySweetimmo",
-          "url": "https://www.mysweetimmo.com/2026/10/26/immobilier-le-projet-de-decret-sur-la-formation-des-agents-et-mandataires-se-precise/",
+          "url": "https://www.mysweetimmo.com/2026/10/27/immobilier-a-manhattan-les-entreprises-dia-font-le-plein-de-bureaux/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Rénovation : Ces 5 signes qui montrent que votre maison a besoin de travaux",
+          "analyse": "Froid persistant, moisissures, fissures…, votre maison montre peut-être des signes de fatigue. Voici cinq alertes à repérer et les bons réflexes pour prévoir les travaux avant qu’une panne ou une infiltration ne vous oblige à agir dans l’urgence.\nCet article Rénovation : Ces 5 signes qui montrent qu",
+          "source": "MySweetimmo",
+          "url": "https://www.mysweetimmo.com/2026/10/27/renovation-ces-5-signes-qui-montrent-que-votre-maison-a-besoin-de-travaux/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Economie : « La France ne manque pas d’atouts. Elle manque de confiance », Franç",
+          "analyse": "Attractivité, entrepreneuriat, innovation : la France conserve des atouts solides. François Gagnon, président d’ERA France et ERA Europe, appelle à retrouver la confiance sans nier les difficultés, notamment dans le logement.\nCet article Economie : « La France ne manque pas d&rsquo;atouts. Elle manq",
+          "source": "MySweetimmo",
+          "url": "https://www.mysweetimmo.com/2026/10/27/economie-la-france-ne-manque-pas-datouts-elle-manque-de-confiance-francois-gagnon/",
           "niveau": "moyen"
         }
       ]
@@ -201,164 +215,59 @@
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "Macron à Marseille pour souligner le \"retour de l'ordre\"",
-          "analyse": "Emmanuel Macron est arrivé lundi à la mairie de Marseille, qui porte encore les stigmates du 17 octobre, pour une visite devant souligner le \"retour de l&#039;ordre républicain\" après les violences et pill...",
+          "titre": "Vente de SFR: le CSE de l'opérateur débouté d'une action en référé",
+          "analyse": "Les représentants des salariés de SFR, qui avaient saisi la justice au sujet de la procédure d&#039;information-consultation menée par leur direction en lien avec la vente de l&#039;opérateur, ont...",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/depeches/macron-a-marseille-pour-souligner-le-retour-de-l-ordre-140608",
+          "url": "https://www.notretemps.com/depeches/vente-de-sfr-le-cse-de-l-operateur-deboute-d-une-action-en-refere-140651",
           "niveau": "moyen"
         },
         {
-          "titre": "Mort de Cédric Chouviat : trois policiers jugés pour homicide involontaire à par",
-          "analyse": "Trois policiers doivent être jugés à partir de lundi au tribunal de Paris pour homicide involontaire, plus de six ans après la mort de Cédric Chouviat à la suite d&#039;un contrôle routier qui avait dégéné...",
+          "titre": "Vol en Isère: Framatome a déposé plainte, déplore \"une atteinte grave à son outi",
+          "analyse": "L&#039;entreprise de nucléaire civil Framatome a déposé plainte après le \"vol de matière\" survenu dans la nuit du 21 au 22 octobre dans son usine située à Jarrie (Isère), a-t-elle indiqué mardi à l&#039;AFP, dé...",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/depeches/mort-de-cedric-chouviat-trois-policiers-juges-pour-homicide-involontaire-a-partir-de-lundi-140607",
+          "url": "https://www.notretemps.com/depeches/vol-en-isere-framatome-a-depose-plainte-deplore-une-atteinte-grave-a-son-outil-industriel-140650",
           "niveau": "moyen"
         },
         {
-          "titre": "Après un mois de crise lycéenne, le gouvernement promet lundi \"des réponses très",
-          "analyse": "Après un mois de mobilisation des lycéens et étudiants qui a fait tache d&#039;huile, le gouvernement a promis de leur apporter lundi \"des réponses très concrètes\", qui devraient concerner Parcoursup, l&#039;ét...",
+          "titre": "Violences: la détresse des commerçants au bord de la rupture",
+          "analyse": "\"Je suis stressé, j&#039;ai peur\" : à l&#039;image de ce Lillois, des commerçants sont guettés par le risque d&#039;épuisement après les violences du 17 octobre, vécues comme un \"coup de grâce\" par un secteur déjà f...",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/depeches/apres-un-mois-de-crise-lyceenne-le-gouvernement-promet-lundi-des-reponses-tres-concretes-140606",
+          "url": "https://www.notretemps.com/depeches/violences-la-detresse-des-commercants-au-bord-de-la-rupture-140647",
           "niveau": "moyen"
         },
         {
-          "titre": "Le TGV et la SNCF : 45 ans d'histoire technologique française",
-          "analyse": "Depuis 45 ans, la SNCF, qui s&#039;apprête à mettre en ligne le 6 novembre la cinquième génération de TGV sur l&#039;axe Paris-Lyon-Marseille, exploite des trains à grande vitesse articulés sur le réseau frança...",
+          "titre": "Pension de réversion Agirc-Arrco: 3 millions de pensions vont augmenter en novem",
+          "analyse": "Plus de 4 millions de personnes touchent une pension de réversion en France. Pour une grande partie d&#039;entre elles, le montant versé va augmenter en novembre. Quels assurés sont concernés? Pourquoi leur pension va-t-elle être revalorisée? Les réponses.",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/depeches/le-tgv-et-la-sncf-45-ans-d-histoire-technologique-francaise-140605",
+          "url": "https://www.notretemps.com/retraite/ma-pension/pension-de-reversion-agirc-arrco-3-millions-de-pensions-vont-augmenter-en-novembre-etes-vous-concerne-140616",
           "niveau": "moyen"
         },
         {
-          "titre": "Après la taxation des petits colis, l'UE impose des frais de traitement",
-          "analyse": "Pour réduire l&#039;avalanche de produits chinois achetés sur internet, et renforcer les contrôles, des \"frais de traitement\" de 2 euros vont s&#039;appliquer à partir de dimanche sur les colis importés dans l...",
+          "titre": "Pourquoi votre audition est la clé d'un cerveau en forme après 60 ans",
+          "analyse": "Après 60 ans, on multiplie volontiers les efforts pour garder le cerveau alerte: mots croisés, lecture, marche quotidienne, alimentation équilibrée. Excellentes initiatives, à poursuivre sans modération. Mais un levier reste étonnamment négligé, alors qu&#039;il figure parmi les plus efficaces: l&#0",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/depeches/apres-la-taxation-des-petits-colis-l-ue-impose-des-frais-de-traitement-140604",
+          "url": "https://www.notretemps.com/sante-bien-etre/medecine/pourquoi-votre-audition-est-la-cle-d-un-cerveau-en-forme-apres-60-ans-140644",
           "niveau": "moyen"
         },
         {
-          "titre": "Rugby à 5: le plaisir sans les chocs!",
-          "analyse": "Des chaussures de running et l&#039;envie de marquer: voilà tout ce qu&#039;il faut pour pratiquer le rugby à 5. Sans plaquage et parfois même sans courir, cette version peut être adoptée par tous.",
+          "titre": "Négociations commerciales : la réunion de préparation entre industriels et distr",
+          "analyse": "La réunion initialement prévue mercredi à Bercy entre les distributeurs et industriels de l&#039;agroalimentaire, en amont de l&#039;ouverture des négociations commerciales, a été repoussée au 2 n...",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/sante-bien-etre/forme/rugby-a-5-le-plaisir-sans-les-chocs-138180",
+          "url": "https://www.notretemps.com/depeches/negociations-commerciales-la-reunion-de-preparation-entre-industriels-et-distributeurs-reportee-au-2-novembre-140643",
           "niveau": "moyen"
         },
         {
-          "titre": "Cancer: Quel sera votre suivi après la fin des traitements?",
-          "analyse": "Après les longs mois de traitements, la guérison est là et le cancer derrière vous. Mais êtes-vous toujours suivi et surveiller pour éviter une récidive? Puis-je reprendre le travail normalement? Les réponses de nos spécialistes pour y voir plus clair.",
+          "titre": "Appartement impeccable, esprit léger : le ménage à domicile séduit les actifs pa",
+          "analyse": "À Paris, préserver son temps libre tout en gardant un intérieur propre n&#039;est pas toujours simple. Entre les contraintes professionnelles et les obligations personnelles, le ménage trouve difficilement sa place dans des journées déjà bien remplies. Le recours à une aide à domicile répond à cette",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/sante-bien-etre/medecine/cancer-quel-suivi-apres-l-arret-de-mon-traitement-139011",
+          "url": "https://www.notretemps.com/vie-pratique/maison/appartement-impeccable-esprit-leger-le-menage-a-domicile-seduit-les-actifs-parisiens-140642",
           "niveau": "moyen"
         },
         {
-          "titre": "Mini fléchés gratuits - 26 octobre 2026 Grille n°3725",
-          "analyse": "Remplissez la grille de mini fléchés ci-dessous. Il vous suffit de cliquer sur une case pour pouvoir y entrer la lettre de votre choix. Grille n°3725  du 26 octobre 2026.",
+          "titre": "Indépendance Royale devient Noveom et mise sur le conseil à domicile",
+          "analyse": "Vous connaissez peut-être Indépendance Royale, l&#039;entreprise qui équipe depuis plus de vingt ans le logement des seniors: douches sécurisées, monte-escaliers, salles de bains adaptées. Elle s&#039;appelle désormais Noveom. Avec ce nouveau nom, elle annonce le recrutement de 80 conseillers autono",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/jeux/jeux-en-ligne/mini-fleches/mini-fleches-gratuits-26-octobre-2026-grille-3725",
-          "niveau": "moyen"
-        }
-      ]
-    },
-    {
-      "titre": "Finance_Pro",
-      "icone": "📰",
-      "niveau_global": "moyen",
-      "items": [
-        {
-          "titre": "Trustpair ou le « scale » réussi sous le regard bienveillant d’Axeleo Capital",
-          "analyse": "Axeleo Capital a accompagné le spécialiste de la lutte contre la fraude aux paiements Trustpair depuis son pré-seed jusqu’à son rapprochement avec Basware.",
-          "source": "PE Magazine",
-          "url": "https://www.pemagazine.fr/trustpair-ou-le-scale-reussi-sous-le-regard-bienveillant-daxeleo-capital/",
-          "niveau": "moyen"
-        }
-      ]
-    },
-    {
-      "titre": "ESG",
-      "icone": "🌱",
-      "niveau_global": "moyen",
-      "items": [
-        {
-          "titre": "\"On fonce droit vers une montagne\" : chez Airbus, des salariés en pleine dissona",
-          "analyse": "Airbus va produire un nombre record d'avions cette année. @Bernd K /CCO\nAirbus fait le plein de commandes. En cette fin d’année, le géant aéronautique va devoir doubler sa cadence de production pour tenir son objectif de 870 livraisons cette année. Un record. Mais pour certains salariés, difficile d",
-          "source": "Novethic",
-          "url": "https://www.novethic.fr/environnement/climat/on-fonce-droit-vers-une-montagne-chez-airbus-des-salaries-en-pleine-dissonance-cognitive",
-          "niveau": "moyen"
-        }
-      ]
-    },
-    {
-      "titre": "Fintech",
-      "icone": "📰",
-      "niveau_global": "moyen",
-      "items": [
-        {
-          "titre": "\"Nous sommes sortis de la confiance absolue dans le progrès technologique\"",
-          "analyse": "Claudie Haigneré, première femme européenne à être allée dans l'espace et ancienne ministre déléguée à la Recherche et aux Nouvelles Technologies, livre au JDN sa vision pour réconcilier les citoyens avec les nouvelles technologies.",
-          "source": "JDN : Derniers contenus",
-          "url": "https://www.journaldunet.com/intelligence-artificielle/1557149-nous-sommes-sortis-de-la-confiance-absolue-dans-le-progres-technologique/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Cette panthère rose qui affole les réseaux révèle le vrai danger des deepfakes",
-          "analyse": "La panthère rose générée par IA dans les manifestations illustre un défi majeur de cybersécurité : sur les réseaux sociaux, une fiction peut façonner notre perception d'un événement réel.",
-          "source": "JDN : Derniers contenus",
-          "url": "https://www.journaldunet.com/cybersecurite/1557079-cette-panthere-rose-qui-affole-les-reseaux-revele-le-vrai-danger-des-deepfakes/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Maîtriser la navigation, c'est préserver sa souveraineté",
-          "analyse": "Face aux vulnérabilités du GPS, la navigation inertielle devient un enjeu clé de résilience et de souveraineté européenne.",
-          "source": "JDN : Derniers contenus",
-          "url": "https://www.journaldunet.com/cybersecurite/1557073-maitriser-la-navigation-c-est-preserver-sa-souverainete/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Billets de train, abonnement…Grok Bot fait vos corvées en ligne, et il les fait ",
-          "analyse": "Lancé en août par SpaceXAI, l'agent réserve, achète et souscrit à votre place, et ne rend la main que pour payer. Nous l'avons testé sur trois démarches du quotidien.",
-          "source": "JDN : Derniers contenus",
-          "url": "https://www.journaldunet.com/intelligence-artificielle/1557125-billets-de-train-forfait-mobile-grok-bot-fait-vos-corvees-en-ligne-et-il-les-fait-bien/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Assiste-t-on (vraiment) aux prémices d'un krach de l'IA ?",
-          "analyse": "La dette émise par les fournisseurs d'infrastructure de l'IA et les néoclouds est en train de perdre la confiance des investisseurs, qui doutent que les futurs revenus générés par la technologie puissent rentabiliser ces dépenses monstres.",
-          "source": "JDN : Derniers contenus",
-          "url": "https://www.journaldunet.com/business/1556959-assiste-t-on-vraiment-aux-premices-d-un-krach-de-l-ia/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Assurance cyber : de l'urgence d'une meilleure représentation du risque",
-          "analyse": "Face à la diversification de cyberattaques sophistiquées, les entreprises doivent impérativement cartographier précisément leurs risques réels plutôt que de se contenter d'une simple assurance.",
-          "source": "JDN : Derniers contenus",
-          "url": "https://www.journaldunet.com/cybersecurite/1556907-assurance-cyber-de-l-urgence-d-une-meilleure-representation-du-risque/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Moody's maintient la note de la dette française mais garde une perspective négat",
-          "analyse": "L'agence américaine surprend en conservant la note de la dette française, tout en pointant les risques liés à l'absence de réformes et aux tensions sociales.",
-          "source": "JDN : Derniers contenus",
-          "url": "https://www.journaldunet.com/business/1557111-moody-s-maintient-la-note-de-la-dette-francaise-mais-garde-une-perspective-negative/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Visibilité IA : pourquoi deux tests identiques ne donnent pas le même résultat",
-          "analyse": "Un même test de visibilité IA, relancé deux minutes plus tard, ne rend pas les mêmes noms. Pour une agence, un chiffre donné sans sa marge ne prouve donc aucun progrès.",
-          "source": "JDN : Derniers contenus",
-          "url": "https://www.journaldunet.com/seo/1557015-visibilite-ia-pourquoi-deux-tests-identiques-ne-donnent-pas-le-meme-resultat/",
-          "niveau": "moyen"
-        }
-      ]
-    },
-    {
-      "titre": "Thinktank",
-      "icone": "📰",
-      "niveau_global": "moyen",
-      "items": [
-        {
-          "titre": "L’opinion publique et l’Europe : entre attentes fortes et syndrome d’incapacité",
-          "analyse": "Alors que l’UE est confrontée à de nombreuses crises (géopolitique, énergétique et sociale), ses citoyens sont désormais une majorité à considérer que l’appartenance de leur pays à l’UE est une bonne chose mais sous cet apparent consensus, les réalités sont contrastées. Comment se positionne la Fran",
-          "source": "Institut Montaigne",
-          "url": "https://www.institutmontaigne.org/expressions/lopinion-publique-et-leurope-entre-attentes-fortes-et-syndrome-dincapacite",
+          "url": "https://www.notretemps.com/vie-pratique/maison/independance-royale-devient-noveom-et-mise-sur-le-conseil-a-domicile-140641",
           "niveau": "moyen"
         }
       ]
