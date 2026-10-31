@@ -1,8 +1,8 @@
 {
-  "date_fr": "Friday 30 October 2026",
-  "compte_articles": 250,
+  "date_fr": "Saturday 31 October 2026",
+  "compte_articles": 180,
   "compte_forts": 0,
-  "compte_moyens": 250,
+  "compte_moyens": 180,
   "synthese_jour": "Synthese IA non disponible (fallback). Consultez les articles ci-dessous.",
   "chiffres_cles": [],
   "sections": [
@@ -12,59 +12,59 @@
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "Manifestation du 31 octobre : à Paris, la Préfecture de police interdit les parc",
-          "analyse": "La Préfecture de police de Paris privilégie un autre parcours, unique, entre la porte de Bagnolet et la porte de Charenton, avec un départ de cortège fixé à 14 heures. Dans un texte distinct, elle a ordonné un couvre-feu dans les secteurs de la place de la République et de Châtelet-Les Halles jusqu’",
+          "titre": "EN DIRECT, manifestations du 31 octobre : à Paris, porte de Bagnolet, le cortège",
+          "analyse": "Dans une décision rendue tôt samedi matin, le Conseil d’Etat a donné raison au préfet de police de Paris et au gouvernement en validant le parcours de porte de Bagnolet à porte de Charenton, et en rejetant celui que défendaient les syndicats, entre Bastille et Nation.",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/societe/article/2026/10/30/manifestation-du-31-octobre-a-paris-la-prefecture-de-police-interdit-les-parcours-de-la-cgt-et-des-gilets-jaunes-dans-le-centre-un-itineraire-entre-les-portes-de-bagnolet-et-de-charenton-propose_6803066_3225.html",
+          "url": "https://www.lemonde.fr/societe/live/2026/10/31/en-direct-manifestations-du-31-octobre-a-paris-porte-de-bagnolet-le-cortege-attend-le-depart-de-la-manifestation-150-rassemblements-prevus-en-france_6803391_3224.html",
           "niveau": "moyen"
         },
         {
-          "titre": "Derrière l’attentat terroriste de Trappes, un racisme d’atmosphère",
-          "analyse": "Le suspect de l’attentat du vendredi 23 octobre a reconnu son ancrage idéologique à l’extrême droite. Cette famille politique impose ses thèmes dans la société française depuis de trop nombreuses années et installe une ambiance délétère à six mois de l’élection présidentielle.",
+          "titre": "Midterms 2026 : comment les démocrates ont délaissé le « wokisme » dans la campa",
+          "analyse": "Droits des LGBTQ+, lutte contre les inégalités de race ou de genre… les démocrates américains ont mis de côté ces questions sociétales, souvent qualifiées de « woke », pour se concentrer sur le coût de la vie. Pour autant, les républicains continuent d’instrumentaliser ces sujets contre eux.",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/idees/article/2026/10/30/derriere-l-attentat-terroriste-de-trappes-un-racisme-d-atmosphere_6803072_3232.html",
+          "url": "https://www.lemonde.fr/international/article/2026/10/31/midterms-2026-comment-les-democrates-ont-delaisse-le-wokisme-dans-la-campagne_6803376_3210.html",
           "niveau": "moyen"
         },
         {
-          "titre": "En Chine, les purges sans fin de Xi Jinping révèlent sa frustration vis-à-vis du",
-          "analyse": "Signe de la longue et vaste campagne anticorruption menée par le dirigeant chinois, le comité central s’est réuni avec un quart de ses effectifs en moins, à un an du rendez-vous qui doit confirmer le quatrième mandat du chef de l’Etat-parti.",
+          "titre": "COP biodiversité : à Erevan, en Arménie, près de 200 Etats s’accordent sur des t",
+          "analyse": "Après deux semaines de difficiles débats, les participants à la COP17 ont adopté une cinquantaine de textes essentiels pour poursuivre la lutte contre la destruction du vivant. La quête de consensus entre pays a toutefois contraint à édulcorer une partie des décisions.",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/international/article/2026/10/30/en-chine-les-purges-sans-fin-de-xi-jinping-revelent-sa-frustration-vis-a-vis-du-parti-communiste_6803093_3210.html",
+          "url": "https://www.lemonde.fr/planete/article/2026/10/31/cop-biodiversite-a-erevan-en-armenie-pres-de-200-etats-s-accordent-sur-des-textes-cles-mais-a-l-ambition-affaiblie_6803471_3244.html",
           "niveau": "moyen"
         },
         {
-          "titre": "EN DIRECT, guerre en Ukraine : Kiev et Moscou annoncent le début des évacuations",
-          "analyse": "Le député ukrainien David Arakhamia, proche du président Volodymyr Zelensky et négociateur-clé dans les pourparlers diplomatiques, a également annoncé que la distribution d’aide alimentaire avait commencé.",
+          "titre": "L’Italie, théâtre de la convergence des luttes lors d’une journée de manifestati",
+          "analyse": "Une grève générale a eu lieu vendredi 30 octobre, à l’appel de l’Union syndicale de base pour en particulier dénoncer le coût de la vie et les problèmes de logement.",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/international/live/2026/10/30/en-direct-guerre-en-ukraine-kiev-et-moscou-annoncent-le-debut-des-evacuations-humanitaires-a-olechky-ou-un-cessez-le-feu-est-en-vigueur-depuis-plus-de-trois-jours_6799896_3210.html",
+          "url": "https://www.lemonde.fr/international/article/2026/10/31/l-italie-theatre-de-la-convergence-des-luttes-lors-d-une-journee-de-manifestations-tres-suivies_6803484_3210.html",
           "niveau": "moyen"
         },
         {
-          "titre": "A Charleville-Mézières, loin des scènes de pillage : « On a vu les fractures se ",
-          "analyse": "Dans la préfecture des Ardennes, qui a conservé les allures d’une France rurale et ouvrière, la mobilisation sociale s’est faite sans heurts. Pourtant, sur fond de précarité économique, la tentation des extrêmes vient diviser le tissu social, jusque dans les familles.",
+          "titre": "Jean-Claude Passeron, sociologue spécialiste de l’éducation, est mort",
+          "analyse": "Directeur d’études à l’EHESS ou encore professeur à l’université de Vincennes, Jean-Claude Passeron a notamment été l’auteur de plusieurs ouvrages de référence, avec Pierre Bourdieu, qui ont renouvelé la sociologie de l’éducation en France.",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/societe/article/2026/10/30/a-charleville-mezieres-loin-des-scenes-de-pillage-on-a-vu-les-fractures-se-multiplier-au-fil-du-temps-des-peurs-monter-sans-jamais-redescendre_6802770_3224.html",
+          "url": "https://www.lemonde.fr/societe/article/2026/10/31/jean-claude-passeron-sociologue-specialiste-de-l-education-est-mort_6803480_3224.html",
           "niveau": "moyen"
         },
         {
-          "titre": "Théâtre, danse, cirque, comédie musicale, humour… Dix-huit spectacles à réserver",
-          "analyse": "Les journalistes du service Culture du « Monde » vous proposent leurs suggestions de représentations auxquelles assister, à Paris et en région.",
+          "titre": "EN DIRECT, guerre en Ukraine : des centaines de milliers de foyers privés d’élec",
+          "analyse": "Dans la capitale, des drones de type Shahed « ont frappé une centrale thermique et électrique », a écrit Volodymyr Zelensky. Dans l’oblast de Dnipropetrovsk, quatre sous-stations électriques ont été touchées au cours de la nuit, ainsi qu’une installation de distribution de gaz.",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/culture/article/2026/10/30/theatre-danse-cirque-comedie-musicale-humour-dix-sept-spectacles-a-reserver-en-novembre_6802763_3246.html",
+          "url": "https://www.lemonde.fr/international/live/2026/10/31/en-direct-guerre-en-ukraine-des-centaines-de-milliers-de-foyers-prives-d-electricite-dans-les-regions-de-dnipro-et-de-kiev-apres-des-bombardements-russes_6799896_3210.html",
           "niveau": "moyen"
         },
         {
-          "titre": "EN DIRECT, midterms 2026 : Donald Trump attendu en Floride, les démocrates confi",
-          "analyse": "D’où vient cette pratique du « gerrymandering »,  l’art de modifier la carte électorale à son avantage ? Nos journalistes Manon Romain et Pierre Breteau ont répondu à vos questions sur ce sujet. Dans un tchat à partir de 16 heures, notre correspondant Piotr Smolar abordera les enjeux politiques de c",
+          "titre": "A Trappes, l’« espoir d’un réveil » des Français, alors que l’arrivée de l’extrê",
+          "analyse": "L’émotion était palpable, vendredi, lors de la cérémonie organisée par Ali Rabeh, le maire (Génération.s) de la commune, une semaine après l’attaque terroriste qui a coûté la vie à une personne et en a blessé sept autres. L’édile était entouré de responsables de toute la gauche, mais les personnalit",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/international/live/2026/10/30/en-direct-midterms-2026-retrouvez-les-reponses-de-nos-journalistes-a-vos-questions-sur-le-gerrymandering-l-art-de-modifier-la-carte-electorale-a-son-avantage_6801590_3210.html",
+          "url": "https://www.lemonde.fr/politique/article/2026/10/31/a-trappes-l-espoir-d-un-reveil-des-francais-alors-que-l-arrivee-de-l-extreme-droite-au-pouvoir-est-dans-toutes-les-tetes_6803379_823448.html",
           "niveau": "moyen"
         },
         {
-          "titre": "Au sommet Russie-Afrique, Vladimir Poutine tente de séduire ses hôtes en étrilla",
-          "analyse": "Lors du sommet, qui s’est tenu les 28 et 29 octobre à Moscou, Vladimir Poutine a promis d’accroître les échanges commerciaux avec l’Afrique. Mais l’influence politique et militaire reste le pilier de l’engagement russe sur le continent.",
+          "titre": "Pour faire baisser le prix du gazole à la pompe, une course contre la montre et ",
+          "analyse": "Dans les stations-service, le prix du litre de diesel doit perdre jusqu’à 18 centimes d’euro dès dimanche 1ᵉʳ novembre, selon le gouvernement. Mais la remise devrait s’appliquer de façon disparate d’un distributeur à l’autre.",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/international/article/2026/10/30/au-sommet-russie-afrique-vladimir-poutine-tente-de-seduire-ses-hotes-en-etrillant-le-neocolonialisme-de-l-occident_6803073_3210.html",
+          "url": "https://www.lemonde.fr/economie/article/2026/10/31/course-contre-la-montre-et-casse-tete-logistique-pour-faire-baisser-le-prix-du-gazole-a-la-pompe_6803469_3234.html",
           "niveau": "moyen"
         }
       ]
@@ -75,59 +75,59 @@
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "Why it’s a bad time to be a rat-killer",
-          "analyse": "Private equity and artificial intelligence are nibbling at sales",
-          "source": "Business",
-          "url": "https://www.economist.com/business/2026/10/29/why-its-a-bad-time-to-be-a-rat-killer",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "The world’s biggest maker of spectacles faces a crisis",
-          "analyse": "EssilorLuxottica has been rocked by a petty feud",
-          "source": "Business",
-          "url": "https://www.economist.com/business/2026/10/29/the-worlds-biggest-maker-of-spectacles-faces-a-crisis",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "AMD’s stock slides after Intel earnings reveal two big issues",
-          "analyse": "Intel is struggling to make enough AI server chips and dealing with a weak PC market. Investors will soon find out the degree to which AMD is suffering from the same problems.",
+          "titre": "The stock market’s front-runners stumbled in October. Here’s where the smart mon",
+          "analyse": "U.S. stocks saw a stronger reversal in fortunes in October, as worries about dwindling free cash flows and rising borrowing costs threw a wrench into the works of the artificial-intelligence trade.",
           "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/amds-stock-slides-after-intel-earnings-reveal-two-big-issues-d3afed91?mod=mw_rss_topstories",
+          "url": "https://www.marketwatch.com/story/the-stock-markets-front-runners-stumbled-in-october-heres-where-the-smart-money-is-moving-now-f901472a?mod=mw_rss_topstories",
           "niveau": "moyen"
         },
         {
-          "titre": "This credit card is the ‘best weapon’ to fight debt while interest rates keep cl",
-          "analyse": "After September’s rate hike and another projected increase in December, borrowing costs are expected to keep climbing for Americans carrying a credit-card balance.",
+          "titre": "This Halloween, are full-size candy bars a better deal than fun-sized ones?",
+          "analyse": "Several TikTokers influencers claim you can save money and be the coolest house on the block with bigger candy this year. Let’s see how that adds up.",
           "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/this-credit-card-is-the-best-weapon-to-fight-debt-while-interest-rates-keep-climbing-8378fcf2?mod=mw_rss_topstories",
+          "url": "https://www.marketwatch.com/story/this-halloween-are-king-sized-candy-bars-a-better-deal-than-fun-sized-ones-992da0d9?mod=mw_rss_topstories",
           "niveau": "moyen"
         },
         {
-          "titre": "My father has early Alzheimer’s and his caregiver is using his debit card for Do",
-          "analyse": "“I suspect the live-in caregiver is benefiting from my parent’s generosity.”",
+          "titre": "Nvidia’s Megaspeed ties show potential blind spots in the U.S. effort to block C",
+          "analyse": "Nvidia CEO Jensen Huang’s business meetings are routine practice and existing U.S. export controls largely miss the cloud, experts say.",
           "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/theres-a-lot-of-hurt-between-us-my-fathers-caregiver-is-using-his-debit-card-for-doordash-orders-what-can-i-do-714de7a5?mod=mw_rss_topstories",
+          "url": "https://www.marketwatch.com/story/nvidias-megaspeed-ties-show-potential-blind-spots-in-the-u-s-effort-to-block-china-from-accessing-advanced-chips-e75d541a?mod=mw_rss_topstories",
           "niveau": "moyen"
         },
         {
-          "titre": "Bitcoin slides after crypto’s nightmare scenario: a historic $6.3 billion heist",
-          "analyse": "Binance has vowed to get the exchange back up within a couple of days after a record $6.3 billion heist, which has rattled the industry and investors.",
+          "titre": "These 10 megadonors have spent a total of $1 billion on the midterm elections",
+          "analyse": "They’ve helped turn this year’s midterms into “the most expensive election cycle on record.”",
           "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/heres-when-binance-plans-to-reopen-after-whats-believed-to-be-the-largest-ever-6-3-billion-hack-d3cb8154?mod=mw_rss_topstories",
+          "url": "https://www.marketwatch.com/story/these-10-megadonors-have-spent-a-total-of-1-billion-on-the-midterm-elections-0dc279cf?mod=mw_rss_topstories",
           "niveau": "moyen"
         },
         {
-          "titre": "This one chart tells you everything you need to know about Exxon, Chevron and BP",
-          "analyse": "One slide in ExxonMobil’s investor presentation after its third-quarter earnings explains the financial situation for the integrated oil giants very neatly.",
+          "titre": "Grand Theft Callout: ‘GTA 6’ fans are missing work on the game’s release day bec",
+          "analyse": "After waiting 13 years for this videogame, almost one-fifth of workers plan to take the day off to play ‘Grand Theft Auto VI’ when it drops on Nov. 19",
           "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/this-one-chart-tells-you-everything-you-need-to-know-about-exxon-chevron-and-bps-forecasting-beating-earnings-24babdfc?mod=mw_rss_topstories",
+          "url": "https://www.marketwatch.com/story/grand-theft-callout-gta-6-fans-are-missing-work-on-the-games-release-day-because-they-dont-want-to-wait-anymore-5f2fa2e3?mod=mw_rss_topstories",
           "niveau": "moyen"
         },
         {
-          "titre": "‘Fancy cars hold no appeal’: We have a 99% chance of outliving our life savings.",
-          "analyse": "“I’m 68, she’s 74, and we’re both in good health. We married later in life and have no children.”",
+          "titre": "Has the tech bubble burst? Why the Nasdaq’s rough ride looks eerily like 2000.",
+          "analyse": "Friday’s big plunge raises disturbing parallels with the top of the dot-com bubble",
           "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/fancy-cars-hold-no-appeal-my-wife-and-i-have-a-99-chance-of-outliving-our-savings-why-dont-we-spend-it-all-932a2166?mod=mw_rss_topstories",
+          "url": "https://www.marketwatch.com/story/has-the-tech-bubble-burst-why-the-nasdaqs-rough-ride-looks-eerily-like-2000-5bcefcb2?mod=mw_rss_topstories",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "This cybersecurity stock will be the next to join the S&P 500",
+          "analyse": "Okta is slated to join the index on Wednesday, replacing Kenvue.",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/this-cybersecurity-stock-will-be-the-next-to-join-the-s-p-500-dc976803?mod=mw_rss_topstories",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Warsh wants the Fed to say less. Two officials are pushing for more transparency",
+          "analyse": "More interest-rate hikes are needed to fight inflation, Fed officials say.",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/the-fed-held-interest-rates-steady-but-these-officials-see-more-hikes-coming-soon-2098bbd8?mod=mw_rss_topstories",
           "niveau": "moyen"
         }
       ]
@@ -138,17 +138,10 @@
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "Piero Cipollone: Next-day securities settlement, tokenisation and the transforma",
+          "titre": "Decisions taken by the Governing Council of the ECB (in addition to decisions se",
           "analyse": "",
           "source": "ECB - European Central Bank",
-          "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261029~e9b57c3495.en.html",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Christine Lagarde, Boris Vujčić: Monetary policy statement (with Q&A)",
-          "analyse": "",
-          "source": "ECB - European Central Bank",
-          "url": "https://www.ecb.europa.eu//press/press_conference/monetary-policy-statement/2026/html/ecb.is261029~5c5ffe99e5.en.html",
+          "url": "https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc261030~e40f864093.en.html",
           "niveau": "moyen"
         }
       ]
@@ -159,59 +152,45 @@
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "SCPI d'Advenis REIM : Eurovalys cède, Elialys et Eden investissent",
-          "analyse": "Que changent les opérations du 3T 2026 pour Eurovalys, Elialys et Eden ? Cessions, acquisitions et nouvelles modalités dessinent leurs stratégies.",
+          "titre": "Euryale crée le Groupe Euryale et nomme Jérôme Dian Directeur Général",
+          "analyse": "Quelle portée pour le Groupe Euryale ? L’ambition européenne et le rôle de Jérôme Dian se précisent, tandis que plusieurs modalités restent à définir.",
           "source": "MeilleureSCPI.com",
-          "url": "https://www.meilleurescpi.com/actualites/dvenis-reim-eurovalys-cede-elialys-et-eden-investissent-au-3t/",
+          "url": "https://www.meilleurescpi.com/actualites/euryale-cree-le-groupe-euryale-et-nomme-jerome-dian-directeur-general/",
           "niveau": "moyen"
         },
         {
-          "titre": "Marché des SCPI : ce que révèle l'étude du 3T 2026",
-          "analyse": "La collecte des SCPI ralentit-elle malgré des achats à rendement élevé ? Les chiffres du trimestre éclairent ces deux tendances.",
+          "titre": "Praemia REIM transforme un actif de santé à Bordeaux",
+          "analyse": "Comment l’Institut Aquitain du Cœur s’intègre-t-il à la Clinique Saint-Augustin ? Les caractéristiques du projet bordelais et ses enjeux immobiliers.",
           "source": "MeilleureSCPI.com",
-          "url": "https://www.meilleurescpi.com/actualites/scpi-collecte-et-acquisitions-quel-bilan-au-3t/",
+          "url": "https://www.meilleurescpi.com/actualites/praemia-reim-transforme-un-actif-de-sante-a-bordeaux/",
           "niveau": "moyen"
         },
         {
-          "titre": "SCPI Accès Valeur Pierre : que retenir du 3T 2026 ?",
-          "analyse": "Quels indicateurs marquent le 3T 2026 ? Taux d’occupation, distribution et retraits éclairent les enjeux du trimestre.",
-          "source": "MeilleureSCPI.com",
-          "url": "https://www.meilleurescpi.com/actualites/scpi-acces-valeur-pierre-que-retenir-du-3t/",
+          "titre": "Immobilier : Kretz Real Estate s’implante à La Réunion",
+          "analyse": "Après l’ouverture récente de son flagship à l’Île Maurice, Kretz Real Estate s'implante à La Réunion. L'activité sera pilotée par Thomas Laurent, entrepreneur réunionnais et professionnel de l’immobilier.\nCet article Immobilier : Kretz Real Estate s’implante à La Réunion est apparu en premier sur My",
+          "source": "MySweetimmo",
+          "url": "https://www.mysweetimmo.com/2026/10/31/immobilier-kretz-real-estate-simplante-a-la-reunion/",
           "niveau": "moyen"
         },
         {
-          "titre": "SCPI Reason : quelles avancées au 3T 2026 ?",
-          "analyse": "Quelles évolutions pour Reason au 3T 2026 ? Acquisitions, collecte et prix de part dessinent la situation du portefeuille. Les principaux repères à retenir",
-          "source": "MeilleureSCPI.com",
-          "url": "https://www.meilleurescpi.com/actualites/scpi-reason-quelles-avancees-au-3t/",
+          "titre": "Crédit immobilier : Les taux montent, les banques deviennent plus sélectives",
+          "analyse": "Les taux immobiliers remontent et les banques deviennent plus exigeantes. Mensualités en hausse, négociations plus difficiles, petits prêts parfois bloqués : ce qui change pour les emprunteurs.\nCet article Crédit immobilier : Les taux montent, les banques deviennent plus sélectives est apparu en pre",
+          "source": "MySweetimmo",
+          "url": "https://www.mysweetimmo.com/2026/10/31/credit-immobilier-les-taux-montent-les-banques-deviennent-plus-selectives/",
           "niveau": "moyen"
         },
         {
-          "titre": "SCPI Linaclub : où en est son développement au 3T 2026 ?",
-          "analyse": "Collecte, occupation, dividende : où en est Linaclub au 3T 2026 ? Les chiffres clés et projets européens éclairent la suite de son développement.",
-          "source": "MeilleureSCPI.com",
-          "url": "https://www.meilleurescpi.com/actualites/scpi-linaclub-ou-en-est-son-developpement-au-3t/",
+          "titre": "A vendre à Bordeaux : Elégante maison en pierre face au Jardin Public",
+          "analyse": "Cette élégante maison en pierre de 220 m² avec un jardin paysagé de 150 m² située en face du Jardin Public de Bordeaux est proposée à la vente par Barnes.\nCet article A vendre à Bordeaux : Elégante maison en pierre face au Jardin Public  est apparu en premier sur MySweetimmo.",
+          "source": "MySweetimmo",
+          "url": "https://www.mysweetimmo.com/2026/10/30/a-vendre-a-bordeaux-elegante-maison-en-pierre-face-au-jardin-public/",
           "niveau": "moyen"
         },
         {
-          "titre": "Quel avenir pour l’immobilier de commerce ?",
-          "analyse": "La fréquentation des magasins physiques recule depuis plusieurs années. Le rythme de ces replis diffère selon le format des commerces. Savills relie ces écarts aux comportements des générations qui les fréquentent. C’est de fait en partie le vieillissement de la population qui dessine les grandes te",
-          "source": "Pierrepapier.fr",
-          "url": "https://www.pierrepapier.fr/marche-immobilier/quel-avenir-pour-immobilier-de-commerce/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "La SCPI Pierre Sélection publie son bulletin pour le 3T 2026",
-          "analyse": "La SCPI Pierre Sélection, gérée par BNP Paribas REIM France, publie son Bulletin Trimestriel du 3ème trimestre 2026. Le taux d&#8217;occupation financier progresse à 93,14 %, sans acquisition ni cession, et le dividende trimestriel s&#8217;établit à 4,00 € par part. Collecte et marché des parts Cett",
-          "source": "Pierrepapier.fr",
-          "url": "https://www.pierrepapier.fr/bulletin/la-scpi-pierre-selection-publie-son-bulletin-pour-le-3t-2026/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "La SCPI Imarea Pierre publie son bulletin pour le 3T 2026",
-          "analyse": "La SCPI Imarea Pierre, gérée par BNP Paribas REIM France, publie son Bulletin Trimestriel du 3ème trimestre 2026. Elle acquiert la moitié d&#8217;un portefeuille de cinq EHPAD, atteint 102,41 M€ de capitalisation et affiche un taux d&#8217;occupation financier de 100 %. Collecte et marché des parts ",
-          "source": "Pierrepapier.fr",
-          "url": "https://www.pierrepapier.fr/bulletin/la-scpi-imarea-pierre-publie-son-bulletin-pour-le-3t-2026/",
+          "titre": "Rénovation énergétique : Comment se faire accompagner pour réussir ses travaux ?",
+          "analyse": "Quels travaux privilégier, quelles aides demander et quels artisans choisir ? Un accompagnement en rénovation énergétique aide les propriétaires à préparer leur projet, à organiser les démarches et à suivre leur chantier.\nCet article Rénovation énergétique : Comment se faire accompagner pour réussir",
+          "source": "MySweetimmo",
+          "url": "https://www.mysweetimmo.com/2026/10/30/renovation-energetique-comment-se-faire-accompagner-pour-reussir-ses-travaux/",
           "niveau": "moyen"
         }
       ]
@@ -222,59 +201,59 @@
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "Réseaux sociaux : un blocage temporaire en cas de crise sociale est-il possible ",
-          "analyse": "Bloquer temporairement l&#039;accès aux réseaux sociaux pour contenir des violences, une option envisagée dans le cadre de la mobilisation lycéenne et sociale, se heurte à des limites. Quels...",
+          "titre": "Disperser les cendres en mer, forêt, jardin, conserver l’urne chez soi… Vos droi",
+          "analyse": "La crémation concerne aujourd&#039;hui près de la moitié des obsèques en France. Pourtant, de nombreuses familles ignorent encore ce que la loi autorise ou interdit concernant les cendres d&#039;un proche disparu. Voici les principales règles à connaître.",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/depeches/reseaux-sociaux-un-blocage-temporaire-en-cas-de-crise-sociale-est-il-possible-140777",
+          "url": "https://www.notretemps.com/droit-argent/demarches-administratives/disperser-les-cendres-en-mer-foret-jardin-conserver-lurne-chez-soi-vos-droits-et-obligations-apres-une-cremation-140479",
           "niveau": "moyen"
         },
         {
-          "titre": "BHV : la situation financière de l'enseigne examinée par la justice à Paris",
-          "analyse": "La situation financière du BHV doit être examinée vendredi par le tribunal des activités économiques de Paris, alors même que parallèlement l&#039;entreprise vient de demander son placement en redressement...",
+          "titre": "Fruits et légumes bio: pourquoi ils sont souvent moins chers en magasin bio qu'e",
+          "analyse": "Il vous arrive d&#039;acheter des fruits et légumes bio dans le rayon dédié de votre supermarché, persuadé qu&#039;ils sont moins chers que dans une enseigne bio? C&#039;est loin d&#039;être toujours le cas, bien au contraire, comme l&#039;a démontré le journaliste Hugo Clément, preuves à l&#039;app",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/depeches/bhv-la-situation-financiere-de-l-enseigne-examinee-par-la-justice-a-paris-140764",
+          "url": "https://www.notretemps.com/droit-argent/droit-du-consommateur/non-les-fruits-et-legumes-bio-ne-sont-pas-plus-chers-dans-les-magasins-bio-au-contraire-140662",
           "niveau": "moyen"
         },
         {
-          "titre": "La lutte contre l'habitat indigne à Marseille, un chantier sans fin",
-          "analyse": "À Marseille, les lieux branchés jalonnent la rue d’Aubagne sans effacer le délabrement du quartier, où huit personnes ont péri en 2018 dans l&#039;effondrement d&#039;immeubles. Combat de longue haleine, la rés...",
+          "titre": "Acte III de la mobilisation sociale : la crainte d'un nouveau 17 octobre, le par",
+          "analyse": "Dispositif de sécurité \"exceptionnel\" avec 70.000 policiers et gendarmes mobilisés et ton alarmiste: pour l&#039;acte III de mobilisation contre la vie chère, en pleine fête d&#039;Halloween, les autorités redo...",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/depeches/la-lutte-contre-l-habitat-indigne-a-marseille-un-chantier-sans-fin-140776",
+          "url": "https://www.notretemps.com/depeches/acte-iii-de-la-mobilisation-sociale-la-crainte-d-un-nouveau-17-octobre-le-parcours-bastillenation-interdit-140803",
           "niveau": "moyen"
         },
         {
-          "titre": "TF1: la baisse de la pub pèse sur l'activité et le bénéfice net",
-          "analyse": "Le groupe TF1 a vu son chiffre d&#039;affaires et son bénéfice net chuter sur les trois premiers trimestres de l&#039;année, en raison du marché publicitaire toujours dégradé, mais maintient ses o...",
+          "titre": "Quiz spécial difficultés de la langue française: testez-vous avec nos 10 questio",
+          "analyse": "Pluriels atypiques, accords, conjugaison, mots compliqués… Saurez-vous déjouer ces 10 pièges de la langue française?",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/depeches/tf1-la-baisse-de-la-pub-pese-sur-l-activite-et-le-benefice-net-140775",
+          "url": "https://www.notretemps.com/loisirs/langue-francaise/quiz-special-difficultes-de-la-langue-francaise-testez-vous-avec-nos-10-questions-140648",
           "niveau": "moyen"
         },
         {
-          "titre": "Le club des \"grands-parents anonymes\": \"Je déteste Halloween\"",
-          "analyse": "Pas toujours simple, la vie de grand‑parent. Au club des Grands‑Parents Anonymes (CGPA), on rit, on décrypte, on se reconnaît. Et on garde notre humour. Une question, une bourde, un conflit, une scène familiale? Cette rubrique est la vôtre… partagez‑la, n&#039;hésitez pas à commenter!",
+          "titre": "Wordle : Le Mot du jour gratuit - 31 octobre 2026",
+          "analyse": "Le Mot du jour, inspiré du Wordle, est un jeu de devinettes avec six essais pour trouver un mot de cinq lettres. Les lettres sont marquées en vert, jaune ou gris selon leur position dans le mot. Grille du 31 octobre 2026",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/famille/petits-enfants-grands-parents/le-club-des-grands-parents-anonymes-je-deteste-halloween-140770",
+          "url": "https://www.notretemps.com/jeux/jeux-en-ligne/wordle-jeu-le-mot-du-jour/wordle-le-mot-du-jour-gratuit-31-octobre-2026",
           "niveau": "moyen"
         },
         {
-          "titre": "Les ports français et européens perturbés par une grève des dockers",
-          "analyse": "Les ports français et européens, grecs notamment, sont perturbés vendredi par une grève de 24 heures des dockers, à l&#039;appel des syndicats qui réclament des augmentations de salaire et s&#039;opposent à la...",
+          "titre": "Dette, PIB, crise sociale: Fitch envisage de dégrader la note de la France",
+          "analyse": "L&#039;agence Fitch a maintenu vendredi la note de la dette souveraine de la France à A+ mais envisage de l&#039;abaisser, relevant une \"détérioration\" de la situation budgétaire en pleine crise sociale et alor...",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/depeches/les-ports-francais-et-europeens-perturbes-par-une-greve-des-dockers-140774",
+          "url": "https://www.notretemps.com/depeches/dette-pib-crise-sociale-fitch-envisage-de-degrader-la-note-de-la-france-140801",
           "niveau": "moyen"
         },
         {
-          "titre": "Manifestations de samedi à Paris : les parcours de la CGT et des gilets jaunes i",
-          "analyse": "Les parcours de cortège dans le centre de Paris déposés par la CGT et des gilets jaunes pour la manifestation de samedi contre \"la vie chère\" ont été interdits vendredi par la préfecture de police, qu...",
+          "titre": "Fitch maintient la note A+ de la France mais abaisse sa perspective",
+          "analyse": "L&#039;agence de notation Fitch Ratings a maintenu vendredi la note de la dette souveraine de la France à A+ mais a dégradé la perspective, de stable à négative, relevant une \"détérioration\" de la situatio...",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/depeches/manifestations-de-samedi-a-paris-les-parcours-de-la-cgt-et-des-gilets-jaunes-interdits-par-la-prefecture-de-police-140773",
+          "url": "https://www.notretemps.com/depeches/fitch-maintient-la-note-a-de-la-france-mais-abaisse-sa-perspective-140800",
           "niveau": "moyen"
         },
         {
-          "titre": "En France, le PIB recule au 3ème trimestre et \"l'économie française est à l'arrê",
-          "analyse": "Recul du PIB au premier trimestre, stagnation au deuxième, et désormais nouveau recul de 0,1 % annoncé vendredi par l&#039;Insee : \"l&#039;économie française est à l&#039;arrêt\", a dû reconnaître le ministre de l&#039;Ec...",
+          "titre": "Edouard Geffray écrit aux lycéens à deux jours de la rentrée",
+          "analyse": "\"Nous n&#039;avons qu&#039;un seul objectif: vous permettre de progresser (...) et de devenir des citoyens libres et éclairés\" : à deux jours de la rentrée des vacances de Toussaint,  le ministre de l&#039;Education...",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/depeches/en-france-le-pib-recule-au-3eme-trimestre-et-l-economie-francaise-est-a-l-arret-140772",
+          "url": "https://www.notretemps.com/depeches/edouard-geffray-ecrit-aux-lyceens-a-deux-jours-de-la-rentree-140799",
           "niveau": "moyen"
         }
       ]
@@ -285,52 +264,10 @@
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "Comprendre le risque : à qui appartiennent vraiment vos cryptos",
-          "analyse": "Quand vous achetez du bitcoin sur une plateforme, vous ne détenez pas directement le bitcoin. Vous détenez une créance sur la plateforme, qui garde les clés privées à votre place. C&rsquo;est le sens du dicton bien connu : « not your keys, not your coins » (pas vos clés, pas vos cryptos).\nHot wallet",
-          "source": "Finyear",
-          "url": "https://finyear.com/comprendre-le-risque-a-qui-appartiennent-vraiment-vos-cryptos/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Hack de Binance : ce qu’il faut retenir et comment sécuriser ses cryptos",
-          "analyse": "Le jeudi 29 octobre 2026, Binance, première plateforme crypto au monde, a été vidée d&rsquo;environ 6,3 milliards de dollars en quelques minutes. C&rsquo;est le plus gros vol de l&rsquo;histoire des cryptomonnaies, quatre fois le record précédent. Au-delà du choc, cet événement rappelle une règle si",
-          "source": "Finyear",
-          "url": "https://finyear.com/hack-de-binance-ce-quil-faut-retenir-et-comment-securiser-ses-cryptos/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Forvis Mazars renforce ses expertises avec le recrutement de 6 nouveaux Associés",
-          "analyse": "Forvis Mazars, groupe international spécialisé dans l’audit, la fiscalité et le conseil, annonce la nomination de 6 nouveaux Associés France. Ces nominations reflètent la dynamique soutenue du groupe sur l’ensemble de ses métiers et réaffirment son attachement à la pluridisciplinarité. Elles traduis",
-          "source": "Finyear",
-          "url": "https://finyear.com/forvis-mazars-renforce-ses-expertises-avec-le-recrutement-de-6-nouveaux-associes-france/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "TYLS Conseil vise 130 M€ de chiffre d’affaires d’ici fin 2026 et accueille Ander",
-          "analyse": "Le réseau d’expertise comptable et de conseil aux dirigeants TYLS a vu son chiffre d’affaires plus que doubler de 57 M€ fin 2025 à près de 130 M€ d’ici la fin de l’année. Il accueille aujourd’hui Andera Partners, via son équipe Andera Acto comme partenaire financier dans le cadre d’une opération spo",
-          "source": "Finyear",
-          "url": "https://finyear.com/tyls-conseil-vise-130-me-de-chiffre-daffaires-dici-fin-2026-et-accueille-andera-partners-pour-accelerer-sa-croissance/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "La crypto s’impose dans les stratégies patrimoniales à long terme",
-          "analyse": "La crypto occupe une place croissante dans la manière dont les jeunes investisseurs envisagent leur patrimoine à long terme. Près de deux investisseurs sur trois parmi les moins de 45 ans prévoient d’augmenter la part de leurs investissements détenue en crypto au cours des cinq prochaines années (65",
-          "source": "Finyear",
-          "url": "https://finyear.com/la-crypto-simpose-dans-les-strategies-patrimoniales-a-long-terme/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "L’externalisation, sujet transverse aux portefeuilles des fonds",
-          "analyse": "Beaucoup d’entreprises, de tous secteurs, peuvent être amenées à structurer une logique d’outsourcing d’une partie de leurs compétences et besoins. Les prestataires qu’elles choisissent, par nature spécialisés, représentant autant de cibles potentielles pour des fonds en quête de barrière à l’entrée",
+          "titre": "Largillière Finance, HarbourVest, Elevation Capital Partners… les nominations de",
+          "analyse": "Un nouveau poste de managing director a été confié à CHARLES-EDOUARD CHEVALLIER (ESCP) au sein du département M&#038;A + debt advisory de Largillière Finance.",
           "source": "PE Magazine",
-          "url": "https://www.pemagazine.fr/lexternalisation-sujet-transverse-aux-portefeuilles-des-fonds/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Abattement de l’assurance vie : faut-il purger ses plus-values chaque année ?",
-          "analyse": "Purger chaque année ses plus-values rapporte vraiment sur le fonds en euros, à peine sur des ETF. Voici combien retirer pour rester sous l’abattement de 4 600&#160;€ ou 9 200&#160;€, et quand le faire. L’abattement efface l’impôt sur vos gains, jamais les prélèvements sociaux. Après huit ans, les ga",
-          "source": "Epargnant 3.0",
-          "url": "https://www.epargnant30.fr/assurance-vie-abattement/",
+          "url": "https://www.pemagazine.fr/largilliere-finance-harbourvest-elevation-capital-partners-les-nominations-de-la-semaine/",
           "niveau": "moyen"
         }
       ]
@@ -341,59 +278,17 @@
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "La comptabilité, ce frein invisible qui empêcherait l'Europe de passer à l'écono",
-          "analyse": "Une réforme de la comptabilité pourrait booster l'économie de la fonctionnalité et l'économie circulaire en Europe - Crédit : Nicolas_Tucat_AFP\nEt si la transition vers une économie plus circulaire passait aussi par les règles comptables ? C'est le pari que fait l'Institut Rousseau dans une note réc",
-          "source": "Novethic",
-          "url": "https://www.novethic.fr/economie-et-social/transformation-de-leconomie/reforme-comptabilite-economie-usage-fonctionnalite-europe",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "[Exclusif] Le climat menace la valeur des hôtels et fait planer le risque d’acti",
-          "analyse": "Les hôtels proches des zones incendiées peuvent voir chuter leur attractivité sur plusieurs années.@Armend Nimani-AFP\nIncendies incontrôlables, canicules à répétition, sécheresse… Les événements climatiques dévastateurs de l’été 2026 en Europe ont bousculé la saison touristique dans de nombreux pays",
-          "source": "Novethic",
-          "url": "https://www.novethic.fr/economie-et-social/business-model-en-transition/exclusif-le-climat-menace-la-valeur-des-hotels-et-fait-planer-le-risque-dactifs-echoues",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Lucile Peytavin : \"Si la virilité au travail rapporte à certains, elle coûte sur",
-          "analyse": "Lucile Peytavin, historienne et co-autrice de l'essai \"Le coût de la virilité au travail\". @Tallandier / Juliette Dupuis Carle\nVous avez écrit un premier essai sur le coût de la virilité pour la société. Pourquoi avoir choisi cette fois de l’analyser sous le prisme de l’entreprise ? Lucile Peytavin ",
-          "source": "Novethic",
-          "url": "https://www.novethic.fr/economie-et-social/droits-humains/lucile-peytavin-si-virilite-travail-rapporte-certains-elle-coute-surtout-cher-entreprises",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Christine Lagarde quitte la BCE, quel bilan climatique après huit ans de préside",
-          "analyse": "Christine Lagarde, la présidente de la Banque centrale européenne, a annoncé son départ avant la fin de son mandat. @BCE\n\"Je quitte cette institution avec le sentiment du devoir accompli et une BCE prête pour l’avenir.\" Dans un message vidéo publié jeudi 29 octobre, Christine Lagarde a annoncé son d",
-          "source": "Novethic",
-          "url": "https://www.novethic.fr/economie-et-social/transformation-de-leconomie/christine-lagarde-quitte-la-bce-quel-bilan-climatique-apres-huit-ans-de-presidence",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "L’agenda de la transition énergétique",
-          "analyse": "Chaque semaine, GreenUnivers sélectionne les principaux événements professionnels de la transition énergétique. Des rendez-vous qui ont lieu en France et ailleurs dans les secteurs des énergies renouvelables, de l’hydrogène, de la rénovation ou encore de la mobilité électrique. Novembre 2 Paris Infr",
+          "titre": "Biométhane : l’appel d’offres se rapproche et continue à inquiéter les agriculte",
+          "analyse": "Une nouvelle ère débute dans le biogaz. La fin annoncée du tarif d&#8217;achat en guichet ouvert laisse place à une sélection par appel d&#8217;offres. Officiellement, le guichet ouvert s&#8217;arrêtera au 1er janvier prochain, « mais dès ce 1er novembre&#160;\nL’article Biométhane : l&rsquo;appel d&",
           "source": "GreenUnivers",
-          "url": "https://www.greenunivers.com/2026/10/lagenda-de-la-transition-energetique-282-437363/",
+          "url": "https://www.greenunivers.com/2026/10/biomethane-lappel-doffres-se-rapproche-et-continue-a-inquieter-les-agriculteurs-437397/",
           "niveau": "moyen"
         },
         {
-          "titre": "Le nouveau conseil Vecteur finance n’a pas peur de la crise",
-          "analyse": "Consacrés aux nouveaux modèles d’affaires dans l’électricité renouvelable, ses posts sur LinkedIn collectionnent les pouces levés, car il y livre les conclusions de ses études et calculs. Aymeric Doutriaux, fondateur ce mois-ci à Lyon de Vecteur finance, un cabinet de conseil en financements pour ce",
+          "titre": "Les documents de la semaine",
+          "analyse": "La sélection des documents parus cette semaine utiles aux acteurs de la transition énergétique. A retrouver tous les vendredis. Les nouveaux documents sont ajoutés à ceux rendus publics auparavant : textes réglementaires clés définitifs ou en consultation, documents de régulation, études pertinentes",
           "source": "GreenUnivers",
-          "url": "https://www.greenunivers.com/2026/10/le-nouveau-conseil-vecteur-finance-na-pas-peur-de-la-crise-437320/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Fournisseur coopératif de gaz, Gazcoop se lance sur un marché risqué",
-          "analyse": "Quelque 156 000€. C’est ce que Gazcoop, nouveau venu dans la fourniture de gaz, a récolté en moins d’une semaine auprès d’une centaine de sociétaires. Gazcoop a la particularité d&#8217;être un fournisseur coopératif. Rien\nL’article Fournisseur coopératif de gaz, Gazcoop se lance sur un marché risqu",
-          "source": "GreenUnivers",
-          "url": "https://www.greenunivers.com/2026/10/fournisseur-cooperatif-de-gaz-gazcoop-se-lance-sur-un-marche-risque-437298/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Voltalia s’apprête à choisir l’acquéreur de sa filiale Helexia",
-          "analyse": "Article complété le 30/10/2026 &#8211;  Exclusif &#8211; Voltalia devrait réussir à céder sa filiale Helexia avant la fin de l’année comme il le souhaite et pourrait même conclure dans les jours qui viennent. Mis sur le marché au printemps, ce spécialiste des toitures solaires mais aussi de l’effica",
-          "source": "GreenUnivers",
-          "url": "https://www.greenunivers.com/2026/10/voltalia-sapprete-a-choisir-lacquereur-de-sa-filiale-helexia-437188/",
+          "url": "https://www.greenunivers.com/2026/10/les-documents-de-la-semaine-381215/",
           "niveau": "moyen"
         }
       ]
@@ -404,10 +299,38 @@
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "Logiciels de gestion de formation : 6 solutions comparées sur leurs innovations ",
-          "analyse": "PARTNER&apos;S VOICE · Partners&apos;Voice · 30/10/2026L&apos;intelligence artificielle s&apos;installe dans les outils de la formation professionnelle. Pour les organismes de formation et les CFA, identifier quel logiciel propose les meilleures innovations IA dans la gestion de mes formations est u",
-          "source": "FRENCHWEB.FR — Tech, innovation et économie numérique",
-          "url": "https://www.frenchweb.fr/logiciels-de-gestion-de-formation-6-solutions-comparees-sur-leurs-innovations-ia-reellement-disponibles/900000008?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=article",
+          "titre": "\"Des contrôleurs mentent par appât du gain\" : cette agente SNCF donne ses astuce",
+          "analyse": "Pression, extorsion : agente de sûreté ferroviaire, Léa dénonce les pratiques de certains contrôleurs et explique aux usagers comment ne pas se laisser piéger.",
+          "source": "JDN : Derniers contenus",
+          "url": "https://www.journaldunet.com/patrimoine/finances-personnelles/1557295-cd1-controleur-sncf/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Retraite : toutes les pensions de novembre augmentent, mais moins que prévu",
+          "analyse": "Les 14 millions d'anciens salariés du privé vont voir leur pension complémentaire augmenter. Une revalorisation légèrement inférieure à la formule initiale, mais qui sera visible immédiatement sur les comptes en banque.",
+          "source": "JDN : Derniers contenus",
+          "url": "https://www.journaldunet.com/patrimoine/finances-personnelles/1557313-retraite-complementaire/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Agnès Firmin Le Bodo démissionne de son poste de corapporteuse de la commission ",
+          "analyse": "La députée Horizons renonce à son rôle de corapporteuse, estimant que la distribution des postes rompt l'équilibre démocratique.",
+          "source": "JDN : Derniers contenus",
+          "url": "https://www.journaldunet.com/business/action-publique/1557417-agnes-firmin-le-bodo-demissionne-de-son-poste-de-corapporteuse-de-la-commission-d-enquete/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "L'inflation en France s'établit à 3,4% en octobre",
+          "analyse": "La hausse des prix de l'énergie, notamment du gaz et des produits pétroliers, entraîne une accélération de l'inflation en France à son plus haut niveau depuis janvier 2024.",
+          "source": "JDN : Derniers contenus",
+          "url": "https://www.journaldunet.com/business/1557413-l-inflation-en-france-s-etablit-a-3-4-en-octobre/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "A quoi s'attendre pour ce troisième samedi de mobilisation",
+          "analyse": "La défense du droit de manifester s'impose au cœur de la troisième mobilisation nationale, marquée par des tensions sur les parcours parisiens et une coordination élargie.",
+          "source": "JDN : Derniers contenus",
+          "url": "https://www.journaldunet.com/business/action-publique/1557411-les-gilets-jaunes-appellent-a-un-troisieme-samedi-de-mobilisation/",
           "niveau": "moyen"
         },
         {
@@ -418,24 +341,17 @@
           "niveau": "moyen"
         },
         {
-          "titre": "L'Insee annonce que le PIB français a reculé de 0,1% au troisième trimestre",
-          "analyse": "L'Insee annonce un nouveau repli du PIB, faisant craindre une entrée en récession et suscitant des réactions chez les économistes.",
-          "source": "JDN : Derniers contenus",
-          "url": "https://www.journaldunet.com/business/1557403-l-insee-annonce-que-le-pib-francais-a-recule-de-0-1-au-troisieme-trimestre/",
+          "titre": "Reddit va bientôt limiter l’accès à ses contenus si vous n’avez pas de compte",
+          "analyse": "Alors qu&#8217;il était possible d&#8217;accéder aux contenus disponibles sur Reddit sans se connecter, ce ne sera bientôt plus systématiquement le cas. La plateforme vient d&#8217;annoncer que les utilisateurs seront bientôt obligés de créer un compte pour accéder à la plupart des contenus. Un nouv",
+          "source": "Siècle Digital",
+          "url": "https://siecledigital.fr/2026/10/30/reddit-va-bientot-limiter-lacces-a-ses-contenus-si-vous-navez-pas-de-compte/",
           "niveau": "moyen"
         },
         {
-          "titre": "Christine Lagarde annonce sa démission de la présidence de la BCE",
-          "analyse": "La présidente de la BCE quittera ses fonctions neuf mois avant la fin de son mandat, invoquant le besoin de s'exprimer librement hors du cadre monétaire.",
-          "source": "JDN : Derniers contenus",
-          "url": "https://www.journaldunet.com/business/action-publique/1557399-christine-lagarde-annonce-sa-demission-de-la-presidence-de-la-bce/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Edouard Philippe a été placé sous le statut de témoin assisté",
-          "analyse": "L'ancien Premier ministre et candidat à la présidentielle a été placé sous ce statut dans une enquête sur la gestion de la communauté d'agglomération du Havre.",
-          "source": "JDN : Derniers contenus",
-          "url": "https://www.journaldunet.com/business/action-publique/1557387-edouard-philippe-a-ete-place-sous-le-statut-de-temoin-assiste/",
+          "titre": "Un adolescent de 16 ans mis en examen après le piratage massif des données des i",
+          "analyse": "Ce n&#8217;est apparemment pas un hacker de 40 ans qui se cache derrière le piratage des impôts. Un adolescent de 16 ans seulement a été mis en examen. Il est pour l&#8217;heure soupçonné d&#8217;avoir participé à un vol de données fiscales que le groupe ZeroBytes avait notamment revendiqué sur les ",
+          "source": "Siècle Digital",
+          "url": "https://siecledigital.fr/2026/10/30/un-adolescent-de-16-ans-mis-en-examen-apres-le-piratage-massif-des-donnees-des-impots/",
           "niveau": "moyen"
         }
       ]
