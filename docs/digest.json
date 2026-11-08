@@ -1,8 +1,8 @@
 {
-  "date_fr": "Saturday 07 November 2026",
-  "compte_articles": 229,
+  "date_fr": "Sunday 08 November 2026",
+  "compte_articles": 135,
   "compte_forts": 0,
-  "compte_moyens": 229,
+  "compte_moyens": 135,
   "synthese_jour": "Synthese IA non disponible (fallback). Consultez les articles ci-dessous.",
   "chiffres_cles": [],
   "sections": [
@@ -12,59 +12,59 @@
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "EN DIRECT, manifestations du 7 novembre : à Paris, la manifestation quitte la pl",
-          "analyse": "Plusieurs rassemblements – dont certains interdits – sont prévus en France, notamment à Paris. Un cortège doit y relier la place de la République et de la Nation. La coordination des « gilets jaunes » a décidé de faire cavalier seul, place de la Concorde.",
+          "titre": "En Europe, la menace d’une lassitude grandissante des citoyens à l’égard de la g",
+          "analyse": "Les Européens sont majoritairement convaincus que la Russie constitue une menace pour le Vieux Continent, et continuent à soutenir Kiev. Cependant, à l’heure où le pouvoir d’achat des ménages est rogné par l’inflation, le coût de l’aide militaire à Kiev est de plus en plus montré du doigt, notamment",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/societe/live/2026/11/07/en-direct-manifestations-du-7-novembre-a-paris-la-manifestation-quitte-la-place-de-la-republique-appel-a-la-greve-dans-l-education-mardi_6808254_3224.html",
+          "url": "https://www.lemonde.fr/international/article/2026/11/08/en-europe-la-menace-d-une-lassitude-grandissante-des-citoyens-a-l-egard-de-la-guerre-en-ukraine_6808396_3210.html",
           "niveau": "moyen"
         },
         {
-          "titre": "Midterms 2026 : les démocrates lancés à l’assaut du budget du Pentagone et de la",
-          "analyse": "Le prohibitif projet de bouclier antimissile Golden Dome pourrait devenir l’une des premières cibles des élus démocrates. Très opposés au conflit avec la République islamique, ces derniers dénoncent l’inflation du budget de la défense et veulent dégager des marges pour tenir leurs promesses de campa",
+          "titre": "Après l’attentat de Cracovie, la Pologne en état de choc",
+          "analyse": "Six personnes ont été tuées et quinze autres ont été blessées, samedi, dans le centre historique de Cracovie, par un Polonais de 24 ans « fasciné par l’extrême droite », selon les termes du ministre de l’intérieur. Le parquet a ouvert dimanche une enquête pour acte à « caractère terroriste ».",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/07/midterms-2026-les-democrates-lances-a-l-assaut-du-budget-du-pentagone-et-de-la-guerre-contre-l-iran_6808203_3210.html",
+          "url": "https://www.lemonde.fr/international/article/2026/11/08/la-pologne-en-etat-de-choc-apres-la-fusillade-de-cracovie_6808422_3210.html",
           "niveau": "moyen"
         },
         {
-          "titre": "Après huit mois de guerre au Moyen-Orient, la mue forcée des pays du Golfe produ",
-          "analyse": "Pour conserver leur rôle pivot sur les marchés de l’énergie, le Qatar, l’Arabie saoudite et les Emirats arabes unis doivent repenser leurs stratégies commerciales et logistiques.",
+          "titre": "François Villeroy de Galhau : « Laisser filer la dette, c’est faire des choix co",
+          "analyse": "Face à la crise financière et sociale, l’ancien gouverneur de la Banque de France, qui a quitté son poste en juin, plaide, dans un entretien au « Monde », pour un redressement fondé sur l’efficacité des dépenses publiques et sur trois grands projets concrets européens à l’horizon 2029 : IA, énergie ",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/07/apres-huit-mois-de-guerre-au-moyen-orient-la-mue-forcee-des-pays-du-golfe-producteurs-de-petrole-et-de-gaz_6808252_3234.html",
+          "url": "https://www.lemonde.fr/idees/article/2026/11/08/francois-villeroy-de-galhau-laisser-filer-la-dette-c-est-faire-des-choix-contre-la-jeunesse-des-choix-gerontocratiques_6808404_3232.html",
           "niveau": "moyen"
         },
         {
-          "titre": "A Rouen, les tensions identitaires débordent dans la rue après deux agressions v",
-          "analyse": "L’attaque d’un bar de supporters de foot et l’agression de jeunes catholiques dans une fête foraine lors de la soirée du 31 octobre ont suscité l’émoi dans l’agglomération normande. Sur fond d’activisme identitaire et de supposées ripostes, élus et riverains s’inquiètent d’un engrenage.",
+          "titre": "Chez Grasset, un supplice mortifère après sept mois sans patron",
+          "analyse": "Depuis le limogeage brutal de son PDG Olivier Nora en avril, débarqué par son propriétaire, Vincent Bolloré, la maison parisienne de la rue des Saints-Pères attend, muette et tétanisée, de connaître son sort.",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/07/a-rouen-les-tensions-identitaires-debordent-dans-la-rue-apres-deux-agressions-violentes_6808265_823448.html",
+          "url": "https://www.lemonde.fr/livres/article/2026/11/08/chez-grasset-un-supplice-mortifere-apres-sept-mois-sans-patron_6808405_3260.html",
           "niveau": "moyen"
         },
         {
-          "titre": "COP31 : trop grosses, trop lentes, inefficaces… Les conférences mondiales sur le",
-          "analyse": "La 31ᵉ Conférence des parties sur le climat s’ouvre lundi dans la station balnéaire d’Antalya, en Turquie. Si ces grands sommets annuels restent indispensables pour faire avancer la lutte contre le réchauffement climatique, de plus en plus d’acteurs appellent à les faire évoluer.",
+          "titre": "Après le Stade toulousain à Rennes, le RC Vannes accueille l’UBB à Nantes, une s",
+          "analyse": "Pour la deuxième fois de la saison, le club breton de rugby délaisse son stade de la Rabine. Dimanche, il va disputer son match de championnat contre la formation girondine dans l’enceinte historique de l’équipe de football du FC Nantes.",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/planete/article/2026/11/07/cop31-trop-grosses-trop-lentes-inefficaces-les-conferences-mondiales-sur-le-climat-peuvent-elles-etre-reformees_6808253_3244.html",
+          "url": "https://www.lemonde.fr/sport/article/2026/11/08/apres-le-stade-toulousain-a-rennes-le-rc-vannes-accueille-l-ubb-a-nantes-une-strategie-d-exil-populaire-et-fructueuse_6808419_3242.html",
           "niveau": "moyen"
         },
         {
-          "titre": "Lee Chang-dong, cinéaste sud-coréen : « Les gens vivent avec un sentiment de vid",
-          "analyse": "A l’occasion de l’arrivée sur Netflix de son nouveau film, « Possible Love », Lee Chang-dong revient sur les raisons qui l’ont amené à réaliser ce long-métrage, couronné du Grand Prix du jury à la 83ᵉ Mostra de Venise, en septembre.",
+          "titre": "Présidentielle 2027 : Gabriel Attal répond à Edouard Philippe et continue de déf",
+          "analyse": "La veille, le candidat Horizons avait réitéré son opposition à ce processus de départage, qui apporterait selon lui « de la division », et appelé à la « responsabilité » des candidats dont les moins bien placés devront se retirer d’ici à février. Le candidat Renaissance juge, lui, que la « division ",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/culture/article/2026/11/07/lee-chang-dong-cineaste-sud-coreen-les-gens-vivent-avec-un-sentiment-de-vide-c-est-pour-ca-qu-il-y-a-une-colere-qui-s-exprime_6808264_3246.html",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/08/presidentielle-2027-gabriel-attal-repond-a-edouard-philippe-et-continue-de-defendre-une-primaire-de-la-droite-et-du-centre_6808434_823448.html",
           "niveau": "moyen"
         },
         {
-          "titre": "Les mystères du bouton « Eco » du lave-linge : « Comment est-il possible que le ",
-          "analyse": "Dans sa chronique, Guillemette Faure met en lumière les transformations invisibles de notre époque. Cette semaine, l’infinie complexité des programmes des lave-linge.",
+          "titre": "Antonin Baudry, réalisateur : « Pour faire des films, j’ai sauté dans le vide »",
+          "analyse": "« Je ne serais pas arrivé là si… » Chaque semaine, « Le Monde » interroge une personnalité sur un moment décisif de son existence. Le réalisateur de « La Bataille de Gaulle » revient sur son choix d’abandonner sa carrière de diplomate.",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/m-le-mag/article/2026/11/07/les-mysteres-du-bouton-eco-du-lave-linge-comment-est-il-possible-que-le-truc-le-plus-long-soit-le-plus-economique_6808257_4500055.html",
+          "url": "https://www.lemonde.fr/culture/article/2026/11/08/antonin-baudry-realisateur-pour-faire-des-films-j-ai-saute-dans-le-vide_6808395_3246.html",
           "niveau": "moyen"
         },
         {
-          "titre": "Que faire, que voir, où aller ? L’agenda culturel et lifestyle à partir du 7 nov",
-          "analyse": "Chaque samedi, « Le Goût du Monde » vous propose sa sélection de rendez-vous et d’adresses, à Paris et partout en France. Cette semaine, une odyssée dans la mythologie grecque à Paris, le thème du couple en peinture à Clermont-Ferrand, et un week-end festif à Pantin.",
+          "titre": "A Saint-Denis, des familles roms expulsées illégalement par les polices national",
+          "analyse": "Des personnes installées de façon illicite sur un terrain privé ont été délogées à trois reprises, les 22 et 23 octobre, sans respect du droit et sans propositions d’hébergement. Elles accusent la police municipale de la ville dirigée par Bally Bagayoko (La France insoumise) de les harceler.",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/m-styles/article/2026/11/07/que-faire-que-voir-ou-aller-l-agenda-culturel-et-lifestyle-a-partir-du-7-novembre_6808242_4497319.html",
+          "url": "https://www.lemonde.fr/societe/article/2026/11/08/a-saint-denis-des-familles-roms-expulsees-illegalement-par-les-polices-nationale-et-municipale_6808433_3224.html",
           "niveau": "moyen"
         }
       ]
@@ -75,59 +75,73 @@
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "The AI trade is now counting on Anthropic’s IPO — but it couldn’t be happening a",
-          "analyse": "The ongoing tech selloff is leading investors to wonder if Anthropic will delay its IPO or list at a discount.",
+          "titre": "This market signal called the tech selloff. Now it’s sending another warning.",
+          "analyse": "Correlations between individual stocks recently hit a record low, and a reversion to the mean may not be a good thing for the market.",
           "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/the-ai-trade-is-now-counting-on-anthropics-ipo-but-it-couldnt-be-happening-at-a-worse-time-8bd0f1c4?mod=mw_rss_topstories",
+          "url": "https://www.marketwatch.com/story/this-market-signal-called-the-tech-selloff-now-its-sending-another-warning-f7f8eb9b?mod=mw_rss_topstories",
           "niveau": "moyen"
         },
         {
-          "titre": "Elon Musk opens the door for a big SpaceX acquisition",
-          "analyse": "The rocket and satellite-internet company is looking to challenge telecom giants.",
+          "titre": "This retired professor has reinvented himself — as a Taylor Swift scholar",
+          "analyse": "His niece convinced him to spend his retirement analyzing Taylor Swift lyrics. Now he’s a successful podcaster at 72.",
           "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/elon-musk-opens-the-door-for-a-big-spacex-acquisition-4f62bcad?mod=mw_rss_topstories",
+          "url": "https://www.marketwatch.com/story/this-retired-professor-has-reinvented-himself-as-a-taylor-swift-scholar-88456c8d?mod=mw_rss_topstories",
           "niveau": "moyen"
         },
         {
-          "titre": "Data centers run on debt. That was a problem for bonds this year — and it’s only",
-          "analyse": "AI debt issuance this year overwhelmed investor portfolios, and has disappointed from a performance perspective. The funding need won’t get any better with Democrats in control of Congress.",
+          "titre": "Second-guessing my adviser: Is an annuity the right move in this market?",
+          "analyse": "“I haven’t committed to the strategy yet and would appreciate some independent perspectives.”",
           "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/data-centers-run-on-debt-that-was-a-problem-for-bonds-this-year-and-its-only-going-to-get-worse-09c03be6?mod=mw_rss_topstories",
+          "url": "https://www.marketwatch.com/story/my-adviser-recommended-an-annuity-is-it-the-right-move-in-this-market-environment-00edbbf6?mod=mw_rss_topstories",
           "niveau": "moyen"
         },
         {
-          "titre": "Nvidia, AMD and other chip stocks rebound — but is relief from the ‘violent’ sel",
-          "analyse": "Analysts warn of further volatility ahead, although there are several new factors that work in the AI trade’s favor.",
+          "titre": "Here are the 2027 capital-gains tax rates for each income level",
+          "analyse": "How much will you pay in capital-gains taxes next year? The IRS just released this crucial  information.",
           "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/nvidia-amd-and-other-chip-stocks-rebound-is-the-violent-ai-selloff-over-8f7df533?mod=mw_rss_topstories",
+          "url": "https://www.marketwatch.com/story/here-are-the-2027-capital-gains-tax-rates-for-each-income-level-166fc306?mod=mw_rss_topstories",
           "niveau": "moyen"
         },
         {
-          "titre": "‘It seems bizarre’: We’re in our 80s with $950,000 in traditional IRAs. Why is o",
-          "analyse": "“Our basic living expenses are covered by $110,000 in annual pensions and Social Security.”",
+          "titre": "I’m 65 and worth more than $5.6 million. Can I afford a $200,000 camper?",
+          "analyse": "Math may be cold and unemotional — but finances are not.",
           "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/it-seems-bizarre-were-in-our-80s-with-950-000-in-traditional-iras-why-is-our-adviser-pushing-us-to-do-roth-conversions-a665f990?mod=mw_rss_topstories",
+          "url": "https://www.marketwatch.com/story/im-65-and-worth-more-than-5-6-million-can-i-buy-a-200-000-camper-even-though-the-price-feels-crazy-high-55f668f8?mod=mw_rss_topstories",
           "niveau": "moyen"
         },
         {
-          "titre": "Micron’s stock is dirt cheap — and that’s igniting a fierce online debate",
-          "analyse": "Valuation purists see a ridiculously inexpensive stock, but some semiconductor investors say Micron’s earnings power won’t hold up.",
+          "titre": "The wealthiest 10% of Americans are pulling ahead of everyone else. This is what",
+          "analyse": "The wealthiest 10% have a median net worth that is $800,000 greater than it was three years ago.",
           "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/microns-stock-is-dirt-cheap-and-thats-igniting-a-fierce-online-debate-0626791d?mod=mw_rss_topstories",
+          "url": "https://www.marketwatch.com/story/the-wealthiest-10-of-americans-are-pulling-ahead-of-everyone-else-this-is-whats-making-them-richer-bd83c2f6?mod=mw_rss_topstories",
           "niveau": "moyen"
         },
         {
-          "titre": "My 93-year-old father changed his will at the 11th hour, leaving my brother his ",
-          "analyse": "“My brother had no job and needed a place to live.”",
+          "titre": "The S&P 500 could be dangerously exposed to AI. Here are some simple alternative",
+          "analyse": "The large-cap index is nowhere near as diversified as you think.",
           "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/my-93-year-old-father-changed-his-will-at-the-11th-hour-leaving-my-brother-his-entire-500-000-estate-can-i-challenge-it-ecfc63d2?mod=mw_rss_topstories",
+          "url": "https://www.marketwatch.com/story/the-s-p-500-has-become-a-big-ai-bet-here-are-some-simple-alternatives-3c7574a4?mod=mw_rss_topstories",
           "niveau": "moyen"
         },
         {
-          "titre": "Cybertruck’s run comes to an end as Musk kills off pricey pet project",
-          "analyse": "The Cybertruck failed to catch on with car buyers due to high prices and some notable recalls.",
-          "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/is-it-the-end-of-the-cybertruck-elon-musk-announces-factory-will-shift-production-3e33cafd?mod=mw_rss_topstories",
+          "titre": "Northrop Grumman director Mark Welsh III sells $54,453 of common stock",
+          "analyse": "",
+          "source": "All News",
+          "url": "https://www.investing.com/news/insider-trading-news/northrop-grumman-director-mark-welsh-iii-sells-54453-of-common-stock-93CH-5010228",
+          "niveau": "moyen"
+        }
+      ]
+    },
+    {
+      "titre": "Marches financiers",
+      "icone": "🏛️",
+      "niveau_global": "moyen",
+      "items": [
+        {
+          "titre": "Christine Lagarde: Interview with Yomiuri Shimbun",
+          "analyse": "",
+          "source": "ECB - European Central Bank",
+          "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261107~e7b86fc4ce.en.html",
           "niveau": "moyen"
         }
       ]
@@ -138,59 +152,24 @@
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "SCPI fiscales : La Française REM change les règles de confrontation",
-          "analyse": "Comment évoluent les ordres des SCPI fiscales ? Le nouveau calendrier distingue deux échéances et leurs reports, à anticiper.",
-          "source": "MeilleureSCPI.com",
-          "url": "https://www.meilleurescpi.com/actualites/la-francaise-rem-revoit-les-modalites-de-confrontation-de-ses-scpi-fiscales/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Crise du logement : quel rôle pour la rénovation immobilière ?",
-          "analyse": "Comment répondre au manque de logements ? Les chiffres et un exemple à Tarbes éclairent le rôle de la rénovation du parc existant.",
-          "source": "MeilleureSCPI.com",
-          "url": "https://www.meilleurescpi.com/actualites/crise-du-logement-quel-role-pour-la-renovation-immobiliere/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Optimale : acompte en hausse et occupation en reprise",
-          "analyse": "La SCPI Optimale publie ses résultats du troisième trimestre 2026. Son acompte progresse pour le deuxième trimestre consécutif, et son taux d&#8217;occupation repart à la hausse. Une distribution en progression Le troisième acompte atteint 4,05 € par part, après 3,95 € au deuxième trimestre. Sur neu",
-          "source": "Pierrepapier.fr",
-          "url": "https://www.pierrepapier.fr/communique/optimale-acompte-en-hausse-et-occupation-en-reprise/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Logement à Lyon : Ce qu’il faut comparer avant d’acheter dans le neuf",
-          "analyse": "Acheter un logement à Lyon suppose de rapprocher prix, financement et qualité de vie. Dans le neuf, les écarts entre programmes s’expliquent aussi par les aides accessibles, les prestations et le calendrier. Quelques comparaisons permettent de mieux définir son projet.\nCet article Logement à Lyon : ",
+          "titre": "RENT 2026 : « La hausse des taux n’est sans doute pas terminée », Bruno Rouleau ",
+          "analyse": "Près de 4 % sur 20 ans, et ce n'est sans doute pas fini. Au micro d'Ariane Artinian pour Mon Podcast Immo, Bruno Rouleau (Fédération du Courtage en Crédit) livre les leviers, souvent oubliés, pour décrocher son crédit immobilier.\nCet article RENT 2026 : « La hausse des taux n&rsquo;est sans doute pa",
           "source": "MySweetImmo",
-          "url": "https://www.mysweetimmo.com/2026/11/07/logement-a-lyon-ce-quil-faut-comparer-avant-dacheter-dans-le-neuf/",
+          "url": "https://www.mysweetimmo.com/2026/11/08/credit-immobilier-la-hausse-des-taux-nest-sans-doute-pas-terminee/",
           "niveau": "moyen"
         },
         {
-          "titre": "Immobilier : Century 21 collecte vos jouets pour Noël",
-          "analyse": "Des jouets inutilisés peuvent encore faire des heureux. En novembre, les agences Century 21 collectent vos jouets en bon état pour les offrir à des enfants de familles modestes.\nCet article Immobilier : Century 21 collecte vos jouets pour Noël est apparu en premier sur MySweetImmo.",
+          "titre": "Immobilier Seine-et-Marne : Des maisons neuves avec jardin dès 316 000 euros",
+          "analyse": "Cogedim lance Le Clos des Roches à Boissise-le-Roi : des maisons neuves de 82 à 102 m² avec jardin privatif et stationnement, dès 316 000 euros. Les premières livraisons sont annoncées à partir du quatrième trimestre 2028.\nCet article Immobilier Seine-et-Marne : Des maisons neuves avec jardin dès 31",
           "source": "MySweetImmo",
-          "url": "https://www.mysweetimmo.com/2026/11/07/immobilier-century-21-collecte-vos-jouets-pour-noel/",
+          "url": "https://www.mysweetimmo.com/2026/11/08/immobilier-seine-et-marne-des-maisons-neuves-avec-jardin-des-316-000-euros/",
           "niveau": "moyen"
         },
         {
-          "titre": "Location saisonnière Courchevel : Les habitudes des vacanciers changent",
-          "analyse": "À Courchevel, les habitudes de location évoluent : courts séjours, arrivées plus souples et clientèle internationale plus diversifiée. Les observations de HOME Courchevel à l’approche de l’hiver 2026-2027.\nCet article Location saisonnière Courchevel : Les habitudes des vacanciers changent est apparu",
+          "titre": "IA : Ce qui rendra encore l’agent immobilier indispensable",
+          "analyse": "Avec l’IA, le rôle de l’agent immobilier évolue. À travers deux cas concrets, Septeo explique comment l’automatisation peut libérer du temps pour le conseil, le suivi des dossiers et la relation client.\nCet article IA : Ce qui rendra encore l’agent immobilier indispensable est apparu en premier sur ",
           "source": "MySweetImmo",
-          "url": "https://www.mysweetimmo.com/2026/11/07/location-saisonniere-courchevel-les-habitudes-des-vacanciers-changent/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Immobilier : +62 % de mandats exclusifs pour les élèves de Guy Hoquet",
-          "analyse": "Le Bachelor Vendeur Expert de Guy Hoquet a accueilli sa deuxième promotion le 2 novembre à Gentilly, dans le Val-de-Marne. Vingt conseillers intègrent la formation, après une hausse moyenne de 62 % des mandats exclusifs signés par les premiers apprenants, selon le réseau.\nCet article Immobilier : +6",
-          "source": "MySweetImmo",
-          "url": "https://www.mysweetimmo.com/2026/11/07/immobilier-62-de-mandats-exclusifs-pour-les-eleves-de-guy-hoquet/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Budget 2027 rejeté : PTZ, LMNP, APL… Que reste-t-il pour l’immobilier ?",
-          "analyse": "L’Assemblée nationale a rejeté le projet de loi de finances pour 2027 mercredi 4 novembre. PTZ parentalité jusqu’à 100 000 euros, fiscalité du LMNP, donations, APL : plusieurs mesures concernant directement le logement avaient pourtant été votées ou étaient encore en discussion. Sont-elles abandonné",
-          "source": "MySweetImmo",
-          "url": "https://www.mysweetimmo.com/2026/11/06/budget-2027-rejete-ptz-lmnp-apl-logement/",
+          "url": "https://www.mysweetimmo.com/2026/11/08/ia-ce-qui-rendra-encore-lagent-immobilier-indispensable/",
           "niveau": "moyen"
         }
       ]
@@ -201,108 +180,59 @@
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "Maternité, trimestres enfants, congé parental: l'Agirc-Arrco organise 12 500 ren",
-          "analyse": "L&#039;Agirc-Arrco organise une nouvelle édition des Rencontres retraite du 21 au 27 novembre 2026. À cette occasion, 12 500 rendez-vous gratuits seront proposés aux assurés sur le thème de la parentalité, pour mieux comprendre l&#039;incidence de la situation familiale sur la retraite.",
+          "titre": "Lycéen poignardé en Seine-Saint-Denis : le suspect mis en examen et placé sous c",
+          "analyse": "Le lycéen de 20 ans qui a reconnu avoir donné \"plusieurs coups de couteau\" à l&#039;un de ses camarades jeudi en Seine-Saint-Denis a été mis en examen pour tentative d&#039;homicide volontaire et placé sous con...",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/retraite/preparer/maternite-trimestres-enfants-conge-parental-l-agirc-arrco-organise-12-500-rendez-vous-fin-novembre-pour-vous-informer-141041",
+          "url": "https://www.notretemps.com/depeches/lyceen-poignarde-en-seine-saint-denis-le-suspect-mis-en-examen-et-place-sous-controle-judiciaire-141090",
           "niveau": "moyen"
         },
         {
-          "titre": "Un seul pot, des semaines de fleurs: comment réussir une lasagne de bulbes",
-          "analyse": "Repérée sur les réseaux sociaux, la tendance des \"lasagnes de bulbes\" permet une floraison continue au printemps dans un seul et même pot. Magique! Voici comment procéder pour en profiter aux beaux jours.",
+          "titre": "Un homme retrouvé mort dans un appartement à Paris, la gorge en partie tranchée",
+          "analyse": "Un homme a été retrouvé mort la gorge en partie tranchée, avec également de nombreuses blessures au visage, samedi soir dans un appartement du 14e arrondissement de Paris, a indiqué dimanche une sourc...",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/vie-pratique/jardin/jardin-pour-un-festival-de-couleurs-dans-un-seul-pot-plantez-vos-bulbes-en-lasagne-141030",
+          "url": "https://www.notretemps.com/depeches/un-homme-retrouve-mort-dans-un-appartement-a-paris-la-gorge-en-partie-tranchee-141089",
           "niveau": "moyen"
         },
         {
-          "titre": "Quiz culture générale: seuls les champions obtiennent un 10/10 à ce quiz",
-          "analyse": "Langue française, géographie, conjugaison… Il est l&#039;heure de challenger vos méninges et de tester vos connaissances! Allez-vous faire un sans-faute?",
+          "titre": "Quand les romancières Lola Lafon et Leïla Slimani écrivent aussi pour la scène",
+          "analyse": "Pour l&#039;une, c&#039;était \"se frotter\" à une nouvelle exploration, pour l&#039;autre, un \"rêve impossible\" qui lui a procuré beaucoup de joie : les romancières Lola Lafon et Leïla Slimani racontent à l&#039;AFP l&#039;écr...",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/loisirs/histoire/quiz-culture-generale-seuls-les-champions-obtiennent-un-1010-a-ce-quiz-140984",
+          "url": "https://www.notretemps.com/depeches/quand-les-romancieres-lola-lafon-et-leila-slimani-ecrivent-aussi-pour-la-scene-141088",
           "niveau": "moyen"
         },
         {
-          "titre": "Que voir et visiter à Dieppe?",
-          "analyse": "Entre falaises de craie blanche et galets polis par l&#039;océan, la cité normande de Dieppe cultive depuis deux siècles un art de vivre où se mêlent authenticité maritime, gastronomie de la mer et douceur normande.",
+          "titre": "En Lorraine, l'attractivité retrouvée d'une maternité qui a failli fermer",
+          "analyse": "Faute de médecin, elle a failli fermer il y a deux ans, comme plusieurs petits établissements chaque année en France. Pour ceux qui se sont mobilisés pour la sauver, la maternité de Lunéville, près de...",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/loisirs/tourisme/que-voir-et-visiter-a-dieppe-139166",
+          "url": "https://www.notretemps.com/depeches/en-lorraine-l-attractivite-retrouvee-d-une-maternite-qui-a-failli-fermer-141087",
           "niveau": "moyen"
         },
         {
-          "titre": "Mini fléchés gratuits - 7 novembre 2026 Grille n°3747",
-          "analyse": "Remplissez la grille de mini fléchés ci-dessous. Il vous suffit de cliquer sur une case pour pouvoir y entrer la lettre de votre choix. Grille n°3747  du 7 novembre 2026.",
+          "titre": "Franceinfo regrette d'avoir donné la parole à un enfant insultant Emmanuel Macro",
+          "analyse": "La direction de franceinfo a exprimé ses regrets après que des propos insultants ont été tenus en direct par un enfant lors de la manifestation parisienne pour la jeunesse et contre la vie chère samed...",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/jeux/jeux-en-ligne/mini-fleches/mini-fleches-gratuits-7-novembre-2026-grille-3747",
+          "url": "https://www.notretemps.com/depeches/franceinfo-regrette-d-avoir-donne-la-parole-a-un-enfant-insultant-emmanuel-macron-141086",
           "niveau": "moyen"
         },
         {
-          "titre": "Mini fléchés gratuits - 7 novembre 2026 Grille n°3746",
-          "analyse": "Remplissez la grille de mini fléchés ci-dessous. Il vous suffit de cliquer sur une case pour pouvoir y entrer la lettre de votre choix. Grille n°3746  du 7 novembre 2026.",
+          "titre": "Puis-je refuser de faire incinérer un parent?",
+          "analyse": "Pour ses funérailles, ma mère souhaite une crémation, mais j&#039;y suis opposée. Le moment venu, pourrai-je faire comme je l&#039;entends? Sylvie.",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/jeux/jeux-en-ligne/mini-fleches/mini-fleches-gratuits-7-novembre-2026-grille-3746",
+          "url": "https://www.notretemps.com/droit-argent/succession/puis-je-refuser-de-faire-incinerer-un-parent-139589",
           "niveau": "moyen"
         },
         {
-          "titre": "Sudoku gratuits - Force 1 - 7 novembre 2026 Grille n°1533",
-          "analyse": "Remplissez la grille de sudoku Force 1 ci-dessous. Découvrez le Sudoku, le but du jeu est de remplir la grille avec une série de chiffres (ou de lettres ou de symboles) tous différents, qui ne se trouvent jamais plus d&#039;une fois sur une même ligne, dans une même colonne ou dans une même sous-gri",
+          "titre": "Mini fléchés gratuits - 8 novembre 2026 Grille n°3749",
+          "analyse": "Remplissez la grille de mini fléchés ci-dessous. Il vous suffit de cliquer sur une case pour pouvoir y entrer la lettre de votre choix. Grille n°3749  du 8 novembre 2026.",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/jeux/jeux-en-ligne/sudoku/force-1/sudoku-gratuits-force-1-7-novembre-2026-grille-1533",
+          "url": "https://www.notretemps.com/jeux/jeux-en-ligne/mini-fleches/mini-fleches-gratuits-8-novembre-2026-grille-3749",
           "niveau": "moyen"
         },
         {
-          "titre": "Mots fléchés gratuits - Force 4 - 7 novembre 2026 Grille n°4117",
-          "analyse": "Remplissez la grille de mots fléchés Force 4 ci-dessous. Il vous suffit de cliquer sur une case pour pouvoir y entrer la lettre de votre choix. Grille n°4117  du 7 novembre 2026",
+          "titre": "Mini fléchés gratuits - 8 novembre 2026 Grille n°3748",
+          "analyse": "Remplissez la grille de mini fléchés ci-dessous. Il vous suffit de cliquer sur une case pour pouvoir y entrer la lettre de votre choix. Grille n°3748  du 8 novembre 2026.",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/jeux/jeux-en-ligne/mots-fleches/force-4/mots-fleches-gratuits-force-4-7-novembre-2026-grille-4117",
-          "niveau": "moyen"
-        }
-      ]
-    },
-    {
-      "titre": "Finance_Pro",
-      "icone": "📰",
-      "niveau_global": "moyen",
-      "items": [
-        {
-          "titre": "Willkie Farr & Gallagher, FTI Consulting, Celsius Avocats… les nominations de la",
-          "analyse": "Le bureau parisien de Willkie Farr &#038; Gallagher a coopté ANTHONY CIVICO (univ. Nancy II, univ. Aix Marseille III, Ecole des avocats du Sud Est, Essec, King’s College London) au rang d’associé pour sa pratique asset management.",
-          "source": "PE Magazine",
-          "url": "https://www.pemagazine.fr/willkie-farr-gallagher-fti-consulting-celsius-avocats-les-nominations-de-la-semaine/",
-          "niveau": "moyen"
-        }
-      ]
-    },
-    {
-      "titre": "ESG",
-      "icone": "🌱",
-      "niveau_global": "moyen",
-      "items": [
-        {
-          "titre": "Derrière la starisation du poulet, quatre plaques tournantes organisent l’intens",
-          "analyse": "Quatre pays - la Pologne, la Belgique, les Pays-Bas et l’Allemagne - représentent 90% des importations françaises de poulet. @Alejandro Maroto Pexels\nQue se cache-t-il derrière la starisation du poulet ? On le trouve partout, dans nos poke bowls le midi, au menu des chaînes de restauration rapide, s",
-          "source": "Novethic",
-          "url": "https://www.novethic.fr/environnement/biodiversite/derriere-la-starisation-du-poulet-quatre-plaques-tournantes-organisent-lintensification-de-la-filiere",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "A qui profitera l’appel d’offres « super neutre » pour 2027 ?",
-          "analyse": "Pour 2027, les pouvoirs publics ne planchent actuellement que sur un seul appel d’offres destiné aux énergies renouvelables et dans un format inédit «&#160;super neutre&#160;». Autrement dit, une compétition où toutes les typologies et les tailles seraient mélangées pour désigner les projets les moi",
-          "source": "GreenUnivers",
-          "url": "https://www.greenunivers.com/2026/11/a-qui-profitera-lappel-doffres-super-neutre-pour-2027-438125/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "L’agenda de la transition énergétique",
-          "analyse": "Chaque semaine, GreenUnivers sélectionne les principaux événements professionnels de la transition énergétique. Des rendez-vous qui ont lieu en France et ailleurs dans les secteurs des énergies renouvelables, de l’hydrogène, de la rénovation ou encore de la mobilité électrique. Novembre 10 17es Renc",
-          "source": "GreenUnivers",
-          "url": "https://www.greenunivers.com/2026/11/lagenda-de-la-transition-energetique-282-437363/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "RTE prêt à diversifier ses sources de financement",
-          "analyse": "Cette phrase pose un jalon et il ne fallait pas la rater. Le tarif de réseau « couvre nos coûts de fonctionnement et le service de notre dette, mais ne finance pas le programme d’investissement ; nous pensons donc que nous aurons besoin de toute sorte de financements, du coté de l’equity comme de la",
-          "source": "GreenUnivers",
-          "url": "https://www.greenunivers.com/2026/11/rte-pret-a-diversifier-ses-sources-de-financement-438094/",
+          "url": "https://www.notretemps.com/jeux/jeux-en-ligne/mini-fleches/mini-fleches-gratuits-8-novembre-2026-grille-3748",
           "niveau": "moyen"
         }
       ]
@@ -313,59 +243,17 @@
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "C'est la date de naissance la plus rare de France d'après les données de l'INSEE",
-          "analyse": "Non, ce n'est pas le 29 février. Un seul jour de l'année voit naître nettement moins d'enfants en France que n'importe quel autre. Lequel ?",
+          "titre": "\"C'est un pillage\" : l'intelligence artificielle s'attaque à l'art aborigène et ",
+          "analyse": "Porte-canettes, toiles, sous-verres... Sur Internet, les fausses œuvres aborigènes générées par IA se multiplient. Une contrefaçon massive qui prive les artistes des Premières Nations australiennes de leurs revenus, mais ampute aussi leur culture.",
           "source": "JDN : Derniers contenus",
-          "url": "https://www.journaldunet.com/magazine/1557661-rv1-date-de-naissance-la-plus-rare-de-france/",
+          "url": "https://www.journaldunet.com/magazine/1557497-intelligence-artificielle-pillage-art-aborigene/",
           "niveau": "moyen"
         },
         {
-          "titre": "Le prix des assurances automobiles va bientôt augmenter à cause d'une taxe et du",
-          "analyse": "40 millions d'automobilistes vont payer plus cher leur assurance automobile à partir de janvier 2027. Une nouvelle taxe sur les contrats assurances risquent d'alourdir encore davantage la facture.",
+          "titre": "Cette entreprise distribuera 200 milliards de dollars à ses salariés à condition",
+          "analyse": "L'entrée en Bourse d'Anthropic promet de transformer les actions de ses salariés en fortunes colossales. Mais entre les impôts et les délais de carence, la richesse de ces nouveaux millionnaires restera d'abord virtuelle.",
           "source": "JDN : Derniers contenus",
-          "url": "https://www.journaldunet.com/patrimoine/finances-personnelles/1557609-hf1-hausse-assurances-automobile-2027/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Prospection B2B : 7 acteurs français qui aident les entreprises à accélérer leur",
-          "analyse": "Les agences de développement commercial à connaitre pour les entreprises (TPE et PME françaises)",
-          "source": "JDN : Derniers contenus",
-          "url": "https://www.journaldunet.com/management/commercial/1557667-prospection-b2b-7-acteurs-francais-qui-aident-les-entreprises-a-accelerer-leur-developpement-commercial/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Ce que 67 000 pubs Meta m'ont appris sur les pubs qui rapportent",
-          "analyse": "Trois pubs Meta sur quatre sont coupées en moins d'une semaine. Ce que le registre public de Meta révèle sur les pubs qui rapportent, et comment l'utiliser avant de copier un concurrent.",
-          "source": "JDN : Derniers contenus",
-          "url": "https://www.journaldunet.com/adtech/1557473-ce-que-67-000-pubs-meta-m-ont-appris-sur-les-pubs-qui-rapportent/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "France : la sous-reconnaissance massive des cancers d'origine professionnelle",
-          "analyse": "Seuls 0,4 % des cancers sont reconnus d'origine professionnelle, alors que 2,7 millions de salariés sont exposés à des produits cancérogènes. Métiers touchés, repérage et obligations de l'employeur.",
-          "source": "JDN : Derniers contenus",
-          "url": "https://www.journaldunet.com/management/direction-generale/1557691-france-la-sous-reconnaissance-massive-des-cancers-d-origine-professionnelle/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "État et régions : \" je t'aide, moi non plus \"",
-          "analyse": "En 2015, la loi NOTRe devait donner un nouveau souffle à la décentralisation en confiant aux régions la compétence du développement économique.",
-          "source": "JDN : Derniers contenus",
-          "url": "https://www.journaldunet.com/management/direction-generale/1557693-etat-et-regions-je-t-aide-moi-non-plus/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "TikTok Shop devient une application à part entière pour défier Amazon",
-          "analyse": "Petite nouveauté pour TikTok : une application indépendante vient d&#8217;être lancée pour le Shop. L&#8217;objectif de cette stratégie pourrait être de concurrencer les marketplaces d&#8217;Amazon et de Temu, déjà bien implantées depuis quelques années. Le géant chinois se diversifie de plus en plu",
-          "source": "Siècle Digital",
-          "url": "https://siecledigital.fr/2026/11/06/tiktok-shop-devient-une-application-a-part-entiere-pour-defier-amazon/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Airbnb prépare un agent IA qui pourrait organiser vos vacances de A à Z",
-          "analyse": "La plateforme de réservation Airbnb va prochainement lancer un agent IA. Ce dernier pourrait organiser vos vacances de A à Z, de la préparation de votre séjour à la réservation de votre logement. Un agent IA pour simplifier l&#8217;organisation des vacances Réussir à organiser un séjour qui plaît à ",
-          "source": "Siècle Digital",
-          "url": "https://siecledigital.fr/2026/11/06/airbnb-prepare-un-agent-ia-qui-pourrait-organiser-vos-vacances-de-a-a-z/",
+          "url": "https://www.journaldunet.com/patrimoine/finances-personnelles/1557475-anthropic-millionnaires/",
           "niveau": "moyen"
         }
       ]
