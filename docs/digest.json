@@ -1,8 +1,8 @@
 {
-  "date_fr": "Sunday 08 November 2026",
-  "compte_articles": 135,
+  "date_fr": "Monday 09 November 2026",
+  "compte_articles": 250,
   "compte_forts": 0,
-  "compte_moyens": 135,
+  "compte_moyens": 250,
   "synthese_jour": "Synthese IA non disponible (fallback). Consultez les articles ci-dessous.",
   "chiffres_cles": [],
   "sections": [
@@ -12,59 +12,59 @@
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "En Europe, la menace d’une lassitude grandissante des citoyens à l’égard de la g",
-          "analyse": "Les Européens sont majoritairement convaincus que la Russie constitue une menace pour le Vieux Continent, et continuent à soutenir Kiev. Cependant, à l’heure où le pouvoir d’achat des ménages est rogné par l’inflation, le coût de l’aide militaire à Kiev est de plus en plus montré du doigt, notamment",
+          "titre": "Hausse du smic : le gouvernement annonce une revalorisation de 1,6 % à partir du",
+          "analyse": "A l’issue d’une conférence sociale à Matignon, Sébastien Lecornu a déclaré qu’il s’agissait de la « deuxième hausse la plus importante en vingt ans ». Une assertion immédiatement contestée par les syndicats.",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/08/en-europe-la-menace-d-une-lassitude-grandissante-des-citoyens-a-l-egard-de-la-guerre-en-ukraine_6808396_3210.html",
+          "url": "https://www.lemonde.fr/economie-francaise/article/2026/11/09/hausse-du-smic-le-gouvernement-annonce-une-revalorisation-de-1-6-a-partir-du-1-decembre-la-cgt-denonce-des-miettes_6808660_1656968.html",
           "niveau": "moyen"
         },
         {
-          "titre": "Après l’attentat de Cracovie, la Pologne en état de choc",
-          "analyse": "Six personnes ont été tuées et quinze autres ont été blessées, samedi, dans le centre historique de Cracovie, par un Polonais de 24 ans « fasciné par l’extrême droite », selon les termes du ministre de l’intérieur. Le parquet a ouvert dimanche une enquête pour acte à « caractère terroriste ».",
+          "titre": "Cyberattaque contre des réfrigérateurs de supermarchés : la justice ouvre une en",
+          "analyse": "Plus de 700 magasins avaient été ciblés par cette cyberattaque, en octobre. Les pirates avaient visé les systèmes de dégivrage, afin de faire monter la température des appareils.",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/08/la-pologne-en-etat-de-choc-apres-la-fusillade-de-cracovie_6808422_3210.html",
+          "url": "https://www.lemonde.fr/pixels/article/2026/11/09/cyberattaque-des-refrigerateurs-de-supermarche-la-justice-ouvre-une-enquete-contre-un-groupe-iranien-jean-noel-barrot-souhaite-des-sanctions-a-l-echelle-europeenne_6808673_4408996.html",
           "niveau": "moyen"
         },
         {
-          "titre": "François Villeroy de Galhau : « Laisser filer la dette, c’est faire des choix co",
-          "analyse": "Face à la crise financière et sociale, l’ancien gouverneur de la Banque de France, qui a quitté son poste en juin, plaide, dans un entretien au « Monde », pour un redressement fondé sur l’efficacité des dépenses publiques et sur trois grands projets concrets européens à l’horizon 2029 : IA, énergie ",
+          "titre": "Fonction publique : la Cour des comptes avance la piste explosive du gel des ava",
+          "analyse": "Une telle mesure permettrait de dégager 3,8 milliards d’euros d’économies en 2027, indique la Cour des comptes dans une « contribution au rétablissement des finances publiques », présentée lundi 9 novembre. Les syndicats dénoncent une atteinte à un totem statutaire, d’autant plus dans un contexte sa",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/idees/article/2026/11/08/francois-villeroy-de-galhau-laisser-filer-la-dette-c-est-faire-des-choix-contre-la-jeunesse-des-choix-gerontocratiques_6808404_3232.html",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/09/fonction-publique-la-cour-des-comptes-avance-la-piste-explosive-du-gel-des-avancements-et-des-promotions-pour-reduire-le-deficit_6808669_823448.html",
           "niveau": "moyen"
         },
         {
-          "titre": "Chez Grasset, un supplice mortifère après sept mois sans patron",
-          "analyse": "Depuis le limogeage brutal de son PDG Olivier Nora en avril, débarqué par son propriétaire, Vincent Bolloré, la maison parisienne de la rue des Saints-Pères attend, muette et tétanisée, de connaître son sort.",
+          "titre": "EN DIRECT, annonces de Sébastien Lecornu : le premier ministre reçoit les représ",
+          "analyse": "Deux mois après les premiers blocages d’établissements scolaires, le premier ministre doit recevoir ces représentants « pour un premier temps d’échange » de 15 h 30 à 17 heures, avant une réunion consacrée à Parcoursup, de 17 heures à 19 heures.",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/livres/article/2026/11/08/chez-grasset-un-supplice-mortifere-apres-sept-mois-sans-patron_6808405_3260.html",
+          "url": "https://www.lemonde.fr/politique/live/2026/11/09/en-direct-annonces-de-sebastien-lecornu-le-premier-ministre-recoit-les-representants-des-lyceens-et-des-etudiants-avant-de-tenir-une-premiere-reunion-de-travail-pour-reformer-parcoursup_6808627_823448.html",
           "niveau": "moyen"
         },
         {
-          "titre": "Après le Stade toulousain à Rennes, le RC Vannes accueille l’UBB à Nantes, une s",
-          "analyse": "Pour la deuxième fois de la saison, le club breton de rugby délaisse son stade de la Rabine. Dimanche, il va disputer son match de championnat contre la formation girondine dans l’enceinte historique de l’équipe de football du FC Nantes.",
+          "titre": "Présidentielle 2027 : « En dehors du RN et de LFI, l’offre politique s’apparente",
+          "analyse": "Alors que jamais une élection présidentielle n’a semblé si ouverte, la photographie de ce scrutin demeure floue. Ce qui n’est pas le moindre des paradoxes de cette échéance électorale décisive, observe, dans sa chronique, Solenn de Royer, journaliste au « Monde ».",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/sport/article/2026/11/08/apres-le-stade-toulousain-a-rennes-le-rc-vannes-accueille-l-ubb-a-nantes-une-strategie-d-exil-populaire-et-fructueuse_6808419_3242.html",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/09/presidentielle-2027-en-dehors-du-rn-et-de-lfi-l-offre-politique-s-apparente-a-un-marais-trouble-ou-les-candidats-eux-memes-semblent-patauger_6808671_823448.html",
           "niveau": "moyen"
         },
         {
-          "titre": "Présidentielle 2027 : Gabriel Attal répond à Edouard Philippe et continue de déf",
-          "analyse": "La veille, le candidat Horizons avait réitéré son opposition à ce processus de départage, qui apporterait selon lui « de la division », et appelé à la « responsabilité » des candidats dont les moins bien placés devront se retirer d’ici à février. Le candidat Renaissance juge, lui, que la « division ",
+          "titre": "Ebola : en RDC, dans l’épicentre de l’épidémie, le lancement des premiers essais",
+          "analyse": "A Bunia, dans l’est de la République démocratique du Congo, où l’épidémie frappe durement, des essais cliniques testant l’efficacité de plusieurs vaccins et médicaments sont actuellement menés. Leur but est de protéger les populations de la contamination et d’augmenter les chances de survie des mala",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/08/presidentielle-2027-gabriel-attal-repond-a-edouard-philippe-et-continue-de-defendre-une-primaire-de-la-droite-et-du-centre_6808434_823448.html",
+          "url": "https://www.lemonde.fr/afrique/article/2026/11/09/ebola-en-rdc-dans-l-epicentre-de-l-epidemie-le-lancement-des-premiers-essais-de-traitements-fait-renaitre-l-espoir_6808646_3212.html",
           "niveau": "moyen"
         },
         {
-          "titre": "Antonin Baudry, réalisateur : « Pour faire des films, j’ai sauté dans le vide »",
-          "analyse": "« Je ne serais pas arrivé là si… » Chaque semaine, « Le Monde » interroge une personnalité sur un moment décisif de son existence. Le réalisateur de « La Bataille de Gaulle » revient sur son choix d’abandonner sa carrière de diplomate.",
+          "titre": "EN DIRECT, guerre en Ukraine : la délégation ukrainienne est en route pour Abou ",
+          "analyse": "Kiev souligne vouloir maintenir des positions communes avec ses partenaires et faire en sorte que l’Europe participe au processus diplomatique. Des représentants de la France, du Royaume-Uni, de l’Allemagne, de la Commission et du Conseil européens seront présents et rencontreront les émissaires amé",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/culture/article/2026/11/08/antonin-baudry-realisateur-pour-faire-des-films-j-ai-saute-dans-le-vide_6808395_3246.html",
+          "url": "https://www.lemonde.fr/international/live/2026/11/09/en-direct-guerre-en-ukraine-la-delegation-ukrainienne-est-en-route-pour-abou-dhabi-ou-des-negociations-avec-les-representants-americains-et-russes-sont-prevues-mardi-et-mercredi_6808609_3210.html",
           "niveau": "moyen"
         },
         {
-          "titre": "A Saint-Denis, des familles roms expulsées illégalement par les polices national",
-          "analyse": "Des personnes installées de façon illicite sur un terrain privé ont été délogées à trois reprises, les 22 et 23 octobre, sans respect du droit et sans propositions d’hébergement. Elles accusent la police municipale de la ville dirigée par Bally Bagayoko (La France insoumise) de les harceler.",
+          "titre": "Au « Point », le sort d’Etienne Gernelle, son directeur, ne tient plus qu’à un f",
+          "analyse": "Avec la mise à l’écart de Valérie Toranian de la direction de la rédaction de l’hebdomadaire détenu par la famille Pinault, le directeur depuis douze ans est menacé par l’arrivée imminente de Jacques-Olivier Martin, du « Figaro », et de Florent Barraco, de « Paris Match ».",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/societe/article/2026/11/08/a-saint-denis-des-familles-roms-expulsees-illegalement-par-les-polices-nationale-et-municipale_6808433_3224.html",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/09/au-point-le-sort-d-etienne-gernelle-ne-tient-plus-qu-a-un-fil_6808658_3234.html",
           "niveau": "moyen"
         }
       ]
@@ -75,73 +75,59 @@
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "This market signal called the tech selloff. Now it’s sending another warning.",
-          "analyse": "Correlations between individual stocks recently hit a record low, and a reversion to the mean may not be a good thing for the market.",
-          "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/this-market-signal-called-the-tech-selloff-now-its-sending-another-warning-f7f8eb9b?mod=mw_rss_topstories",
+          "titre": "Can Nvidia’s boss survive a Chinese-spy controversy?",
+          "analyse": "Jensen Huang is caught with his pants down",
+          "source": "Business",
+          "url": "https://www.economist.com/business/2026/11/09/can-nvidias-boss-survive-a-chinese-spy-controversy",
           "niveau": "moyen"
         },
         {
-          "titre": "This retired professor has reinvented himself — as a Taylor Swift scholar",
-          "analyse": "His niece convinced him to spend his retirement analyzing Taylor Swift lyrics. Now he’s a successful podcaster at 72.",
-          "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/this-retired-professor-has-reinvented-himself-as-a-taylor-swift-scholar-88456c8d?mod=mw_rss_topstories",
+          "titre": "YouTube’s dominance has Hollywood running scared",
+          "analyse": "Studios and streamers alike are struggling to respond to its success",
+          "source": "Business",
+          "url": "https://www.economist.com/business/2026/11/08/youtubes-dominance-has-hollywood-running-scared",
           "niveau": "moyen"
         },
         {
-          "titre": "Second-guessing my adviser: Is an annuity the right move in this market?",
-          "analyse": "“I haven’t committed to the strategy yet and would appreciate some independent perspectives.”",
+          "titre": "Why renters are obsessed with these $300 ‘boneless couches’",
+          "analyse": "Black Friday could be the perfect time to buy one.",
           "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/my-adviser-recommended-an-annuity-is-it-the-right-move-in-this-market-environment-00edbbf6?mod=mw_rss_topstories",
+          "url": "https://www.marketwatch.com/story/why-renters-are-obsessed-with-these-300-boneless-couches-65a2e4fe?mod=mw_rss_topstories",
           "niveau": "moyen"
         },
         {
-          "titre": "Here are the 2027 capital-gains tax rates for each income level",
-          "analyse": "How much will you pay in capital-gains taxes next year? The IRS just released this crucial  information.",
+          "titre": "‘It seems bizarre’: We’re in our 80s with $950,000 in traditional IRAs. Why is o",
+          "analyse": "“Our basic living expenses are covered by $110,000 in annual pensions and Social Security.”",
           "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/here-are-the-2027-capital-gains-tax-rates-for-each-income-level-166fc306?mod=mw_rss_topstories",
+          "url": "https://www.marketwatch.com/story/it-seems-bizarre-were-in-our-80s-with-950-000-in-traditional-iras-why-is-our-adviser-pushing-us-to-do-roth-conversions-a665f990?mod=mw_rss_topstories",
           "niveau": "moyen"
         },
         {
-          "titre": "I’m 65 and worth more than $5.6 million. Can I afford a $200,000 camper?",
-          "analyse": "Math may be cold and unemotional — but finances are not.",
+          "titre": "How SpaceX was able to avert one of the market’s biggest fears about its stock",
+          "analyse": "Some investors worried that SpaceX’s volatile stock would have an extreme impact on indexes, but the company’s staggered lockup schedule has mitigated this issue.",
           "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/im-65-and-worth-more-than-5-6-million-can-i-buy-a-200-000-camper-even-though-the-price-feels-crazy-high-55f668f8?mod=mw_rss_topstories",
+          "url": "https://www.marketwatch.com/story/how-spacex-was-able-to-avert-one-of-the-markets-biggest-fears-about-its-stock-93870736?mod=mw_rss_topstories",
           "niveau": "moyen"
         },
         {
-          "titre": "The wealthiest 10% of Americans are pulling ahead of everyone else. This is what",
-          "analyse": "The wealthiest 10% have a median net worth that is $800,000 greater than it was three years ago.",
+          "titre": "A failed trial for a heart drug casts shadow over rivals developing similar ther",
+          "analyse": "The full data from the closely watched clinical trial showed that the drug had no cardiovascular benefit even though it reduced Lp(a) levels.",
           "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/the-wealthiest-10-of-americans-are-pulling-ahead-of-everyone-else-this-is-whats-making-them-richer-bd83c2f6?mod=mw_rss_topstories",
+          "url": "https://www.marketwatch.com/story/a-failed-trial-for-a-heart-drug-casts-shadow-over-rivals-developing-similar-therapies-2d9bd79f?mod=mw_rss_topstories",
           "niveau": "moyen"
         },
         {
-          "titre": "The S&P 500 could be dangerously exposed to AI. Here are some simple alternative",
-          "analyse": "The large-cap index is nowhere near as diversified as you think.",
+          "titre": "As AI trade falters, Goldman Sachs says this lagging region is now positioned to",
+          "analyse": "Precisely because it has long been hamstrung by rigid labor markets and overregulation, European stocks may paradoxically be bigger beneficiaries of the AI revolution in terms of enhanced productivity and cost-cutting than its U.S. counterparts",
           "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/the-s-p-500-has-become-a-big-ai-bet-here-are-some-simple-alternatives-3c7574a4?mod=mw_rss_topstories",
+          "url": "https://www.marketwatch.com/story/as-ai-trade-falters-goldman-sachs-says-this-lagging-region-is-now-positioned-to-outperform-589805c6?mod=mw_rss_topstories",
           "niveau": "moyen"
         },
         {
-          "titre": "Northrop Grumman director Mark Welsh III sells $54,453 of common stock",
-          "analyse": "",
-          "source": "All News",
-          "url": "https://www.investing.com/news/insider-trading-news/northrop-grumman-director-mark-welsh-iii-sells-54453-of-common-stock-93CH-5010228",
-          "niveau": "moyen"
-        }
-      ]
-    },
-    {
-      "titre": "Marches financiers",
-      "icone": "🏛️",
-      "niveau_global": "moyen",
-      "items": [
-        {
-          "titre": "Christine Lagarde: Interview with Yomiuri Shimbun",
-          "analyse": "",
-          "source": "ECB - European Central Bank",
-          "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261107~e7b86fc4ce.en.html",
+          "titre": "‘We had the worst fight’: I want my husband to retire at 65, but I don’t want to",
+          "analyse": "“We have $2.6 million, most of it in his 401(k) and IRAs, plus $450,000 in a brokerage account.”",
+          "source": "MarketWatch.com - Top Stories",
+          "url": "https://www.marketwatch.com/story/we-had-the-worst-fight-weve-ever-had-i-want-my-husband-to-retire-at-65-but-i-dont-want-to-lose-his-280-000-salary-48511469?mod=mw_rss_topstories",
           "niveau": "moyen"
         }
       ]
@@ -152,24 +138,52 @@
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "RENT 2026 : « La hausse des taux n’est sans doute pas terminée », Bruno Rouleau ",
-          "analyse": "Près de 4 % sur 20 ans, et ce n'est sans doute pas fini. Au micro d'Ariane Artinian pour Mon Podcast Immo, Bruno Rouleau (Fédération du Courtage en Crédit) livre les leviers, souvent oubliés, pour décrocher son crédit immobilier.\nCet article RENT 2026 : « La hausse des taux n&rsquo;est sans doute pa",
-          "source": "MySweetImmo",
-          "url": "https://www.mysweetimmo.com/2026/11/08/credit-immobilier-la-hausse-des-taux-nest-sans-doute-pas-terminee/",
+          "titre": "R Start réalise sa première acquisition immobilière en Norvège",
+          "analyse": "R Start entre sur le marché norvégien : que comprend Kanalhuset ? Surfaces, locataires et durée des baux éclairent cette première opération.",
+          "source": "MeilleureSCPI.com",
+          "url": "https://www.meilleurescpi.com/actualites/r-start-realise-sa-premiere-acquisition-immobiliere-en-norvege/",
           "niveau": "moyen"
         },
         {
-          "titre": "Immobilier Seine-et-Marne : Des maisons neuves avec jardin dès 316 000 euros",
-          "analyse": "Cogedim lance Le Clos des Roches à Boissise-le-Roi : des maisons neuves de 82 à 102 m² avec jardin privatif et stationnement, dès 316 000 euros. Les premières livraisons sont annoncées à partir du quatrième trimestre 2028.\nCet article Immobilier Seine-et-Marne : Des maisons neuves avec jardin dès 31",
-          "source": "MySweetImmo",
-          "url": "https://www.mysweetimmo.com/2026/11/08/immobilier-seine-et-marne-des-maisons-neuves-avec-jardin-des-316-000-euros/",
+          "titre": "SCPI Pierval Santé : quels faits marquants au 3T 2026 ?",
+          "analyse": "Que retenir du 3T 2026 de Pierval Santé ? Acquisitions, vacance et retraits dessinent un trimestre contrasté. Le bilan détaille les indicateurs clés.",
+          "source": "MeilleureSCPI.com",
+          "url": "https://www.meilleurescpi.com/actualites/scpi-pierval-sante-quels-faits-marquants-au-3t/",
           "niveau": "moyen"
         },
         {
-          "titre": "IA : Ce qui rendra encore l’agent immobilier indispensable",
-          "analyse": "Avec l’IA, le rôle de l’agent immobilier évolue. À travers deux cas concrets, Septeo explique comment l’automatisation peut libérer du temps pour le conseil, le suivi des dossiers et la relation client.\nCet article IA : Ce qui rendra encore l’agent immobilier indispensable est apparu en premier sur ",
+          "titre": "SCPI Cœur de Ville : que retenir du 3T 2026 ?",
+          "analyse": "Quels repères retenir au 3T 2026 ? Distribution, occupation, retraits et options d’épargne éclairent la situation de Cœur de Ville et ses enjeux.",
+          "source": "MeilleureSCPI.com",
+          "url": "https://www.meilleurescpi.com/actualites/scpi-coeur-de-ville-que-retenir-du-3t/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "SCPI Optimale : un acompte en hausse, à 4,05 € / part au T3 2026",
+          "analyse": "Pourquoi l’acompte d’Optimale progresse-t-il au T3 2026 ? Les chiffres de distribution et les évolutions du patrimoine éclairent cette hausse.",
+          "source": "MeilleureSCPI.com",
+          "url": "https://www.meilleurescpi.com/actualites/scpi-optimale-un-acompte-en-hausse-a-4-05-eur-au-t3/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "RENT 2026 : « Il faudrait un pacte républicain sur le logement », Guillaume Mart",
+          "analyse": "Une loi intégrale sur le logement et de la stabilité : au micro d'Ariane Artinian pour Mon Podcast Immo, Guillaume Martinaud (Orpi) livre ce que 16 348 Français attendent et prévient ceux qui misent encore sur une baisse des taux.\nCet article RENT 2026 : « Il faudrait un pacte républicain sur le log",
           "source": "MySweetImmo",
-          "url": "https://www.mysweetimmo.com/2026/11/08/ia-ce-qui-rendra-encore-lagent-immobilier-indispensable/",
+          "url": "https://www.mysweetimmo.com/2026/11/09/crise-du-logement-pacte-republicain-orpi/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "RENT 2026 : « Dans le luxe, les clients ne cherchent plus un bien, ils cherchent",
+          "analyse": "Le luxe tient bon, mais 2027 s’annonce sélective : plus de biens que d’acheteurs. Au micro d’Ariane Artinian pour Mon Podcast Immo, Julia Cohen (Belles Demeures) explique pourquoi les agents devront mettre en scène leurs biens.\nCet article RENT 2026 : « Dans le luxe, les clients ne cherchent plus un",
+          "source": "MySweetImmo",
+          "url": "https://www.mysweetimmo.com/2026/11/09/immobilier-de-luxe-les-clients-cherchent-une-experience-julia-cohen/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "RENT 2026 – IA immobilière : « Nous avons nos propres LLM », Jésus Diaz (Septeo)",
+          "analyse": "Quatre data centers en France, plus de 3 millions d'euros de GPU et ses propres modèles d'IA : au micro d'Ariane Artinian pour Mon Podcast Immo, Jésus Diaz (Septeo) dévoile la nouvelle version de Modelo et sa vision de l'agentique.\nCet article RENT 2026 &#8211; IA immobilière : « Nous avons nos prop",
+          "source": "MySweetImmo",
+          "url": "https://www.mysweetimmo.com/2026/11/09/proptech-septeo-ia-souveraine-modelo/",
           "niveau": "moyen"
         }
       ]
@@ -180,59 +194,164 @@
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "Lycéen poignardé en Seine-Saint-Denis : le suspect mis en examen et placé sous c",
-          "analyse": "Le lycéen de 20 ans qui a reconnu avoir donné \"plusieurs coups de couteau\" à l&#039;un de ses camarades jeudi en Seine-Saint-Denis a été mis en examen pour tentative d&#039;homicide volontaire et placé sous con...",
+          "titre": "Au G7 à Paris, le ton se veut conciliant face aux multiples crises",
+          "analyse": "Les plus hauts diplomates du G7 ont adopté un ton conciliant lundi au premier jour de leur réunion à Paris, s&#039;efforçant d&#039;éviter une nouvelle escalade entre Washington et Téhéran et de peser dans les...",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/depeches/lyceen-poignarde-en-seine-saint-denis-le-suspect-mis-en-examen-et-place-sous-controle-judiciaire-141090",
+          "url": "https://www.notretemps.com/depeches/au-g7-a-paris-le-ton-se-veut-conciliant-face-aux-multiples-crises-141104",
           "niveau": "moyen"
         },
         {
-          "titre": "Un homme retrouvé mort dans un appartement à Paris, la gorge en partie tranchée",
-          "analyse": "Un homme a été retrouvé mort la gorge en partie tranchée, avec également de nombreuses blessures au visage, samedi soir dans un appartement du 14e arrondissement de Paris, a indiqué dimanche une sourc...",
+          "titre": "En politique, Teddy Riner est \"une page blanche\" pour les Français et a \"tout à ",
+          "analyse": "Si Teddy Riner fait partie des personnalités préférées des Français, le quintuple champion olympique de Judo, qui vient d&#039;annoncer sa candidature à l&#039;Elysée, \"part de zéro\" sur son expertise politique...",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/depeches/un-homme-retrouve-mort-dans-un-appartement-a-paris-la-gorge-en-partie-tranchee-141089",
+          "url": "https://www.notretemps.com/depeches/en-politique-teddy-riner-est-une-page-blanche-pour-les-francais-et-a-tout-a-prouver-141132",
           "niveau": "moyen"
         },
         {
-          "titre": "Quand les romancières Lola Lafon et Leïla Slimani écrivent aussi pour la scène",
-          "analyse": "Pour l&#039;une, c&#039;était \"se frotter\" à une nouvelle exploration, pour l&#039;autre, un \"rêve impossible\" qui lui a procuré beaucoup de joie : les romancières Lola Lafon et Leïla Slimani racontent à l&#039;AFP l&#039;écr...",
+          "titre": "\"Faire dialoguer la science et la société\"",
+          "analyse": "À l&#039;heure où la recherche est scrutée, discutée, parfois contestée, comment retisser le lien entre science et société? La Fondation pour la recherche médicale (FRM) revendique ce rôle de passerelle: soutenir une recherche indépendante, ouverte et ancrée dans les grands défis contemporains, tout",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/depeches/quand-les-romancieres-lola-lafon-et-leila-slimani-ecrivent-aussi-pour-la-scene-141088",
+          "url": "https://www.notretemps.com/sante-bien-etre/medecine/faire-dialoguer-la-science-et-la-societe-137689",
           "niveau": "moyen"
         },
         {
-          "titre": "En Lorraine, l'attractivité retrouvée d'une maternité qui a failli fermer",
-          "analyse": "Faute de médecin, elle a failli fermer il y a deux ans, comme plusieurs petits établissements chaque année en France. Pour ceux qui se sont mobilisés pour la sauver, la maternité de Lunéville, près de...",
+          "titre": "Des tatamis à l'Élysée ? Teddy Riner candidat surprise à la présidentielle",
+          "analyse": "\"Je m&#039;appelle Teddy Riner et je suis candidat à l&#039;élection présidentielle de 2027\" : Le quintuple champion olympique de judo a pris lundi la classe politique de court en se lançant dans la course à l&#039;...",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/depeches/en-lorraine-l-attractivite-retrouvee-d-une-maternite-qui-a-failli-fermer-141087",
+          "url": "https://www.notretemps.com/depeches/des-tatamis-a-l-elysee-teddy-riner-candidat-surprise-a-la-presidentielle-141130",
           "niveau": "moyen"
         },
         {
-          "titre": "Franceinfo regrette d'avoir donné la parole à un enfant insultant Emmanuel Macro",
-          "analyse": "La direction de franceinfo a exprimé ses regrets après que des propos insultants ont été tenus en direct par un enfant lors de la manifestation parisienne pour la jeunesse et contre la vie chère samed...",
+          "titre": "Jugé pour agressions sexuelles, le navigateur Kevin Escoffier nie en bloc",
+          "analyse": "\"Juste une accolade\": le navigateur Kevin Escoffier, jugé lundi à Lorient pour des agressions sexuelles sur quatre femmes, a démenti tout attouchement sur sa principale accusatrice, une ancienne attac...",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/depeches/franceinfo-regrette-d-avoir-donne-la-parole-a-un-enfant-insultant-emmanuel-macron-141086",
+          "url": "https://www.notretemps.com/depeches/juge-pour-agressions-sexuelles-le-navigateur-kevin-escoffier-nie-en-bloc-141117",
           "niveau": "moyen"
         },
         {
-          "titre": "Puis-je refuser de faire incinérer un parent?",
-          "analyse": "Pour ses funérailles, ma mère souhaite une crémation, mais j&#039;y suis opposée. Le moment venu, pourrai-je faire comme je l&#039;entends? Sylvie.",
+          "titre": "A Lyon, rare mobilisation de proviseurs qui appellent à un \"sursaut\" face aux vi",
+          "analyse": "Près d&#039;une centaine de proviseurs et adjoints se sont rassemblés lundi devant la porte calcinée d&#039;un établissement de Lyon pour exprimer leur \"lassitude\" face aux violences commises en marge de la mob...",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/droit-argent/succession/puis-je-refuser-de-faire-incinerer-un-parent-139589",
+          "url": "https://www.notretemps.com/depeches/a-lyon-rare-mobilisation-de-proviseurs-qui-appellent-a-un-sursaut-face-aux-violences-141127",
           "niveau": "moyen"
         },
         {
-          "titre": "Mini fléchés gratuits - 8 novembre 2026 Grille n°3749",
-          "analyse": "Remplissez la grille de mini fléchés ci-dessous. Il vous suffit de cliquer sur une case pour pouvoir y entrer la lettre de votre choix. Grille n°3749  du 8 novembre 2026.",
+          "titre": "Centres de données: la filière défend son essor sur fond de contestation grandis",
+          "analyse": "Les constructeurs et opérateurs des centres de données ont défendu lundi à Bercy les perspectives de croissance de leur secteur, porté par l&#039;essor de l&#039;intelligence artificielle, sur fon...",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/jeux/jeux-en-ligne/mini-fleches/mini-fleches-gratuits-8-novembre-2026-grille-3749",
+          "url": "https://www.notretemps.com/depeches/centres-de-donnees-la-filiere-defend-son-essor-sur-fond-de-contestation-grandissante-141126",
           "niveau": "moyen"
         },
         {
-          "titre": "Mini fléchés gratuits - 8 novembre 2026 Grille n°3748",
-          "analyse": "Remplissez la grille de mini fléchés ci-dessous. Il vous suffit de cliquer sur une case pour pouvoir y entrer la lettre de votre choix. Grille n°3748  du 8 novembre 2026.",
+          "titre": "Jugée bénéfique mais trop peu encadrée, l'IA divise adolescents et parents europ",
+          "analyse": "Bénéfique mais inquiétante, utile mais peu fiable, incontournable mais insuffisamment encadrée: l&#039;intelligence artificielle suscite des sentiments contradictoires chez les adolescents eu...",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/jeux/jeux-en-ligne/mini-fleches/mini-fleches-gratuits-8-novembre-2026-grille-3748",
+          "url": "https://www.notretemps.com/depeches/jugee-benefique-mais-trop-peu-encadree-l-ia-divise-adolescents-et-parents-europeens-etude-americaine-141124",
+          "niveau": "moyen"
+        }
+      ]
+    },
+    {
+      "titre": "Finance_Pro",
+      "icone": "📰",
+      "niveau_global": "moyen",
+      "items": [
+        {
+          "titre": "Atos : le recul du chiffre d’affaires ralentit, la trésorerie repasse dans le ve",
+          "analyse": "Au troisième trimestre 2026, Atos a vu la baisse de son chiffre d’affaires s’atténuer et enregistré une variation nette de trésorerie positive. Engagé depuis 2025 dans une profonde restructuration, le groupe informatique affiche de nouveaux signes d’amélioration. Le retour à une croissance durable r",
+          "source": "Finyear",
+          "url": "https://finyear.com/atos-le-recul-du-chiffre-daffaires-ralentit-la-tresorerie-repasse-dans-le-vert-au-troisieme-trimestre/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "RAISE lève 100 M€ pour financer Pasteur, Gustave Roussy et l’Institut Imagine",
+          "analyse": "RAISE boucle le premier closing de son deuxième fonds de partage. 100 millions d’euros réunis auprès d’AXA, de la Banque des Territoires, de Crédit Agricole Assurances, de la CARAC et des Laboratoires Pierre Fabre. La taille cible est fixée à 200 millions d’euros. L’annonce a été faite le 3 novembre",
+          "source": "Finyear",
+          "url": "https://finyear.com/raise-leve-100-me-pour-financer-pasteur-gustave-roussy-et-linstitut-imagine/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Pas de Capex, pas de croissance … Par Nicolas Domont, Associé Gérant chez Optige",
+          "analyse": "On ne prépare pas les récoltes de demain sans semer aujourd’hui. Sans investissement, pas de croissance durable. Or les besoins explosent au moment précis où les ressources imposent des choix.\nIntelligence artificielle, transition énergétique, réindustrialisation, défense : les grands bouleversement",
+          "source": "Finyear",
+          "url": "https://finyear.com/pas-de-capex-pas-de-croissance-par-nicolas-domont-associe-gerant-chez-optigestion/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Midterms 2026 : les démocrates reprennent le Congrès, le CLARITY Act est mort",
+          "analyse": "Le 3 novembre 2026, les démocrates ont repris le contrôle de la Chambre des représentants (228 sièges contre 139) et du Sénat (51 sièges). Hakeem Jeffries est en position de devenir Speaker. Le résultat clôt deux années de lobbying crypto massif au Congrès — et une séquence législative qui s’était d",
+          "source": "Finyear",
+          "url": "https://finyear.com/midterms-2026-les-democrates-reprennent-le-congres-le-clarity-act-est-mort/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "TowerBrook approfondit ses sillons sectoriels et transatlantique",
+          "analyse": "Investissant en buyout depuis vingt-six ans en Europe et aux États-Unis, TowerBrook fait partie des « usual suspects » de l’upper midmarket continental. À l’instar de nombre de ses concurrents, il a bâti au fil des années une plateforme multi-stratégies qui l’expose également aux sujets d’impact et ",
+          "source": "PE Magazine",
+          "url": "https://www.pemagazine.fr/towerbrook-approfondit-ses-sillons-sectoriels-et-transatlantique/",
+          "niveau": "moyen"
+        }
+      ]
+    },
+    {
+      "titre": "ESG",
+      "icone": "🌱",
+      "niveau_global": "moyen",
+      "items": [
+        {
+          "titre": "\"ESS, l’économie en mieux\" : l'ESS se dote d'une marque commune pour sortir de l",
+          "analyse": "Les acteurs de l'ESS ont lancé lundi 9 novembre une marque commune. \nIl y a un chiffre qu'on cite rarement. L'économie sociale et solidaire (ESS)  représente d'un emploi privé sur sept en France. L’ESS pèse 10% du PIB. Elle regroupe près de 150 000 entreprises - des coopératives, des mutuelles, des ",
+          "source": "Novethic",
+          "url": "https://www.novethic.fr/economie-et-social/transformation-de-leconomie/ess-leconomie-en-mieux-less-se-dote-dune-marque-commune-pour-sortir-de-lombre",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Nouveau label bas carbone tourbières : \"Il y a un intérêt business, au-delà de l",
+          "analyse": "La restauration du marais des Planches, dans l'Ain, sera le premier projet labellisé Bas carbone tourbière. @Syndicat du Haut Rhône\nElles ne représentent que 0,3% du territoire mais permettent de stocker 690 millions de tonnes équivalent CO₂, soit près de deux années d’émissions directes de la Franc",
+          "source": "Novethic",
+          "url": "https://www.novethic.fr/environnement/biodiversite/nouveau-label-bas-carbone-tourbieres-il-y-a-un-interet-business-au-dela-de-la-strategie-climat",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "La vague démocrate aux Etats-Unis relance le risque de bulle de l’IA",
+          "analyse": "Les chiffres de ventes de puces pour l'intelligence artificielle ont montré des signes de faiblesse. @Igor Omilaev-Unsplash\nNouvelles secousses sur les marchés américains. Les valeurs liées à la tech et à l’IA ont encore connu une chute impressionnante suite à la victoire des démocrates aux élection",
+          "source": "Novethic",
+          "url": "https://www.novethic.fr/finance-durable/tendances-de-marche/la-vague-democrate-aux-etats-unis-relance-le-risque-de-bulle-de-lia",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "COP31 : les entreprises attendent un électrochoc mondial sur l’électrification",
+          "analyse": "La COP31 d'Antalya sur le climat s'ouvre le 9 novembre 2026. @Photo par Anadolu via AFP\nElectrify baby electrify. Tel pourrait être le slogan de la COP31 Climat, qui s’ouvre ce lundi 9 novembre à Antalya, en Turquie, co-organisée avec l’Australie. Pendant deux semaines, les Etats du monde entier von",
+          "source": "Novethic",
+          "url": "https://www.novethic.fr/environnement/climat/cop31-les-entreprises-attendent-un-electrochoc-mondial-sur-lelectrification",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "« C’est inédit » : un syndicat d’énergie devient fournisseur d’électricité",
+          "analyse": "Le syndicat départemental d’énergie d’Ille-et-Vilaine (SDE 35) est depuis quelques semaines fournisseur d’électricité. Une première en France pour un EPCI de ce type chargé de l’organisation de la distribution de l’énergie. L’initiative pourrait en inspirer d’autres avec l’augmentation des opération",
+          "source": "GreenUnivers",
+          "url": "https://www.greenunivers.com/2026/11/cest-inedit-un-syndicat-denergie-devient-fournisseur-delectricite-438272/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Les projets que va favoriser la deuxième enchère européenne sur la chaleur",
+          "analyse": "Une deuxième enchère européenne sur la chaleur industrielle est attendue début décembre. Elle devrait offrir davantage de place aux\nL’article Les projets que va favoriser la deuxième enchère européenne sur la chaleur est apparu en premier sur GreenUnivers.",
+          "source": "GreenUnivers",
+          "url": "https://www.greenunivers.com/2026/11/les-projets-que-va-favoriser-la-deuxieme-enchere-europeenne-sur-la-chaleur-437550/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Enedis généralise les nouvelles heures creuses",
+          "analyse": "«&#160;C’est la grande bascule&#160;», annonce Enedis en parlant de la nouvelle répartition des heures pleines /heures creuses pour les consommateurs d’électricité. Une sorte de test à grande échelle avait été fait entre novembre 2025 et mai 2026 auprès de 1,7 million de clients sur les 14,5 million",
+          "source": "GreenUnivers",
+          "url": "https://www.greenunivers.com/2026/11/enedis-generalise-les-nouvelles-heures-creuses-438313/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "GRDF prévoit deux fois plus de méthaniseurs à raccorder en 2027",
+          "analyse": "Exclusif &#8211; GRDF prévoit de connecter à son réseau de gaz 130 à 140 postes d&#8217;injection de biométhane l&#8217;an prochain, d&#8217;après les chiffres recueillis par GreenUnivers. Soit près de\nL’article GRDF prévoit deux fois plus de méthaniseurs à raccorder en 2027 est apparu en premier su",
+          "source": "GreenUnivers",
+          "url": "https://www.greenunivers.com/2026/11/grdf-prevoit-deux-fois-plus-de-methaniseurs-a-raccorder-en-2027-438212/",
           "niveau": "moyen"
         }
       ]
@@ -243,17 +362,59 @@
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "\"C'est un pillage\" : l'intelligence artificielle s'attaque à l'art aborigène et ",
-          "analyse": "Porte-canettes, toiles, sous-verres... Sur Internet, les fausses œuvres aborigènes générées par IA se multiplient. Une contrefaçon massive qui prive les artistes des Premières Nations australiennes de leurs revenus, mais ampute aussi leur culture.",
-          "source": "JDN : Derniers contenus",
-          "url": "https://www.journaldunet.com/magazine/1557497-intelligence-artificielle-pillage-art-aborigene/",
+          "titre": "SMIC, primes, impôts : votre pouvoir d’achat va-t-il augmenter en 2027 ? Essayez",
+          "analyse": "SMIC, primes, impôts : votre pouvoir d’achat va-t-il augmenter en 2027 ? Essayez notre simulateur",
+          "source": "FRENCHWEB.FR — Tech, innovation et économie numérique",
+          "url": "https://www.frenchweb.fr/breaking-news/smic-primes-impots-votre-pouvoir-d-achat-va-t-il-augmenter-en-2027-essayez-notre-simulateur/caad5803-2c33-42c5-adbb-8b10836ac0bf?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=breaking_news",
           "niveau": "moyen"
         },
         {
-          "titre": "Cette entreprise distribuera 200 milliards de dollars à ses salariés à condition",
-          "analyse": "L'entrée en Bourse d'Anthropic promet de transformer les actions de ses salariés en fortunes colossales. Mais entre les impôts et les délais de carence, la richesse de ces nouveaux millionnaires restera d'abord virtuelle.",
+          "titre": "Comment les marques organisent leur visibilité dans les IA",
+          "analyse": "MARKETING IRL · La rédaction · 09/11/2026Avec GetMint, Joan Burkovic explique comment les grandes entreprises organisent leur visibilité dans les réponses des IA : besoins clients, mesure, sources et coordination des équipes.Lire l’article sur FRENCHWEB.FR →Depuis 2008, FrenchWeb décrypte la tech et",
+          "source": "FRENCHWEB.FR — Tech, innovation et économie numérique",
+          "url": "https://www.frenchweb.fr/comment-les-marques-organisent-leur-visibilite-dans-les-ia/900000030?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=article",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "NVIDIA : l’enquête sur Jensen Huang met sa gouvernance à l’épreuve",
+          "analyse": "CODE OF POWER · La rédaction · 09/11/2026Crédit : Photo: FRENCHWEB.FRAprès avoir présenté les contacts de son dirigeant avec Alice Huang comme habituels dans une relation commerciale, NVIDIA ouvre une enquête indépendante sur une éventuelle opération de renseignement étrangère. Jensen Huang a, de so",
+          "source": "FRENCHWEB.FR — Tech, innovation et économie numérique",
+          "url": "https://www.frenchweb.fr/nvidia-l-enquete-sur-jensen-huang-met-sa-gouvernance-a-l-epreuve/900000029?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=article",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "À l'ère de l'IA, qui incarne encore vraiment les marques ?",
+          "analyse": "PARTNER&apos;S VOICE · Partners&apos;Voice · 09/11/2026Alors que les entreprises multiplient les dispositifs pour encadrer les contenus générés par intelligence artificielle, une autre forme de gouvernance mérite leur attention : celle des interactions quotidiennes entre leurs collaborateurs et leur",
+          "source": "FRENCHWEB.FR — Tech, innovation et économie numérique",
+          "url": "https://www.frenchweb.fr/a-l-ere-de-l-ia-qui-incarne-encore-vraiment-les-marques/900000028?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=article",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Médias et IA : produire la valeur ne suffit plus à la conserver",
+          "analyse": "L'IA redistribue la valeur des médias. Leur avenir dépend aussi de la maîtrise de la relation aux publics, des offres qu'ils développent et des positions économiques qu'ils choisissent de construire.",
           "source": "JDN : Derniers contenus",
-          "url": "https://www.journaldunet.com/patrimoine/finances-personnelles/1557475-anthropic-millionnaires/",
+          "url": "https://www.journaldunet.com/publishers/1557443-medias-et-ia-produire-la-valeur-ne-suffit-plus-a-la-conserver/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "\"Les discours pro-souveraineté numérique préfèrent souvent troquer la sécurité c",
+          "analyse": "Sébastien Garnault, fondateur de CyberTaskForce, un think tank français de cybersécurité, et du Paris Cyber Summit, un événement annuel dédié au secteur, juge les discours sur la souveraineté numérique trop radicaux.",
+          "source": "JDN : Derniers contenus",
+          "url": "https://www.journaldunet.com/cybersecurite/1557759-les-discours-pro-souverainete-numerique-preferent-souvent-troquer-la-securite-contre-la-purete-nationale/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "\"Les VC ne pensent qu'à ça !\" : les fondateurs de start-up obligés de prouver qu",
+          "analyse": "Certains modèles économiques inquiètent les investisseurs, qui s'interrogent sur leur pérennité face aux progrès de l'intelligence artificielle.",
+          "source": "JDN : Derniers contenus",
+          "url": "https://www.journaldunet.com/start-up/1557753-les-vc-ne-pensent-qu-a-ca-pour-lever-des-fonds-les-fondateurs-obliges-de-prouver-que-l-ia-ne-les-remplacera-pas/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Rippletide : cet outil gratuit permet de fiabiliser votre production de code",
+          "analyse": "La start-up française intercepte chaque action de Codex et bloque celles qui enfreignent les règles de développement. Explications et mise en place.",
+          "source": "JDN : Derniers contenus",
+          "url": "https://www.journaldunet.com/intelligence-artificielle/1557763-cet-outil-gratuit-permet-de-fiabiliser-votre-production-de-code-avec-codex/",
           "niveau": "moyen"
         }
       ]
