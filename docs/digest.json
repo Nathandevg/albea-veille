@@ -1,8 +1,8 @@
 {
-  "date_fr": "Friday 13 November 2026",
-  "compte_articles": 250,
+  "date_fr": "Saturday 14 November 2026",
+  "compte_articles": 188,
   "compte_forts": 0,
-  "compte_moyens": 250,
+  "compte_moyens": 188,
   "synthese_jour": "Synthese IA non disponible (fallback). Consultez les articles ci-dessous.",
   "chiffres_cles": [],
   "sections": [
@@ -12,59 +12,59 @@
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "Ce que l’on sait de la panne d’Outlook et de Microsoft 365",
-          "analyse": "Plusieurs services de Microsoft, comme Outlook, Teams ou Copilot, connaissent d’importantes perturbations vendredi, ce qui affecte entreprises et gouvernements à travers le monde. La firme américaine, qui écarte la thèse d’une cyberattaque, notait des « améliorations » en début d’après-midi.",
+          "titre": "Manifestations du 14 novembre : un samedi de mobilisation dans toute la France, ",
+          "analyse": "Le gouvernement a déployé autant de forces de l’ordre que lors des trois derniers samedis, soit quelque 70 000 policiers et gendarmes. A Paris, les « gilets jaunes » ont rejoint le cortège associatif, syndical et étudiant qui est parti de Nation à 14 heures.",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/pixels/article/2026/11/13/ce-que-l-on-sait-de-la-panne-d-outlook-et-de-microsoft-365_6809312_4408996.html",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/14/mobilisations-sociales-une-cinquantaine-de-corteges-attendus-partout-en-france-pour-cet-acte-v-sur-fond-de-revendications-diverses_6809818_823448.html",
           "niveau": "moyen"
         },
         {
-          "titre": "Mobilisation du 14 novembre : la Préfecture de police de Paris redoute une manif",
-          "analyse": "Une note indique des risques de troubles à l’ordre public samedi, liés notamment à l’opposition au projet de loi sur la présomption d’usage légitime des armes par les forces de l’ordre qui arrive au Sénat le 19 novembre, et à la tenue du procès des policiers qui ont passé à tabac Michel Zecler.",
+          "titre": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky affirme que les Etats-Unis ont",
+          "analyse": "« C’est la première fois que cette question a été soulevée », a déclaré le président ukrainien, quelques jours après le dernier cycle de pourparlers de paix à Abou ⁠Dhabi. Il a répété que l’Ukraine n’était pas disposée à retirer ⁠ses ‌troupes et que les termes d’un éventuel accord de paix devraient ",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/societe/article/2026/11/13/mobilisation-du-14-novembre-la-prefecture-de-police-de-paris-redoute-une-manifestation-a-forte-coloration-anti-police_6809334_3224.html",
+          "url": "https://www.lemonde.fr/international/live/2026/11/14/en-direct-guerre-en-ukraine-volodymyr-zelensky-affirme-que-les-etats-unis-ont-evoque-des-concessions-territoriales-en-echange-d-une-adhesion-a-l-otan_6808609_3210.html",
           "niveau": "moyen"
         },
         {
-          "titre": "EN DIRECT, guerre en Ukraine : l’accès au système satellitaire Starshield toujou",
-          "analyse": "Selon Kiev, les terminaux Starshield, version militaire du réseau civil Starlink de l’aémricain SpaceX, cessent actuellement d’émettre au-delà d’une vitesse de déplacement de 160 km/h, comme cela avait déjà été observé en octobre. « Cela rend impossible, en particulier, l’utilisation d’intercepteurs",
+          "titre": "L’affaire Nvidia tourne à la crise politique pour Donald Trump",
+          "analyse": "Selon le « New York Times », le président américain aurait été mis au courant, dès le mois de mai, des risques liés à la relation entre Jensen Huang, patron du géant des semi-conducteurs, et une entrepreneuse chinoise soupçonnée d’espionnage. Il est directement mis en cause pour son inaction.",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/international/live/2026/11/13/en-direct-guerre-en-ukraine-l-acces-au-systeme-satellitaire-starshield-toujours-restreint-pour-l-ukraine-des-elus-americains-demandent-son-retablissement_6808609_3210.html",
+          "url": "https://www.lemonde.fr/international/article/2026/11/14/aux-etats-unis-l-affaire-nvidia-tourne-a-la-crise-politique-pour-donald-trump_6809696_3210.html",
           "niveau": "moyen"
         },
         {
-          "titre": "« Comment soignants et patients peuvent-ils être exposés à ça ? » : à Gaza, l’hô",
-          "analyse": "L’établissement, bombardé à de nombreuses reprises au cours des trois dernières années, a toujours été dans le viseur de l’armée israélienne, qui accuse le mouvement islamique de s’en servir comme base.",
+          "titre": "Prix littéraires : l’hégémonie de Gallimard fait grincer des dents dans l’éditio",
+          "analyse": "Le Goncourt, le Renaudot, le Femina et le Médicis ont couronné, en 2026, des auteurs de Madrigall, la maison mère de Gallimard, ce qui irrite les éditeurs concurrents, qui critiquent la composition des jurys.",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/13/comment-soignants-et-patients-peuvent-ils-etre-exposes-a-ca-a-gaza-l-hopital-nasser-de-nouveau-frappe-par-israel-sur-fond-d-accusations-visant-le-hamas_6809329_3210.html",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/14/prix-litteraires-l-hegemonie-de-gallimard-fait-grincer-des-dents-dans-l-edition_6810249_3234.html",
           "niveau": "moyen"
         },
         {
-          "titre": "Julien Jeanneney, constitutionnaliste : « Là où juges, presse et opposition tien",
-          "analyse": "Partout depuis une quinzaine d’années, des démocraties libérales se vident de leur substance. Contre ce phénomène qui s’étend, comme en témoigne la vigueur des attaques contre l’Etat de droit dans la campagne présidentielle française, les juges constitutionnels sont appelés à être en première ligne,",
+          "titre": "En Ile-de-France, les usagers de la ligne J confrontés à des incidents en série ",
+          "analyse": "« Crise des essieux », caténaires arrachées… Les accidents se sont succédé en 2026 sur cette ligne du Transilien qui part de la gare Saint-Lazare, à Paris, pour parcourir 174 kilomètres jusqu’aux confins de la Normandie et des Hauts-de-France. Un calvaire pour les 277 000 voyageurs quotidiens qui vi",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/13/julien-jeanneney-constitutionnaliste-la-ou-juges-presse-et-opposition-tiennent-bon-l-erosion-democratique-peut-etre-freinee_6809302_823448.html",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/14/en-ile-de-france-les-usagers-de-la-ligne-j-confrontes-a-des-incidents-en-serie-quand-il-y-a-des-suppressions-de-trains-je-ne-vois-pas-mes-enfants_6810247_3234.html",
           "niveau": "moyen"
         },
         {
-          "titre": "L’Allemagne renforce ses services de renseignement, face à la menace russe et au",
-          "analyse": "L’opposition alerte sur les risques pour l’Etat de droit, alors que Berlin dote ses services de renseignement de capacités inédites de riposte et de sabotage numérique.",
+          "titre": "Jean Rolin, écrivain : « Cette histoire communiste, c’est aussi un peu d’où je v",
+          "analyse": "L’écrivain est un arpenteur persévérant de lieux périphériques, attentif aux populations vulnérables qui y vivent. « Gagarine » l’atteste de nouveau, pour lequel il a fait un tour de France des sites nommés d’après le cosmonaute, sur les traces de l’espérance communiste.",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/13/l-allemagne-renforce-ses-services-de-renseignement-face-a-la-menace-russe-et-aux-cyberattaques_6809331_3210.html",
+          "url": "https://www.lemonde.fr/livres/article/2026/11/14/jean-rolin-cette-histoire-communiste-c-est-aussi-un-peu-d-ou-je-viens_6809819_3260.html",
           "niveau": "moyen"
         },
         {
-          "titre": "Sébastien Lecornu ouvre une discussion d’un mois avec les syndicats de fonctionn",
-          "analyse": "A l’issue de la réunion à Matignon, la CFDT a annoncé se joindre à l’appel à la grève et à la mobilisation dans le public mardi 17 novembre.",
+          "titre": "Arnaud Viviant, chroniqueur du « Masque et la Plume », quitte l’émission en accu",
+          "analyse": "Le critique annonce son départ de l’émission, « la mort dans l’âme, après vingt-six ans ». « Pas de promotion pour les livres écrits par des élus en fonction », a réagi la radio, en condamnant les menaces et insultes envers la productrice de l’émission, Rebecca Manzoni.",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/13/mobilisations-sociales-sebastien-lecornu-ouvre-une-discussion-d-un-mois-avec-les-syndicats_6809324_823448.html",
+          "url": "https://www.lemonde.fr/actualite-medias/article/2026/11/14/arnaud-viviant-chroniqueur-du-masque-et-la-plume-annonce-quitter-l-emission-de-france-inter_6810280_3236.html",
           "niveau": "moyen"
         },
         {
-          "titre": "Attentat raciste de Trappes : le Rassemblement national annonce déposer une plai",
-          "analyse": "Après que les enquêteurs ont retrouvé des autocollants « Vive la France, RN, fier d’être français » chez Kevin Tessier, auteur de l’attentat, la patronne des Ecologistes avait déclaré : « Qu’est-ce qu’on fait de ce parti ? On considère qu’il est un parti comme les autres, alors que des gens tuent en",
+          "titre": "Abdel-Kader Guerz, maire de Dreux, est mort à 69 ans des suites d’un AVC",
+          "analyse": "L’édile, élu en mars 2026, avait été victime d’un accident vasculaire cérébral au début de novembre et était hospitalisé depuis, selon « L’Echo républicain ». Des membres de son équipe ont convergé en fin de matinée vers la mairie pour un moment de recueillement.",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/13/attentat-raciste-de-trappes-le-rassemblement-national-annonce-deposer-une-plainte-en-diffamation-tres-prochainement-contre-marine-tondelier_6809304_823448.html",
+          "url": "https://www.lemonde.fr/disparitions/article/2026/11/14/le-maire-de-dreux-abdel-kader-guerza-est-mort-a-69-ans_6810248_3382.html",
           "niveau": "moyen"
         }
       ]
@@ -75,73 +75,59 @@
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "Trump administration is hiring debt collectors to go after defaulted student-loa",
-          "analyse": "The Treasury Department proposes to pay debt collectors much less than in the past to help borrowers get out of default.",
-          "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/trump-administration-is-hiring-debt-collectors-for-first-time-in-6-years-to-go-after-defaulted-student-loan-borrowers-8bae13ad?mod=mw_rss_topstories",
+          "titre": "The Bottom Line newsletter: Nvidia will never be the same",
+          "analyse": "Shailesh Chitnis, our chip-industry expert, reflects on the fall of Jensen Huang",
+          "source": "Business",
+          "url": "https://www.economist.com/business/2026/11/14/the-bottom-line-newsletter-nvidia-will-never-be-the-same",
           "niveau": "moyen"
         },
         {
-          "titre": "Microsoft Outlook outage stretches into a second day: What to know",
-          "analyse": "Microsoft said there is “no evidence of malicious activity” as it works to restore access to email and other services.",
+          "titre": "China’s hottest stocks these days have one thing in common: names that sound lik",
+          "analyse": "Shares of fish processors, lighting manufacturers and appliance makers have soared ahead of the Year of the Sheep. Investor appetite has had little to do with the status of their businesses.",
           "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/microsoft-stock-slumps-on-outage-that-includes-the-copilot-tool-it-has-been-heavily-promoting-4007dc4f?mod=mw_rss_topstories",
+          "url": "https://www.marketwatch.com/story/chinas-hottest-stocks-these-days-have-one-thing-in-common-names-that-sound-like-sheep-6176e521?mod=mw_rss_topstories",
           "niveau": "moyen"
         },
         {
-          "titre": "Opening trading-card packs has become a $2 billion market",
-          "analyse": "Pack-ripping apps are changing the way people buy and sell cards. But analysts say their “slot-like payoff” raises risks.",
+          "titre": "FAA lifts rare nationwide ground stop on flights; air travel may take days to re",
+          "analyse": "Homeland Security Secretary Mullin said that there was ‘zero evidence’ of cyberattack as fewer flights amid fuel-cost surge may hamper rebookings.",
           "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/opening-trading-card-packs-has-become-a-2-billion-market-new-apps-are-trying-to-cash-in-b7ba11f5?mod=mw_rss_topstories",
+          "url": "https://www.marketwatch.com/story/faa-declares-rare-widespread-ground-outage-bdc46393?mod=mw_rss_topstories",
           "niveau": "moyen"
         },
         {
-          "titre": "I’m 63 and spending $95,000 on a roof deck for my $500,000 home. Am I being extr",
-          "analyse": "“I have a net worth of $2.3 million and my only debt is a 15-year mortgage.”",
+          "titre": "14 dividend stocks selected for long-term growth",
+          "analyse": "These stocks feature attractive dividend payouts and are trading low to the companies’ intrinsic value, according to John Buckingham of Value87 Investment Partners.",
           "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/im-63-and-want-to-spend-95-000-on-a-roof-deck-for-my-500-000-home-is-that-a-good-investment-f1a59c27?mod=mw_rss_topstories",
+          "url": "https://www.marketwatch.com/story/14-dividend-stocks-selected-for-long-term-growth-0a095c0d?mod=mw_rss_topstories",
           "niveau": "moyen"
         },
         {
-          "titre": "Midterm elections provided the hyperscalers with the excuse they needed to cut b",
-          "analyse": "If the AI capex narrative is losing momentum then Jefferies strategist Chris Wood can recommen some sectors , like pharma, and some markets like India, Brazil and China, as ways to play that slowdown.",
+          "titre": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi sc",
+          "analyse": "There is already a demographic ‘run’ on Social Security.",
           "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/midterm-elections-provided-the-hyperscalers-with-the-excuse-they-needed-to-cut-back-on-spending-says-jefferies-strategist-de6349ec?mod=mw_rss_topstories",
+          "url": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
           "niveau": "moyen"
         },
         {
-          "titre": "The science of vaccines is rapidly advancing — despite the anti-vax movement",
-          "analyse": "Look at the promising data for Moderna and Merck’s experimental cancer vaccine and the research suggesting the shingles vaccine can delay dementia.",
+          "titre": "4 expert tips for signing up for Medicare",
+          "analyse": "A day in the life of a Medicare counselor",
           "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/the-worlds-most-sophisticated-drug-companies-are-putting-billions-into-vaccines-despite-the-political-environment-8dcbf276?mod=mw_rss_topstories",
+          "url": "https://www.marketwatch.com/story/what-really-happens-during-medicare-counseling-6a4f618e?mod=mw_rss_topstories",
           "niveau": "moyen"
         },
         {
-          "titre": "The prostate-cancer screening rules just changed. Here’s when men should get tes",
-          "analyse": "The American Cancer Society now recommends most men get their first PSA test when they turn 50. Black men and other men considered high risk should start screening at age 45.",
+          "titre": "Nvidia’s stock is on a losing streak not seen in 14 years. What comes next?",
+          "analyse": "Nvidia wiped out $573 billion in market capitalization this week — its sixth consecutive week of stock declines.",
           "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/the-prostate-cancer-screening-rules-just-changed-heres-when-men-should-get-tested-894418bb?mod=mw_rss_topstories",
+          "url": "https://www.marketwatch.com/story/nvidias-stock-is-on-a-losing-streak-not-seen-in-14-years-what-comes-next-a07e801e?mod=mw_rss_topstories",
           "niveau": "moyen"
         },
         {
-          "titre": "Nvidia has shed nearly $500 billion in market value this week. It’s still a $4 t",
-          "analyse": "Can Nvidia keep its lead in AI chips without Jensen Huang? Plus, what investors are watching on inflation.",
+          "titre": "Global oil supplies are suddenly flowing. Why a crude glut won’t mean cheaper di",
+          "analyse": "It’s official: the world is expected to soon have more oil than it needs for the first time since the Iran war began in February. But more oil doesn’t automatically lead to lower diesel prices.",
           "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/nvidia-has-shed-nearly-500-billion-in-market-value-this-week-its-still-a-4-trillion-ai-behemoth-2ca6eba7?mod=mw_rss_topstories",
-          "niveau": "moyen"
-        }
-      ]
-    },
-    {
-      "titre": "Marches financiers",
-      "icone": "🏛️",
-      "niveau_global": "moyen",
-      "items": [
-        {
-          "titre": "Isabel Schnabel: Made in Europe",
-          "analyse": "",
-          "source": "ECB - European Central Bank",
-          "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261113~3883f1f187.en.html",
+          "url": "https://www.marketwatch.com/story/global-oil-supplies-are-suddenly-flowing-why-a-crude-glut-wont-mean-cheaper-diesel-a5fa80c8?mod=mw_rss_topstories",
           "niveau": "moyen"
         }
       ]
@@ -159,52 +145,31 @@
           "niveau": "moyen"
         },
         {
-          "titre": "SCPI Epsicap Explore : que retenir du 3T 2026 ?",
-          "analyse": "Quels faits marquants au 3T 2026 ? Distribution, collecte et acquisition éclairent l’évolution d’Epsicap Explore et ses principaux indicateurs.",
-          "source": "MeilleureSCPI.com",
-          "url": "https://www.meilleurescpi.com/actualites/scpi-epsicap-explore-que-retenir-du-3t/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "SCPI : un projet de fusion entre Cœur d'Avenir et Cœur de Régions ?",
-          "analyse": "SCPI Cœur d'Avenir et Cœur de Régions : découvrez les objectifs du projet de fusion de Sogenial Immobilier et ses conséquences pour les associés.",
-          "source": "MeilleureSCPI.com",
-          "url": "https://www.meilleurescpi.com/actualites/scpi-que-prevoit-le-projet-de-fusion-de-coeur-d-avenir-et-coeur-de-regions/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Immobilier de santé : rebond en Europe, France en berne",
-          "analyse": "Record de 23,2 Md€ investis en Europe en 2025, nouvelle hausse en 2026 : l&#8217;immobilier de santé a le vent en poupe. Sauf en France. C&#8217;est le constat de l&#8217;étude annuelle de CBRE. Les SCPI, longtemps moteur du marché français, ont levé le pied. L&#8217;immobilier de santé n&#8217;est ",
-          "source": "Pierrepapier.fr",
-          "url": "https://www.pierrepapier.fr/marche-immobilier/immobilier-de-sante-rebond-en-europe-france-en-berne/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "RENT 2026 – Agent immobilier : « Partager ses exclusivités, c’est près de 38 000",
-          "analyse": "Près de 38 000 euros HT de chiffre d'affaires en plus pour une agence adhérente : au micro d'Ariane Artinian pour Mon Podcast Immo, Bahi Khoury (Amanda) chiffre ce que le partage de mandats exclusifs rapporte vraiment.\nCet article RENT 2026 – Agent immobilier : « Partager ses exclusivités, c&rsquo;e",
+          "titre": "Salon immobilier israélien à Paris : L’interdiction rejetée, ce qui est prévu di",
+          "analyse": "Un salon immobilier israélien contesté reste prévu dimanche à Paris. La demande d’interdiction a été rejetée, mais l’association annonce saisir le Conseil d’État.\nCet article Salon immobilier israélien à Paris : L&rsquo;interdiction rejetée, ce qui est prévu dimanche est apparu en premier sur MySwee",
           "source": "MySweetImmo",
-          "url": "https://www.mysweetimmo.com/2026/11/13/mandat-exclusif-partage-amanda-ventes/",
+          "url": "https://www.mysweetimmo.com/2026/11/14/salon-immobilier-israelien-paris-interdiction-rejetee/",
           "niveau": "moyen"
         },
         {
-          "titre": "RENT 2026 – IA immobilière : « La zone de génie de nos conseillers, c’est l’huma",
-          "analyse": "Bonne nouvelle pour les conseillers immobiliers : l'IA leur rend du temps pour l'humain et le terrain. Au micro d'Ariane Artinian pour Mon Podcast Immo, Samuel Caux (eXp France) explique pourquoi son réseau ne crée pas son propre chatbot.\nCet article RENT 2026 – IA immobilière : « La zone de génie d",
+          "titre": "RENT 2026 – Immobilier et viager : « Le marché va être explosif », Sophie Richar",
+          "analyse": "76 % des plus de 75 ans sont propriétaires de leur logement, rappelle Sophie Richard. Au micro de Baptiste Julien Blandet pour Mon Podcast Immo, la fondatrice de Viagimmo explique comment elle ouvre le viager aux agences immobilières.\nCet article RENT 2026 – Immobilier et viager : « Le marché va êtr",
           "source": "MySweetImmo",
-          "url": "https://www.mysweetimmo.com/2026/11/13/ia-immobiliere-conseillers-humain-exp-france/",
+          "url": "https://www.mysweetimmo.com/2026/11/14/viager-sophie-richard-viagimmo-affiliation-franchise/",
           "niveau": "moyen"
         },
         {
-          "titre": "Rénovation d’escalier : Quel budget prévoir pour préparer sa maison à la vente ?",
-          "analyse": "Avant de vendre une maison, un escalier usé peut peser sur la première impression des visiteurs. Peinture, ponçage ou habillage des marches : quelles solutions envisager et quel budget prévoir pour présenter un intérieur soigné ?\nCet article Rénovation d&rsquo;escalier : Quel budget prévoir pour pré",
+          "titre": "Immobilier Biscarrosse : 22 appartements conçus pour moins subir la chaleur",
+          "analyse": "À Biscarrosse, Cogedim lance Azurélia : une résidence de 22 appartements avec protections solaires, séjours rafraîchis et espaces extérieurs privatifs. La livraison est prévue fin 2028.\nCet article Immobilier Biscarrosse : 22 appartements conçus pour moins subir la chaleur est apparu en premier sur ",
           "source": "MySweetImmo",
-          "url": "https://www.mysweetimmo.com/2026/11/13/renovation-escalier-budget-vente/",
+          "url": "https://www.mysweetimmo.com/2026/11/14/immobilier-biscarrosse-22-appartements-concus-pour-moins-subir-la-chaleur/",
           "niveau": "moyen"
         },
         {
-          "titre": "Enchères immobilières : A quel prix partent vraiment les logements ?",
-          "analyse": "Selon l’Observatoire MdB Scanner, la moitié des logements se vend aux enchères sous 60 % du prix des ventes voisines. Mise à prix, occupation et frais : les repères pour comprendre le montant réellement payé.\nCet article Enchères immobilières : A quel prix partent vraiment les logements ? est apparu",
+          "titre": "Immobilier Mexico : Le luxe offre plus grand qu’à Paris",
+          "analyse": "BARNES s’implante à Mexico. Selon le réseau, 2 millions de dollars permettent d’envisager 235 à 365 m² à Polanco, contre 85 à 125 m² dans les quartiers de prestige parisiens. Prix et frais d’achat : les repères pour comprendre le marché haut de gamme de Mexico.\nCet article Immobilier Mexico : Le lux",
           "source": "MySweetImmo",
-          "url": "https://www.mysweetimmo.com/2026/11/13/encheres-immobilieres-a-quel-prix-partent-vraiment-les-logements/",
+          "url": "https://www.mysweetimmo.com/2026/11/14/immobilier-mexico-le-luxe-offre-plus-grand-qua-paris/",
           "niveau": "moyen"
         }
       ]
@@ -215,59 +180,199 @@
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "Onze ans après le 13-Novembre, un \"hommage citoyen\" à \"toutes les victimes du te",
-          "analyse": "Onze ans après le 13 novembre 2015, un \"hommage citoyen\" à \"toutes les victimes du terrorisme\", dont celles de l&#039;attentat raciste des Yvelines, est organisé vendredi par l&#039;association Life for Paris,...",
+          "titre": "Pour l'acte V du mouvement social samedi, des mobilisations aux revendications v",
+          "analyse": "Protection des enfants et adolescents, opposition au \"permis de tuer\", salaires, moyens pour l&#039;enseignement : différentes manifestations se tiennent de nouveau samedi en France pour l&#039;acte V du mouvem...",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/depeches/onze-ans-apres-le-13-novembre-un-hommage-citoyen-a-toutes-les-victimes-du-terrorisme-141279",
+          "url": "https://www.notretemps.com/depeches/pour-l-acte-v-du-mouvement-social-samedi-des-mobilisations-aux-revendications-variees-141298",
           "niveau": "moyen"
         },
         {
-          "titre": "Présidentielle : le néophyte Riner commence sa campagne par l'hôpital",
-          "analyse": "Teddy Riner, qui a créé la sensation cette semaine en annonçant sa candidature à l&#039;élection présidentielle, effectue vendredi son premier déplacement de campagne dans un hôpital de Saint-Denis pour \"r...",
+          "titre": "Un suspect recherché après l'agression à l'arme blanche d'un vice-président d'un",
+          "analyse": "Un suspect est recherché samedi au lendemain de l&#039;agression à l&#039;arme blanche d&#039;un vice-président d&#039;université, qui a été légèrement blessé à la main et à la tête, au siège de son établissement à Versa...",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/depeches/presidentielle-le-neophyte-riner-commence-sa-campagne-par-l-hopital-141278",
+          "url": "https://www.notretemps.com/depeches/un-suspect-recherche-apres-l-agression-a-l-arme-blanche-d-un-vice-president-d-universite-141314",
           "niveau": "moyen"
         },
         {
-          "titre": "Condamné pour agressions sexuelles, Depardieu renonce à son appel juste avant so",
-          "analyse": "Star déchue du cinéma français, Gérard Depardieu se désiste, juste avant l&#039;ouverture de son procès en appel pour avoir agressé sexuellement deux femmes lors du tournage du film \"Les volets verts\" en 2...",
+          "titre": "Candidature de Riner: le ni droite ni gauche \"est une politique fondée sur l'inj",
+          "analyse": "Le \"ni de droite ni de gauche\", dont se revendique le nouveau candidat à la présidentielle Teddy Riner \"a donné une politique fondée sur l&#039;injustice\", a estimé samedi le candidat de la sociale-démocra...",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/depeches/condamne-pour-agressions-sexuelles-depardieu-renonce-a-son-appel-juste-avant-son-proces-141275",
+          "url": "https://www.notretemps.com/depeches/candidature-de-riner-le-ni-droite-ni-gauche-est-une-politique-fondee-sur-l-injustice-estime-glucksmann-141312",
           "niveau": "moyen"
         },
         {
-          "titre": "L'Etat et la SNCF signent un accord pluriannuel pour \"régénérer\" le réseau ferré",
-          "analyse": "SNCF Réseau qui gère les 28.000 kilomètres de voies ferrées en France et l&#039;Etat ont signé jeudi soir à Trappes (Yvelines) un \"contrat de performance\" inédit, les engageant sur l&#039;entretie...",
+          "titre": "Riner candidat à la présidentielle: \"J'en pense pas grand-chose\", lance Wembanya",
+          "analyse": "Victor Wembanyama a réagi vendredi à la candidature du judoka Teddy Riner à l&#039;élection présidentielle de 2027 en France, déclarant ne pas en penser \"grand-chose\".Interrogé en conférence de presse d&#039;ap...",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/depeches/l-etat-et-la-sncf-signent-un-accord-pluriannuel-pour-regenerer-le-reseau-ferre-vieillissant-141273",
+          "url": "https://www.notretemps.com/depeches/riner-candidat-a-la-presidentielle-j-en-pense-pas-grand-chose-lance-wembanyama-141311",
           "niveau": "moyen"
         },
         {
-          "titre": "L'Etat et la SNCF signent un accord pluriannuel pour \"régénérer\" le réseau ferré",
-          "analyse": "SNCF Réseau qui gère les 28.000 kilomètres de voies ferrées en France et l&#039;Etat ont signé jeudi soir à Trappes (Yvelines) un \"contrat de performance\" inédit, les engageant sur l&#039;entretien et la \"régén...",
+          "titre": "Pratiques esthétiques des médecins : un décret formalise de nouvelles règles",
+          "analyse": "De nouvelles règles pour encadrer l&#039;activité esthétique des médecins, dont un plafonnement du temps de travail dédié, sont officialisées samedi par un décret paru au Journal officiel, la...",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/depeches/l-etat-et-la-sncf-signent-un-accord-pluriannuel-pour-regenerer-le-reseau-ferre-vieillissant-141272",
+          "url": "https://www.notretemps.com/depeches/pratiques-esthetiques-des-medecins-un-decret-formalise-de-nouvelles-regles-141310",
           "niveau": "moyen"
         },
         {
-          "titre": "Premier déplacement de campagne de Riner dans un hôpital de Saint-Denis",
-          "analyse": "Teddy Riner, qui s&#039;est déclaré cette semaine candidat à l&#039;élection présidentielle, effectue vendredi son premier déplacement de campagne à l&#039;hôpital Delafontaine de Saint-Denis pour \"replacer la santé...",
+          "titre": "Insalubre et surpeuplée, la prison de Varces sommée de faire mieux",
+          "analyse": "Sale, vétuste et surpeuplé: des travaux d&#039;ampleur sont en cours pour réhabiliter le centre pénitentiaire de Varces (Isère) mais l&#039;établissement, où les conditions sont jugées contraires à la \"dignité\"...",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/depeches/premier-deplacement-de-campagne-de-riner-dans-un-hopital-de-saint-denis-141271",
+          "url": "https://www.notretemps.com/depeches/insalubre-et-surpeuplee-la-prison-de-varces-sommee-de-faire-mieux-141309",
           "niveau": "moyen"
         },
         {
-          "titre": "Pétrole: le marché devrait redevenir excédentaire au dernier trimestre",
-          "analyse": "L&#039;offre mondiale de pétrole devrait dépasser la demande au dernier trimestre 2026 pour la première fois depuis le déclenchement de la guerre en Iran fin février, indique vendredi l&#039;Agenc...",
+          "titre": "Quiz: si vous connaissez ces 10 mots oubliés, vous êtes un vrai expert de la lan",
+          "analyse": "\"Vide-gousset\", \"pélot\", caboulot\"… Le \"Robert des mots rares et précieux\" nous plongent dans les trésors parfois oubliés de notre langue. Voici 10 mots à (re) découvrir pour faire pétiller vos discussions!",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/depeches/petrole-le-marche-devrait-redevenir-excedentaire-au-dernier-trimestre-141269",
+          "url": "https://www.notretemps.com/loisirs/langue-francaise/quiz-si-vous-connaissez-ces-10-mots-oublies-vous-etes-un-vrai-expert-de-la-langue-francaise-141135",
           "niveau": "moyen"
         },
         {
-          "titre": "Pour les jeunes en situation de handicap, un long parcours jusqu'au premier empl",
-          "analyse": "\"Tous mes camarades de promotion ont trouvé au moins un remplacement, moi, rien\": pour les jeunes en situation de handicap, comme Julie, 27 ans, la recherche d&#039;un premier emploi s&#039;apparente souvent à...",
+          "titre": "Attentat déjoué de la Bank of America à Paris : enquête entre New York et Liège",
+          "analyse": "L&#039;enquête sur le projet d&#039;attentat déjoué fin mars contre la Bank of America à Paris s&#039;étire entre petites mains présumées de région parisienne, de Belgique et un responsable supposé d&#039;une milice irak...",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/depeches/pour-les-jeunes-en-situation-de-handicap-un-long-parcours-jusqu-au-premier-emploi-141268",
+          "url": "https://www.notretemps.com/depeches/attentat-dejoue-de-la-bank-of-america-a-paris-enquete-entre-new-york-et-liege-141307",
+          "niveau": "moyen"
+        }
+      ]
+    },
+    {
+      "titre": "Finance_Pro",
+      "icone": "📰",
+      "niveau_global": "moyen",
+      "items": [
+        {
+          "titre": "Les marchés de prédiction : fonctionnement, investissement ou simple pari ?",
+          "analyse": "Le fonctionnement des contrats basés sur des événements réels\nLes marchés financiers intègrent des instruments toujours plus réactifs à l&rsquo;actualité, permettant de se positionner financièrement sur l&rsquo;issue d&rsquo;événements futurs, qu&rsquo;ils soient politiques, économiques, climatiques",
+          "source": "Finyear",
+          "url": "https://finyear.com/les-marches-de-prediction-fonctionnement-investissement-ou-simple-pari/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "HSBC Trade Pulse 2026 : 68 % des entreprises frappées par les coûts, 85 % ont dé",
+          "analyse": "Commerce international sous pression : ce que le HSBC Trade Pulse Survey 2026 révèle sur les entreprises françaises\nSource : HSBC Global Trade Pulse Survey 2026 — enquête Savanta pour HSBC, 18 septembre–6 octobre 2026, 10 000 dirigeants dans 26 marchés dont 250 en France, tous secteurs, chiffres d’a",
+          "source": "Finyear",
+          "url": "https://finyear.com/hsbc-trade-pulse-2026-68-des-entreprises-frappees-par-les-couts-85-ont-deploye-lia/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Osborne Clarke a conseillé Bridges dans le cadre du nouveau tour de financement ",
+          "analyse": "Osborne Clarke France a conseillé Bridges Climate Transition Partners, un investisseur spécialisé dans les marchés privés, axé sur la transition vers un avenir plus durable, dans le cadre du nouveau tour de financement de la start-up française Inbolt, qui développe des outils d’intelligence artifici",
+          "source": "Finyear",
+          "url": "https://finyear.com/osborne-clarke-a-conseille-bridges-dans-le-cadre-du-nouveau-tour-de-financement-de-la-start-up-francaise-inbolt/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Introduction en Bourse d’Anthropic : les Pre-IPO X-Perps d’OKX montrent comment ",
+          "analyse": "Depuis septembre, les clients européens éligibles peuvent prendre des positions à la hausse ou à la baisse sur la valorisation implicite d&rsquo;Anthropic.\n\nLa veille de l&rsquo;introduction en Bourse de SpaceX en juin, son Pre-IPO X-Perp s&rsquo;échangeait à 167,24 USDC, pour un prix d&rsquo;introd",
+          "source": "Finyear",
+          "url": "https://finyear.com/introduction-en-bourse-danthropic-les-pre-ipo-x-perps-dokx-montrent-comment-les-traders-valorisent-lentreprise/",
+          "niveau": "moyen"
+        }
+      ]
+    },
+    {
+      "titre": "ESG",
+      "icone": "🌱",
+      "niveau_global": "moyen",
+      "items": [
+        {
+          "titre": "Google et Engie font équipe pour préparer un grand centre de données",
+          "analyse": "Engie et Google ont noué un partenariat sur le volet énergétique d&#8217;un projet de centre de données près de Châteauroux (Indre). Ce partenariat fait pour l&#8217;instant l&#8217;objet d&#8217;un simple protocole d&#8217;accord. Sa mise en œuvre se fera « sous réserve d’accords ultérieurs », prév",
+          "source": "GreenUnivers",
+          "url": "https://www.greenunivers.com/2026/11/google-et-engie-font-equipe-pour-preparer-un-grand-centre-de-donnees-438673/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Fonds chaleur : le gouvernement traque les effets d’aubaine",
+          "analyse": "Le gouvernement passe le Fonds chaleur à la moulinette d&#8217;une « nouvelle réalité économique ». Sa suspension sera certes « temporaire », a confirmé le gouvernement cette semaine, mais sa réouverture sera sous conditions. Elle tiendra compte de l&#8217;évolution des prix de l&#8217;énergie, en p",
+          "source": "GreenUnivers",
+          "url": "https://www.greenunivers.com/2026/11/fonds-chaleur-le-gouvernement-traque-les-effets-daubaine-438636/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "EDF et RTE préparent une centrale thermique au biodiesel  dans l’Hexagone",
+          "analyse": "Dans le Val d’Oise, EDF et RTE veulent installer deux turbines à combustion pour 650 MW au total sur le site\nL’article EDF et RTE préparent une centrale thermique au biodiesel  dans l&rsquo;Hexagone est apparu en premier sur GreenUnivers.",
+          "source": "GreenUnivers",
+          "url": "https://www.greenunivers.com/2026/11/edf-et-rte-preparent-une-centrale-thermique-au-biodiesel-dans-lhexagone-438651/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Le repowering éolien plus cher lors du dernier appel d’offres",
+          "analyse": "Comme lors de la 11e session, il y a eu beaucoup de projets de repowering, 518 MW, déposés pour la 12e session de l’appel d’offres éolien terrestre, indique la Commission de régulation de l’énergie (CRE) dans\nL’article Le repowering éolien plus cher lors du dernier appel d&rsquo;offres est apparu en",
+          "source": "GreenUnivers",
+          "url": "https://www.greenunivers.com/2026/11/le-repowering-eolien-plus-cher-lors-du-dernier-appel-doffres-438624/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "L’agenda de la transition énergétique",
+          "analyse": "Chaque semaine, GreenUnivers sélectionne les principaux événements professionnels de la transition énergétique. Des rendez-vous qui ont lieu en France et ailleurs dans les secteurs des énergies renouvelables, de l’hydrogène, de la rénovation ou encore de la mobilité électrique. Novembre 17 Les renco",
+          "source": "GreenUnivers",
+          "url": "https://www.greenunivers.com/2026/11/lagenda-de-la-transition-energetique-283-438660/",
+          "niveau": "moyen"
+        }
+      ]
+    },
+    {
+      "titre": "Fintech",
+      "icone": "📰",
+      "niveau_global": "moyen",
+      "items": [
+        {
+          "titre": "Les salariés des magasins Leclerc peuvent réclamer leur part des résultats même ",
+          "analyse": "Huit salariés d'un magasin E. Leclerc réclamaient leur juste part des bénéfices. Face à eux, une direction qui se retranchait derrière une subtilité juridique pour ne pas payer. La Cour de cassation vient de trancher, et sa décision pourrait faire du bruit dans les rayons.",
+          "source": "JDN : Derniers contenus",
+          "url": "https://www.journaldunet.com/patrimoine/finances-personnelles/1557939-e-leclerc-salaries/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Comment l'IA identifie votre marque: importance des entités dans le GEO",
+          "analyse": "Comment les IA reconnaissent votre marque comme entité : données Ahrefs sur 75 000 marques, ce que schema et sameAs font vraiment, et un plan en 7 étapes pour être plus clair et plus cité par l'IA.",
+          "source": "JDN : Derniers contenus",
+          "url": "https://www.journaldunet.com/seo/1557849-entites-et-geo-comment-l-ia-identifie-votre-marque/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Comment tirer parti des IA pour rassurer les internautes",
+          "analyse": "L'IA flatte, vos services et vos prix convainquent. Une photo et sa description invisible ont suffi pour que Google décrive un salon sans avis comme le ferait un client satisfait.",
+          "source": "JDN : Derniers contenus",
+          "url": "https://www.journaldunet.com/seo/1557879-comment-tirer-parti-des-ia-pour-rassurer-les-internautes/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Data centers : la France accueille la puissance de l'IA, mais où va la valeur ?",
+          "analyse": "La France attire les investissements mondiaux dans l'IA, mais parvient-elle réellement à en capter la valeur économique et à renforcer sa souveraineté technologique ?",
+          "source": "JDN : Derniers contenus",
+          "url": "https://www.journaldunet.com/intelligence-artificielle/1557553-data-centers-la-france-accueille-la-puissance-de-l-ia-mais-ou-va-la-valeur/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "AI Act article 4 réécrit : ce que les entreprises doivent encore pouvoir montrer",
+          "analyse": "Le règlement 2026/1744 a allégé l'article 4 de l'AI Act sans le supprimer. Inventaire, registre, responsable : ce qu'il reste utile de pouvoir montrer.",
+          "source": "JDN : Derniers contenus",
+          "url": "https://www.journaldunet.com/intelligence-artificielle/1557865-ai-act-article-4-reecrit-ce-que-les-entreprises-doivent-encore-pouvoir-montrer/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Agent IA ou RPA : ce que les PME doivent savoir avant d'investir",
+          "analyse": "Les éditeurs de RPA ajoutent de l'IA, les éditeurs d'IA promettent des agents autonomes. Pour une PME, le bon choix dépend moins de la technologie que de la nature de la tâche à automatiser.",
+          "source": "JDN : Derniers contenus",
+          "url": "https://www.journaldunet.com/intelligence-artificielle/1557877-agent-ia-ou-rpa-ce-que-les-pme-doivent-savoir-avant-d-investir/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "IA et causalité : l'illusion de la pensée",
+          "analyse": "Les IA génératives savent produire des raisonnements convaincants, mais comprennent-elles réellement les liens de causalité ? De nouvelles approches explorent les frontières de l'intelligence artificielle",
+          "source": "JDN : Derniers contenus",
+          "url": "https://www.journaldunet.com/intelligence-artificielle/1557895-ia-et-causalite-l-illusion-de-la-pensee/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "L'IA peut rendre le travail plus rapide sans rendre les organisations plus effic",
+          "analyse": "L'IA accélère les tâches sans garantir l'efficacité collective. Le progrès est de repenser les processus, supprimer les tâches inutiles et améliorer les décisions, pas seulement à travailler plus vite",
+          "source": "JDN : Derniers contenus",
+          "url": "https://www.journaldunet.com/intelligence-artificielle/1557899-l-ia-peut-rendre-le-travail-plus-rapide-sans-rendre-les-organisations-plus-efficaces/",
           "niveau": "moyen"
         }
       ]
