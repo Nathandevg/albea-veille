@@ -1,8 +1,8 @@
 {
-  "date_fr": "Saturday 21 November 2026",
-  "compte_articles": 177,
+  "date_fr": "Sunday 22 November 2026",
+  "compte_articles": 147,
   "compte_forts": 0,
-  "compte_moyens": 177,
+  "compte_moyens": 147,
   "synthese_jour": "Synthese IA non disponible (fallback). Consultez les articles ci-dessous.",
   "chiffres_cles": [],
   "sections": [
@@ -12,59 +12,59 @@
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "Mobilisation lycéenne : les preuves des accusations de « complicités » de violen",
-          "analyse": "Le premier ministre et son cabinet ont alimenté auprès de la presse l’idée de complicités au sein du personnel de l’éducation nationale dans les heurts qui ont eu lieu dans et aux abords des lycées. « Le Monde » a contacté plusieurs chefs d’établissement qui livrent un tout autre récit tandis que le",
+          "titre": "COP31 : la présidence turque ​annonce le rejet de sa proposition de décision fin",
+          "analyse": "« Nous n’approuverons pas une décision (…) ne mentionnant même pas les combustibles fossiles, qui sont le principal moteur du changement climatique », a notamment déclaré le ministre du climat irlandais, Darragh O’Brien, dont le pays assure actuellement la présidence du Conseil de l’Union européenne",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/societe/article/2026/11/21/mobilisation-lyceenne-les-introuvables-complicites-de-violences-parmi-les-enseignants-denoncees-par-matignon_6813920_3224.html",
+          "url": "https://www.lemonde.fr/climat/article/2026/11/22/climat-l-ue-et-ses-membres-s-opposent-a-l-adoption-de-la-decision-finale-proposee-a-la-cop31_6814199_1652613.html",
           "niveau": "moyen"
         },
         {
-          "titre": "Présidentielle 2027 : à cinq mois de l’élection, l’inquiétude grandit au sein du",
-          "analyse": "Le débat autour d’une primaire à droite et au centre met en lumière la difficulté d’une stratégie claire au sein de l’ancienne majorité, prise entre des considérations individuelles et des fractures idéologiques.",
+          "titre": "Fuites vers le RN : Marine Le Pen dit n’avoir « jamais reçu d’informations confi",
+          "analyse": "La candidate du RN à l’élection présidentielle 2027 a également assuré ne pas connaître personnellement le haut fonctionnaire, qui a annoncé, samedi, avoir demandé à être relevé de ses fonctions.",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/21/presidentielle-2027-a-cinq-mois-de-l-election-l-inquietude-grandit-au-sein-du-camp-presidentiel-toujours-incapable-de-s-unir_6813915_823448.html",
+          "url": "https://www.lemonde.fr/societe/article/2026/11/22/fuites-vers-le-rn-marine-le-pen-dit-n-avoir-jamais-recu-d-informations-confidentielles-du-prefet-hugues-moutouh_6814216_3224.html",
           "niveau": "moyen"
         },
         {
-          "titre": "Thomas Piketty : « Le projet de convention fiscale de l’ONU a le potentiel de ch",
-          "analyse": "Les négociations aux Nations unies autour d’une convention-cadre sur la coopération fiscale reprennent à Nairobi le 30 novembre. Les Occidentaux seraient bien inspirés de s’y intéresser, faute de quoi ils risquent de passer à côté de l’histoire, explique l’économiste dans sa chronique.",
+          "titre": "Le Groupe Castel, empire discret de la bière et du vin, secoué par une guerre de",
+          "analyse": "Un âpre conflit de gouvernance tourmente le géant des boissons, où l’on se dispute l’héritage, spirituel comme financier, de son charismatique fondateur, Pierre Castel. La 11ᵉ fortune française vient d’avoir 100 ans.",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/la-chronique-de-thomas-piketty/article/2026/11/21/thomas-piketty-le-projet-de-convention-fiscale-de-l-onu-a-le-potentiel-de-changer-la-face-du-monde_6813978_6649149.html",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/22/le-groupe-castel-empire-discret-de-la-biere-et-du-vin-secoue-par-une-guerre-de-pouvoir_6814179_3234.html",
           "niveau": "moyen"
         },
         {
-          "titre": "EN DIRECT, guerre en Ukraine : la Finlande soupçonne un hélicoptère russe d’être",
-          "analyse": "« Cette violation présumée de l’espace aérien pourrait être liée à des opérations de sauvetage ou de surveillance menées à la suite des dommages subis par un navire cargo dans le golfe de Finlande », a déclaré le ministre finlandais de la défense Antti Häkkänen.",
+          "titre": "Désobéir au pouvoir politique : le débat resurgit dans la fonction publique",
+          "analyse": "Le collectif Nos services publics a lancé, jeudi 19 novembre, une formation consacrée aux droits et responsabilités des agents publics. Dans la fonction publique, le principe d’obéissance hiérarchique reste la règle et la désobéissance une rare exception.",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/international/live/2026/11/21/en-direct-guerre-en-ukraine-la-finlande-soupconne-un-helicoptere-russe-d-etre-entre-dans-son-espace-aerien-quelques-heures-apres-une-attaque-de-drone-sur-un-cargo-russe-en-mer-baltique_6810982_3210.html",
+          "url": "https://www.lemonde.fr/politique/article/2026/11/21/desobeir-au-pouvoir-politique-le-debat-resurgit-dans-la-fonction-publique_6814050_823448.html",
           "niveau": "moyen"
         },
         {
-          "titre": "A Genève, la communauté internationale échoue à interdire les robots tueurs",
-          "analyse": "Alors que la menace des systèmes d’armes létales autonomes, désormais assistées par l’intelligence artificielle, se fait chaque jour plus précise dans les zones de combat, la Russie, les Etats-Unis et Israël se sont opposés à l’ouverture de négociations pour un traité international sur ce type d’arm",
+          "titre": "Aux Etats-Unis, les témoignages de détenus américains de l’ICE",
+          "analyse": "Depuis 2025, ProPublica, l’organisme américain spécialisé en journalisme d’enquête d’intérêt public, a identifié plus de 500 citoyens américains retenus contre leur gré par des agents de l’immigration. Voici quelques-unes de leurs histoires.",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/21/a-geneve-la-communaute-internationale-echoue-a-interdire-les-robots-tueurs_6814012_3210.html",
+          "url": "https://www.lemonde.fr/international/article/2026/11/22/aux-etats-unis-les-temoignages-des-detenus-americains-de-l-ice_6814185_3210.html",
           "niveau": "moyen"
         },
         {
-          "titre": "La probable résolution de l’hypothèse de Riemann par une intelligence artificiel",
-          "analyse": "Un mathématicien d’Anthropic, Levent Alpöge, assisté de l’outil Claude de son employeur, assure avoir résolu l’une des plus célèbres hypothèses de la discipline. Posée en 1859 par Bernhard Riemann, elle permet de caractériser le comportement des nombres premiers.",
+          "titre": "Jordi Savall, chef d’orchestre : « Ma quête, c’est la recherche de la nuance et ",
+          "analyse": "« Je ne serais pas arrivé là si… » Chaque semaine, « Le Monde » interroge une personnalité sur un moment décisif de son existence. Le musicien se souvient du choc ressenti en écoutant la première fois le « Requiem » de Mozart.",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/sciences/article/2026/11/21/la-probable-resolution-de-l-hypothese-de-riemann-par-une-intelligence-artificielle-marque-une-bascule-pour-les-mathematiques_6813962_1650684.html",
+          "url": "https://www.lemonde.fr/culture/article/2026/11/22/jordi-savall-chef-d-orchestre-ma-quete-c-est-la-recherche-de-la-nuance-et-de-l-emotion-pas-de-la-perfection_6814141_3246.html",
           "niveau": "moyen"
         },
         {
-          "titre": "Florian Sitbon, adjoint à la culture au maire de Paris, veut « mettre l’artiste ",
-          "analyse": "L’ancien metteur en scène, nommé en mars auprès d’Emmanuel Grégoire, prévoit la mise en place d’un guichet pour aider artistes et programmateurs qui voient leur liberté de création mise à mal.",
+          "titre": "EN DIRECT, guerre en Ukraine : le bilan de l’attaque d’un immeuble d’habitation ",
+          "analyse": "Selon un nouveau communiqué de la police nationale ukrainienne, l’attaque d’un immeuble de cinq étages par un drone russe à Dymer – au nord de Kiev –, a provoqué la mort d’une femme, et fait trois blessés, dimanche. Quinze autres personnes sont toujours portées disparues.",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/culture/article/2026/11/21/florian-sitbon-adjoint-a-la-culture-au-maire-de-paris-veut-mettre-l-artiste-au-c-ur-de-la-ville_6814019_3246.html",
+          "url": "https://www.lemonde.fr/international/live/2026/11/22/en-direct-guerre-en-ukraine-quatorze-personnes-portees-disparues-a-la-suite-de-l-attaque-d-un-drone-russe-sur-un-immeuble-d-habitation-pres-de-kiev_6814183_3210.html",
           "niveau": "moyen"
         },
         {
-          "titre": "Génocide des Rohingya : la Cour internationale de justice rend un arrêt pour l’h",
-          "analyse": "La plus haute Cour de l’ONU établit pour la première fois la responsabilité d’un Etat, la Birmanie, dans « le crime des crimes ». Alors que l’Afrique du Sud a saisi l’institution contre Israël, accusant l’Etat hébreu d’un génocide contre les Palestiniens de Gaza, l’arrêt prononcé jeudi pourrait fair",
+          "titre": "En Colombie, dix ans après la signature de l’accord historique, le bilan amer de",
+          "analyse": "Signé en 2016, le texte dessinait un projet ambitieux de transformation du pays, mêlant mesures de réparation aux victimes, redistribution des terres et retour des guérilleros à la vie civile. Aujourd’hui, en plus de résultats décevants, la mise en œuvre de celui-ci pourrait pâtir des décisions du n",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/20/genocide-des-rohingya-la-cour-internationale-de-justice-confirme-qu-elle-est-indubitablement-la-boussole-du-droit-international_6813702_3210.html",
+          "url": "https://www.lemonde.fr/international/article/2026/11/22/en-colombie-dix-ans-apres-la-signature-de-l-accord-historique-le-bilan-amer-de-la-paix-avec-les-farc_6814189_3210.html",
           "niveau": "moyen"
         }
       ]
@@ -75,59 +75,59 @@
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "Grocery stores have ‘staggering deals’ for Thanksgiving — but don’t get used to ",
-          "analyse": "Walmart, Target and Amazon are some of the retailers offering meal-basket deals this year.",
-          "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/grocery-stores-have-staggering-deals-for-thanksgiving-but-dont-get-used-to-these-lower-prices-just-yet-7adfc7f5?mod=mw_rss_topstories",
+          "titre": "Saudi Arabia’s $1trn wealth pot suffers an identity crisis",
+          "analyse": "The Public Investment Fund is distracted, and not just by war",
+          "source": "Finance & economics",
+          "url": "https://www.economist.com/finance-and-economics/2026/11/22/saudi-arabias-1trn-wealth-pot-suffers-an-identity-crisis",
           "niveau": "moyen"
         },
         {
-          "titre": "Nvidia’s nonstop drama is keeping buyers away from a historically cheap stock",
-          "analyse": "Uncertainties over how the Jensen Huang drama plays out should keep investors from trying to pick a bottom in Nvidia’s stock, no matter how cheap it gets.",
+          "titre": "Stocks are in a correction heading into the Thanksgiving holiday. What to brace ",
+          "analyse": "Other stocks are in a bear market, which could be bad timing with the crucial holiday shopping period ahead",
           "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/nvidias-nonstop-drama-is-keeping-buyers-away-from-a-historically-cheap-stock-604022da?mod=mw_rss_topstories",
+          "url": "https://www.marketwatch.com/story/stocks-are-in-a-correction-heading-into-the-thanksgiving-holiday-what-to-brace-for-next-a1e82491?mod=mw_rss_topstories",
           "niveau": "moyen"
         },
         {
-          "titre": "America is definitely rich enough to fix Social Security and Medicare. Here’s ho",
-          "analyse": "This one, simple, low-pain tax solves all the problems.",
+          "titre": "Can stocks bounce back after a brutal week? This timing model says history is on",
+          "analyse": "Norm Fosback’s ‘Seasonality Timing System’ has one of the very best long-term track records, and suggests the market has an upside bias for the next two weeks",
           "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/america-is-definitely-rich-enough-to-fix-social-security-and-medicare-heres-how-30678aa5?mod=mw_rss_topstories",
+          "url": "https://www.marketwatch.com/story/can-stocks-bounce-back-after-a-brutal-week-this-timing-model-says-history-is-on-the-markets-side-beff1753?mod=mw_rss_topstories",
           "niveau": "moyen"
         },
         {
-          "titre": "Larry McDonald survived Lehman’s collapse. Now he warns the credit market is sig",
-          "analyse": "Bear Traps Report founder explains why he sees stagflation coming, how much artificial-intelligence risk sits in S&P 500 index funds and why he favors hard assets",
+          "titre": "My husband is happily retired at 64 and thinks I should keep working. Is he bein",
+          "analyse": "“I’m exhausted. My alarm goes off at 6 a.m., and I have a 50-minute commute.”",
           "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/larry-mcdonald-survived-lehmans-collapse-now-he-warns-the-credit-market-is-signaling-a-growth-shock-for-stocks-5c3a62ef?mod=mw_rss_topstories",
+          "url": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories",
           "niveau": "moyen"
         },
         {
-          "titre": "Tech outages are rattling Americans so much that they’re stockpiling cash and su",
-          "analyse": "A lack of clarity from world leaders is prompting some people to prepare for the worst.",
+          "titre": "My wife is bankrolling her family’s trips to New York and it’s draining our savi",
+          "analyse": "“Hotel rooms can cost as much as $400 per night.”",
           "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/why-are-these-tech-outages-rattling-americans-so-much-that-theyre-stockpiling-cash-and-supplies-07516bdd?mod=mw_rss_topstories",
+          "url": "https://www.marketwatch.com/story/my-wife-pays-thousands-of-dollars-for-her-family-to-visit-from-argentina-how-can-i-convince-her-to-stop-9381351c?mod=mw_rss_topstories",
           "niveau": "moyen"
         },
         {
-          "titre": "Dow, S&P 500 enter correction as Nasdaq suffers worst week since 2020",
-          "analyse": "All 11 S&P 500 sectors finished more than 1% lower this week for the first time since April 2025.",
+          "titre": "I’m in my 40s. Should I accept a lower pension in exchange for naming my husband",
+          "analyse": "“If I die before my husband, he will receive a lifetime pension equal to 50%–66% of my monthly benefit.”",
           "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/dow-s-p-500-enter-correction-as-nasdaq-suffers-worst-week-since-2020-bd74dadf?mod=mw_rss_topstories",
+          "url": "https://www.marketwatch.com/story/im-in-my-40s-should-i-accept-a-lower-pension-in-exchange-for-naming-my-husband-or-child-as-a-beneficiary-b2352059?mod=mw_rss_topstories",
           "niveau": "moyen"
         },
         {
-          "titre": "Chip stocks see $2.3 trillion weekly wipeout as panic grips the AI trade",
-          "analyse": "A major semiconductor index just posted its worst weekly performance in 25 years.",
+          "titre": "‘It’s downright dirty’: My brother moved in with our ailing mother and closed he",
+          "analyse": "“It is devastating when the people you should be able to trust become the very people you have to protect yourself from.”",
           "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/chip-stocks-see-2-3-trillion-weekly-wipeout-as-panic-grips-the-ai-trade-371f2f03?mod=mw_rss_topstories",
+          "url": "https://www.marketwatch.com/story/it-is-heartbreaking-exhausting-and-downright-dirty-my-brother-took-over-our-ailing-mothers-life-and-finances-what-can-i-do-b4d48817?mod=mw_rss_topstories",
           "niveau": "moyen"
         },
         {
-          "titre": "These stocks were crushed the most this week as the tech wreck accelerated",
-          "analyse": "94% of stocks in the S&P 500 declined for the week, 11 of them by at least 20%. But for now, analysts still think you can make a lot of money if you buy them.",
+          "titre": "‘I’ve been a stay-at-home mom’: I’m 50 and have a chronic illness. My husband lo",
+          "analyse": "“Our financial and healthcare situation has become increasingly concerning.”",
           "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/these-stocks-were-crushed-the-most-this-week-as-the-tech-wreck-accelerated-8d6f7323?mod=mw_rss_topstories",
+          "url": "https://www.marketwatch.com/story/ive-been-a-stay-at-home-mom-im-50-and-have-a-chronic-illness-my-husband-lost-his-job-should-he-raid-his-401-k-63e59123?mod=mw_rss_topstories",
           "niveau": "moyen"
         }
       ]
@@ -138,59 +138,45 @@
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "« Nous faisons partie des sociétés de gestion qui continuent de collecter… »",
-          "analyse": "Jean-François Chaury, directeur général d’Advenis REIM, fait le point sur la collecte et les performances de ses trois SCPI, toutes investies hors de France. Détaille les mesures prises sur Eurovalys, la SCPI historique investie en Allemagne. Et dresse un premier bilan d’Eden, qui séduit les jeunes ",
-          "source": "Pierrepapier.fr",
-          "url": "https://www.pierrepapier.fr/scpi/nous-faisons-partie-des-societes-de-gestion-qui-continuent-de-collecter/",
+          "titre": "RENT 2026 – « À moins de 100 lots, un agent ummobilier n’est pas rentable en ges",
+          "analyse": "Vos mandats de vente ne partent pas ? Au micro d'Ariane Artinian pour Mon Podcast Immo, François Moerlen (Locagestion) explique comment ses agences partenaires les mettent en location, et fixe un seuil de rentabilité : 100 lots.\nCet article RENT 2026 – « À moins de 100 lots, un agent ummobilier n&rs",
+          "source": "MySweetImmo",
+          "url": "https://www.mysweetimmo.com/2026/11/22/gestion-locative-agents-immobiliers-francois-moerlen-locagestion/",
           "niveau": "moyen"
         },
         {
-          "titre": "RENT 2026 – Agent immobilier : « Arrêtez de toujours chercher de nouveaux client",
-          "analyse": "Et si les prochains mandats dormaient déjà dans le répertoire des agents immobiliers ? Au micro d'Ariane Artinian pour Mon Podcast Immo, Nicolas Delauche (Optimhome) livre sa méthode pour « industrialiser la recommandation ».\nCet article RENT 2026 – Agent immobilier : « Arrêtez de toujours chercher ",
+          "titre": "Immobilier à Lyon : Renaud Millon rejoint Salini pour développer la région",
+          "analyse": "Salini Immobilier nomme Renaud Millon directeur Développement Auvergne-Rhône-Alpes. Basé à Lyon, il accompagnera les entreprises, investisseurs et collectivités dans leurs projets de bâtiments professionnels.\nCet article Immobilier à Lyon : Renaud Millon rejoint Salini pour développer la région est ",
           "source": "MySweetImmo",
-          "url": "https://www.mysweetimmo.com/2026/11/21/agent-immobilier-recommandation-nicolas-delauche-optimhome/",
+          "url": "https://www.mysweetimmo.com/2026/11/22/immobilier-lyon-renaud-millon-salini-developpement/",
           "niveau": "moyen"
         },
         {
-          "titre": "RENT 2026 – « Diffuser sur AVendreALouer ? Non, ça ne va pas coûter plus », Jean",
-          "analyse": "AVendreALouer revient avec une diffusion automatique des annonces éligibles de leboncoin immo, sans surcoût annoncé. Dans Mon Podcast Immo, Jean-Adrien Hocquemiller explique comment le portail entend toucher de nouveaux acquéreurs, notamment à l’international.\nCet article RENT 2026 – « Diffuser sur ",
+          "titre": "Petits logements : 5 façons de gagner des mètres carrés sans déménager",
+          "analyse": "Où installer un bureau ou faire dormir des proches quand chaque mètre carré compte ? Un dessous d’escalier, des combles ou un garage peuvent offrir des possibilités. Les conseils de Paulo Moreira, directeur général de Camif Habitat pour gagner de la place chez soi.\nCet article Petits logements : 5 f",
           "source": "MySweetImmo",
-          "url": "https://www.mysweetimmo.com/2026/11/21/avendrealouer-leboncoin-immo-agents-immobiliers/",
+          "url": "https://www.mysweetimmo.com/2026/11/22/petits-logements-5-facons-de-gagner-des-metres-carres-sans-demenager/",
           "niveau": "moyen"
         },
         {
-          "titre": "Immobilier Palaiseau : Nicolas Altenburger dirige l’agence où il a débuté en alt",
-          "analyse": "Comment passe-t-on des premières visites à la direction de l’agence où l’on a appris le métier ? Entré en alternance chez ERA Immobilier à Palaiseau en 2012, Nicolas Altenburger dirige aujourd’hui une dizaine de collaborateurs. \nCet article Immobilier Palaiseau : Nicolas Altenburger dirige l’agence ",
+          "titre": "RENT 2026 – Agences immobilières : « Ils se coachent eux-mêmes », Sébastien Tede",
+          "analyse": "Les patrons des plus grosses agences immobilières s'entraident au Top 100 Immobilier, qui lance un outil d'apport d'affaires et soutient la Fondation I Loge You. Sébastien Tedesco le raconte au micro d'Ariane Artinian pour Mon Podcast Immo.\nCet article RENT 2026 – Agences immobilières : « Ils se coa",
           "source": "MySweetImmo",
-          "url": "https://www.mysweetimmo.com/2026/11/21/immobilier-palaiseau-nicolas-altenburger-dirige-lagence-ou-il-a-debute-en-alternance/",
+          "url": "https://www.mysweetimmo.com/2026/11/22/top-100-immobilier-dirigeants-agences-entraide/",
           "niveau": "moyen"
         },
         {
-          "titre": "Michaël Benchabat (MeilleursBiens) : L’interview vidéo au RENT 2026",
-          "analyse": "Retrouvez Michaël Benchabat, président fondateur de MeilleursBiens, au micro d'Ariane Artinian. Une interview vidéo enregistrée au RENT 2026 pour Mon Podcast Immo.\nCet article Michaël Benchabat (MeilleursBiens) : L&rsquo;interview vidéo au RENT 2026 est apparu en premier sur MySweetImmo.",
+          "titre": "RENT 2026 – Logiciel immobilier : « Modelo, une plateforme unique pour les quatr",
+          "analyse": "Un seul logiciel et une seule saisie pour la transaction, la gestion locative, le syndic et la location saisonnière : Modelo arrive en janvier. Au micro d'Ariane Artinian pour Mon Podcast Immo, Guillaume Girard (Septeo) dit ce qui change.\nCet article RENT 2026 &#8211; Logiciel immobilier : « Modelo,",
           "source": "MySweetImmo",
-          "url": "https://www.mysweetimmo.com/2026/11/21/michael-benchabat-interview-video-rent-2026/",
+          "url": "https://www.mysweetimmo.com/2026/11/21/modelo-septeo-plateforme-unique-metiers-immobilier/",
           "niveau": "moyen"
         },
         {
-          "titre": "Immobilier commercial : Les Champs-Élysées restent la 5ᵉ artère la plus chère du",
-          "analyse": "Combien coûte la location d’une boutique sur les Champs-Élysées ? Selon Cushman &#038; Wakefield, le loyer de référence atteint 12 519 €/m² par an, ce qui place l’avenue au 5ᵉ rang mondial.\nCet article Immobilier commercial : Les Champs-Élysées restent la 5ᵉ artère la plus chère du monde est apparu ",
+          "titre": "A vendre sur l’Île de Ré : Villa rénovée avec piscine",
+          "analyse": "Cette villa de 7 pièces et 4 chambres, située à 5 minutes à pied de la page sur l'Île de Ré, est proposée à la vente par Barnes.\nCet article A vendre sur l&rsquo;Île de Ré : Villa rénovée avec piscine est apparu en premier sur MySweetImmo.",
           "source": "MySweetImmo",
-          "url": "https://www.mysweetimmo.com/2026/11/21/immobilier-commercial-les-champs-elysees-restent-la-5%e1%b5%89-artere-la-plus-chere-du-monde/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Logement à Lyon : Ce qu’il faut comparer avant d’acheter dans le neuf",
-          "analyse": "Acheter un logement à Lyon suppose de rapprocher prix, financement et qualité de vie. Dans le neuf, les écarts entre programmes s’expliquent aussi par les aides accessibles, les prestations et le calendrier. Quelques comparaisons permettent de mieux définir son projet.\nCet article Logement à Lyon : ",
-          "source": "MySweetImmo",
-          "url": "https://www.mysweetimmo.com/2026/11/21/logement-a-lyon-ce-quil-faut-comparer-avant-dacheter-dans-le-neuf-2/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "RENT 2026 – IA immobilière : « Les gens n’iront plus passer des heures à scrolle",
-          "analyse": "Bonne nouvelle pour les acheteurs : l'IA fera bientôt le tri des annonces à leur place. Au micro d'Ariane Artinian pour Mon Podcast Immo, Franck Le Tendre (Omny) explique comment les agents immobiliers peuvent se faire recommander.\nCet article RENT 2026 – IA immobilière : « Les gens n&rsquo;iront pl",
-          "source": "MySweetImmo",
-          "url": "https://www.mysweetimmo.com/2026/11/21/recherche-immobiliere-ia-recommandation-omny/",
+          "url": "https://www.mysweetimmo.com/2026/11/21/a-vendre-sur-lile-de-re-villa-renovee-avec-piscine/",
           "niveau": "moyen"
         }
       ]
@@ -201,59 +187,59 @@
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "Le remorquage du cargo échoué dans les Landes pourrait prendre du temps",
-          "analyse": "Le remorquage du cargo échoué sur une plage landaise dans la nuit de jeudi à vendredi est rendu difficile par des contraintes techniques et météorologiques, et pourrait ainsi prendre plusieurs jours v...",
+          "titre": "Crues dans le Pas-de-Calais : la situation n'est \"pas totalement stabilisée\", an",
+          "analyse": "Dans le Pas-de-Calais frappé par des inondations ces derniers jours, la situation \"n&#039;est pas totalement stabilisée\" dimanche, a déclaré à l&#039;AFP le préfet François‑Xavier Lauch, alors que le fleuve côt...",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/depeches/le-remorquage-du-cargo-echoue-dans-les-landes-pourrait-prendre-du-temps-141636",
+          "url": "https://www.notretemps.com/depeches/crues-dans-le-pas-de-calais-la-situation-n-est-pas-totalement-stabilisee-annonce-le-prefet-141655",
           "niveau": "moyen"
         },
         {
-          "titre": "Crues : un deuxième cours d'eau en vigilance orange dans le Pas-de-Calais",
-          "analyse": "La rivière Lys dans le Pas-de-Calais est passée samedi matin en vigilance orange aux crues, rejoignant à ce seuil d&#039;alerte la Canche, dont le niveau a atteint son maximum mais va rester...",
+          "titre": "Crues dans le Pas-de-Calais : la situation n'est \"pas totalement stabilisée\", an",
+          "analyse": "Dans le Pas-de-Calais frappé par des inondations ces derniers jours, la situation \"n&#039;est pas totalement stabilisée\" dimanche, a déclaré à l&#039;AFP le préfet François?Xavier Lauch, alors que...",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/depeches/crues-un-deuxieme-cours-d-eau-en-vigilance-orange-dans-le-pas-de-calais-141634",
+          "url": "https://www.notretemps.com/depeches/crues-dans-le-pas-de-calais-la-situation-n-est-pas-totalement-stabilisee-annonce-le-prefet-141654",
           "niveau": "moyen"
         },
         {
-          "titre": "\"Comment on se reconstruit ?\" : dans les plaies des manifestants gravement bless",
-          "analyse": "Ils ont été éborgnés, amputés, ou encore touchés par des éclats de grenade... Des dizaines de manifestants ont été gravement blessés par les forces de l&#039;ordre depuis le début du mouvement lycéen et so...",
+          "titre": "Enquête RN: un mail du service du préfet Moutouh découvert en perquisition chez ",
+          "analyse": "L&#039;enquête sur des fuites provenant de Beauvau et incriminant le préfet Hugues Moutouh a été ouverte après la découverte en perquisition d&#039;un mail du secrétariat général, alors dirigé par le haut-fonct...",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/depeches/comment-on-se-reconstruit-dans-les-plaies-des-manifestants-gravement-blesses-141633",
+          "url": "https://www.notretemps.com/depeches/enquete-rn-un-mail-du-service-du-prefet-moutouh-decouvert-en-perquisition-chez-un-proche-de-le-pen-141653",
           "niveau": "moyen"
         },
         {
-          "titre": "Cdiscount va proposer des conditions préférentielles aux entreprises du Made in ",
-          "analyse": "Cdiscount va proposer des conditions préférentielles aux entreprises vendant des produits Made in France, ont annoncé samedi à l&#039;AFP le site de commerce en ligne et le cabinet du ministr...",
+          "titre": "L'attentat de Trappes est une \"illustration parfaite\" de la mécanique des crimes",
+          "analyse": "Veiller à \"l&#039;application des lois républicaines antiracistes\" : un mois après l&#039;attentat de Trappes, qui a fait un mort et sept blessés, SOS Racisme s&#039;est constituée partie civile dans l&#039;enquête, comm...",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/depeches/cdiscount-va-proposer-des-conditions-preferentielles-aux-entreprises-du-made-in-france-141632",
+          "url": "https://www.notretemps.com/depeches/l-attentat-de-trappes-est-une-illustration-parfaite-de-la-mecanique-des-crimes-racistes-selon-l-avocat-de-sos-racisme-141650",
           "niveau": "moyen"
         },
         {
-          "titre": "Savoir-vivre: ces 3 erreurs que l'on commet tous à un dîner à éviter absolument",
-          "analyse": "Vous pensez maîtriser les codes du savoir-vivre sur le bout des doigts? Heure d&#039;arrivée, bouquet de fleurs.... Avez-vous tous les bons réflexes lorsque vous êtes invité à dîner chez quelqu&#039;un ou que vous recevez? On révise!",
+          "titre": "Démence: avoir un chien réduirait de presque moitié le risque de déclin cognitif",
+          "analyse": "Le chien, meilleur ami de l&#039;homme, pourrait aussi être le meilleur allié pour préserver ses capacités cognitives. Une étude japonaise démontre en effet qu&#039;avoir un chien réduirait le risque de développer une démence. Voici pourquoi.",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/vie-pratique/maison/savoir-vivre-ces-3-erreurs-que-l-on-fait-tous-a-eviter-absolument-141265",
+          "url": "https://www.notretemps.com/sante-bien-etre/prevention/demence-avoir-un-chien-reduirait-de-presque-moitie-le-risque-de-declin-cognitif-141365",
           "niveau": "moyen"
         },
         {
-          "titre": "Mini fléchés gratuits - 21 novembre 2026 Grille n°3775",
-          "analyse": "Remplissez la grille de mini fléchés ci-dessous. Il vous suffit de cliquer sur une case pour pouvoir y entrer la lettre de votre choix. Grille n°3775  du 21 novembre 2026.",
+          "titre": "Achats en ligne ou en magasin: quels sont mes recours si la commande n'arrive pa",
+          "analyse": "Vous avez passé une commande en ligne ou acheté en boutique des cadeaux de Noël? Que faire si vous n&#039;avez pas été livré à temps ou qu&#039;il y a un défaut?  Un remboursement, un échange sont-ils possibles? Ce que dit la législation et ce qu&#039;il faut faire pour exercer vos droits.",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/jeux/jeux-en-ligne/mini-fleches/mini-fleches-gratuits-21-novembre-2026-grille-3775",
+          "url": "https://www.notretemps.com/droit-argent/droit-du-consommateur/quels-sont-mes-recours-si-ma-commande-en-ligne-n-est-pas-arrivee-ou-si-le-colis-est-abime-139469",
           "niveau": "moyen"
         },
         {
-          "titre": "Mini fléchés gratuits - 21 novembre 2026 Grille n°3774",
-          "analyse": "Remplissez la grille de mini fléchés ci-dessous. Il vous suffit de cliquer sur une case pour pouvoir y entrer la lettre de votre choix. Grille n°3774  du 21 novembre 2026.",
+          "titre": "Alpes-Maritimes: connaissez-vous ces quatre villages classés parmi les plus beau",
+          "analyse": "Moins connus que Cannes ou Nice, quatre des \"Plus Beaux Villages de France\" se nichent dans les Alpes-Maritimes. Perchés entre mer et montagne, ces bourgs ont conservé un remarquable patrimoine bâti et offrent une autre façon de découvrir les richesses de ce territoire azuréen.",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/jeux/jeux-en-ligne/mini-fleches/mini-fleches-gratuits-21-novembre-2026-grille-3774",
+          "url": "https://www.notretemps.com/loisirs/tourisme/alpes-maritimes-connaissez-vous-ces-quatre-villages-classes-parmi-les-plus-beaux-de-france-141611",
           "niveau": "moyen"
         },
         {
-          "titre": "Sudoku gratuits - Force 3 - 21 novembre 2026 Grille n°1537",
-          "analyse": "Remplissez la grille de sudoku Force 3 ci-dessous. Découvrez le Sudoku, le but du jeu est de remplir la grille avec une série de chiffres (ou de lettres ou de symboles) tous différents, qui ne se trouvent jamais plus d&#039;une fois sur une même ligne, dans une même colonne ou dans une même sous-gri",
+          "titre": "Acompte d’impôt sur les intérêts: qui peut demander une dispense avant le 30 nov",
+          "analyse": "Les épargnants faiblement imposés peuvent éviter l&#039;avance d&#039;impôt sur les intérêts de leurs placements en sollicitant une dispense auprès de leur banque. Soumise à des conditions de revenus, la démarche doit être effectuée avant le 30 novembre.",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/jeux/jeux-en-ligne/sudoku/force-3/sudoku-gratuits-force-3-21-novembre-2026-grille-1537",
+          "url": "https://www.notretemps.com/droit-argent/impots/acompte-dimpot-sur-les-interets-qui-peut-demander-une-dispense-avant-le-30-novembre-141608",
           "niveau": "moyen"
         }
       ]
@@ -264,59 +250,24 @@
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "DEUTSCHE TELEKOM investit 100 millions d'euros dans MISTRAL et vise l’industrie ",
-          "analyse": "DEUTSCHE TELEKOM investit 100 millions d'euros dans MISTRAL et vise l’industrie allemande",
-          "source": "FRENCHWEB.FR — Tech, innovation et économie numérique",
-          "url": "https://www.frenchweb.fr/breaking-news/deutsche-telekom-investit-100-millions-d-euros-dans-mistral-et-vise-l-industrie-allemande/71be0e22-73c5-4208-b9ec-90033141d1cb?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=breaking_news",
+          "titre": "Les clients du Crédit Mutuel et du CIC vont payer plus cher pour avoir un compte",
+          "analyse": "Plus de 19 millions de clients ayant un compte en banque au Crédit mutuel ou au CIC vont subir une hausse de leurs frais bancaires à partir du 1ᵉʳ janvier 2027.",
+          "source": "JDN : Derniers contenus",
+          "url": "https://www.journaldunet.com/patrimoine/finances-personnelles/1558321-hf1-cic-credit-mutuel-hausse-frais/",
           "niveau": "moyen"
         },
         {
-          "titre": "Les quatre clauses qui rendent une entreprise propriétaire de son logiciel métie",
-          "analyse": "La propriété d'un logiciel développé pour l'entreprise se règle dans le contrat. Cession des droits, évolutions, briques réutilisées et accès décident de sa liberté de le faire évoluer.",
+          "titre": "Une nouvelle forme de pollution s'apprête à faire des ravages au fond des mers e",
+          "analyse": "De petites taches colorées découvertes sur des plages japonaises révèlent une pollution capable de repartir en mer et de laisser une trace durable.",
           "source": "JDN : Derniers contenus",
-          "url": "https://www.journaldunet.com/management/direction-generale/1558119-la-propriete-du-code-clause-oubliee-des-contrats-de-developpement-web/",
+          "url": "https://www.journaldunet.com/magazine/1557601-corail-mort/",
           "niveau": "moyen"
         },
         {
-          "titre": "Les personnes nées après 1997 sont de moins en moins intelligentes et la raison ",
-          "analyse": "Lire un texte, retenir un cours, rester concentré : ces gestes sont au cœur d'un débat sur les jeunes. Les écrans en classe sont mis en cause.",
-          "source": "JDN : Derniers contenus",
-          "url": "https://www.journaldunet.com/management/formation/1557979-bp1-generation-z/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Un client escroqué doit désormais être immédiatement remboursé par sa banque, dé",
-          "analyse": "Selon la Banque de France, les conflits entre clients et établissements bancaires se multiplient. Certains clients victimes d'une arnaque bancaire sont indemnisés mais dans d'autres cas les banques refusent de rembourser.",
-          "source": "JDN : Derniers contenus",
-          "url": "https://www.journaldunet.com/patrimoine/finances-personnelles/1558189-hf1-cjue-fraude-banque/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Post-quantique : de l'évaluation de maturité au programme de crypto-agilité",
-          "analyse": "Outils d'éditeurs, indice d'un superviseur : les évaluations de maturité post-quantique se multiplient. Six questions pour les lire, et ce qu'un programme de crypto-agilité doit y ajouter.",
-          "source": "JDN : Derniers contenus",
-          "url": "https://www.journaldunet.com/cybersecurite/1558081-post-quantique-de-l-evaluation-de-maturite-au-programme-de-crypto-agilite/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Pourquoi l'éco-conception web réduit les coûts d'un site et améliore ses convers",
-          "analyse": "Moins de coûts d'hébergement, un site plus rapide qui convertit mieux et un engagement RSE prouvé par la mesure. L'éco-conception web se vérifie sur des indicateurs que toute direction peut suivre.",
-          "source": "JDN : Derniers contenus",
-          "url": "https://www.journaldunet.com/management/direction-generale/1558113-le-poids-d-un-site-web-un-cout-que-les-entreprises-ne-voient-pas/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "NIS2 et loi Résilience : pourquoi attendre est un risque pour les entreprises et",
-          "analyse": "Alors que la transposition de NIS2 franchit une nouvelle étape législative, les entreprises ne doivent pas attendre son adoption définitive pour renforcer leur cybersécurité et leur résilience.",
-          "source": "JDN : Derniers contenus",
-          "url": "https://www.journaldunet.com/cybersecurite/1558041-nis2-et-loi-resilience-pourquoi-attendre-est-un-risque-pour-les-entreprises-et-nos-donnees/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Le DPO, sentinelle juridique de la crise cyber",
-          "analyse": "Qualifier la violation, conseiller dans l'urgence, veiller au respect des délais : le DPO n'a pas le temps d'attendre la fin de la crise.",
-          "source": "JDN : Derniers contenus",
-          "url": "https://www.journaldunet.com/cybersecurite/1558093-le-dpo-sentinelle-juridique-de-la-crise-cyber/",
+          "titre": "Genesis AI propulse les levées de la French Tech à 526 millions d’euros cette se",
+          "analyse": "L’article Genesis AI propulse les levées de la French Tech à 526 millions d’euros cette semaine est apparu en premier sur Maddyness - Le média pour comprendre l&#039;économie de demain.",
+          "source": "Maddyness - Le média pour comprendre l'économie de demain",
+          "url": "https://www.maddyness.com/2026/11/21/genesis-ai-propulse-les-levees-de-la-french-tech-a-526-millions-deuros-cette-semaine/",
           "niveau": "moyen"
         }
       ]
