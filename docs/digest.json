@@ -1,5 +1,5 @@
 {
-  "date_fr": "Tuesday 24 November 2026",
+  "date_fr": "Wednesday 25 November 2026",
   "compte_articles": 250,
   "compte_forts": 0,
   "compte_moyens": 250,
@@ -12,59 +12,59 @@
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "Présidentielle 2027 : Edouard Philippe a voté pour David Lisnard à la présidence",
-          "analyse": "Le candidat Horizons a rapproché au maire de Cannes de vouloir travailler avec la droite et la « droite extrême ». De son côté, le candidat Nouvelle Energie s’est engagé à continuer « à défendre les mairies » s’il était élu à l’Elysée.",
+          "titre": "Donald Trump persiste avec une nouvelle salve de droits de douane, notamment con",
+          "analyse": "L’administration américaine a annoncé, mercredi 25 novembre, la mise en place de nouvelles taxes sur les importations qui affectent 14 partenaires commerciaux des Etats, dont l’Union européenne et la Chine.",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/11/24/edouard-philippe-a-vote-pour-david-lisnard-a-la-presidence-de-l-amf-mais-fustige-sa-posture-dans-la-course-a-l-elysee_6814832_6205049.html",
+          "url": "https://www.lemonde.fr/economie/article/2026/11/25/donald-trump-persiste-avec-une-nouvelle-salve-de-droits-de-douane-malgre-la-claque-electorale_6815108_3234.html",
           "niveau": "moyen"
         },
         {
-          "titre": "Derrière l’affaire Nvidia, un vaste réseau de détournement de puces d’IA au serv",
-          "analyse": "Alors que Jensen Huang a repris la tête du géant des processeurs américain, lundi 23 novembre, la presse financière mondiale retrace les méthodes qui ont permis d’expédier les puces vers le territoire chinois, malgré les restrictions des Etats-Unis.",
+          "titre": "EN DIRECT, congrès des maires 2026 : Gabriel Attal espère que la réunion des can",
+          "analyse": "Le président du Sénat doit réunir, probablement la semaine prochaine, les prétendants à l’Elysée de la droite et du centre pour se mettre d’accord sur une « méthode de départage », alors que David Lisnard, candidat libéral, ne cesse de monter dans les sondages.",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/24/derriere-l-affaire-nvidia-un-vaste-reseau-de-detournement-de-puces-d-ia-au-service-de-la-chine_6814811_3234.html",
+          "url": "https://www.lemonde.fr/politique/live/2026/11/25/en-direct-congres-des-maires-2026-au-quotidien-on-constate-de-plus-en-plus-une-solitude-des-communes_6815062_823448.html",
           "niveau": "moyen"
         },
         {
-          "titre": "Nicolas Sarkozy, Carla Bruni et Mimi Marchand renvoyés devant le tribunal dans l",
-          "analyse": "L’ancien chef de l’Etat comparaîtra fin 2027 devant les juges pour « participation à association de malfaiteurs en vue de commettre une escroquerie en bande organisée » et « recel de subornation de témoin ». Les juges le soupçonnent d’avoir participé à la rétractation impromptue et médiatisée de l’u",
+          "titre": "En France, une sécheresse persistante malgré les pluies d’automne et des zones i",
+          "analyse": "Alors que la sécheresse des sols s’estompe progressivement à travers le pays, les réserves en eau de nombreux bassins versants sont encore très faibles. Malgré des intempéries sur certains secteurs, la recharge des nappes souterraines est à peine entamée.",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/societe/article/2026/11/24/nicolas-sarkozy-carla-bruni-et-mimi-marchand-renvoyes-devant-le-tribunal-dans-l-affaire-de-la-fausse-retractation-de-l-homme-d-affaires-ziad-takieddine_6814770_3224.html",
+          "url": "https://www.lemonde.fr/planete/article/2026/11/25/en-france-une-secheresse-persistante-malgre-les-pluies-d-automne-et-des-zones-inondees_6815147_3244.html",
           "niveau": "moyen"
         },
         {
-          "titre": "La difficile quête de souveraineté de la filière drones, dépendante de composant",
-          "analyse": "Moteurs, batteries, hélices… De nombreux appareils, y compris destinés à des usages militaires, ne peuvent pas voler sans ces pièces produites en Chine. Les industriels cherchent à développer une filière européenne pour viser l’indépendance.",
+          "titre": "En Ukraine, Kiev songe à se doter d’un tunnel sous le Dniepr alors que les frapp",
+          "analyse": "Sous le feu incessant des drones et des missiles russes, la vulnérabilité des ponts du Dniepr fait courir le risque d’un pays coupé en deux. Pour contrer cette menace, un vif débat oppose les partisans d’un tunnel sous le fleuve à ceux qui jugent le chantier bien trop long à mener en temps de guerre",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/economie/article/2026/11/24/la-difficile-quete-de-souverainete-de-la-filiere-drones-dependante-de-composants-critiques-chinois_6814731_3234.html",
+          "url": "https://www.lemonde.fr/international/article/2026/11/25/en-ukraine-face-a-la-multiplication-des-frappes-russes-sur-les-ponts-kiev-songe-a-se-doter-d-un-tunnel-sous-le-dniepr_6815113_3210.html",
           "niveau": "moyen"
         },
         {
-          "titre": "Hackers et médias révèlent ce que le Kremlin voulait cacher : le bilan de 500 00",
-          "analyse": "Depuis que les troupes russes ont envahi l’Ukraine en février 2022, Vladimir Poutine a empêché la publication des chiffres de décès. Mais des hackers ont piraté les registres de l’agence de statistiques. Et des médias en exil ont passé au crible les données. Le décompte dépasserait les 700 000 morts",
+          "titre": "« De rencontre en rencontre, le pas de Donald Trump se règle de plus en plus sur",
+          "analyse": "La détente sino-américaine aurait-elle tourné à l’avantage de Pékin ? De fait, tout le paradoxe du président américain réside dans une réalité opposant le désordre qui affaiblit sa présidence à la stabilité incarnée par son homologue chinois, estime Gilles Paris, éditorialiste au « Monde », dans sa ",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/24/hackers-et-medias-revelent-ce-que-le-kremlin-voulait-cacher-le-bilan-de-500-000-morts-au-moins-sur-le-front-ukrainien_6814823_3210.html",
+          "url": "https://www.lemonde.fr/idees/article/2026/11/25/de-rencontre-en-rencontre-le-pas-de-donald-trump-se-regle-de-plus-en-plus-sur-celui-de-xi-jinping_6815115_3232.html",
           "niveau": "moyen"
         },
         {
-          "titre": "« Paper Tiger » : le cinéaste James Gray livre le récit captivant d’une lente di",
-          "analyse": "Le nouveau film du réalisateur américain, présenté en compétition à Cannes et inspiré de sa propre jeunesse, est servi par un formidable trio d’acteurs, Scarlett Johansson, Adam Driver et Miles Teller.",
+          "titre": "Le folk baroque de la chanteuse Rosemary Standley et du flûtiste François Lazare",
+          "analyse": "La voix du groupe Moriarty et le fondateur des Musiciens de Saint-Julien s’associent pour « Songs from the North Country », une relecture originale des ballades traditionnelles du nord des îles Britanniques.",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/culture/article/2026/11/24/paper-tiger-le-cineaste-james-gray-livre-le-recit-captivant-d-une-lente-dislocation-familiale_6814821_3246.html",
+          "url": "https://www.lemonde.fr/culture/article/2026/11/25/le-folk-baroque-de-la-chanteuse-rosemary-standley-et-du-flutiste-francois-lazarevitch_6815140_3246.html",
           "niveau": "moyen"
         },
         {
-          "titre": "En Colombie, prise d’otages lors du braquage d’un supermarché à Carthagène, au l",
-          "analyse": "Cette attaque intervient le jour du dixième anniversaire d’un accord de paix historique entre l’Etat colombien et la guérilla des Forces armées révolutionnaires de Colombie.",
+          "titre": "Patrick Bruel visé par une nouvelle plainte pour viol",
+          "analyse": "Depuis sa mise en examen, au moins neuf plaintes ont été déposées contre lui pour des faits de viol, tentative de viol, agression sexuelle et d’exhibition sexuelle.",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/international/article/2026/11/24/en-colombie-prise-d-otages-lors-du-braquage-d-un-supermarche-a-carthagene-au-lendemain-d-un-attentat-a-la-voiture-piegee-a-villavicencio_6814815_3211.html",
+          "url": "https://www.lemonde.fr/societe/article/2026/11/25/patrick-bruel-vise-par-une-nouvelle-plainte-pour-viol_6815101_3224.html",
           "niveau": "moyen"
         },
         {
-          "titre": "Fuites du ministère de l’intérieur vers le RN : Laurent Nuñez dit avoir proposé ",
-          "analyse": "L’ancien haut fonctionnaire du ministère de l’intérieur est soupçonné d’avoir joué un rôle dans la transmission au Rassemblement national d’informations confidentielles sur les enquêtes visant le parti.",
+          "titre": "La sonde Hera révèle un cratère géant sur Dimorphos, le petit astéroïde dévié pa",
+          "analyse": "Quatre ans après l’impact créé par la mission américaine, la sonde européenne est arrivée sur place pour enquêter sur les résultats du test de déviation du petit astéroïde.",
           "source": "Le Monde.fr - Actualités et Infos en France et dans le monde",
-          "url": "https://www.lemonde.fr/politique/article/2026/11/24/fuites-du-ministere-de-l-interieur-vers-le-rn-laurent-nunez-dit-avoir-propose-un-successeur-au-prefet-hugues-moutouh_6814801_823448.html",
+          "url": "https://www.lemonde.fr/sciences/article/2026/11/25/la-sonde-hera-revele-un-cratere-geant-sur-dimorphos-le-petit-asteroide-devie-par-la-mission-dart_6815154_1650684.html",
           "niveau": "moyen"
         }
       ]
@@ -75,73 +75,59 @@
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do s",
-          "analyse": "“My wife stopped working outside the home in 1970.”",
-          "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
+          "titre": "Copper shows how AI is messing with markets",
+          "analyse": "The pitfalls of being a proxy bet for a technological revolution",
+          "source": "Finance & economics",
+          "url": "https://www.economist.com/finance-and-economics/2026/11/24/copper-shows-how-ai-is-messing-with-markets",
           "niveau": "moyen"
         },
         {
-          "titre": "The wealthiest 10% of Americans are pulling ahead of everyone else. This is what",
-          "analyse": "The wealthiest 10% have a median net worth that is $800,000 greater than it was three years ago.",
-          "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/the-wealthiest-10-of-americans-are-pulling-ahead-of-everyone-else-this-is-whats-making-them-richer-bd83c2f6?mod=mw_rss_topstories",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "A 66-year-old nurse is facing down retirement with just $500 saved. Who’s to bla",
-          "analyse": "“Retirement is a financial status, not an age.”",
-          "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/a-66-year-old-nurse-faces-retirement-with-just-500-saved-whos-to-blame-4249a0fd?mod=mw_rss_topstories",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "The AI debt market isn’t convinced the worst is over for investors",
-          "analyse": "Stocks rebounded on Monday, but credit markets remain cautious.",
-          "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/the-ai-debt-market-isnt-convinced-the-worst-is-over-for-investors-c70eaede?mod=mw_rss_topstories",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "My husband secretly sends his ex-wife $1,500 a month after she lost her job. We ",
-          "analyse": "“He explained that he wasn’t trying to hide the payment, but his former wife lost her job in a medical billing company.”",
-          "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/my-husband-secretly-sends-his-ex-wife-1-500-a-month-after-she-lost-her-job-we-have-2-4-million-saved-has-he-lied-by-omission-ede1972a?mod=mw_rss_topstories",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Americans don’t like Trump’s tariffs. He’s doubling down anyway — as soon as thi",
-          "analyse": "The move risks new trade friction, but spares already imported holiday goods.",
-          "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/americans-dont-like-trumps-tariffs-hes-doubling-down-anyway-as-soon-as-this-week-74c8bed5?mod=mw_rss_topstories",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "HPE just posted its strongest growth ever — but its stock is sinking",
-          "analyse": "HPE boosted its financial forecast on Monday in the face of strong AI demand.",
-          "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/hpe-just-posted-its-strongest-growth-ever-and-its-stock-is-tacking-on-more-big-gains-4421cebb?mod=mw_rss_topstories",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Coming next year: Medicare Advantage plans without drug coverage for almost 640,",
-          "analyse": "Medicare Advantage is starting to lose its all-in-one benefit.",
-          "source": "MarketWatch.com - Top Stories",
-          "url": "https://www.marketwatch.com/story/coming-next-year-medicare-advantage-plans-without-drug-coverage-for-almost-640-000-people-and-fewer-choices-for-the-rest-25242d69?mod=mw_rss_topstories",
-          "niveau": "moyen"
-        }
-      ]
-    },
-    {
-      "titre": "Marches financiers",
-      "icone": "🏛️",
-      "niveau_global": "moyen",
-      "items": [
-        {
-          "titre": "Boris Vujčić: Resilience in an age of shocks: lessons from central and eastern E",
+          "titre": "Iraq’s top court says Baghdad can deploy troops to secure borders in Kurdistan r",
           "analyse": "",
-          "source": "ECB - European Central Bank",
-          "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261124~17928e5456.en.html",
+          "source": "All News",
+          "url": "https://www.investing.com/news/commodities-news/iraqs-top-court-says-baghdad-can-deploy-troops-to-secure-borders-in-kurdistan-region-state-tv-reports-5050621",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "PetVivo Holdings reduces workforce to lower operating costs",
+          "analyse": "",
+          "source": "All News",
+          "url": "https://www.investing.com/news/sec-filings/petvivo-holdings-reduces-workforce-to-lower-operating-costs-93CH-5051288",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "US proposes surprise new tariffs on Brazil imports, including 10% duty on aircra",
+          "analyse": "",
+          "source": "All News",
+          "url": "https://www.investing.com/news/commodities-news/us-proposes-higher-tariffs-on-brazil-imports-including-10-duty-on-aircraft-5050713",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Earnings call transcript: Grupo Financiero Galicia misses Q3 2026 EPS",
+          "analyse": "",
+          "source": "All News",
+          "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-grupo-financiero-galicia-misses-q3-2026-eps-93CH-5051285",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Dollar firms after hot core inflation boosts rate hike bets",
+          "analyse": "",
+          "source": "Forex News",
+          "url": "https://www.investing.com/news/forex-news/asia-fx-weakens-as-dollar-firms-on-tariff-risks-aussie-hits-11month-low-5049767",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Sterling today: Pound slips as risk unwind lifts dollar before PCE data",
+          "analyse": "",
+          "source": "Forex News",
+          "url": "https://www.investing.com/news/forex-news/sterling-today-pound-falls-as-risk-unwind-sends-funds-back-to-dollar-5050111",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Swiss franc safe-haven demand and USD/CHF technical outlook",
+          "analyse": "",
+          "source": "Forex News",
+          "url": "https://www.investing.com/news/forex-news/swiss-franc-safehaven-demand-and-usdchf-technical-outlook-93CH-5050525",
           "niveau": "moyen"
         }
       ]
@@ -152,59 +138,59 @@
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "Euryale : deux nominations pour accélérer son développement",
-          "analyse": "Euryale nomme Paul Darribère et Guillaume Tessler pour renforcer sa direction et poursuivre son développement dans l’immobilier de santé.",
+          "titre": "La SCPI PPG PremEurope réalise sa 3e acquisition, à Herne en Allemagne",
+          "analyse": "Comment PPG PremEurope s’implante-t-elle en Allemagne ? Les données de l’actif de Herne éclairent cette troisième acquisition.",
           "source": "MeilleureSCPI.com",
-          "url": "https://www.meilleurescpi.com/actualites/euryale-deux-nominations-pour-accelerer-son-developpement/",
+          "url": "https://www.meilleurescpi.com/actualites/ppg-premeurope-signe-sa-3e-acquisition-avec-un-commerce-en-allemagne/",
           "niveau": "moyen"
         },
         {
-          "titre": "Iroko Zen : Citizen acquis pour 94 M€, soit 45 % de moins qu’en 2019",
-          "analyse": "Découvrez l'acquisition de Citizen par la SCPI Iroko Zen pour 94 M€ à Bois-Colombes, soit 45 % de moins que son prix de vente en 2019.",
+          "titre": "La SCPI Comète acquiert un immeuble de bureaux de 6 373 m² à Bristol",
+          "analyse": "La SCPI Comète acquiert à Bristol un immeuble de bureaux de 6 373 m², intégralement loué à deux entreprises et classé EPC B.",
           "source": "MeilleureSCPI.com",
-          "url": "https://www.meilleurescpi.com/actualites/iroko-zen-citizen-acquis-pour-94-meur-soit-45-de-moins-qu-en/",
+          "url": "https://www.meilleurescpi.com/actualites/la-scpi-comete-acquiert-un-immeuble-de-bureaux-de-6-373-m2-a-bristol/",
           "niveau": "moyen"
         },
         {
-          "titre": "SCPI Reason : direction le Royaume-Uni pour sa 19e acquisition",
-          "analyse": "Que recouvre la 19e acquisition de la SCPI Reason au Royaume-Uni ? L’actif logistique, son bail et ses travaux éclairent les enjeux de l’opération.",
+          "titre": "AEW Diversification Allemagne acquiert un hôtel de 5 060 m² à Dresde",
+          "analyse": "La SCPI AEW Diversification Allemagne acquiert son premier hôtel à Dresde : un établissement quatre étoiles de 5 060 m² comprenant 132 chambres.",
           "source": "MeilleureSCPI.com",
-          "url": "https://www.meilleurescpi.com/actualites/scpi-reason-direction-le-royaume-uni-pour-sa-19e-acquisition/",
+          "url": "https://www.meilleurescpi.com/actualites/aew-diversification-allemagne-acquiert-un-hotel-de-5-060-m2-a-dresde/",
           "niveau": "moyen"
         },
         {
           "titre": "Thermostat de la BCE et baromètre de l’OAT : les 2 cadrans de la maison euro…",
           "analyse": "Lorsqu’il fait froid dans le salon, accuse-t-on le baromètre extérieur ou celui qui règle le niveau du chauffage ? En matière de taux d’intérêt, la maison euro connait le même paradoxe. La Banque centrale est là pour doser le thermostat. Mais le baromètre des taux longs échappe à son contrôle. En Fr",
           "source": "Pierrepapier.fr",
-          "url": "https://www.pierrepapier.fr/economie/thermostat-de-la-bce-et-barometre-oat-les-2-cadrans-de-la-maison-euro/",
+          "url": "https://pierrepapier.fr/economie/thermostat-de-la-bce-et-barometre-oat-les-2-cadrans-de-la-maison-euro/",
           "niveau": "moyen"
         },
         {
-          "titre": "La SCPI Principal Inside publie son bulletin pour le 3T 2026",
-          "analyse": "La SCPI Principal Inside, gérée par Principal Asset Management, publie son Bulletin Trimestriel du 3ème trimestre 2026. Elle acquiert un premier actif à Charlotte aux États-Unis, affiche des taux d&#8217;occupation de 100 % et distribue 4,14 € brut par part. Collecte et marché des parts La SCPI a en",
-          "source": "Pierrepapier.fr",
-          "url": "https://www.pierrepapier.fr/bulletin/la-scpi-principal-inside-publie-son-bulletin-pour-le-3t-2026/",
-          "niveau": "moyen"
-        },
-        {
-          "titre": "Immobilier : Le projet de loi logement adopté, l’interdiction de louer les passo",
-          "analyse": "362 voix pour, 118 contre : le projet de loi logement passe l'épreuve de l'Assemblée. Mais l'amendement RN sur les passoires thermiques pourrait encore disparaître en commission mixte paritaire.\nCet article Immobilier : Le projet de loi logement adopté, l&rsquo;interdiction de louer les passoires th",
+          "titre": "Passoires thermiques : « Le gouvernement ne portera pas la suppression » de l’in",
+          "analyse": "Fin de l’interdiction de louer les passoires thermiques ? Vincent Jeanbrun s’y oppose. Le ministre du Logement compte sur la commission mixte paritaire du 2 décembre pour revoir le texte voté par les députés.\nCet article Passoires thermiques : « Le gouvernement ne portera pas la suppression » de l’i",
           "source": "MySweetImmo",
-          "url": "https://www.mysweetimmo.com/2026/11/24/loi-logement-adoptee-assemblee-dpe/",
+          "url": "https://www.mysweetimmo.com/2026/11/25/passoires-thermiques-jeanbrun-interdiction-louer/",
           "niveau": "moyen"
         },
         {
-          "titre": "Immobilier à Paris : Les prix baissent, combien vaut le mètre carré dans votre a",
-          "analyse": "À Paris, les beaux quartiers ne sont plus à l’abri de la baisse des prix immobiliers. Le 8e arrondissement perd 6,8 % en un an, tandis que le 5e gagne 3,4 %. Combien vaut désormais le mètre carré dans votre arrondissement ?\nCet article Immobilier à Paris : Les prix baissent, combien vaut le mètre ca",
+          "titre": "RENT 2026 : « Il va y avoir du tri dans les agences immobilières », David Dos Re",
+          "analyse": "Les agences immobilières vont-elles connaître le sort des taxis face à Uber ? Au micro de Baptiste Julien Blandet pour Mon Podcast Immo, David Dos Reis (DDR Immobilier) annonce un tri dans la profession. Et livre sa parade.\nCet article RENT 2026 : « Il va y avoir du tri dans les agences immobilières",
           "source": "MySweetImmo",
-          "url": "https://www.mysweetimmo.com/2026/11/24/prix-immobilier-paris-arrondissements-t3-2026/",
+          "url": "https://www.mysweetimmo.com/2026/11/25/uberisation-immobilier-agences-david-dos-reis/",
           "niveau": "moyen"
         },
         {
-          "titre": "Webinaire mandat immobilier : 5 erreurs qui coûtent la commission",
-          "analyse": "Un mandat mal signé peut vous coûter toute une commission. Le 3 décembre à 12 h, Expertimo vous donne rendez-vous avec Maître Cyril Sabatié pour sécuriser vos honoraires.\nCet article Webinaire mandat immobilier : 5 erreurs qui coûtent la commission est apparu en premier sur MySweetImmo.",
+          "titre": "Immobilier : Qui sont ces acheteurs qui dépensent plus de 3 millions à Paris ?",
+          "analyse": "À Paris, près d’une vente sur trois au-delà de 3 millions d’euros est réalisée par un acheteur vivant à l’étranger. Américains, Français expatriés, Libanais… L’étude Wüest Partner pour Engel &#038; Völkers France révèle leur profil.\nCet article Immobilier : Qui sont ces acheteurs qui dépensent plus ",
           "source": "MySweetImmo",
-          "url": "https://www.mysweetimmo.com/2026/11/24/mandat-immobilier-securiser-honoraires-expertimo/",
+          "url": "https://www.mysweetimmo.com/2026/11/25/immobilier-paris-qui-achete-les-biens-a-plus-de-3-millions-deuros/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Immobilier : Les prix baissent en France, mais acheter coûte-t-il vraiment moins",
+          "analyse": "Les prix immobiliers baissent de 1,2 % en France, selon les indices Notaires-Insee. Mais les taux de crédit repartent à la hausse. Les acheteurs y gagnent-ils vraiment ?\nCet article Immobilier : Les prix baissent en France, mais acheter coûte-t-il vraiment moins cher ? est apparu en premier sur MySw",
+          "source": "MySweetImmo",
+          "url": "https://www.mysweetimmo.com/2026/11/25/prix-immobilier-france-baisse-taux-credit-2026/",
           "niveau": "moyen"
         }
       ]
@@ -215,59 +201,213 @@
       "niveau_global": "moyen",
       "items": [
         {
-          "titre": "Stellantis stoppe l'équipe de nuit à Sochaux, 500 emplois concernés",
-          "analyse": "L&#039;usine Stellantis de Sochaux (Doubs), berceau de la marque Peugeot, va arrêter l&#039;activité de son équipe de nuit à partir du mois de janvier, privant de travail quelque 500 personnes, a...",
+          "titre": "Cyberattaques et fuites de données : une commission d'enquête bientôt lancée au ",
+          "analyse": "Une commission d&#039;enquête sur les cyberattaques va être lancée au Sénat dans les prochains jours, avec l&#039;objectif d&#039;aboutir à des propositions pour contrer les \"fuites de données\" portant...",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/depeches/stellantis-stoppe-l-equipe-de-nuit-a-sochaux-500-emplois-concernes-141766",
+          "url": "https://www.notretemps.com/depeches/cyberattaques-et-fuites-de-donnees-une-commission-d-enquete-bientot-lancee-au-senat-142281",
           "niveau": "moyen"
         },
         {
-          "titre": "La guerre bouleverse l'économie de la mer",
-          "analyse": "Souveraineté maritime, sécurité des routes commerciales, réarmement naval: les tensions géopolitiques, notamment le conflit au Moyen-Orient ou celui en Ukraine, sont au cœur des discussions des vingt...",
+          "titre": "Réversion: voici pourquoi votre pension pourrait augmenter en 2027",
+          "analyse": "La hausse du Smic de 1,6%, effective au 1er décembre va avoir un effet sur la pension de réversion en 2027. En effet, le plafond de ressources pour y avoir droit est lié au montant du Smic: il sera donc relevé, ce qui permettra à certains conjoints survivant d&#039;obtenir cette allocation, voire de",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/depeches/la-guerre-bouleverse-l-economie-de-la-mer-141765",
+          "url": "https://www.notretemps.com/retraite/comprendre/pension-de-reversion-une-bonne-nouvelle-pour-2027-141787",
           "niveau": "moyen"
         },
         {
-          "titre": "Le Congrès des maires s'ouvre sur fond de bataille pour l'Elysée",
-          "analyse": "Le 108e Congrès des maires de France s&#039;est ouvert mardi à Paris sur fond de course à la présidentielle et de polémique autour de la double candidature du libéral David Lisnard, président de l&#039;Associat...",
+          "titre": "Drogues: un nouveau semi-sumersible intercepté dans l'Atlantique, deux personnes",
+          "analyse": "Un semi-submersible \"suspecté de se livrer au trafic de stupéfiants\" a été intercepté 17 novembre dans l&#039;océan Atlantique, cinq jours après l&#039;interception d&#039;une embarcation similaire qui contenait plu...",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/depeches/le-congres-des-maires-s-ouvre-sur-fond-de-bataille-pour-l-elysee-141719",
+          "url": "https://www.notretemps.com/depeches/drogues-un-nouveau-semi-sumersible-intercepte-dans-l-atlantique-deux-personnes-en-garde-a-vue-142064",
           "niveau": "moyen"
         },
         {
-          "titre": "Fausse rétractation de Takieddine : Nicolas Sarkozy et Carla Bruni renvoyés en p",
-          "analyse": "Un nouveau procès pour Nicolas Sarkozy : l&#039;ex-président de la République, son épouse Carla Bruni-Sarkozy et la \"papesse des paparazzis\" \"Mimi\" Marchand seront jugés en 2027 dans l&#039;affaire de la rétrac...",
+          "titre": "3114: un appel qui peut sauver une vie",
+          "analyse": "Lancé en 2021, le 3114 est le numéro national de prévention du suicide. Aujourd&#039;hui, près de 2 000 appels sont reçus chaque jour dans les 18 centres de réponse répartis sur le territoire. Comment se déroule un appel? Quels signes doivent alerter? Comment en parler? Le psychiatre Axel Bastien et",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/depeches/fausse-retractation-de-takieddine-nicolas-sarkozy-et-carla-bruni-renvoyes-en-proces-141763",
+          "url": "https://www.notretemps.com/sante-bien-etre/psychologie/3114-un-appel-qui-peut-sauver-une-vie-141668",
           "niveau": "moyen"
         },
         {
-          "titre": "Guyane : Ariane 6 réussit son dixième vol en déployant 36 satellites Amazon Leo",
-          "analyse": "Le lanceur lourd européen Ariane 6 a placé mardi en orbite basse 36 satellites supplémentaires depuis le port spatial de Kourou, en Guyane française, au profit du réseau internet Amazon...",
+          "titre": "Vigilance orange sur le Sud-Est : reprise attendue des pluies après une accalmie",
+          "analyse": "Les fortes précipitations qui se sont abattues dans la nuit de mardi à mercredi sur le Var et, dans une moindre mesure, les Alpes-Maritimes ont connu une accalmie à la mi-journée, avant...",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/depeches/guyane-ariane-6-reussit-son-dixieme-vol-en-deployant-36-satellites-amazon-leo-141760",
+          "url": "https://www.notretemps.com/depeches/vigilance-orange-sur-le-sud-est-reprise-attendue-des-pluies-apres-une-accalmie-141796",
           "niveau": "moyen"
         },
         {
-          "titre": "Loi soins palliatifs : les décrets d'application \"d'ici la fin de l'année\", selo",
-          "analyse": "La loi renforçant l&#039;accès aux soins palliatifs, l&#039;un des deux textes composant la réforme de la fin de vie, reste en attente de ses textes d&#039;application, mais \"l&#039;ensemble des décrets dev...",
+          "titre": "Enquête RN: Moutouh officiellement démis de ses fonctions, remplacé par le préfe",
+          "analyse": "Hugues Moutouh, préfet de la région Centre-Val-de-Loire, préfet du Loiret a été démis mercredi officiellement de ses fonctions en Conseil des ministres et remplacé par Pierre Ory, actuel préfet de Sei...",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/depeches/loi-soins-palliatifs-les-decrets-d-application-d-ici-la-fin-de-l-annee-selon-stephanie-rist-141758",
+          "url": "https://www.notretemps.com/depeches/enquete-rn-moutouh-officiellement-demis-de-ses-fonctions-remplace-par-le-prefet-pierre-ory-141789",
           "niveau": "moyen"
         },
         {
-          "titre": "Loi soins palliatifs : les décrets d'application \"d'ici la fin de l'année\", selo",
-          "analyse": "La loi renforçant l&#039;accès aux soins palliatifs, l&#039;un des deux textes composant la réforme de la fin de vie, reste en attente de ses textes d&#039;application, mais \"l&#039;ensemble des décrets devrait être prêt...",
+          "titre": "David Lisnard, le maire libéral qui aspire à devenir un \"président punk\"",
+          "analyse": "Il se dit convaincu que le \"prochain président sera punk\" : fan du groupe The Clash, le maire de Cannes David Lisnard, reconduit mercredi à la tête de l&#039;influente AMF, s’affiche en candidat libéral et...",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/depeches/loi-soins-palliatifs-les-decrets-d-application-d-ici-la-fin-de-l-annee-selon-stephanie-rist-141757",
+          "url": "https://www.notretemps.com/depeches/david-lisnard-le-maire-liberal-qui-aspire-a-devenir-un-president-punk-141794",
           "niveau": "moyen"
         },
         {
-          "titre": "Retraites: départ à 65 ans, pension moins revalorisée, carrières longues… Ce que",
-          "analyse": "Dans une note publiée lundi, la Cour des comptes s&#039;alarme de nouveau de la situation financière du système des retraites et liste plusieurs propositions pour le réformer, parmi lesquelles allonger la durée de cotisation et réduire le nombre de départs anticipés.",
+          "titre": "Lisnard largement réélu à la tête de l’Association des maires de France",
+          "analyse": "Le maire de Cannes David Lisnard a largement obtenu mercredi un troisième mandat à la tête de l&#039;influente Association des maires de France (AMF), un succès qu&#039;il espère transformer en marchepied pour...",
           "source": "notretemps.com",
-          "url": "https://www.notretemps.com/retraite/comprendre/retraites-depart-a-65-ans-pension-moins-revalorisee-carrieres-longues-ce-que-propose-la-cour-des-comptes-141731",
+          "url": "https://www.notretemps.com/depeches/lisnard-largement-reelu-a-la-tete-de-lassociation-des-maires-de-france-141776",
+          "niveau": "moyen"
+        }
+      ]
+    },
+    {
+      "titre": "Finance_Pro",
+      "icone": "📰",
+      "niveau_global": "moyen",
+      "items": [
+        {
+          "titre": "DeFi lending : Wall Street entre dans la salle des machines",
+          "analyse": "Ce n&rsquo;est plus un pari spéculatif. Le lending décentralisé est devenu en 2026 une infrastructure de crédit utilisée par des acteurs financiers régulés. Sans bruit, sans keynote, avec des chiffres.\nLes protocoles qui ont tenu\nLa concentration du marché DeFi lending autour de trois protocoles — A",
+          "source": "Finyear",
+          "url": "https://finyear.com/defi-lending-wall-street-entre-dans-la-salle-des-machines/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Private equity 2026 : volumes en recul, valeur en hausse, le secondaire devient ",
+          "analyse": "Le marché du private equity traverse en 2026 une phase que les professionnels n&rsquo;avaient pas connue depuis 2013 : les volumes de transactions reculent, mais les valorisations, elles, montent. Ce décrochage entre activité et pricing redessine les stratégies des gérants et des LPs.\nUn marché à de",
+          "source": "Finyear",
+          "url": "https://finyear.com/private-equity-2026-volumes-en-recul-valeur-en-hausse-le-secondaire-devient-la-norme/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Le CFO augmenté : quand l’IA transforme la direction financière",
+          "analyse": "L&rsquo;enthousiasme est là. Les résultats, moins. Selon le rapport Bain publié en avril 2026, 56 % des directeurs financiers prévoient d&rsquo;augmenter leur budget IA de plus de 15 % cette année. Pourtant, à peine 31 % se déclarent satisfaits des résultats obtenus. Et seulement 15 à 25 % des expér",
+          "source": "Finyear",
+          "url": "https://finyear.com/le-cfo-augmente-quand-lia-transforme-la-direction-financiere/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "La valorisation : 75 % des CEO la citent comme principal point de friction avec ",
+          "analyse": "Le dossier sans réponse. Ou sans réponse claire. Les CEO interrogés par Aaticka reviennent régulièrement sur cette expérience : devoir continuer à décider quand les signaux sont ambigus, naviguer entre un rendez-vous encourageant qui n&rsquo;est pas un engagement, un préaccord qui n&rsquo;est pas un",
+          "source": "Finyear",
+          "url": "https://finyear.com/la-valorisation-75-des-ceo-la-citent-comme-principal-point-de-friction-avec-les-vc/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "75 % des CEO ont vu leur sommeil se dégrader pendant leur levée de fonds, 44 % d",
+          "analyse": "Il existe une fatigue particulière dans une levée de fonds : celle qui ne disparaît pas lorsqu&rsquo;on ferme son ordinateur. Une remarque d&rsquo;investisseur qui reste en tête pendant le dîner. Une négociation qui survient pendant les rares week-ends que le fondateur s&rsquo;accorde. Un silence pr",
+          "source": "Finyear",
+          "url": "https://finyear.com/75-des-ceo-ont-vu-leur-sommeil-se-degrader-pendant-leur-levee-de-fonds-44-des-soutiens-familiaux-ont-vecu-un-impact-fort/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "La levée de fonds : un 2e métier pour le CEO, 8 mois en moyenne au lieu de 5",
+          "analyse": "La métaphore revient dans plusieurs témoignages : « C&rsquo;est comme un marathonien à qui on demande de s&rsquo;arrêter prendre une bière en pleine course. » Lever des fonds, c&rsquo;est courir vite et longtemps sans perdre de vue la ligne d&rsquo;arrivée — tout en continuant à délivrer pour ses cl",
+          "source": "Finyear",
+          "url": "https://finyear.com/la-levee-de-fonds-un-2e-metier-pour-le-ceo-8-mois-en-moyenne-au-lieu-de-5/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Levée de fonds : 94 % des CEO y consacrent plus de 20 % de leur temps",
+          "analyse": "Aaticka publie la 1ère édition de Beyond the Raise\nLever des fonds, c&rsquo;est souvent raconté en deux temps : un deck, un closing. Aaticka, cabinet d&rsquo;accompagnement spécialisé dans les levées de fonds en equity de 2 à 10 M€, a voulu documenter ce qu&rsquo;il y a entre les deux. Beyond the Ra",
+          "source": "Finyear",
+          "url": "https://finyear.com/levee-de-fonds-94-des-ceo-y-consacrent-plus-de-20-de-leur-temps/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "3 questions à Louis Thuillez (Aether FS) :  « cela fait quatre trimestres de sui",
+          "analyse": "Aether Financial Services publie cette semaine son indice Unitranche France du troisième trimestre 2026. Interview avec Louis Thuillez, managing director Private debt.",
+          "source": "PE Magazine",
+          "url": "https://www.pemagazine.fr/3-questions-a-louis-thuillez-aether-fs-cela-fait-quatre-trimestres-de-suite-que-le-ticket-moyen-des-unitrancheurs-augmente/",
+          "niveau": "moyen"
+        }
+      ]
+    },
+    {
+      "titre": "ESG",
+      "icone": "🌱",
+      "niveau_global": "moyen",
+      "items": [
+        {
+          "titre": "Omnibus VIII Environnement : les députés européens ouvrent la boîte de Pandore",
+          "analyse": "Un amendement porté par l'extrême-droite et soutenu par les eurodéputés de droite vise à rouvrir les directives Habitats et Oiseaux de l'UE. @CC0\nRetournement de veste au Parlement européen autour de l’omnibus VIII relatif aux procédures d'évaluation environnementale. Le Parti populaire européen (PP",
+          "source": "Novethic",
+          "url": "https://www.novethic.fr/environnement/biodiversite/omnibus-viii-environnement-les-deputes-europeens-ouvrent-la-boite-de-pandore",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Gaza : MBDA, l'armentier d'Airbus, poursuivi pour manquement à son devoir de vig",
+          "analyse": "MBDA assignée en justice pour manquement à son devoir de vigilance à Gaza - Crédit : Tom Nicholson / getty image Europe, via AFP\nNouvelle étape dans la controverse autour de MBDA, entreprise de fabrication d'armement co-détenue par le groupe Airbus. Le fabricant de matériel d'armement, dont Airbus e",
+          "source": "Novethic",
+          "url": "https://www.novethic.fr/economie-et-social/droits-humains/mbda-devoir-vigilance-gaza-assignation-justice",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "CMA CGM abandonne ses objectifs climatiques : le blocage du détroit d'Ormuz fait",
+          "analyse": "CMA CGM, le troisième armateur mondial, a annoncé que \"dans les circonstances actuelles\", il ne parviendrait pas à atteindre les objectifs qu'il s'est fixés d'ici 2050. @Wolfgang Weiser/Pexels\n\"Nous devons être lucides, dans les circonstances actuelles, nous ne parviendrons pas à atteindre nos objec",
+          "source": "Novethic",
+          "url": "https://www.novethic.fr/environnement/climat/cma-cgm-abandonne-ses-objectifs-climatiques-le-blocage-du-detroit-dormuz-fait-sa-premiere-victime-collaterale",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Le gouvernement compte supprimer les contrats d’achat photovoltaïques « S6 » et ",
+          "analyse": "Une proposition radicale. Parce qu’il n’arrive pas juridiquement à modifier les contrats solaires dits «&#160;S6&#160;» et «&#160;S10&#160;», le gouvernement propose désormais de les supprimer. Ces contrats, signés entre 2006 et 2010, garantissent un tarif de vente considéré comme trop élevé par les",
+          "source": "GreenUnivers",
+          "url": "https://www.greenunivers.com/2026/11/le-gouvernement-compte-supprimer-les-contrats-dachat-photovoltaiques-s6-et-s10-439765/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Un acheteur potentiel de Renner Energies se désiste",
+          "analyse": "Après plusieurs mois sur le marché, la vente de Renner Energies par BlackRock était proche\nL’article Un acheteur potentiel de Renner Energies se désiste est apparu en premier sur GreenUnivers.",
+          "source": "GreenUnivers",
+          "url": "https://www.greenunivers.com/2026/11/un-acheteur-potentiel-de-renner-energies-se-desiste-439725/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Appel d’offres « super neutre » : le gouvernement fixe le volume à 1,5 GW",
+          "analyse": "Le gouvernement annonce que l’appel d’offres « super neutre » pour 2027, le seul pour le moment, aura un volume de 1,5 GW. «&#160;C’est un niveau exceptionnel&#160;qui montre la volonté du gouvernement de marquer son attachement à l’exécution de la PPE 3&#160;», assure-t-on à Bercy. Ce niveau était\n",
+          "source": "GreenUnivers",
+          "url": "https://www.greenunivers.com/2026/11/appel-doffres-super-neutre-le-gouvernement-fixe-le-volume-a-15-gw-439724/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Financement participatif : Enerfip propose à ses investisseurs de s’assurer",
+          "analyse": "Le spécialiste du financement participatif de transition énergétique Enerfip lance une offre d&#8217;assurance pour ses investisseurs. Leur capital pourra être remboursé en cas de défaillance des emprunteurs, hors intérêts. La prime payée par les épargnants est calculée en fonction de la notation du",
+          "source": "GreenUnivers",
+          "url": "https://www.greenunivers.com/2026/11/financement-participatif-enerfip-propose-a-ses-investisseurs-de-sassurer-439674/",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Electrification : le gouvernement dévoile son guide pour sortir du gaz",
+          "analyse": "A l’occasion du Salon des maires et des collectivités locales, le gouvernement remet un coup de projecteur sur les 109 territoires d’électrification. Une cérémonie\nL’article Electrification : le gouvernement dévoile son guide pour sortir du gaz est apparu en premier sur GreenUnivers.",
+          "source": "GreenUnivers",
+          "url": "https://www.greenunivers.com/2026/11/electrification-le-gouvernement-devoile-son-guide-pour-sortir-du-gaz-439565/",
+          "niveau": "moyen"
+        }
+      ]
+    },
+    {
+      "titre": "Fintech",
+      "icone": "📰",
+      "niveau_global": "moyen",
+      "items": [
+        {
+          "titre": "Le liquidateur de GOOGLE RUSSIE viserait jusqu’à 1,9 milliard d’euros de créance",
+          "analyse": "Le liquidateur de GOOGLE RUSSIE viserait jusqu’à 1,9 milliard d’euros de créances en France",
+          "source": "FRENCHWEB.FR — Tech, innovation et économie numérique",
+          "url": "https://www.frenchweb.fr/breaking-news/le-liquidateur-de-google-russie-viserait-jusqu-a-1-9-milliard-d-euros-de-creances-en-france/b5c4863a-4b7d-4086-870c-594e8ef09346?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=breaking_news",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "Présidentielle 2027 : FRANCE DIGITALE veut un ministère des Technologies et fair",
+          "analyse": "ECOSYSTEME · La rédaction · 25/11/2026L’association, représentante des fonds d&apos;investissement et startups de la tech soumet 24 propositions aux candidats à l’Élysée. Elle défend un investissement de long terme dans les technologies stratégiques, une préférence européenne dans la commande publiq",
+          "source": "FRENCHWEB.FR — Tech, innovation et économie numérique",
+          "url": "https://www.frenchweb.fr/presidentielle-2027-france-digitale-veut-un-ministere-des-technologies-et-faire-de-l-etat-un-premier-client-des-startups/900000071?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=article",
+          "niveau": "moyen"
+        },
+        {
+          "titre": "DEEMEA en redressement judiciaire, SOFTWAY MEDICAL se porte candidat à la repris",
+          "analyse": "DEEMEA en redressement judiciaire, SOFTWAY MEDICAL se porte candidat à la reprise",
+          "source": "FRENCHWEB.FR — Tech, innovation et économie numérique",
+          "url": "https://www.frenchweb.fr/breaking-news/deemea-en-redressement-judiciaire-softway-medical-se-porte-candidat-a-la-reprise/1a513aa3-77fb-46d1-b76d-9f422c0ff750?utm_source=rss&utm_medium=syndication&utm_campaign=flux_general&utm_content=breaking_news",
           "niveau": "moyen"
         }
       ]
